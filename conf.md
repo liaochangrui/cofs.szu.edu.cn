@@ -1,16 +1,17 @@
 ---
 layout: page
-permalink: /conf/
+permalink: /publications/conf/
 ---
 
 <div class="navbar center">
 <ul>
-    <li><a href="{{ "/journal" | prepend: site.baseurl }}">期刊</a></li>
-    <li class="active"><a href="{{ "/conf" | prepend: site.baseurl }}">会议</a></li>
-    <li><a href="{{ "/patents" | prepend: site.baseurl }}">专利</a></li>
+    <li><a href="{{ "/publications" | prepend: site.baseurl }}">期刊</a></li>
+    <li class="active"><a href="{{ "/conf" | append: "/publications" | prepend: site.baseurl }}">会议</a></li>
+    <li><a href="{{ "/patents" | append: "/publications" | prepend: site.baseurl }}">专利</a></li>
 </ul>
 </div>
 
+<br>
 
 2014
 -------------------------
