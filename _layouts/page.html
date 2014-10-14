@@ -17,7 +17,7 @@ layout: default
     <ul class="slides">
       {% for slides in page.carousel %}
       <li>
-        <img src="{{ slides.image }}">
+        <img src="{{ slides.image | prepend: "/images/" | prepend: site.baseurl }}">
       </li>
       {% endfor %}
     </ul>
