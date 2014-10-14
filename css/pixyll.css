@@ -1,0 +1,480 @@
+@charset "UTF-8";
+/*
+
+  Pixyll
+
+  A simple, beautiful theme for Jekyll that emphasizes content rather than
+  aesthetic fluff.
+
+  Best served with BASSCSS (http://jxnblk.github.io/basscss)
+
+  Crafted with <3 by John Otander (@4lpine) - ©2014 John Otander
+  MIT License http://opensource.org/licenses/MIT
+
+*/
+
+body {
+  font-family: "PT Serif", Georgia, "Times New Roman", "Hiragino Sans GB", "WenQuanYi Micro Hei", serif;
+}
+
+html, body {
+  height: 100%;
+  background-image: url(../images/bkg-page.jpg);
+  background-repeat: repeat;
+  margin: 0px;
+  padding: 0px;
+}
+
+img {
+  width: 100%;
+}
+
+.sec-container {
+  display: table;
+  width: 100%;
+}
+.bio-container {
+  display: table;
+  float: left;
+  height: 140px;
+  width: 44%;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  background-color: #f2f2f2;
+  border-top: 1px solid #e3e3e3;
+  border-bottom: 1px solid #c9c9c9;
+  border-left: 1px solid #dedede;
+  border-right: 1px solid #dedede;
+  border-radius: 6px;
+}
+
+.bio-avatar {
+  float: left;
+  max-width: 140px;
+  max-height: 140px;
+  margin-right: 15px;
+  margin-top: 5px;
+  margin-left: 5px;
+  background-color: #f2f2f2;
+}
+.max-img-border {
+  display: block;
+  max-width: 100%; 
+  max-height: 100%;
+  height: auto;
+  width: auto;
+  vertical-align: middle;
+  overflow: hidden;
+}
+.bio-info {
+  display: inline;
+  font-size: 14px;
+  line-height: 2.3em;
+  font-style: italic;
+}
+.bio-info a {
+  display: inline;
+  text-decoration: none;
+  font-size: 16px;
+  font-style: normal;
+  color: #8c1515;
+}
+
+.bio-important{
+  color: #8c1515;
+}
+
+.member-avatar{
+  width: 15%;
+  float: right;
+  margin: 15px;
+}
+
+.index-left-photos {
+  float: left;
+  display: block;
+  width: 500px;  
+}
+
+.index-left-photos p {  
+  text-align: center;
+}
+
+.index-left-photos img{
+  width: 100%;
+}
+
+.index-right-moto-and-news {
+  display: block;
+  margin-left: 540px;
+  width: 400px;
+}
+
+.buttom-links {
+  color: #333;
+  font-size: 1.2em;
+  font-weight: 400;
+  line-height: 1.8rem;
+}
+
+.buttom-links ul{
+  margin-left: 0px;
+  padding-left: 0px;
+  margin-bottom: 0.2rem;
+  list-style: none;
+  zoom: 1;
+}
+
+.buttom-links ul li {
+  display: inline-block;
+  padding: 5px;
+  margin-right: 5px;
+}
+
+.buttom-links ul a {
+  display: block;
+  color: #444;
+  width: 100%;
+  text-align: center;
+}
+
+.buttom-links ul a:hover {
+  color: #8c1515;
+  opacity: 1;
+}
+
+.site-wrap {
+  min-height: 100%;
+  margin-bottom: -90px;
+} 
+
+.site-wrap:after {
+  content: "";
+  display: block;
+}
+
+.footer, .site-wrap:after {
+  height: 90px;
+}
+
+body {
+  font-size: 1.2rem;
+
+          box-sizing: border-box;
+     -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+.site-header a {
+  color: #333;
+  font-size: 3em;
+  font-weight: 300;
+  line-height: 3.5rem;
+}
+.site-header a.secondary {
+  font-size: 1.2em;
+}
+.site-header a.banner {
+  float: right;
+  width: 112px;
+}
+.site-header a.banner img {
+  padding: 1px;
+}
+
+.site-header nav a {
+  font-size: 1em;
+  line-height: 1.2rem;
+  font-weight: 400;
+  color: #666;
+}
+
+.site-header nav a:hover {
+  color: #444;
+  opacity: 1;
+  border-bottom: 2px solid #8c1515;
+}
+
+.site-header {
+  text-align: center;
+  width: 100%;
+}
+
+.site-header .site-nav {
+  width: 100%;
+  float: left;
+  text-align: center;
+  margin-top: 0.5rem;
+  margin-bottom: 2rem;
+}
+
+.site-header nav.site-nav ul{
+  margin-left: 0px;
+  padding-left: 0px;
+  margin-bottom: 0.2rem;
+  list-style: none;
+  zoom: 1;
+}
+
+.site-header nav.site-nav ul li {
+  display: inline-block;
+  width: 12%;
+  min-width: 90px;
+  max-width: 120px;
+  padding: 5px;
+  margin-right: 5px;
+}
+
+.site-header nav.site-nav ul a {
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+
+.site-header nav.site-nav li.current a{
+  background-color: #8c1515;
+  color: #DADADA;
+}
+
+.site-header a:hover,
+.posts .post a:hover .post-meta,
+.posts .post a:hover .post-title,
+.posts .post a:hover .post-summary {
+  opacity: 0.88;
+}
+
+.posts {
+  margin: 0;
+}
+
+.posts .post {
+  margin-bottom: 4rem;
+  padding-bottom: 2rem;
+  border-bottom: thin solid #f3f3f3;
+}
+
+.posts .post:last-child {
+  border-bottom: none;
+  margin-bottom: 2rem;
+  padding-bottom: 0;
+}
+
+.post-link .post-title {
+  margin-top: 0.25rem;
+  font-weight: 600;
+  color: #333;
+}
+
+.pagination {
+  font-size: 16px;
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  text-align: center;
+}
+
+.pagination a, .pagination .disabled {
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  background: #f7f7f7;
+  border-radius: 0.1875em;
+  border: 1px solid #dddddd;
+  color: #333333;
+  padding: 1rem 1.5rem;
+}
+
+.pagination .disabled {
+  opacity: 0.5;
+}
+
+.pagination a:hover, .pagination a:focus {
+  background: white;
+  color: #8c1515;
+}
+
+.pagination a:active {
+  background: #f7f7f7;
+}
+
+.wrap .measure {
+  margin: 0 auto;
+}
+
+.meta,
+.post-meta {
+  width: auto;
+  font-weight: 300;
+  padding: 0.5rem;
+  color: #7a7a7a;
+  font-style: italic;
+  border-bottom: thin dotted #f3f3f3;
+}
+
+.pagination .button {
+  font-size: 1rem;
+  font-weight: 300;
+  letter-spacing: 1px;
+}
+
+.button-disabled {
+  opacity: 0.55;
+  background-color: #999;
+}
+
+.button-disabled:hover,
+.button-disabled:active,
+.button-disabled:focus {
+  cursor: not-allowed;
+  background-color: #999;
+}
+
+form {
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 1rem;
+}
+
+textarea.input {
+  height: 8rem;
+}
+
+p {
+  font-weight: 300;
+  line-height: 1.5rem;
+  color: #333;
+}
+
+pre, code {
+  font-family: Menlo, Monaco, "Courier New", monospace
+}
+
+code {
+  color: #7a7a7a;
+}
+
+pre {
+  padding: 1rem;
+  font-size: 1.125rem;
+  line-height: 1.25rem;
+  overflow-x: scroll;
+  margin-bottom: 1rem;
+}
+
+.highlight .p {
+  font-size: 1.125rem;
+  line-height: 1.125rem;
+}
+
+blockquote {
+  padding: 2rem;
+  font-style: italic;
+  border-left: 5px solid #7a7a7a;
+}
+
+blockquote footer {
+  font-size: .85rem;
+  font-style: normal;
+  background-color: #fff;
+  color: #7a7a7a;
+  border-color: transparent;
+}
+
+h1,
+h2,
+h3 {
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  margin-top: 3rem;
+}
+
+h4,
+h5,
+h6 {
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  margin-top: 1rem;
+}
+
+@media screen and (max-width: 48em) {
+  .site-header {
+    text-align: center;
+    width: 100%;
+  }
+
+  .site-header .site-nav {
+    width: 100%;
+    float: left;
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+  }
+
+  .site-header nav.site-nav a {
+    display: inline;
+    width: 18%;
+    min-width: 90px;
+  }
+
+  .bio-container {
+    width: 90%;
+    max-width: 580px;
+  }
+}
+
+@media screen and (min-width: 48em) {
+  .h1,
+  h1 {
+    font-size: 3rem;
+    line-height: 4rem;
+  }
+
+  .h2,
+  h2 {
+    font-size: 1.8rem;
+    line-height: 2.3rem;
+  }
+
+  .h3,
+  h3 {
+    font-size: 1rem;
+    line-height: 1.5rem;
+  }
+
+  .p,
+  p {
+    font-size: 1rem;
+    line-height: 1.5rem;
+  }
+
+  .small {
+    font-size: 0.8rem;
+  }
+}
+
+@media screen and (min-width: 64em) {
+  .h1,
+  h1 {
+    font-size: 3rem;
+    line-height: 4rem;
+  }
+
+  .h2,
+  h2 {
+    font-size: 1.8rem;
+    line-height: 2.3rem;
+  }
+}
+
+footer {
+  border-top: thin solid #ddd;
+}
+
+footer,
+footer .wrap {
+  color: #7a7a7a;
+  background-color: #f3f3f3;
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  font-weight: 300;
+  clear: both;
+}
+
+footer:after {
+  content: "";
+  display: block;
+}

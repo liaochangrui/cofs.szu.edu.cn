@@ -1,0 +1,99 @@
+---
+layout: page
+title: 孙兵 博士
+permalink: /members/sunbing/
+---
+
+<a href="{{ site.baseurl }}/members/sunbing/">
+<img class="member-avatar" src="{{ site.baseurl }}/images/sunbing-92x129.jpg">
+</a>
+
+## 基本信息
+
+学 历：博士研究生（硕博连读五年毕业）<br/>
+硕士博士学校：江苏大学<br/>
+导师：张永康教授、陈明阳副教授
+博士后院校：深圳大学<br/>
+合作导师：王义平教授（珠江学者）<br/>
+专 业：光学工程<br/>
+联系地址：广东省深圳市南山区光电工程学院 518060<br/>
+E-mail: graduate_sunbin@126.com /pcf13@szu.edu.cn<br/>
+籍 贯：江西九江<br/>
+
+## 论文题目与研究方向
+
++ 博士后课题：光子晶体光纤液体填充及传感应用研究。
+主要研究不同类型光纤光栅的原理、制作、特性及应用，并在光纤光栅、光子晶体光纤等领域做了较多的前期研究工作。
++ 博士论文：新型光子晶体光纤、光波导耦合器件的传输特性及应用研究。
+主要研究光子晶体光纤及光波导的新型结构设计以及基于光子晶体光纤的传感结构。
+
+已发SCI论文9篇，其中2011年以第一作者发表在Optics Express上发表，已被国内外同行引用16次。博士学位论文2013年被评为校优秀博士学位论文。
+
+## 教育背景
+
++ 2004，09-2008，07：长春理工大学光电信息学院学习。主修光学工程、物理光学电路分析、量子力学、电动力学、理论力学、数理方程、固体物理等课程，获得理学学士。 
++ 2008，09–2013，06： 江苏大学，2008年9月进入江苏大学机械学院光学工程专业攻读硕士学位，导师为陈明阳副教授。2010年被推荐硕  博连读，导师为张永康教授。获得工学博士学位。
+
+## 科研工作经历
+
++ 硕博连读期间主要从事光子晶体光纤数值模拟的理论研究。研究方向包括：光子晶体光纤通信器件，光子晶体光纤传感器件，光波导数值仿真等。并在传感方向上进行了系统的理论工作，在国内外光学知名刊物共发表论文13篇，其中SCI论文9篇。
++ 2010年，设计了一种宽带模式转换器，研究成果在国内一级期刊《光学学报》上发表，并申请国家发明专利一项（授权号：CN 101592761A）。
++ 2011年，首次提出引入微结构芯方法，增强了光场与填充样品的相互作用，成功用于低折射率材料（相比于光纤背景材料）的传感，该方法克服了以往技术对低折射率折射率传感灵敏度低等缺点，结果发表在Optics Express 19(5): 4091-4100, 2011，被引16次。通过进一步改进光纤结构，提高传感灵敏度，相关成果已申请国家发明专利，已获授权（授权号：CN 102495022A）。
++ 2013年，进入王义平老师光纤传感实验室学习工作，研究了不同类型光纤光栅的原理、制作、特性及应用，在光纤光栅、光子晶体光纤等  领域做了较多的前期研究工作。
+
+## 研究成果发表
+
+### 发表学术论文
+
+1. **Bing Sun**, Ming-Yang Chen, Yong-Kang Zhang, Ji-chang Yang, Jian-quan Yao, and Hai-Xia Cui, Microstructured-core photonic-crystal fiber for ultra-sensitive refractive index sensing, Optics Express, 19(5): 4091-4100, 2011
+
+1. **Bing Sun**, Ming-Yang Chen, Yong-Kang Zhang, and Ji-chang Yang, Design of refractive index sensors based on the wavelength-selective resonant coupling phenomenon in dual-core photonic crystal fiber, Journal of Biomedical Optics, 17(3): 037002-(1-6), 2012 
+
+1. **Bing Sun**, Ming-Yang Chen, Jun Zhou, and Yong-Kang Zhang, Surface plasmon induced polarization splitting based on dual-core photonic crystal fiber with metal wire, Plasmonics, 8(2): 1253-1258, 2013
+
+1. **Bing Sun**, Ming-Yang Chen, Yong-Kang Zhang and Jun Zhou. An ultracompact hybrid plasmonic waveguide polarization beam splitter. Applied Physics B, 113(2): 179-183, 2013
+
+1. **Bing Sun**, Ming-yang Chen, Rong-jin Yu, Yong-kang Zhang and Jun Zhou. Design of a fiber polarizer based on an asymmetric dual-core photonic crystal fiber. Optoelectronics letters, 7(4): 0253-0255, 2011
+
+1. **孙兵**，陈明阳，钱春霖，王涛，张永康。基于非对称三芯光子晶体光纤的宽带定向耦合器研究。光学学报, 33(7): 53-57, 2013
+
+1. Ming-Yang Chen, **Bing Sun**, Yong-Kang Zhang, Xiao-Xia Fu. Design of a broadband polarization splitter based on partial coupling in a square-lattice photonic crystal fiber. Applied Optics, 49(16): 3042-3048, 2010
+
+1. Ming-Yang Chen, **Bing Sun**, Yong-Kang Zhang. Broadband single-polarization operation in square-lattice photonic crystal fibers. Journal of Lightwave Technology, 28(10): 1443-1446, 2010
+
+1. Ming-Yang Chen,** Bing Sun**, Yong-Kang Zhang, Yan-Qun Tong, and Jun Zhou. Design of all-solid large-mode area microstructure-core optical fibers. Optics Communications, 283(16): 3153-3157, 2010
+
+1. **孙兵**，陈明阳，周骏，余学权，张永康，于荣金。基于非对称双芯光子晶体光纤的宽带模式转换器研究。光学学报, 30(6): 1581-1585，2010
+
+1. Yingjie Liu, Yiping Wang,** Bing Sun**, Changrui Liao, Jun Song, Kaiming Yang, Guanjun Wang, Qiao Wang, Guolu Yin, and Jiangtao Zhou, Compact tunable multi-bandpass filters based on liquid-filled photonic crystal fibers, Optics Letters, Accepted (In press)
+
+1. Ming-Yang Chen, Yong-Kang Zhang, **Bing Sun**, Xiao-Xia Fu. Design and analysis of single-mode polymer segment cladding optical fibers. Journal of Lightwave Technology, 28(22): 3250-3257, 2010
+
+1. Ming-Yang Chen, Yong-Kang Zhang, Xiao-Xia Fu, **Bing Sun**, and Jun Zhou. Proposal and design of sectorial cladding optical fibre for large-mode-area, single-mode operation. Journal of Optics, 283(16): 3153-3157, 2010
+
+### 会议论文
+
+1. **孙兵**，陈明阳，于荣金，张永康，周骏。全国第14次光纤通信暨第15届集成光学学术会议 2010.9 天津 
+
+### 发明专利
+
+共申请发明专利10项，其中已获授权6项。
+1. **孙兵**，陈明阳，张永康，周骏。一种基于非对称双芯光子晶体光纤宽带模式转换器，2011.1，中国，ZL200910032535.6
+
+1. **孙兵**，陈明阳，张永康，杨继昌，一种双芯光子晶体光纤折射率传感器及传感系统，2011.1，中国，CN 102495022A
+
+1. 陈明阳，张永康，**孙兵**，一种单偏振光子晶体光纤，2012.5，中国，ZL201010149977.1
+
+1. 陈明阳，张永康，祝远锋，**孙兵**，付晓霞，一种大模场微结构光纤，2012.2，中国，ZL 201010590795.8
+
+1. 陈明阳，佟艳群，张银，李裕蓉，**孙兵**，付晓霞，张永康，一种双模光纤及其通信系统， 2013.10，中国，ZL 201010589018.1 
+
+1. 陈明阳，付晓霞，佟艳群，李裕蓉，张银，**孙兵**，张永康，一种太赫兹光纤，2013.5，中国， ZL201010589019.6 
+
+1. **孙兵**，陈明阳，张永康，一种偏振分束器，申请号： 201210583916.5，申请时间：2012.12
+
+1. 陈明阳，**孙兵**，王涛，钱春霖，张永康，一种光子晶体光纤定向耦合器，申请号：201210582690.7，申请时间：2012.12
+
+1. 陈明阳，**孙兵**，戴茂春，边清华，张永康，一种光子晶体光纤偏振分束器件，申请号：201210582668.2，申请时间：2012.12
+
+1. 任乃飞，**孙兵**，吴迪福，任旭东，陈明阳，葛小兵，刘丹，一种大尺寸柔性平板显示器的面板及其制备方法，申请号：201210581163.4，申请时间：2012.12

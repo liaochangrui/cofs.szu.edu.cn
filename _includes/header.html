@@ -1,0 +1,12 @@
+<header class="site-header">
+  <div class="mt2 wrap">
+    <div class="measure">
+      <a href="{{ site.bannerlink }}" class="banner"><img src="{{ site.banner | prepend: site.baseurl | prepend: site.url }}"></a>
+      <a href="{{ site.baseurl | prepend: site.url }}" class="center">{{ site.title }}</a><br>
+      <a href="{{ site.baseurl | prepend: site.url }}" class="secondary center">{{ site.subtitle }}</a>
+      <nav class="site-nav center">
+        {% include navigation.html %}
+      </nav>
+    </div>
+  </div>
+</header>

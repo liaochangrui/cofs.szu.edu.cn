@@ -1,0 +1,43 @@
+---
+layout: default
+---
+<div class="post">
+  <article class="post-content">
+  <br>
+  <div>
+  <div class="index-left-photos p1">
+    <br>
+    {% for slides in page.carousel %}
+      <img src="{{ slides.image }}">
+    {% endfor %}
+  </div>
+  <div class="index-right-moto-and-news p1">
+    <br>
+    {{ site.description }}
+    <br>
+  </div>
+  </div>
+  <hr style="border-top: dotted 1px; width： 100%； ">
+  <div>
+  <div class="index-left-photos p1">
+    {% include newpapers.html %}
+  </div>
+  <div class="index-right-moto-and-news p1">
+    {{ content }}
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+  </div>
+  </div>
+  <hr style="border-top: dotted 1px; width： 100%； ">
+  <div class="buttom-links p1">
+    <b>热点链接</b>
+    {% include links.html %}
+  </div>
+  </article>
+</div>
+
+
+
