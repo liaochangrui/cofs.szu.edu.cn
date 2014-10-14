@@ -1,7 +1,7 @@
 ---
 layout: index
 carousel: 
-  - image: /images/group-3008x1451.jpg
+  - image: group-3008x1451.jpg
 ---
 
 通知通告

@@ -2,8 +2,8 @@
 layout: page
 title: 本课题组师生参加2014年全国光纤传感学术会议暨产业化论坛
 carousel: 
-  - image: /images/dalian-notice-1.jpg
-  - image: /images/dalian-notice-2.jpg
+  - image: dalian-notice-1.jpg
+  - image: dalian-notice-2.jpg
 ---
 
 
