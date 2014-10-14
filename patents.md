@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /patents/
 ---
 
 <div class="navbar center">
 <ul>
-    <li><a href="{{ site.baseurl | prepend: site.url }}/journal.html">期刊</a></li>
-    <li class="active"><a href="{{ site.baseurl | prepend: site.url }}/conf.html">会议</a></li>
-    <li><a href="{{ site.baseurl | prepend: site.url }}/patents.html">专利</a></li>
+    <li><a href="{{ site.baseurl | prepend: site.url }}/journal">期刊</a></li>
+    <li class="active"><a href="{{ site.baseurl | prepend: site.url }}/conf">会议</a></li>
+    <li><a href="{{ site.baseurl | prepend: site.url }}/patents">专利</a></li>
 </ul>
 </div>
 
