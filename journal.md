@@ -6,8 +6,8 @@ permalink: /publications/
 <div class="navbar center">
 <ul>
     <li class="active"><a href="{{ "/publications" | prepend: site.baseurl }}">期刊</a></li>
-    <li><a href="{{ "/conf" | append: "/publications" | prepend: site.baseurl }}">会议</a></li>
-    <li><a href="{{ "/patents" | append: "/publications" | prepend: site.baseurl }}">专利</a></li>
+    <li><a href="{{ "/conf" | prepend: "/publications" | prepend: site.baseurl }}">会议</a></li>
+    <li><a href="{{ "/patents" | prepend: "/publications" | prepend: site.baseurl }}">专利</a></li>
 </ul>
 </div>
 
