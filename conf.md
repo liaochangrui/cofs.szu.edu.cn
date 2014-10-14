@@ -5,9 +5,9 @@ permalink: /conf/
 
 <div class="navbar center">
 <ul>
-    <li><a href="{{ site.baseurl | prepend: site.url }}/journal">期刊</a></li>
-    <li class="active"><a href="{{ site.baseurl | prepend: site.url }}/conf">会议</a></li>
-    <li><a href="{{ site.baseurl | prepend: site.url }}/patents">专利</a></li>
+    <li><a href="{{ "/journal" | prepend: site.baseurl }}">期刊</a></li>
+    <li class="active"><a href="{{ "/conf" | prepend: site.baseurl }}">会议</a></li>
+    <li><a href="{{ "/patents" | prepend: site.baseurl }}">专利</a></li>
 </ul>
 </div>
 

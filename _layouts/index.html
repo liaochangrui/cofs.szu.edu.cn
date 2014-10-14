@@ -8,7 +8,7 @@ layout: default
   <div class="index-left-photos p1">
     <br>
     {% for slides in page.carousel %}
-      <img src="{{ slides.image }}">
+      <img src="{{ site.baseurl | prepend: site.url }}/images/{{ slides.image }}">
     {% endfor %}
   </div>
   <div class="index-right-moto-and-news p1">
