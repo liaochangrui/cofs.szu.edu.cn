@@ -38,6 +38,21 @@ links:
  - title: "深圳大学光电工程学院"
    url: http://opto.szu.edu.cn
 
+
+newpapers:
+ - title: "Long Period Fiber Gratings Inscribed With an Improved Two-Dimensional Scanning Technique"
+   author: "X. Zhong et al., IEEE Photonics Journal (2014)."
+   doc: "%5B3%5D-Long%20period%20fiber%20gratings%20inscribed%20with%20an%20improved%20two-dimensional%20scanning%20technique.pdf"
+ - title: "Ultrasensitive refractive index sensor based on a Mach–Zehnder interferometer created in twin-core fiber"
+   author: "Z. Li et al., Optics Letters (2014)."
+   doc: "%5B4%5D-Ultrasensitive%20refractive%20index%20sensor.pdf"
+ - title: "Sub-micron silica diaphragm based fiber-tip Fabry-Perot interferometer for pressure measurement"
+   author: "C. Liao et al., Optics Letters (2014)."
+   doc: "changruiliao2014opticsletters.pdf"
+ - title: "Temperature-insensitive refractive index sensor based on in-fiber Michelson interferometer"
+   author: "Z. Li et al., Sensors and Actuators B: Chemical (2014)."
+   doc: "%5B6%5D-Temperature-insensitive%20refractive%20index%20sensor%20based%20on%20in-fiber%20Michelson%20interferometer.pdf"
+
 # Build settings
 markdown: redcarpet  #kramdown
 redcarpet:
