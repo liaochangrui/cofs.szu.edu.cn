@@ -255,11 +255,11 @@ body {
   zoom: 1;
 }
 .navbar ul li {
-  width: 25%;
+  width: 33%;
   float: left;
 }
 .navbar ul li.active a{
-  background-color: #222222;
+  background-color: #8c1515;
   color: #DADADA;
 }
 .navbar ul a {
@@ -268,7 +268,7 @@ body {
   padding: 5px;
   margin-right: 5px;
   background-color: #AAAAAA;
-  color: #333;
+  color: #8c1515;
   text-align: center;
 }
 
