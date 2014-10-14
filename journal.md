@@ -3,8 +3,13 @@ layout: page
 permalink: /publications/
 ---
 
-期刊
-=========================
+<div class="navbar center">
+<ul>
+    <li class="active"><a href="{{ site.baseurl | prepend: site.url }}/publications">期刊</a></li>
+    <li><a href="{{ site.baseurl | prepend: site.url }}/conf.html">会议</a></li>
+    <li><a href="{{ site.baseurl | prepend: site.url }}/patents.html">专利</a></li>
+</ul>
+</div>
 
 2014
 -------------------------
@@ -88,33 +93,3 @@ Sensor Letters. 10(7), 1382-1386, 2012.
 1. Y. Wang, H. Bartelt, M. Becker, S. Brueckner, J. Bergmann, J. Kobelke, and M. Rothhardt<br/>
 " Fabrications of Fiber Bragg Gratings Written in Photonic Crystal Fibers"<br/>
 Sensor Letters. 10(7), 1382-1386, 2012.
-
-会议
-=========================
-
-
-2014
--------------------------
-
-2013
--------------------------
-
-
-2012
--------------------------
-
-
-专利
-=========================
-
-
-2014
--------------------------
-
-
-2013
--------------------------
-
-
-2012
--------------------------
