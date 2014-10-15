@@ -39,18 +39,18 @@ links:
    url: http://opto.szu.edu.cn
 
 newpapers:
- - title: "Long Period Fiber Gratings Inscribed With an Improved Two-Dimensional Scanning Technique"
-   author: "X. Zhong et al., IEEE Photonics Journal (2014)."
-   doc: "[3]-Long period fiber gratings inscribed with an improved two-dimensional scanning technique.pdf"
+ - title: "Compact tunable multibandpass filters based on liquid-filled photonic crystal fibers"
+   author: "Y. J. Liu et al, Optics Letters (2014)."
+   doc: "liuyingjie2014ol-compact.pdf"
  - title: "Ultrasensitive refractive index sensor based on a Mach–Zehnder interferometer created in twin-core fiber"
-   author: "Z. Li et al., Optics Letters (2014)."
-   doc: "[4]-Ultrasensitive refractive index sensor.pdf"
+   author: "Z.Y. Li et al., Optics Letters (2014)."
+   doc: "lizhengyong20140l-ultrasenstive.pdf"
  - title: "Sub-micron silica diaphragm based fiber-tip Fabry-Perot interferometer for pressure measurement"
    author: "C. Liao et al., Optics Letters (2014)."
    doc: "changruiliao2014opticsletters.pdf"
- - title: "Temperature-insensitive refractive index sensor based on in-fiber Michelson interferometer"
-   author: "Z. Li et al., Sensors and Actuators B: Chemical (2014)."
-   doc: "[6]-Temperature-insensitive refractive index sensor based on in-fiber Michelson interferometer.pdf"
+ - title: "High-sensitivity strain sensor based on in-fiber improved Fabry–Perot interferometer"
+   author: "S. Liu et al.,Optics Letters (2014)."
+   doc: "liushen2014ol-high.pdf"
 
 # Build settings
 markdown: redcarpet  #kramdown
