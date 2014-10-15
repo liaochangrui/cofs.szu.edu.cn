@@ -79,11 +79,11 @@ permalink: /publications/
 -------------------------
 
 1. C. R. Liao, T.Y. Hu, and D. N. Wang Bergmann<br/>
-    ["Optical fiber Fabry-Perot interferometer cavity fabricated by femtosecond laser micromachining and fusion splicing for refractive index sensing"]({{ site.baseurl }}/papers/changruiliao2012oe.pdf)
+    ["Optical fiber Fabry-Perot interferometer cavity fabricated by femtosecond laser micromachining and fusion splicing for refractive index sensing"]({{ site.baseurl }}/papers/changruiliao2012oe.pdf)<br>
 Optics Express.20(20),2012
 
 2. C. R. Liao, D. N. Wang, M. Wang, and M. H. Yang<br/>
-    ["Fiber In-Line Michelson Interferometer Tip Sensor Fabricated by Femtosecond Laser"]({{ site.baseurl }}/papers/changruiliao2012ieee.pdf)
+    ["Fiber In-Line Michelson Interferometer Tip Sensor Fabricated by Femtosecond Laser"]({{ site.baseurl }}/papers/changruiliao2012ieee.pdf)<br>
 IEEE Photonics Technology Letters,24(20),2012
 
 3. Y. Wang, H. Bartelt, M. Becker, S. Brueckner, J. Bergmann, J. Kobelke, and M. Rothhardt<br/>
