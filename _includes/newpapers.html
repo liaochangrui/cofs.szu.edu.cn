@@ -3,7 +3,7 @@
 <ul>
 {% for paper in site.newpapers %}
     <li>
-        <a href="{{ paper.doc | prepend: "/paper/" | prepend: site.baseurl }}">
+        <a href="{{ paper.doc | prepend: "/papers/" | prepend: site.baseurl }}">
         {{ paper.title }}<br>
         {{ paper.author }}      
         </a>
