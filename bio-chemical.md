@@ -13,3 +13,28 @@ permalink: /facilities/bio-chemical/
 </div>
 
 <br>
+<br>
+<br>
+<br>
+
+
+<div class="wrap oh clearfix" style="float: left; width: 30%" >
+    <img src="{{ site.baseurl }}/images/shpt1.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
+    <p style="text-align: center; font-size: 1.0em">
+        生化平台1
+    </p>
+</div>
+
+<div class="wrap oh clearfix" style="float: left; width: 30%">
+    <img src="{{ site.baseurl }}/images/shpt2.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
+    <p style="text-align: center; font-size: 1.0em">
+       生化平台2
+    </p>
+</div>
+
+<div class="wrap oh clearfix" style="margin-left: 54%; width: 30%">
+    <img src="{{ site.baseurl }}/images/tfc.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
+    <p style="text-align: center; font-size: 1.0em">
+       通风厨
+    </p>
+</div>
