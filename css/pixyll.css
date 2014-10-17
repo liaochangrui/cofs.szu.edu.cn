@@ -255,7 +255,6 @@ body {
   zoom: 1;
 }
 .navbar ul li {
-  width: 33%;
   float: left;
 }
 .navbar ul li.active a{
@@ -270,6 +269,12 @@ body {
   background-color: #d9534f;
   color: #333;
   text-align: center;
+}
+.third ul li {
+  width: 33%;
+}
+.forth ul li {
+  width: 25%;
 }
 
 .posts {
