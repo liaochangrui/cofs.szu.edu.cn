@@ -7,7 +7,7 @@ permalink: /members/zhoujiangtao/
 ## 1. Personal Information
 
 <a href="{{ site.baseurl }}/members/zhoujiangtao/">
-<img src="{{ site.baseurl }}/images/zhoujiangtao-140x199.jpg" style="width: 140px; float: right; margin: 10px" />
+<img src="{{ site.baseurl }}/images/zhoujiangtao-172x224.jpg" style="width: 140px; float: right; margin: 10px" />
 </a>
 
 + Name:	Jiangtao Zhou<br/>

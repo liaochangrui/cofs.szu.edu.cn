@@ -199,7 +199,7 @@ permalink: /members/
 <div class="bio-container">
   <div class="bio-avatar" >
   <a href="{{ site.baseurl }}/members/zhoujiangtao/">
-  <img src="{{ site.baseurl }}/images/zhoujiangtao-92x131.jpg" class="max-img-border"/>
+  <img src="{{ site.baseurl }}/images/zhoujiangtao-92x130.jpg" class="max-img-border"/>
   </a>
   </div>
   <div class="bio-info">
