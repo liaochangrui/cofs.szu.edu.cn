@@ -14,6 +14,8 @@ permalink: /facilities/fiber/
 
 <br>
 <br>
+<br>
+<br>
 
 <div class="wrap oh clearfix" style="float: left; width: 30%" >
     <img src="{{ site.baseurl }}/images/asegy.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
@@ -37,7 +39,7 @@ permalink: /facilities/fiber/
 </div>
 
 <div class="wrap oh clearfix" style="float: left; width: 30%" >
-    <img src="{{ site.baseurl }}/images/gpfxy2.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
+    <img src="{{ site.baseurl }}/images/gpfxy1.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
     <p style="text-align: center; font-size: 1.0em">
         光谱分析仪
     </p>
