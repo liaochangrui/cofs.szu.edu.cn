@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/conf/
 ---
 
-<div class="navbar center">
+<div class="navbar center third">
 <ul>
     <li><a href="{{ "/publications" | prepend: site.baseurl }}">期刊</a></li>
     <li class="active"><a href="{{ "/conf" | prepend: "/publications" | prepend: site.baseurl }}">会议</a></li>

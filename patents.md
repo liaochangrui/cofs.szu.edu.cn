@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/patents/
 ---
 
-<div class="navbar center">
+<div class="navbar center third">
 <ul>
     <li><a href="{{ "/publications" | prepend: site.baseurl }}">期刊</a></li>
     <li><a href="{{ "/conf" | prepend: "/publications" | prepend: site.baseurl }}">会议</a></li>
