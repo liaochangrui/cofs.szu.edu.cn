@@ -3,7 +3,7 @@ layout: page
 permalink: /facilities/fiber/
 ---
 
-<div class="navbar center  fourth">
+<div class="navbar center forth">
 <ul>
     <li><a href="{{ "/facilities" | prepend: site.baseurl }}">测试设备</a></li>
     <li class="active"><a href="{{ "/fiber" | prepend: "/facilities" | prepend: site.baseurl }}">光纤设备</a></li>
