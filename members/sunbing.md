@@ -17,7 +17,7 @@ permalink: /members/sunbing/
 合作导师：王义平教授（珠江学者）<br/>
 专 业：光学工程<br/>
 联系地址：广东省深圳市南山区光电工程学院 518060<br/>
-E-mail: graduate_sunbin@126.com /pcf13@szu.edu.cn<br/>
+E-mail: graduate_sunbin@163.com /pcf13@szu.edu.cn<br/>
 籍 贯：江西九江<br/>
 
 ## 论文题目与研究方向
@@ -27,7 +27,7 @@ E-mail: graduate_sunbin@126.com /pcf13@szu.edu.cn<br/>
 + 博士论文：新型光子晶体光纤、光波导耦合器件的传输特性及应用研究。
 主要研究光子晶体光纤及光波导的新型结构设计以及基于光子晶体光纤的传感结构。
 
-已发SCI论文9篇，其中2011年以第一作者发表在Optics Express上发表，已被国内外同行引用16次。博士学位论文2013年被评为校优秀博士学位论文。
+已发SCI论文14篇，其中2011年以第一作者发表在Optics Express上发表，已被国内外同行引用16次。博士学位论文2013年被评为校优秀博士学位论文。
 
 ## 教育背景
 
@@ -45,31 +45,24 @@ E-mail: graduate_sunbin@126.com /pcf13@szu.edu.cn<br/>
 
 ### 发表学术论文
 
-1. **Bing Sun**, Ming-Yang Chen, Yong-Kang Zhang, Ji-chang Yang, Jian-quan Yao, and Hai-Xia Cui, Microstructured-core photonic-crystal fiber for ultra-sensitive refractive index sensing, Optics Express, 19(5): 4091-4100, 2011
-
-1. **Bing Sun**, Ming-Yang Chen, Yong-Kang Zhang, and Ji-chang Yang, Design of refractive index sensors based on the wavelength-selective resonant coupling phenomenon in dual-core photonic crystal fiber, Journal of Biomedical Optics, 17(3): 037002-(1-6), 2012 
-
-1. **Bing Sun**, Ming-Yang Chen, Jun Zhou, and Yong-Kang Zhang, Surface plasmon induced polarization splitting based on dual-core photonic crystal fiber with metal wire, Plasmonics, 8(2): 1253-1258, 2013
-
-1. **Bing Sun**, Ming-Yang Chen, Yong-Kang Zhang and Jun Zhou. An ultracompact hybrid plasmonic waveguide polarization beam splitter. Applied Physics B, 113(2): 179-183, 2013
-
-1. **Bing Sun**, Ming-yang Chen, Rong-jin Yu, Yong-kang Zhang and Jun Zhou. Design of a fiber polarizer based on an asymmetric dual-core photonic crystal fiber. Optoelectronics letters, 7(4): 0253-0255, 2011
-
-1. **孙兵**，陈明阳，钱春霖，王涛，张永康。基于非对称三芯光子晶体光纤的宽带定向耦合器研究。光学学报, 33(7): 53-57, 2013
-
-1. Ming-Yang Chen, **Bing Sun**, Yong-Kang Zhang, Xiao-Xia Fu. Design of a broadband polarization splitter based on partial coupling in a square-lattice photonic crystal fiber. Applied Optics, 49(16): 3042-3048, 2010
-
-1. Ming-Yang Chen, **Bing Sun**, Yong-Kang Zhang. Broadband single-polarization operation in square-lattice photonic crystal fibers. Journal of Lightwave Technology, 28(10): 1443-1446, 2010
-
-1. Ming-Yang Chen,** Bing Sun**, Yong-Kang Zhang, Yan-Qun Tong, and Jun Zhou. Design of all-solid large-mode area microstructure-core optical fibers. Optics Communications, 283(16): 3153-3157, 2010
-
-1. **孙兵**，陈明阳，周骏，余学权，张永康，于荣金。基于非对称双芯光子晶体光纤的宽带模式转换器研究。光学学报, 30(6): 1581-1585，2010
-
-1. Yingjie Liu, Yiping Wang,** Bing Sun**, Changrui Liao, Jun Song, Kaiming Yang, Guanjun Wang, Qiao Wang, Guolu Yin, and Jiangtao Zhou, Compact tunable multi-bandpass filters based on liquid-filled photonic crystal fibers, Optics Letters, Accepted (In press)
-
-1. Ming-Yang Chen, Yong-Kang Zhang, **Bing Sun**, Xiao-Xia Fu. Design and analysis of single-mode polymer segment cladding optical fibers. Journal of Lightwave Technology, 28(22): 3250-3257, 2010
-
-1. Ming-Yang Chen, Yong-Kang Zhang, Xiao-Xia Fu, **Bing Sun**, and Jun Zhou. Proposal and design of sectorial cladding optical fibre for large-mode-area, single-mode operation. Journal of Optics, 283(16): 3153-3157, 2010
+[1] **B. Sun**, M.-Y. Chen, Y.-K. Zhang, et al., Microstructured-core photonic-crystal fiber for ultra-sensitive refractive index sensing, Optics Express, 19(5): 4091-4100, 2011<br>
+[2] **B. Sun**, M.-Y. Chen, Y.-K. Zhang, et al., Design of refractive index sensors based on the wavelength-selective resonant coupling phenomenon in dual-core photonic crystal fiber, Journal of Biomedical Optics, 17(3): 037002-(1-6), 2012 <br>
+[3] **B. Sun**, M.-Y. Chen, J. Zhou, et al., Surface plasmon induced polarization splitting based on dual-core photonic crystal fiber with metal wire, Plasmonics, 8(2): 1253-1258, 2013<br>
+[4] **B. Sun**, M.-Y. Chen, Y.-K. Zhang, et al., An ultracompact hybrid plasmonic waveguide polarization beam splitter, Applied Physics B, 113(2): 179-183, 2013<br>
+[5] **B. Sun**, M.-Y. Chen, J. Zhou, et al., Polarization-dependent coupling characteristics of metal-wire filled dual-core photonic crystal fiber, Optical and Quantum Electronics, 2014<br>
+[6] **B. Sun**, Y. Wang, Y. Liu, et al., Compact device employed a hybrid plasmonic waveguide for polarization-selective splitting, Optics Communications, 334: 240-246, 2015<br>
+[7] **B. Sun**, M.-Y. Chen, R.-j. Yu, et al., Design of a fiber polarizer based on an asymmetric dual-core photonic crystal fiber, Optoelectronics letters, 7(4): 0253-0255, 2011<br>
+[8] **孙兵**，陈明阳，钱春霖，等，基于非对称三芯光子晶体光纤的宽带定向耦合器研究，光学学报, 33(7): 53-57, 2013
+[9] M.-Y. Chen, **B. Sun**, Y.-K. Zhang, et al., Design of a broadband polarization splitter based on partial coupling in a square-lattice photonic crystal fiber, Applied Optics, 49(16): 3042-3048, 2010<br>
+[10] M.-Y. Chen, **B. Sun**, Y.-K. Zhang, Broadband single-polarization operation in square-lattice photonic crystal fibers, Journal of Lightwave Technology, 28(10): 1443-1446, 2010<br>
+[11] M.-Y. Chen, **B. Sun**, Y.-K. Zhang, et al., Design of all-solid large-mode area microstructure-core optical fibers, Optics Communications, 283(16): 3153-3157, 2010<br>
+[12] **孙兵**，陈明阳，周骏，等，基于非对称双芯光子晶体光纤的宽带模式转换器研究，光学学报, 30(6): 1581-1585，2010<br>
+[13] Y. Liu, Y. Wang, **B. Sun**, et al., Compact tunable multi-bandpass filters based on liquid-filled photonic crystal fibers, Optics Letters, 39(7): 2148-2151, 2014<br>
+[14] G. L. Yin, Y. P. Wang, C. R. Liao, J. T. Zhou, X. Y. Zhong, G. J. Wang, **B. Sun**, et al., Long period fiber gratings inscribed by periodically tapering a fiber, IEEE photonic technology letter 26(7): 698-701, 2014<br>
+[15] M.-Y. Chen, Y.-K. Zhang, **B. Sun**, et al., Design and analysis of single-mode polymer segment cladding optical fibers. Journal of Lightwave Technology, 28(22): 3250-3257, 2010<br>
+[16] M.-Y. Chen, Y.-K. Zhang, X.-X. Fu, **B. Sun**, et al., Proposal and design of sectorial cladding optical fibre for large-mode-area, single-mode operation. Journal of Optics, 283(16): 3153-3157, 2010<br>
+[17] J. Zhou, C. Liao, G. Yin, X. Zhong, K. Yang, **B. Sun**, et al., Simultaneous measurement of strain and temperature by employing fiber Mach-Zehnder interferometer, Optics Express, 22(2): 1680-1686, 2014
+: 3153-3157, 2010<br>
 
 ### 会议论文
 
@@ -77,23 +70,15 @@ E-mail: graduate_sunbin@126.com /pcf13@szu.edu.cn<br/>
 
 ### 发明专利
 
-共申请发明专利10项，其中已获授权6项。
-1. **孙兵**，陈明阳，张永康，周骏。一种基于非对称双芯光子晶体光纤宽带模式转换器，2011.1，中国，ZL200910032535.6
+共申请发明专利10项，其中已获授权7项。
+[1] **孙兵**，陈明阳，张永康<br>一种偏振分束器<br>申请号： 201210583916.5，授权公告日：2014.08.20，授权公告号：CN103018832B<br>
+[2] **孙兵**，陈明阳，张永康,杨继昌<br>一种双芯光子晶体光纤折射率传感器及传感系统<br>申请号： 201110356530.6，授权公告日：2013.10.23，授权公告号：CN102495022B<br>
+[3] **孙兵**，陈明阳，张永康，周骏<br>一种基于非对称双芯光子晶体光纤宽带模式转换器<br>申请号：200910032535.6，授权公告日：2011.01.05，授权公告号：CN101592761B <br>
+[4] 陈明阳，张永康，**孙兵**<br>一种单偏振光子晶体光纤<br>申请号：201010149977.1，授权公告日：2010.04.16，授权公告号：CN101923187B <br>
+[5] 陈明阳，张永康，祝远锋，**孙兵**，付晓霞<br>一种大模场微结构光纤<br>申请号：201010590795.8，授权公告日：2012.06.20，授权公告号：CN102023335B <br>
+[6] 陈明阳，佟艳群，张银，李裕蓉，**孙兵**，付晓霞，张永康<br>一种光纤通信系统<br>申请号：201010589018.1，授权公告日：2013.10.23，授权公告号：CN102122991B <br>
+[7] 陈明阳，付晓霞，佟艳群，李裕蓉，张银，**孙兵**，张永康<br>一种太赫兹光纤<br>申请号：201010589019.6，授权公告日：2013.05.08，授权公告号：CN102122022B<br> 
+[8] 陈明阳，**孙兵**，王涛，钱春霖，张永康<br>一种光子晶体光纤定向耦合器<br>申请号：201210582690.7，申请公布日：2013.05.08，申请公布号：CN103091771A <br>
+[9] 陈明阳，**孙兵**，戴茂春，边清华，张永康<br>一种光子晶体光纤偏振分束器件<br>申请公布号：201210582668.2，申请公布日：2013.05.08，申请公布号：CN103091770A<br> 
+[10] 任乃飞，**孙兵**，吴迪福，任旭东，陈明阳，葛小兵，刘丹<br>一种大尺寸柔性平板显示器的面板及其制备方法<br>申请公布号：201210581163.4，申请公布日：2013.04.10，申请公布号：CN103035666A<br>
 
-1. **孙兵**，陈明阳，张永康，杨继昌，一种双芯光子晶体光纤折射率传感器及传感系统，2011.1，中国，CN 102495022A
-
-1. 陈明阳，张永康，**孙兵**，一种单偏振光子晶体光纤，2012.5，中国，ZL201010149977.1
-
-1. 陈明阳，张永康，祝远锋，**孙兵**，付晓霞，一种大模场微结构光纤，2012.2，中国，ZL 201010590795.8
-
-1. 陈明阳，佟艳群，张银，李裕蓉，**孙兵**，付晓霞，张永康，一种双模光纤及其通信系统， 2013.10，中国，ZL 201010589018.1 
-
-1. 陈明阳，付晓霞，佟艳群，李裕蓉，张银，**孙兵**，张永康，一种太赫兹光纤，2013.5，中国， ZL201010589019.6 
-
-1. **孙兵**，陈明阳，张永康，一种偏振分束器，申请号： 201210583916.5，申请时间：2012.12
-
-1. 陈明阳，**孙兵**，王涛，钱春霖，张永康，一种光子晶体光纤定向耦合器，申请号：201210582690.7，申请时间：2012.12
-
-1. 陈明阳，**孙兵**，戴茂春，边清华，张永康，一种光子晶体光纤偏振分束器件，申请号：201210582668.2，申请时间：2012.12
-
-1. 任乃飞，**孙兵**，吴迪福，任旭东，陈明阳，葛小兵，刘丹，一种大尺寸柔性平板显示器的面板及其制备方法，申请号：201210581163.4，申请时间：2012.12
