@@ -3,7 +3,7 @@ layout: page
 permalink: /facilities/laser/
 ---
 
-<div class="navbar center forth">
+<div class="navbar center half">
 <ul>
     <li><a href="{{ "/facilities" | prepend: site.baseurl }}">测试设备</a></li>
     <li class="active"><a href="{{ "/laser" | prepend: "/facilities" | prepend: site.baseurl }}">加工平台</a></li>
