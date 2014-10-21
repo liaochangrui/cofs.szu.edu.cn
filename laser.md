@@ -29,6 +29,20 @@ permalink: /facilities/laser/
     </p>
 </div>
 
+<div class="wrap oh clearfix" style="float: left; width: 33%" >
+    <img src="{{ site.baseurl }}/images/femtosecond.png" style="width: 100%; margin: 10px; padding: 10px;" >
+    <p style="text-align: center; font-size: 1.0em">
+        飞秒激光微加工系统
+    </p>
+</div>
+
+<div class="wrap oh clearfix" style="float: left; width: 33%" >
+    <img src="{{ site.baseurl }}/images/mirconano.png" style="width: 100%; margin: 10px; padding: 10px;" >
+    <p style="text-align: center; font-size: 1.0em">
+        微纳光纤制备系统
+    </p>
+</div>
+
 <div class="wrap oh clearfix" style="margin-left: 54%; width: 33%">
     <img src="{{ site.baseurl }}/images/polishing.png" style="width: 100%; margin: 10px; padding: 10px;" >
     <p style="text-align: center; font-size: 1.0em">
