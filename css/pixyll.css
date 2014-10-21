@@ -270,6 +270,9 @@ body {
   color: #333;
   text-align: center;
 }
+.half ul li {
+  width: 50%;
+}
 .third ul li {
   width: 33%;
 }
