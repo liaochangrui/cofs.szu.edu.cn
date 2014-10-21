@@ -1,7 +1,9 @@
 ---
 layout: index
 carousel: 
-  - image: group-3008x1451.jpg
+  - image: group-1-800x531.png
+  - image: labrory-295x187.png
+  - image: overall-443x302.png
 ---
 
 通知通告
