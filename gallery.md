@@ -6,6 +6,7 @@ carousel:
   - image: group-2-600x300-m.jpg
   - image: group-3-600x300-m.jpg
   - image: group-4-600x300-m.jpg
+  - image: labrory-295x187.png
 ---
 
 <br>
