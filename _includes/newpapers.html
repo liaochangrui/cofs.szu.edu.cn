@@ -1,15 +1,18 @@
 <h2>研究进展</h2>
 
-<ul>
-{% for paper in site.newpapers %}
-    <li>
-        <img src="{{ paper.image | prepend: "/images/" | prepend: site.baseurl }}">
-    </li>
-    <li>
-        <a href="{{ paper.doc | prepend: "/papers/" | prepend: site.baseurl }}">
-        {{ paper.title }}<br>
-        {{ paper.author }}      
-        </a>
-    </li>
-{% endfor %}
-</ul>
+
+<div class="flexslider">
+    <ul class="slides">
+        {% for paper in site.newpapers %}
+        <li>
+            <img src="{{ paper.image | prepend: "/images/" | prepend: site.baseurl }}">
+        </li>
+        <li>
+            <a href="{{ paper.doc | prepend: "/papers/" | prepend: site.baseurl }}">
+                <img src="{{ paper.image | prepend: "/images/" | prepend: site.baseurl }}">
+                <p class="flex-caption">{{ paper.title }}<br>{{ paper.author }}</p>
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
