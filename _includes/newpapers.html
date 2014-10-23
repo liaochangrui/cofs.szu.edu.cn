@@ -3,6 +3,9 @@
 <ul>
 {% for paper in site.newpapers %}
     <li>
+        <img src="{{ paper.image | prepend: "/images/" | prepend: site.baseurl }}">
+    </li>
+    <li>
         <a href="{{ paper.doc | prepend: "/papers/" | prepend: site.baseurl }}">
         {{ paper.title }}<br>
         {{ paper.author }}      
