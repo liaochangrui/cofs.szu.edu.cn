@@ -301,6 +301,15 @@ body {
   border-bottom: thin solid #f3f3f3;
 }
 
+#newBackground {
+  position: absolute;
+  width: 100%;
+  top: 14rem;
+  background: url(../images/top_bg1.png) repeat-x;
+  left: 0px;
+  height: 830px;
+}
+
 .posts .post:last-child {
   border-bottom: none;
   margin-bottom: 2rem;
