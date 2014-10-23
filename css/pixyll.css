@@ -206,6 +206,10 @@ body {
   background-repeat: no;
 }
 
+.site-header .take2remspace{
+  height: 2rem;
+}
+
 
 .site-header .site-nav {
   width: 100%;
