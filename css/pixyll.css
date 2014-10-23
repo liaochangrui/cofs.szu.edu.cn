@@ -22,6 +22,7 @@ html, body {
   background-repeat: repeat;
   margin: 0px;
   padding: 0px;
+  z-index: 1;
 }
 
 img {
@@ -197,7 +198,7 @@ body {
   font-size: 1em;
   line-height: 1.2rem;
   font-weight: 400;
-  color: #ccc;
+  color: #666;
 }
 
 .site-header nav a:hover {
