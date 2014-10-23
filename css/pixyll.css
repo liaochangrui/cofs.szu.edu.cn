@@ -29,6 +29,10 @@ img {
   width: 100%;
 }
 
+.szunavbg {
+  background-image: url(../images/szunavbg.png);
+  top: -2rem;
+}
 
 .sec-container {
   display: table;
@@ -202,10 +206,6 @@ body {
   height: 4rem;
 }
 
-.site-header .navbg {
-  background-image: url(../images/szunavbg.png);
-  top: -2rem;
-}
 
 .site-header .site-nav {
   width: 100%;
