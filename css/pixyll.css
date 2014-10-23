@@ -148,6 +148,11 @@ img {
   margin-bottom: -90px;
 } 
 
+.site-wrap .post {  
+  background-image: url(../images/top_bg1.png) repeat-x;
+  background-size: 100% 100%;
+}
+
 .site-wrap:after {
   content: "";
   display: block;
@@ -299,8 +304,6 @@ body {
   margin-bottom: 4rem;
   padding-bottom: 2rem;
   border-bottom: thin solid #f3f3f3;
-  background-image: url(../images/top_bg1.png) repeat-x;
-  background-size: 100% 100%;
 }
 
 .posts .post:last-child {
