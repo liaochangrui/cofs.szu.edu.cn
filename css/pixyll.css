@@ -29,9 +29,6 @@ img {
   width: 100%;
 }
 
-.navbg {
-  background-image: url(../images/szunavbg.png);
-}
 
 .sec-container {
   display: table;
@@ -202,6 +199,10 @@ body {
 .site-header {
   text-align: center;
   width: 100%;
+}
+
+.site-header .navbg {
+  background-image: url(../images/szunavbg.png);
 }
 
 .site-header .site-nav {
