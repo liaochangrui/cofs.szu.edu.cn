@@ -1,8 +1,8 @@
 <h2>研究进展</h2>
 
-<ul>
+<ul class="slides">
     {% for paper in site.newpapers %}
-    <li style="list-style-type: none; border: 3px solid #AF935F; padding: 10px; margin: 10px;">
+    <li>
         <a href="{{ paper.doc | prepend: "/papers/" | prepend: site.baseurl }}">
             <img src="{{ paper.image | prepend: "/images/" | prepend: site.baseurl }}">
             <p class="flex-caption">{{ paper.title }}<br>{{ paper.author }}</p>
