@@ -199,10 +199,12 @@ body {
 .site-header {
   text-align: center;
   width: 100%;
+  height: 4rem;
 }
 
 .site-header .navbg {
   background-image: url(../images/szunavbg.png);
+  top: -2rem;
 }
 
 .site-header .site-nav {
