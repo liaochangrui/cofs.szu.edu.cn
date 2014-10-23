@@ -192,7 +192,7 @@ body {
 .site-header nav a:hover {
   color: #eee;
   opacity: 1;
-  border-bottom: 2px solid #8c1515;
+  border-bottom: 2px solid #FFFFFF;
 }
 
 .site-header {
@@ -243,8 +243,8 @@ body {
 }
 
 .site-header nav.site-nav li.current a{
-  background-color: #DADADA;
-  color: #FFFFFF;
+  background-color: #FFFFFF;
+  color: #333;
 }
 
 .site-header a:hover,
