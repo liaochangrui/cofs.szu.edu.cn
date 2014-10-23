@@ -30,8 +30,9 @@ img {
 }
 
 .szunavbg {
-  background-image: url(../images/szunavbg.png);
   top: -2rem;
+  float: left;
+  width: 100%;
 }
 
 .sec-container {
