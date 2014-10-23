@@ -33,6 +33,7 @@ img {
   position: relative;
   height: 14rem;
   top: -2rem;
+  z-index: -1;
 }
 
 .szunavbg img{
