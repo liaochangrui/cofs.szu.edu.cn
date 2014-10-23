@@ -51,10 +51,6 @@ newpapers:
    author: "C. Liao et al., Optics Letters (2014)."
    doc: "changruiliao2014opticsletters.pdf"
    image: changruiliao2014opticsletters.jpg
- - title: "High-sensitivity strain sensor based on in-fiber improved Fabry–Perot interferometer"
-   author: "S. Liu et al.,Optics Letters (2014)."
-   doc: "liushen2014ol-high.pdf"
-   image: liushen2014ol-high.jpg
 
 # Build settings
 markdown: redcarpet  #kramdown
