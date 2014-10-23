@@ -33,6 +33,8 @@ img {
 .szunavbg {
   position: absolute;
   background-image: url(../images/szunavbg.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
   top: 0px;
   left: 0px;
   width: 100%;
