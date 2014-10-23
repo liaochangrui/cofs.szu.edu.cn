@@ -12,8 +12,6 @@ permalink: /facilities/laser/
 
 <br>
 <br>
-<br>
-<br>
 
 <div class="wrap oh clearfix" style="float: left; width: 33%" >
     <img src="{{ site.baseurl }}/images/CO2device.png" style="width: 100%; margin: 10px; padding: 10px;" >

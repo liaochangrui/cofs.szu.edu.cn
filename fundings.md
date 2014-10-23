@@ -3,8 +3,6 @@ layout: page
 permalink: /fundings/
 ---
 
-<br>
-
 <table>
   <thead>
     <tr>

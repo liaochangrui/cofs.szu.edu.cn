@@ -4,8 +4,6 @@ permalink: /research/
 ---
 
 
-<br>
-
 <div class="wrap clearfix">
     <img src="{{ site.baseurl }}/images/fiber-grating.png" style="float: left; width: 50%; margin: 15px; padding: 15px;" >
     <h3>1. 光纤光栅传感技术</h3> 
