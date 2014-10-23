@@ -35,6 +35,11 @@ img {
   top: -2rem;
 }
 
+.szunavbg img{
+  width: 100%;
+  height: 100%;
+}
+
 .sec-container {
   display: table;
   width: 100%;
