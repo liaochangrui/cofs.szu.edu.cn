@@ -307,7 +307,7 @@ body {
   top: 14rem;
   background: url(../images/top_bg1.png) repeat-x;
   left: 0px;
-  height: 830px;
+  height: 100%;
 }
 
 .posts .post:last-child {
