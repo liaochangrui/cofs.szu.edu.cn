@@ -186,11 +186,11 @@ body {
   font-size: 1em;
   line-height: 1.2rem;
   font-weight: 400;
-  color: #999;
+  color: #aaa;
 }
 
 .site-header nav a:hover {
-  color: #eee;
+  color: #fff;
   opacity: 1;
   border-bottom: 2px solid #FFFFFF;
 }
