@@ -31,7 +31,6 @@ img {
 
 .szunavbg {
   position: relative;
-  float: left;
   height: 14rem;
   top: -2rem;
   z-index: -1;
