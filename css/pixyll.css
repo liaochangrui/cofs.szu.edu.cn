@@ -149,7 +149,9 @@ img {
 } 
 
 .site-wrap .post {  
-  background-image: url(../images/top_bg1.png) repeat-x top;
+  background-image: url(../images/top_bg1.png);
+  background-repeat: repeat-x;
+  background-position: top;
 }
 
 .site-wrap:after {
