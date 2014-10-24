@@ -15,7 +15,7 @@ permalink: /research/
 <br>
 
 <div class="wrap clearfix">
-    <img src="{{ site.baseurl }}/images/bio-chemical.png" style="float: left; width: 50%; margin: 15px; padding: 15px;" >
+    <img src="{{ site.baseurl }}/images/ZnO-270x190.jpg" style="float: left; width: 50%; margin: 15px; padding: 15px;" >
     <h2 style="color: #870A40;">光纤生化传感技术</h2> 
     <ul>
         光纤生化传感技术在生物医学、食品安全及化学分析等领域具有重要的应用。本方向主要研究基于金属纳米结构、金属薄膜、ZnO纳米线等的光纤生化传感芯片以及其在疾病早期诊断、痕量气体检测应用等方面的关键技术。利用化学合成法在光纤表面成功实现了纳米金粒子合成及表征，构建了光纤表面等离激元（LSPR）检测系统。利用光纤侧面抛磨技术实现了粉尘和气体浓度检测。利用两步溶液化学合成法在光纤表面成功制备了ZnO纳米线，实现了高灵敏度湿度检测。
