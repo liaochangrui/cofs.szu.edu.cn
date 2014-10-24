@@ -27,16 +27,18 @@ navigation:
    url: /recruit
 
 links:
- - title: "靳伟教授"
-   url: http://myweb.polyu.edu.hk/~eewjin
- - title: "浙大现代光学仪器国家重点实验室"
-   url: http://www.nanophotonics.zju.edu.cn/Web_Tong
- - title: "华中科技大学超快光学实验室"
-   url: http://ufolab.phys.hust.edu.cn
  - title: "深圳大学"
    url: http://www.szu.edu.cn
  - title: "深圳大学光电工程学院"
    url: http://opto.szu.edu.cn
+- title: "英国南安普顿大学光电研究中心"    
+   url: http://www.orc.soton.ac.uk/
+ - title: "香港理工大学"                  
+   url: http://www.polyu.edu.hk/
+ - title: "国家自然科学基金委"    
+   url: http://www.nsfc.gov.cn/
+ - title: "深圳市科技创新委员"         
+   url: http://www.szsti.gov.cn/
 
 newpapers:
  - title: "Compact tunable multibandpass filters based on liquid-filled photonic crystal fibers"
