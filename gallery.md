@@ -2,10 +2,12 @@
 layout: page
 permalink: /gallery/
 carousel: 
-  - image: group-1-600x300-m.jpg
-  - image: group-2-600x300-m.jpg
-  - image: group-3-600x300-m.jpg
-  - image: group-4-600x300-m.jpg
+  - image: group-1-768x511.jpg
+  - image: group-2-950x480.jpg
+  - image: group-3-900x480.jpg
+  - image: group-4-800x460.jpg
+  - image: group-5-800x600.jpg
+  - image: group-6-900x600.jpg
 ---
 
 
