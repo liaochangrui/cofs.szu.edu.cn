@@ -41,10 +41,8 @@ links:
    url: http://www.szsti.gov.cn/
 
 newpapers:
- - title: "High-sensitivity strain sensor based on inflated long period fiber grating"
-   author: "X.Y. Zhong et al.Optics Letters, Vol. 39, Issue 18, pp. 5463-5466."
-   doc: "zhongxiaoyong-high.pdf"
-   image: liuyingjie2014ol-compact.jpg
+ - doc: "zhongxiaoyong-high.pdf"
+   image: xiaoyong-index-664x630.png
  - title: "Ultrasensitive refractive index sensor based on a Mach–Zehnder interferometer created in twin-core fiber"
    author: "Z.Y. Li et al., Optics Letters (2014)."
    doc: "lizhengyong20140l-ultrasenstive.pdf"
