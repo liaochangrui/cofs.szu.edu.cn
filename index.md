@@ -9,6 +9,8 @@ carousel:
 通知通告
 ------------------------
 
++ 2014年10月23日<br>
+  [王义平教授团队在研究生培养中取得突出成绩]({{ site.baseurl }}/notice/congratulation.html)
 + 2014年9月22日 - 9月25日<br> 
   [全国光纤传感学术会议暨产业化论坛]({{ site.baseurl }}/notice/dalian-notice.html)
 + 2014年9月15日<br>
