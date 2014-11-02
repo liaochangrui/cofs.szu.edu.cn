@@ -317,7 +317,7 @@ permalink: /members/
   邓蜜 
   </a>
   <br>
-  E-mail：841315787@qq.com
+  E-mail：dengmi@email.szu.edu.cn
   </div>
 </div>
 
