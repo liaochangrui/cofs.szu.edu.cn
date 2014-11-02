@@ -20,6 +20,8 @@ permalink: /members/
   <br>
   电话： 0755-26066281
   <br>
+  Tel：  13510186456
+  <br>
   E-mail： ypwang@szu.edu.cn
   </div>
 </div>
@@ -35,6 +37,8 @@ permalink: /members/
   廖常锐 博士
   </a>
   <br>
+  Tel：  15012911508
+  <br>
   E-mail： cliao@szu.edu.cn
   </div>
 </div>
@@ -44,6 +48,22 @@ permalink: /members/
 ## 在站博士后
 
 <div class="sec-container">
+
+<div class="bio-container">
+  <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/wangguanjun/">
+  <img src="{{ site.baseurl }}/images/wangguanjun-92x114.jpg" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/wangguanjun/">
+  王冠军 博士
+  </a>
+  <br/>
+  E-mail:wangguanjun@163.com
+  </div>
+</div>
+
 
 <div class="bio-container">
   <div class="bio-avatar" >
@@ -77,20 +97,6 @@ permalink: /members/
   </div>
 </div>
 
-<div class="bio-container">
-  <div class="bio-avatar" >
-  <a href="{{ site.baseurl }}/members/wangguanjun/">
-  <img src="{{ site.baseurl }}/images/wangguanjun-92x114.jpg" class="max-img-border"/>
-  </a>
-  </div>
-  <div class="bio-info">
-  <a href="{{ site.baseurl }}/members/wangguanjun/">
-  王冠军 博士
-  </a>
-  <br/>
-  E-mail:wangguanjun@163.com
-  </div>
-</div>
 
 <div class="bio-container">
   <div class="bio-avatar" >
@@ -117,21 +123,6 @@ permalink: /members/
 
 <div class="bio-container">
   <div class="bio-avatar" >
-  <a href="{{ site.baseurl }}/members/zhaojing/">
-  <img src="{{ site.baseurl }}/images/zhaojing-92x113.jpg" class="max-img-border"/>
-  </a>
-  </div>
-  <div class="bio-info">
-  <a href="{{ site.baseurl }}/members/zhaojing/">
-  赵静
-  </a>
-  <br/>
-  E-mail:zhaojing090824@163.com
-  </div>
-</div>
-
-<div class="bio-container">
-  <div class="bio-avatar" >
   <a href="{{ site.baseurl }}/members/tangjian/">
   <img src="{{ site.baseurl }}/images/tangjian-92x128.jpg" class="max-img-border"/>
   </a>
@@ -147,16 +138,16 @@ permalink: /members/
 
 <div class="bio-container">
   <div class="bio-avatar" >
-  <a href="{{ site.baseurl }}/members/zhangcongzhe/">
-  <img src="{{ site.baseurl }}/images/zhangcongzhe-92x130.jpg" class="max-img-border"/>
+  <a href="{{ site.baseurl }}/members/zhaojing/">
+  <img src="{{ site.baseurl }}/images/zhaojing-92x113.jpg" class="max-img-border"/>
   </a>
   </div>
   <div class="bio-info">
-  <a href="{{ site.baseurl }}/members/zhangcongzhe/">
-  张聪哲
+  <a href="{{ site.baseurl }}/members/zhaojing/">
+  赵静
   </a>
-  <br>
-  E-mail： czhang015@gmail.com
+  <br/>
+  E-mail:zhaojing090824@163.com
   </div>
 </div>
 
@@ -175,41 +166,26 @@ permalink: /members/
   </div>
 </div>
 
+<div class="bio-container">
+  <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/zhangcongzhe/">
+  <img src="{{ site.baseurl }}/images/zhangcongzhe-92x130.jpg" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/zhangcongzhe/">
+  张聪哲*
+  </a>
+  <br>
+  E-mail： czhang015@gmail.com
+  </div>
+</div>
+
 </div>
 
 ## 硕士研究生
 
 <div class="sec-container">
-
-<div class="bio-container">
-  <div class="bio-avatar" >
-  <a href="{{ site.baseurl }}/members/liuyingjie/">
-  <img src="{{ site.baseurl }}/images/liuyinjie-92x130.jpg" class="max-img-border"/>
-  </a>
-  </div>
-  <div class="bio-info">
-  <a href="{{ site.baseurl }}/members/liuyingjie/">
-  刘颖洁
-  </a>
-  <br>
-  E-mail：814423256@qq.com
-  </div>
-</div>
-
-<div class="bio-container">
-  <div class="bio-avatar" >
-  <a href="{{ site.baseurl }}/members/zhoujiangtao/">
-  <img src="{{ site.baseurl }}/images/zhoujiangtao-92x130.jpg" class="max-img-border"/>
-  </a>
-  </div>
-  <div class="bio-info">
-  <a href="{{ site.baseurl }}/members/zhoujiangtao/">
-  周江涛
-  </a>
-  <br>
-  E-mail：2121190102@email.szu.edu.cn
-  </div>
-</div>
 
 <div class="bio-container">
   <div class="bio-avatar" >
@@ -243,6 +219,36 @@ permalink: /members/
 
 <div class="bio-container">
   <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/zhoujiangtao/">
+  <img src="{{ site.baseurl }}/images/zhoujiangtao-92x130.jpg" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/zhoujiangtao/">
+  周江涛
+  </a>
+  <br>
+  E-mail：2121190102@email.szu.edu.cn
+  </div>
+</div>
+
+<div class="bio-container">
+  <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/liuyingjie/">
+  <img src="{{ site.baseurl }}/images/liuyinjie-92x130.jpg" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/liuyingjie/">
+  刘颖洁*
+  </a>
+  <br>
+  E-mail：814423256@qq.com
+  </div>
+</div>
+
+<div class="bio-container">
+  <div class="bio-avatar" >
   <a href="{{ site.baseurl }}/members/yangkaiming/">
   <img src="{{ site.baseurl }}/images/yangkaiming-92x117.jpg" class="max-img-border"/>
   </a>
@@ -255,22 +261,6 @@ permalink: /members/
   E-mail：yangkaiming@email.szu.edu.cn
   </div>
 </div>
-
-<div class="bio-container">
-  <div class="bio-avatar" >
-  <a href="{{ site.baseurl }}/members/wangqiao/">
-  <img src="{{ site.baseurl }}/images/wangqiao-92x130.jpg" class="max-img-border"/>
-  </a>
-  </div>
-  <div class="bio-info">
-  <a href="{{ site.baseurl }}/members/wangqiao/">
-  王侨
-  </a>
-  <br />
-  E-mail：894817530@qq.com
-  </div>
-</div>
-
 
 <div class="bio-container">
   <div class="bio-avatar" >
@@ -289,13 +279,28 @@ permalink: /members/
 
 <div class="bio-container">
   <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/wangqiao/">
+  <img src="{{ site.baseurl }}/images/wangqiao-92x130.jpg" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/wangqiao/">
+  王侨
+  </a>
+  <br />
+  E-mail：894817530@qq.com
+  </div>
+</div>
+
+<div class="bio-container">
+  <div class="bio-avatar" >
   <a href="{{ site.baseurl }}/members/wangqiaoni/">
   <img src="{{ site.baseurl }}/images/wangqiaoni-92x130.jpg" class="max-img-border"/>
   </a>
   </div>
   <div class="bio-info">
   <a href="{{ site.baseurl }}/members/wangqiaoni/">
-  王巧妮
+  王巧妮*
   </a>
   <br />
   E-mail：904190982@qq.com
@@ -349,3 +354,4 @@ permalink: /members/
 
 </div>
 
+**注：*表示合作交流学生**
