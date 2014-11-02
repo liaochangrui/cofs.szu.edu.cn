@@ -396,7 +396,7 @@ permalink: /members/wangyiping/
 
 8. **Y. Wang**, C. Liao, X. Zhong, Z. Li, Y. Liu, J. Zhou, and K. Yang, Selective-fluid-filled photonic crystal fibres and applications, Proc. of SPIE Vol. 8914, Article number: UNSP 89140J, 2013, 5th International Symposium on Photoelectronic Detection and Imaging Technology and Applications (ISPDI 2013), June 2013, Beijing, China. (Invited)
 
-8.**Y. Wang**, H. Bartelt, J. Kobelke, W. Ecke, R. Willsch, C. Liao, X. Zhong, Z. Li, J. Zhou, and Y. Liu, Optical attenuators based on fluid-filled microstructured optical fibers, 2013 Optical Fiber Sensor Conference in China, May 2013, Hefei, China. (Invited)
+8. **Y. Wang**, H. Bartelt, J. Kobelke, W. Ecke, R. Willsch, C. Liao, X. Zhong, Z. Li, J. Zhou, and Y. Liu, Optical attenuators based on fluid-filled microstructured optical fibers, 2013 Optical Fiber Sensor Conference in China, May 2013, Hefei, China. (Invited)
 
 8. **Y. Wang**, Optical fiber gratings written in Microstructured optical fibers, Photonics Global Conference 2012, 13-16 Dec. 2012, Singapore. (Invited)
 
