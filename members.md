@@ -332,7 +332,7 @@ permalink: /members/
   黄益建
   </a>
   <br>
-  E-mail：1253421858@qq.com
+  E-mail：huangyijian@email.szu.edu.cn
   </div>
 </div>
 
