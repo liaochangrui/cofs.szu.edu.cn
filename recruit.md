@@ -61,4 +61,4 @@ permalink: /recruit/
 > 手机：13510186456
 
 
-### ["深圳大学2015年博士研究生招生政策详情"]({{ site.baseurl }}/papers/recruit-szu.pdf)
+### [深圳大学2015年博士研究生招生政策详情]({{ site.baseurl }}/papers/recruit-szu.pdf)
