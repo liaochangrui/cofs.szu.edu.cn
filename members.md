@@ -91,12 +91,11 @@ permalink: /members/
   孙兵 博士
   </a>
   <br>
-  E-mail: graduate_sunbin@126.com
+  E-mail: graduate_sunbing@163.com
   <br>
   E-mail: pcf13@szu.edu.cn
   </div>
 </div>
-
 
 <div class="bio-container">
   <div class="bio-avatar" >
@@ -264,21 +263,6 @@ permalink: /members/
 
 <div class="bio-container">
   <div class="bio-avatar" >
-  <a href="{{ site.baseurl }}/members/xuxizhen/">
-  <img src="{{ site.baseurl }}/images/xuxizhen-92x130.jpg" class="max-img-border"/>
-  </a>
-  </div>
-  <div class="bio-info">
-  <a href="{{ site.baseurl }}/members/xuxizhen/">
-  徐锡镇
-  </a>
-  <br>
-  E-mail：406434774@qq.com
-  </div>
-</div>
-
-<div class="bio-container">
-  <div class="bio-avatar" >
   <a href="{{ site.baseurl }}/members/wangqiao/">
   <img src="{{ site.baseurl }}/images/wangqiao-92x130.jpg" class="max-img-border"/>
   </a>
@@ -289,6 +273,21 @@ permalink: /members/
   </a>
   <br />
   E-mail：894817530@qq.com
+  </div>
+</div>
+
+<div class="bio-container">
+  <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/xuxizhen/">
+  <img src="{{ site.baseurl }}/images/xuxizhen-92x130.jpg" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/xuxizhen/">
+  徐锡镇*
+  </a>
+  <br>
+  E-mail：406434774@qq.com
   </div>
 </div>
 
