@@ -182,7 +182,7 @@ body {
 .site-header a.banner {
   float: right;
   width: 260px;
-  padding-top: 5px;
+  padding-top: -5px;
 }
 .site-header a.banner img {
   padding: 1px;
