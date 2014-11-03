@@ -175,7 +175,7 @@ body {
   color: #fff;
   font-size: 1.8em;
   font-weight: 300;
-  line-height: 3rem;
+  line-height: 2.5rem;
 }
 .site-header a.secondary {
   font-size: 1.15em;
@@ -191,7 +191,7 @@ body {
 
 .site-header nav a {
   font-size: 0.6em;
-  line-height: 1.5rem;
+  line-height: 0.9rem;
   font-weight: 400;
   color: #aaa;
 }
