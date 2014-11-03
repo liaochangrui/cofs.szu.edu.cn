@@ -248,7 +248,7 @@ permalink: /members/wangyiping/
 发表论文183篇（SCI收录110篇，SCI引用1428次，H-index指数: 21），1篇特邀综述论文被J. of Appl. Phys.选为封面文章，2篇论文被Photonics Spectra作为专题报道，合著专著1部。近5年SCI引用都超过150次/年。主办国际学术会议分会1次、大会报告1次、特邀报告20次。
 
 
-#### 10. 代表性论著
+####  代表性论著
 
 1. **Y. Wang**, Review of long period fiber gratings written by CO2 laser, J. Appl. Phys., 108, 081101, 2010. (**[特邀综述论文，被选为期刊封面文章](http://jap.aip.org/resource/1/japiau/v108/i8)**)， 影响因子： 2.210， SCI引用次数： 31
 
@@ -276,181 +276,120 @@ permalink: /members/wangyiping/
 
 ### 2014年
 
-[11]	Zhengyong Li, **Yiping Wang***, Changrui Liao, Shen Liu, Jiangtao Zhou, XiaoyongZhong, Yingjie Liu, Kaiming Yang, Qiao Wang, and Guolu Yin, "Temperature-insensitive refractive index sensor based on in-fiber Michelson interferometer," Sensors and Actuators B-Chemical, 199,31-35, 2014 (JCR一区，IF=3.840)
-<br>
-[12]	Shen Liu, **Yiping Wang***, Changrui Liao, Zhengyong Li, Qiao Wang, Jiangtao Zhou, Kaiming Yang, XiaoyongZhong, Jing Zhao, and Jian Tang, "High-sensitivity strain sensor based on in-fiber improved Fabry–Perot interferometer," Optics Letters, 39(7), 2121-2124, 2014（JCR二区，IF=3.179）
-<br>
-[13]	Yingjie Liu, **Yiping Wang***, Bing Sun, Changrui Liao, Jun Song, Kaiming Yang, Guanjun Wang, Qiao Wang, Guolu Ying, and Jiangtao Zhou, "Compact tunable multibandpass filters based on liquid-filled photonic crystal fibers," Optics Letters, 39(7), 2148-2151, 2014（JCR二区，IF=3.179）
-<br>
-[14]	XiaoyongZhong, **Yiping Wang***，Junle Qu*, Changrui Liao, Shen Liu, Jian Tang, Qiao Wang, Jing Zhao, Kaiming Yang, Zhengyong Li, "High-sensitivity strain sensor based on inflated long period fiber grating", Optics Letters, 39(18), 5463-5466,2014（JCR二区，IF=3.179）
-<br>
-[15]	Changrui Liao, Shen Liu, Lei Xu, Chao Wang, **Yiping Wang***, Zhengyong Li, Qiao Wang, and D. N. Wang, “Sub-micron silica diaphragm based fiber-tip Fabry-Perot interferometer for pressure measurement,” Optics Letters, 39(10), 2827-2830, 2014（JCR二区，IF=3.179）
-<br>
-[16]	Zhengyong Li, Changrui Liao, **Yiping Wang***, Xiaopeng Dong, Shen Liu, Kaiming Yang, Qiao Wang, and Jiangtao Zhou "Ultrasensitive refractive index sensor based on a Mach–Zehnder interferometer created in twin-core fiber," Optics Letters, 39(17), 4982-4985, 2014（JCR二区，IF=3.179）
-<br>
-[17]	Jiangtao Zhou, Changrui Liao, **Yiping Wang***, Guolu Yin, XiaoyongZhong, Kaiming Yang, Bing Sun, Guanjun Wang, and Zhengyong Li, “Simultaneous measurement of strain and temperature by employing fiber Mach-Zehnder interferometer,” Optics Express, 22(2), 1680-1686, 2014. (JCR二区，IF=3.528)
-<br>
-[18]	XiaoyongZhong,**Yiping Wang***, Changrui Liao, Guolu Yin, Jiangtao Zhou, GuanjunWang, Bing Sun and Jian Tang, "Long period fiber gratings inscribed with an improved two-dimensional scanning technique", IEEE Photonics Journal, 6(4), 2201508, 2014（JCR二区，IF=2.330）
-<br>
-[19]	Jiangtao Zhou, **Yiping Wang***, Changrui Liao, Guolu Yin, Xi Xu, Kaiming Yang, XiaoyongZhong, Qiao Wang, and Zhengyong Li, “Intensity-Modulated Strain Sensor Based on Fiber In-Line Mach–Zehnder Interferometer,” IEEE Photonic Technology Letter, 26(5), 508-511, 2014. (JCR二区，IF=2.176)
-<br>
-[20]	Guolu Yin, **Yiping Wang*** Changrui Liao, Jiangtao Zhou, XiaoyongZhong, Guanjun Wang, Bing Sun, and Jun He, "Long Period Fiber Gratings Inscribed by Periodically Tapering a Fiber," IEEE Photonic Technology Letters, 26(7), 698-701, 2014 (JCR二区，IF=2.176)
-<br>
-[21]	Bing Sun,**Yiping Wang***, Yingjie Liu, Shen Liu, Changrui Liao, and Ming-Yang Chen, “Compact device employed a hybrid plasmonic waveguide for polarization-selective splitting,” Optics Communications, 334, 240-246, 2015(JCR三区，IF=1.438)
-<br>
-[22]	Chao Wang, WaJin, Changrui Liao, Jun Ma, Wei Jin, Fan Yang, Hoi Lut Ho, and **Yiping Wang** “Highly birefringent suspended-core photonic microcells for refractive-index sensing,”Applied Physics Letters, 105(6), 061105-1-4, 2014（JCR二区，IF=3.515）
-<br>
-[23]	Tao Chen, Changrui Liao, D. N. Wang, **Yiping Wang**, "Polarization-locked vector solitons in a mode-locked fiber laser using polarization-sensitive few-layer graphene deposited D-shaped fiber saturable absorber," J. of Optical Society of America B 31(6), 1377-1382, 2014（JCR三区，IF=1.806）
-<br>
-[24]	Tao Chen, Liao Changrui, D. N. Wang, **Yiping Wang**, "Passively mode-locked fiber laser by using monolayer chemical vapor deposition of graphene on D-shaped fiber," Applied Optics 53(13), 2828-2832, 2014（JCR三区，IF=1.689）
-<br>
+[11]	Zhengyong Li, **Yiping Wang**, Changrui Liao, Shen Liu, Jiangtao Zhou, XiaoyongZhong, Yingjie Liu, Kaiming Yang, Qiao Wang, and Guolu Yin, "Temperature-insensitive refractive index sensor based on in-fiber Michelson interferometer," Sensors and Actuators B-Chemical, 199,31-35, 2014 (JCR一区，IF=3.840)<br>
 
+[12]	Shen Liu, **Yiping Wang**, Changrui Liao, Zhengyong Li, Qiao Wang, Jiangtao Zhou, Kaiming Yang, XiaoyongZhong, Jing Zhao, and Jian Tang, "High-sensitivity strain sensor based on in-fiber improved Fabry–Perot interferometer," Optics Letters, 39(7), 2121-2124, 2014（JCR二区，IF=3.179）<br>
+
+[13]	Yingjie Liu, **Yiping Wang**, Bing Sun, Changrui Liao, Jun Song, Kaiming Yang, Guanjun Wang, Qiao Wang, Guolu Ying, and Jiangtao Zhou, "Compact tunable multibandpass filters based on liquid-filled photonic crystal fibers," Optics Letters, 39(7), 2148-2151, 2014（JCR二区，IF=3.179）<br>
+
+[14]	XiaoyongZhong, **Yiping Wang**，Junle Qu*, Changrui Liao, Shen Liu, Jian Tang, Qiao Wang, Jing Zhao, Kaiming Yang, Zhengyong Li, "High-sensitivity strain sensor based on inflated long period fiber grating", Optics Letters, 39(18), 5463-5466,2014（JCR二区，IF=3.179）<br>
+
+[15]	Changrui Liao, Shen Liu, Lei Xu, Chao Wang, **Yiping Wang**, Zhengyong Li, Qiao Wang, and D. N. Wang, “Sub-micron silica diaphragm based fiber-tip Fabry-Perot interferometer for pressure measurement,” Optics Letters, 39(10), 2827-2830, 2014（JCR二区，IF=3.179）<br>
+
+[16]	Zhengyong Li, Changrui Liao, **Yiping Wang**, Xiaopeng Dong, Shen Liu, Kaiming Yang, Qiao Wang, and Jiangtao Zhou "Ultrasensitive refractive index sensor based on a Mach–Zehnder interferometer created in twin-core fiber," Optics Letters, 39(17), 4982-4985, 2014（JCR二区，IF=3.179）<br>
+
+[17]	Jiangtao Zhou, Changrui Liao, **Yiping Wang**, Guolu Yin, XiaoyongZhong, Kaiming Yang, Bing Sun, Guanjun Wang, and Zhengyong Li, “Simultaneous measurement of strain and temperature by employing fiber Mach-Zehnder interferometer,” Optics Express, 22(2), 1680-1686, 2014. (JCR二区，IF=3.528)<br>
+
+[18]	XiaoyongZhong,**Yiping Wang**, Changrui Liao, Guolu Yin, Jiangtao Zhou, GuanjunWang, Bing Sun and Jian Tang, "Long period fiber gratings inscribed with an improved two-dimensional scanning technique", IEEE Photonics Journal, 6(4), 2201508, 2014（JCR二区，IF=2.330）<br>
+
+[19]	Jiangtao Zhou, **Yiping Wang**, Changrui Liao, Guolu Yin, Xi Xu, Kaiming Yang, XiaoyongZhong, Qiao Wang, and Zhengyong Li, “Intensity-Modulated Strain Sensor Based on Fiber In-Line Mach–Zehnder Interferometer,” IEEE Photonic Technology Letter, 26(5), 508-511, 2014. (JCR二区，IF=2.176)<br>
+
+[20]	Guolu Yin, **Yiping Wang** Changrui Liao, Jiangtao Zhou, XiaoyongZhong, Guanjun Wang, Bing Sun, and Jun He, "Long Period Fiber Gratings Inscribed by Periodically Tapering a Fiber," IEEE Photonic Technology Letters, 26(7), 698-701, 2014 (JCR二区，IF=2.176)<br>
+
+[21]	Bing Sun,**Yiping Wang**, Yingjie Liu, Shen Liu, Changrui Liao, and Ming-Yang Chen, “Compact device employed a hybrid plasmonic waveguide for polarization-selective splitting,” Optics Communications, 334, 240-246, 2015(JCR三区，IF=1.438)<br>
+
+[22]	Chao Wang, WaJin, Changrui Liao, Jun Ma, Wei Jin, Fan Yang, Hoi Lut Ho, and **Yiping Wang** “Highly birefringent suspended-core photonic microcells for refractive-index sensing,”Applied Physics Letters, 105(6), 061105-1-4, 2014（JCR二区，IF=3.515）<br>
+
+[23]	Tao Chen, Changrui Liao, D. N. Wang, **Yiping Wang**, "Polarization-locked vector solitons in a mode-locked fiber laser using polarization-sensitive few-layer graphene deposited D-shaped fiber saturable absorber," J. of Optical Society of America B 31(6), 1377-1382, 2014（JCR三区，IF=1.806）<br>
+
+[24]	Tao Chen, Liao Changrui, D. N. Wang, **Yiping Wang**, "Passively mode-locked fiber laser by using monolayer chemical vapor deposition of graphene on D-shaped fiber," Applied Optics 53(13), 2828-2832, 2014（JCR三区，IF=1.689）<br>
+
+### 2013年
+[25]	Changrui Liao, Lei Xu, Chao Wang, D. N. Wang, **Yiping Wang**, Qiao Wang, Kaiming Yang, Zhengyong Li, XiaoyongZhong, Jiangtao Zhou, and Yingjie Liu, "Tunable phase-shifted fiber Bragg grating based on femtosecond laser fabricated in-grating bubble," Optics. Letters, 38(21), 4473-4476, 2013.（JCR二区，IF=3.179）<br>
+
+[26]	Changrui Liao, Lei Xu, Chao Wang, D. N. Wang, **Yiping Wang**, Qiao Wang, Kaiming Yang,  Zhengyong Li, Xiaoyong Zhong, Jiangtao Zhou, and Yingjie Liu, Tunable phase-shifted fiber Bragg grating based on femtosecond laser fabricated in-grating bubble, Optics. Letters, 38(21), 4473-4476, 2013.<br>
+
+[27]	*Yiping Wang**, Changrui Liao, XiaoyongZhong, Jiangtao Zhou, Yingjie Liu, Zhengyong Li, Guanjun Wang; Kaiming Yang , Long period fiber gratings written in photonic crystal fibers by use of CO2 laser, Photonic Sensors, 3(3), 193-201, 2013<br>
+
+[28]	**Yiping Wang**, Changrui Liao, Jiangtao Zhou, Yinjie Liu, Zhengyong Li, XiaoyongZhong, Fabrications and applications of fiber gratings based on microstructured optical fibers, J. Shenzhen Uninversity Science and Engineering, 30, 23-29, 2013<br>
 
 ### 2012年
 
-1. **Y. Wang**, H. Bartelt, M. Becker, S. Brueckner, J. Bergmann, J. Kobelke, and M. Rothhardt, Fabrications of Fiber Bragg Gratings Written in Photonic Crystal Fibers, Sensor Letters. 10, 1382-1386, 2012.
-
-2. **Y. Wang**, D. Richardson, G. Brambilla, X. Feng, M. Petrovich, M. Ding, and Z. Song, Intensity-measurement bend sensors based on periodically-tapered soft glass fibers, Opt. Lett. 36, 558-560, 2011
-
-3. L. Jin, W. Jin, J. Ju, and **Y. Wang**, Investigation of Long-Period Grating Resonances in Hollow-Core Photonic Bandgap Fibers, J. of Lightwave Technol. 29,1708-1714, 2011
-
-4. **Y. Wang**, X. Tan, W. Jin, D. Ying, Y. L. Hoo, and S. Liu, Temperature-controlled transformation in fiber types of fluid-filled photonic crystal fibers and applications, Opt. Lett. 35, 88-99, 2010.
-
-5. **Y. Wang**, X. Tan, W. Jin., S. Liu, D. Ying, and Y. L. Hoo, Improved bending property of half-filled photonic crystal fiber, Opt. Express 18, 12197-12202, 2010. 
-
-6. **Y. Wang**, H. Bartelt, W. Ecke, K. Moerl, H. Lehmann, K. Schroeder, R. Willsch, J. Kobelke, M. Rothhardt, R. Spittel, L. Shan, S. Brueckner, W. Jin, X. Tan, and L. Jin, Thermo-optic switching effect based on fluid-filled photonic crystal fiber, IEEE Photon. Technol. Lett. 22, 164-166, 2010.
-
-7. **Y. Wang**, S. Liu, X. Tan, and W. Jin, Selective-fluid-filling technique of microstructured optical fibers, IEEE J. Lightwave Technol. 28, 3193-3196, 2010.
-
-8. S. Liu, L. Jin, W. Jin, **Y. Wang**, and D. N. Wang, Fabrication of long-period gratings by femtosecond laser-induced filling of air-holes in photonic crystal fibers, IEEE Photon. Technol. 22, 1635-1637, 2010.
-
-8. L. Jin, W. Jin, J. Ju, and **Y. Wang**, Coupled local-mode theory for strongly modulated long period gratings, IEEE J. Lightwave Technology 28, 1745-1751 (2010).
-
-8. **Y. Wang**, W. Jin, L. Jin, X. Tan, H. Bartelt, W. Ecke, K. Moerl, K. Schroeder, R. Spittel, R. Willsch, J. Kobelke, M. Rothhardt, L. Shan, and S. Brueckner, Optical switch based on a fluid-filled photonic crystal fiber Bragg grating, Opt. Lett. 34, 3683-3685 (2009).
-
-8. **Y. Wang**, H. Bartelt, W. Ecke, K. Schroeder, R. Willsch, J. Kobelke, M. Rothhardt, I. Latka, and S. Brueckner, Investigating transverse loading characteristics of microstructured fiber Bragg gratings with an active fiber depolarizer, IEEE Photon. Technol. Lett. 21, 1450-1452 (2009).
-
-8. **Y. Wang**, H. Bartelt, M. Becker, S. Brueckner, J. Bergmann, J. Kobelke, and M. Rothhardt, Fiber Bragg grating inscription in pure-silica and Ge-doped photonic crystal fibers, Appl. Opt. 47, 1963-1968 (2009).
-
-8. **Y. Wang**, H. Bartelt, W. Ecke, R. Willsch, J. Kobelke, M. Kautz, S. Brueckner, and M. Rothhardt, Sensing properties of fiber Bragg gratings in small-core Ge-doped photonic crystal fibers, Opt. Communications 282, 1129-1134 (2009).
-
-8. **Y. Wang**, W. Jin, and D. N. Wang, Unique temperature sensing characteristics of CO2-laser-notched long-period fiber gratings, Optics and Lasers in Engineering 47, 1044-1048 (2009).
-
-8. **Y. Wang**, D. N. Wang, W. Jin, J. Ju, and H. L. Ho, Mode field profile and polarization dependence of long period fiber gratings written by CO2 laser, Opt. Communications, 281, 2522-2525, 2008. 
-
-8. **Y. Wang**, H. Bartelt, W. Ecke, R. Willsch, J. Kobelke, M. Kautz, S. Brueckner, and M. Rothhardt, Fiber Bragg gratings in small-core Ge-doped photonic crystal fibers, J. of Electronic Science and Technology of China 6, 429-433 (2008).
-
-8. H. F. Xuan, W. Jin, J. Ju, **Y. P. Wang**, M. Zhang, Y. B. Liao, and M. H. Chen, Hollow-core photonic bandgap fiber polarizer, Opt. Lett. 33, 845-847 (2008).
-
-8. **Y. Wang**, D. N. Wang, W. Jin, and Y. Rao, Asymmetric transverse-load characteristics and polarization dependence of long period fiber gratings written by focused CO2 laser, Appl. Opt. 46, 3079-3086  (2007).
-
-8. **Y. Wang**, W. Jin, and D. N. Wang, Strain characteristics of CO2-laser-carved long period fiber gratings, IEEE J. Quantum Electron. 43, 101-108 (2007). 
-
-8. L. Xiao, M. S. Demokan, W. Jin, **Y. Wang**, and C. Zhao, Fusion splicing photonic crystal fibers and conventional single-mode fibers: microhole collapse effect, IEEE J.of Lightwave Technol. 25, 3563-3574, (2007)
-
-8. **Y. Wang**, D. N. Wang, W. Jin, and X. Fang, Continuously wavelength-tunable MQW Fabry-Perot laser diode pulse source with a fiber-based external cavity, IEEE J. Quantum Electron. 42(9), 868-872, (2006). 
-
-8. **Y. Wang**, D. N. Wang, and W. Jin, Measuring optical fiber length by use of a short-pulse optical fiber ring laser in a self-injection seeding scheme, Appl. Opt. 45, 6469-6472 (2006).
-
-8. **Y. Wang**, D. N. Wang, and W. Jin, CO2-laser-grooved long period fiber grating temperature sensor system based on the intensity modulation, Appl. Opt. 45, 7966-7970 (2006).
-
-8. **Y. Wang**, D. N. Wang, W. Jin, J. Chen, X. Li, and J. Zhou, Reflectometry measuring refractive index and thickness of polymer samples simultaneously, J. Modern Opt., 53, 1845-1851 (2006).
-
-8. H. Shen, J. Chen, X. Li, **Y. Wang**, Group delay and dispersion analysis of compound high order microring resonator all-pass filter, Opt. Communications. 262, 200-205 (2006)
-
-8. J. Zhou, J. Chen, X. Li, G. Wu, and **Y. Wang**, Exact analytical solution for Raman fiber laser, IEEE Photon. Technol. Lett. 18, 1097-1099 (2006).
-
-8. J. Zhou, J. Chen, X. Li, G. Wu, **Y. Wang**, and W. Jiang, Robust, compact, and flexible neural model for a fiber Raman amplifier, J. of Lightwave Technol. 24, 2362-2367 (2006).
-
-8. J. Zhou, J. Chen, X. Li, G. Wu, **Y. Wang**, and W. Jiang, Frequency domain model to calculate the pump to signal RIN transfer in multi-pump Raman fiber amplifiers, Opt. Express 14, 11024-11035 (2006).
-
-8. J. Zhou, J. Chen, X. Li, G. Wu, **Y. Wang** and W. Jiang, Raman induced polarization dependent gain in orthogonally pumped parametric amplifiers, Opt. Express 14, 235-242 (2006).
-
-8. J. Zhou, J. Chen, X. Li, G. Wu, W. Jiang, C. Shi and **Y. Wang**, A novel algorithm for a multi-cavity Raman fiber laser, Opt. Express 14, 3427-3432 (2006).
-
-8. **Y. Wang**, J. Chen, X. Li, X. Zhang, J. Hong, A. Ye, Simultaneous measurement of various optical parameters in a multilayer optical waveguide by a Michelson precision reflectometer, Opt. Lett. 30, 979-981 (2005). 
-
-8. **Y. Wang**, J. Chen, X. Li, J. Zhou, and A. Ye, Electro-optic polymer waveguide grating with fast tuning capability, Appl. Opt. 44, 3442-3447 (2005).
-
-8. **Y. Wang**, J. Chen, and Y. Rao, Torsion characteristics of long-period fiber gratings induced by high-frequency CO2 laser pulses, J. Opt. Soc. Am. B 22, 1167-1172 (2005). 
-
-8. J. Zhou, J. Chen, X. Li, **Y. Wang** and W. Jiang, A novel pump adjustment method for WDM pumped optical Raman amplifier, Opt. Communications 248, 407-413 (2005).
-
-8. J. Zhou, J. Chen, X. Li, G. Wu and **Y. Wang**, Polarization effect in parametric amplifier, Chin. Opt. Lett., 3, 500-502 (2005).
-
-8. J. Hong, J. Chen, **Y. Wang** and X. Li. A Simplified Fiber-Optic In-Line Method to Measure the Electro-Optic Coefficient of Corona Poled Polymers. J. Polymer Research 12, 89-92 (2005).
-
-8. **王义平**, 陈建平, 李新碗, 周俊鹤, 沈浩, 施长海, 张晓红, 洪建勋, 叶爱伦, 快速可调谐电光聚合物波导光栅, 物理学报, 54 (10), 4782-4788, 2005.
-
-8. **王义平**, 陈建平, 李新碗, 洪建勋, 张晓红, 周俊鹤, 叶爱伦, 光纤马赫曾德尔干涉法测量极化聚合物的电光系数, 光学学报, 25(10), 1339-1342, 2005. 
-
-8. **王义平**, 陈建平, 饶云江, 新型长周期光纤光栅的扭曲特性研究, 中国激光, 32(8), 1091-1096, 2005.
-
-8. **王义平**, 陈建平, 饶云江, 同时测量弯曲曲率和弯曲方向的长周期光纤光栅传感器, 光电子激光, 16(10), 1139-1143, 2005.
-
-8. **王义平**, 饶云江, 新型长周期光纤光栅的横向负载特性及其偏振相关性研究. 光子学报, 34(8), 1195-1200, 2005.
-
-8. 洪建勋, 陈建平, **王义平**, 李新碗, 电光聚合物电晕极化过程中的电场和极化分析, 光电子技术25(2), 71-74, 2005.
-
-8. 沈浩，李新碗，周俊鹤，张晓红，**王义平**，陈建平, 可调微型环阵列加强马赫－曾德尔滤波性能分析, 光电子激光, 16(6), 670-673, 2005.
-
-8. 洪建勋, 陈建平, 李新碗, **王义平**, 基于M-Z光纤干涉仪测量极化聚合物的电光系数, 光电子激光, 16(4), 462-465, 2005.
-
-8. 洪建勋，陈建平，李新碗，**王义平**，施长海, 基于Mach-Zehdner干涉仪的聚合物电光系数测量方法的性能改善, 中国激光, 32(9), 1271-1274, 2005.
-
-8. **Y. Wang**, J. Chen, X. Li, J. Hong, X. Zhang, J. Zhou and A. Ye, Measuring electro-optic coefficients of poled polymers using fiber-optic Mach-Zehnder interferometer, Appl. Phys. Lett. 85, 5102-5103 (2004). 
-
-8. **Y. Wang** and Y. Rao, Long period fibre grating torsion sensor measuring twist rate and determining twist direction simultaneously, Electron. Lett. 40, 164-166 (2004).
-
-8. **Y. Wang** and Y. Rao, CO2-laser induced LPFG torsion characteristics depending on length of twisted fibre, Electron. Lett. 40, 1101-1102 (2004).
-
-8. **Y. Wang**, Y. Rao, Z. Ran, T. Zhu and X. Zeng, Bend-insensitive long-period fiber grating sensors, Opt. and Lasers in Engineering 41, 233-239 (2004).
-
-8. **王义平**, 饶云江, 高频CO2激光脉冲写入长周期光纤光栅的方法, 电子学报, 32(8),1322-1325, 2004.
-
-8. 饶云江，朱涛，冉曾令，**王义平**，江建, 高频CO2 激光脉冲写入的新型长周期光纤光栅及其在光通信中的应用, 通信学报, 25(10), 75-86, 2004.
-
-8. 洪建勋, 陈建平, **王义平**, 李新碗, 周俊鹤, 栅极偏压对电光聚合物电晕极化的影响, 高技术通讯, 14(10), 7-10, 2004.
-
-8. 张晓红, 李新碗, 陈建平, **王义平**, 洪建勋, 电光聚合物波导的设计制作及其在光集成中的应用探索, 光电子激光, 15 Suppl., 200-203, May 2004.
-
-8. **Y. Wang**, Y. Rao, Z. Ran, T. Zhu and A. Hu, A novel tunable gain equalizer based on a long-period fiber grating written by high-frequency CO2 laser pulses, IEEE Photon. Technol. Lett., 15, 251-253 (2003).
-
-8. Y. Rao, **Y. Wang**, T. Zhu, Z. Ran, and X. Zeng, Simultaneous measurement of transverse load and temperature using a single long-period fibre grating element, Chin. Phy. Lett. 20, 72-75 (2003).
-
-8. **王义平**, 饶云江, 冉曾令, 朱涛, 高频CO2激光脉冲写入的长周期光纤光栅传感器的特性研究. 物理学报, 52(6), 1432-1437, 2003.
-
-8. **王义平**, 饶云江, 冉曾令, 朱涛, 曾祥楷, 胡爱姿. 一种新颖的长周期光纤光栅可调增益均衡器. 光学学报, 23(8), 970-973, 2003.
-
-8. 饶云江, **王义平**, 冉曾令, 朱涛, 曾祥楷. 单个长周期光纤光栅实现横向负载和温度的同时测量, 中国激光, 30(12), 1116-1120, 2003.
-
-8. 胡爱姿, 饶云江, **王义平**, 徐鹏, 基于新型长周期光纤光栅的动态横向负载传感器, 光子学报, 32 (11), 1359-1362, 2003.
-
-8. 江建, 饶云江, 牛永昌, **王义平**, 廖天奎. 应用LPFG/EFPI集成式光纤传感器实现温度及应变的同时测量. 光子学报, 32(9), 1063-1066, 2003.
-
-8. 朱涛, 饶云江, 冉曾令, **王义平**, 江建. 一种基于新型长周期光纤光栅的动态增益均衡器, 光子学报, 32(3), 283-285, 2003.
-
-8. 冉曾令, 饶云江, 朱涛, 江建, 曾祥楷, **王义平**. 基于新型长周期光纤光栅的掺铒光纤放大器. 光子学报,32(1), 72-75, 2003.
-
-8. Y. Rao, S. Yuan, X. Zeng, D. Liang, Y. Zhu, **Y. Wang**, S. Huang, T. Liu, G. Fernando, L. Zhang and I. Bennion, Simultaneous strain and temperature measurement of advanced 3-D braided composite materials using an improved EFPI/FBG system, Opt. and Lasers in Engineering 38, 557-566 (2002).
-
-8. **王义平**, 饶云江, 胡爱姿, 曾祥楷, 冉曾令, 朱涛. 长周期光纤光栅扭曲传感器. 光学学报, 22(9), 1096-1099, 2002.
-
-8. **王义平**, 饶云江, 冉曾令, 朱涛, 曾祥楷, 余般梅. 对弯曲不敏感的长周期光纤光栅传感器. 光子学报, 31(6), 725-729, 2002.
-
-8. **王义平**, 饶云江, 曾祥楷. 长周期光纤光栅弯曲特性的耦合模理论分析. 光子学报, 2002, 31(10): 1205-1208
-
-8. 饶云江, 曾祥楷, 朱永, **王义平**, 朱涛, 冉曾令. 非本征型法布里-珀罗干涉仪光纤布拉格光栅应变温度传感器及其应用. 光学学报, 22(1), 85-88, 2002. 
-
-8. Y. Rao, X. Zeng, Y. Zhu, **Y. Wang**, T. Zhu, Z.Ran, L.Zhang, I.Bennion, Temperature-strain discrimination sensor using a WDM chirped in-fibre Bragg grating and an extrinsic Fabry-Perot, Chin. Phys. Lett. 18, 643-645, 2001.
-
-8. 曾祥楷, 饶云江, 余般梅, **王义平**, 朱涛, 冉曾令. “光纤应变、温度、振动同时测量新技术的研究. 光子学报, 30(10), 1254-1257, 2001.
-
-8. 李志敏, 曾一, 罗军, **王义平**, 吴建军. 建设工程招投标微机网络管理信息系统, 重庆大学学报(自然科学版), 24(5), 26-29, 2001.
-
-8. 陈小文,肖沙里, 黄敏, 徐道连,**王义平**. 烟叶仓库环境控制方法的研究, 电子仪器仪表用户, 7(4), 5-9, 2000.
-
-8. 黄敏, 龙辉敏, 杨曦, **王义平**, 王巍. 一种典型的英文字符识别算法, 电子仪器仪表用户, 7(4), 17-21, 2000.
+[29]	**Yiping Wang**, H. Bartelt, M. Becker, S. Brueckner, J. Bergmann, J. Kobelke, and M. Rothhardt, "Fabrications of Fiber Bragg Gratings Written in Photonic Crystal Fibers," Sensor Letters. 10(7), 1382-1386, 2012. （JCR四区，IF=0.517）<br>
+
+### 2011年及以前
+
+[30]	Y. Wang, D. Richardson, G. Brambilla, X. Feng, M. Petrovich, M. Ding, and Z. Song, Intensity-measurement bend sensors based on periodically-tapered soft glass fibers, Opt. Lett. 36, 558-560, 2011<br>
+[31]	L. Jin, W. Jin, J. Ju, and Y. Wang, Investigation of Long-Period Grating Resonances in Hollow-Core Photonic Bandgap Fibers, J. of Lightwave Technol. 29,1708-1714, 2011<br>
+[32]	Y. Wang, X. Tan, W. Jin, D. Ying, Y. L. Hoo, and S. Liu, Temperature-controlled transformation in fiber types of fluid-filled photonic crystal fibers and applications, Opt. Lett. 35, 88-99, 2010.<br>
+[33]	Y. Wang, X. Tan, W. Jin., S. Liu, D. Ying, and Y. L. Hoo, Improved bending property of half-filled photonic crystal fiber, Opt. Express 18, 12197-12202, 2010.
+[34]	Y. Wang, H. Bartelt, W. Ecke, K. Moerl, H. Lehmann, K. Schroeder, R. Willsch, J. Kobelke, M. Rothhardt, R. Spittel, L. Shan, S. Brueckner, W. Jin, X. Tan, and L. Jin, Thermo-optic switching effect based on fluid-filled photonic crystal fiber, IEEE Photon. Technol. Lett.22, 164-166, 2010.
+[35]	Y. Wang, S. Liu, X. Tan, and W. Jin, Selective-fluid-filling technique of microstructured optical fibers, IEEE J. Lightwave Technol. 28, 3193-3196, 2010.
+[36]	S. Liu, L. Jin, W. Jin, Y. Wang, and D. N. Wang, Fabrication of long-period gratings by femtosecond laser-induced filling of air-holes in photonic crystal fibers, IEEE Photon. Technol. 22, 1635-1637, 2010.
+[37]	L. Jin, W. Jin, J. Ju, and Y. Wang, Coupled local-mode theory for strongly modulated long period gratings, IEEE J. Lightwave Technology 28, 1745-1751 (2010).
+[38]	Y. Wang, W. Jin, L. Jin, X. Tan, H. Bartelt, W. Ecke, K. Moerl, K. Schroeder, R. Spittel, R. Willsch, J. Kobelke, M. Rothhardt, L. Shan, and S. Brueckner, Optical switch based on a fluid-filled photonic crystal fiber Bragg grating, Opt. Lett.34, 3683-3685 (2009).
+[39]	Y. Wang, H. Bartelt, W. Ecke, K. Schroeder, R. Willsch, J. Kobelke, M. Rothhardt, I. Latka, and S. Brueckner, Investigating transverse loading characteristics of microstructured fiber Bragg gratings with an active fiber depolarizer, IEEE Photon. Technol. Lett.21, 1450-1452 (2009).
+[40]	Y. Wang, H. Bartelt, M. Becker, S. Brueckner, J. Bergmann, J. Kobelke, and M. Rothhardt, Fiber Bragg grating inscription in pure-silica and Ge-doped photonic crystal fibers, Appl. Opt.47, 1963-1968 (2009).
+[41]	Y. Wang, H. Bartelt, W. Ecke, R. Willsch, J. Kobelke, M. Kautz, S. Brueckner, and M. Rothhardt, Sensing properties of fiber Bragg gratings in small-core Ge-doped photonic crystal fibers, Opt. Communications282, 1129-1134 (2009).
+[42]	Y. Wang, W. Jin, and D. N. Wang, Unique temperature sensing characteristics of CO2-laser-notched long-period fiber gratings, Optics and Lasers in Engineering 47, 1044-1048 (2009).
+[43]	Y. Wang, D. N. Wang, W. Jin, J. Ju, and H. L. Ho, Mode field profile and polarization dependence of long period fiber gratings written by CO2 laser, Opt. Communications, 281, 2522-2525, 2008. 
+[44]	Y. Wang, H. Bartelt, W. Ecke, R. Willsch, J. Kobelke, M. Kautz, S. Brueckner, and M. Rothhardt, Fiber Bragg gratings in small-core Ge-doped photonic crystal fibers, J. of Electronic Science and Technology of China 6, 429-433 (2008).
+[45]	H. F. Xuan, W. Jin, J. Ju, Y. P. Wang, M. Zhang, Y. B. Liao, and M. H. Chen, Hollow-core photonic bandgap fiber polarizer, Opt. Lett.33, 845-847 (2008).
+[46]	Y. Wang, D. N. Wang, W. Jin, and Y. Rao, Asymmetric transverse-load characteristics and polarization dependence of long period fiber gratings written by focused CO2 laser, Appl. Opt.46, 3079-3086  (2007).
+[47]	Y. Wang, W. Jin, and D. N. Wang, Strain characteristics of CO2-laser-carved long period fiber gratings, IEEE J. Quantum Electron.43, 101-108 (2007). 
+[48]	L. Xiao, M. S. Demokan, W. Jin, Y. Wang, and C. Zhao, Fusion splicing photonic crystal fibers and conventional single-mode fibers: microhole collapse effect, IEEE J.of Lightwave Technol.25, 3563-3574, (2007)
+[49]	Y. Wang, D. N. Wang, W. Jin, and X. Fang, Continuously wavelength-tunable MQW Fabry-Perot laser diode pulse source with a fiber-based external cavity, IEEE J. Quantum Electron.42(9), 868-872, (2006). 
+[50]	Y. Wang, D. N. Wang, and W. Jin, Measuring optical fiber length by use of a short-pulse optical fiber ring laser in a self-injection seeding scheme, Appl. Opt.45, 6469-6472 (2006).
+[51]	Y. Wang, D. N. Wang, and W. Jin, CO2-laser-grooved long period fiber grating temperature sensor system based on the intensity modulation, Appl. Opt.45, 7966-7970 (2006).
+[52]	Y. Wang, D. N. Wang, W. Jin, J. Chen, X. Li, and J. Zhou, Reflectometry measuring refractive index and thickness of polymer samples simultaneously, J. Modern Opt., 53, 1845-1851 (2006).
+[53]	H. Shen, J. Chen, X. Li, Y. Wang, Group delay and dispersion analysis of compound high order microring resonator all-pass filter, Opt. Communications. 262, 200-205 (2006)
+[54]	J. Zhou, J. Chen, X. Li, G. Wu, and Y. Wang, Exact analytical solution for Raman fiber laser, IEEE Photon. Technol. Lett.18, 1097-1099 (2006).
+[55]	J. Zhou, J. Chen, X. Li, G. Wu, Y. Wang, and W. Jiang, Robust, compact, and flexible neural model for a fiber Raman amplifier, J. of Lightwave Technol.24, 2362-2367 (2006).
+[56]	J. Zhou, J. Chen, X. Li, G. Wu, Y. Wang, and W. Jiang, Frequency domain model to calculate the pump to signal RIN transfer in multi-pump Raman fiber amplifiers, Opt. Express14, 11024-11035 (2006).
+[57]	J. Zhou, J. Chen, X. Li, G. Wu, Y. Wang and W. Jiang, Raman induced polarization dependent gain in orthogonally pumped parametric amplifiers, Opt. Express14, 235-242 (2006).
+[58]	J. Zhou, J. Chen, X. Li, G. Wu, W. Jiang, C. Shi and Y. Wang, A novel algorithm for a multi-cavity Raman fiber laser, Opt. Express14, 3427-3432 (2006).
+[59]	Y. Wang, J. Chen, X. Li, X. Zhang, J. Hong, A. Ye, Simultaneous measurement of various optical parameters in a multilayer optical waveguide by a Michelson precision reflectometer, Opt. Lett.30, 979-981 (2005). 
+[60]	Y. Wang, J. Chen, X. Li, J. Zhou, and A. Ye, Electro-optic polymer waveguide grating with fast tuning capability, Appl. Opt.44, 3442-3447 (2005).
+[61]	Y. Wang, J. Chen, and Y. Rao, Torsion characteristics of long-period fiber gratings induced by high-frequency CO2 laser pulses, J. Opt. Soc. Am. B22, 1167-1172 (2005). 
+[62]	J. Zhou, J. Chen, X. Li, Y. Wang and W. Jiang, A novel pump adjustment method for WDM pumped optical Raman amplifier, Opt. Communications248, 407-413 (2005).
+[63]	J. Zhou, J. Chen, X. Li, G. Wu and Y. Wang, Polarization effect in parametric amplifier, Chin. Opt. Lett., 3, 500-502 (2005).
+[64]	J. Hong, J. Chen, Y. Wang and X. Li. A Simplified Fiber-Optic In-Line Method to Measure the Electro-Optic Coefficient of Corona Poled Polymers. J. Polymer Research12, 89-92 (2005).
+[65]	王义平, 陈建平, 李新碗, 周俊鹤, 沈浩, 施长海, 张晓红, 洪建勋, 叶爱伦, 快速可调谐电光聚合物波导光栅, 物理学报, 54 (10), 4782-4788, 2005.
+[66]	王义平, 陈建平, 李新碗, 洪建勋, 张晓红, 周俊鹤, 叶爱伦, 光纤马赫曾德尔干涉法测量极化聚合物的电光系数, 光学学报, 25(10), 1339-1342, 2005. 
+[67]	王义平, 陈建平, 饶云江, 新型长周期光纤光栅的扭曲特性研究, 中国激光, 32(8), 1091-1096, 2005.
+[68]	王义平, 陈建平, 饶云江, 同时测量弯曲曲率和弯曲方向的长周期光纤光栅传感器, 光电子激光, 16(10), 1139-1143, 2005.
+[69]	王义平, 饶云江, 新型长周期光纤光栅的横向负载特性及其偏振相关性研究. 光子学报, 34(8), 1195-1200, 2005.
+[70]	洪建勋, 陈建平, 王义平, 李新碗, 电光聚合物电晕极化过程中的电场和极化分析, 光电子技术25(2), 71-74, 2005.
+[71]	沈浩，李新碗，周俊鹤，张晓红，王义平，陈建平, 可调微型环阵列加强马赫－曾德尔滤波性能分析, 光电子激光, 16(6), 670-673, 2005.
+[72]	洪建勋, 陈建平, 李新碗, 王义平, 基于M-Z光纤干涉仪测量极化聚合物的电光系数, 光电子激光, 16(4), 462-465, 2005.
+[73]	洪建勋，陈建平，李新碗，王义平，施长海, 基于Mach-Zehdner干涉仪的聚合物电光系数测量方法的性能改善, 中国激光, 32(9), 1271-1274, 2005.
+[74]	Y. Wang, J. Chen, X. Li, J. Hong, X. Zhang, J. Zhou and A. Ye, Measuring electro-optic coefficients of poled polymers using fiber-optic Mach-Zehnder interferometer, Appl. Phys. Lett.85, 5102-5103 (2004). 
+[75]	Y. Wang and Y. Rao, Long period fibre grating torsion sensor measuring twist rate and determining twist direction simultaneously, Electron. Lett.40, 164-166 (2004).
+[76]	Y. Wang and Y. Rao, CO2-laser induced LPFG torsion characteristics depending on length of twisted fibre, Electron. Lett.40, 1101-1102 (2004).
+[77]	Y. Wang, Y. Rao, Z. Ran, T. Zhu and X. Zeng, Bend-insensitive long-period fiber grating sensors, Opt. and Lasers in Engineering41, 233-239 (2004).
+[78]	王义平, 饶云江, 高频CO2激光脉冲写入长周期光纤光栅的方法, 电子学报, 32(8),1322-1325, 2004.
+[79]	饶云江，朱涛，冉曾令，王义平，江建, 高频CO2 激光脉冲写入的新型长周期光纤光栅及其在光通信中的应用, 通信学报, 25(10), 75-86, 2004.
+[80]	洪建勋, 陈建平, 王义平, 李新碗, 周俊鹤, 栅极偏压对电光聚合物电晕极化的影响, 高技术通讯, 14(10), 7-10, 2004.
+[81]	张晓红, 李新碗, 陈建平, 王义平, 洪建勋, 电光聚合物波导的设计制作及其在光集成中的应用探索, 光电子激光, 15 Suppl., 200-203, May 2004.
+[82]	Y. Wang, Y. Rao, Z. Ran, T. Zhu and A. Hu, A novel tunable gain equalizer based on a long-period fiber grating written by high-frequency CO2 laser pulses, IEEE Photon. Technol. Lett., 15, 251-253 (2003).
+[83]	Y. Rao, Y.Wang, T. Zhu, Z. Ran, and X. Zeng, Simultaneous measurement of transverse load and temperature using a single long-period fibre grating element, Chin. Phy. Lett.20, 72-75 (2003).
+[84]	王义平, 饶云江, 冉曾令, 朱涛, 高频CO2激光脉冲写入的长周期光纤光栅传感器的特性研究. 物理学报, 52(6), 1432-1437, 2003.
+[85]	王义平, 饶云江, 冉曾令, 朱涛, 曾祥楷, 胡爱姿. 一种新颖的长周期光纤光栅可调增益均衡器. 光学学报, 23(8), 970-973, 2003.
+[86]	饶云江, 王义平, 冉曾令, 朱涛, 曾祥楷. 单个长周期光纤光栅实现横向负载和温度的同时测量, 中国激光, 30(12), 1116-1120, 2003.
+[87]	胡爱姿,饶云江, 王义平, 徐鹏, 基于新型长周期光纤光栅的动态横向负载传感器, 光子学报, 32 (11), 1359-1362, 2003.
+[88]	江建, 饶云江, 牛永昌, 王义平, 廖天奎. 应用LPFG/EFPI集成式光纤传感器实现温度及应变的同时测量. 光子学报, 32(9), 1063-1066, 2003.
+[89]	朱涛, 饶云江, 冉曾令, 王义平, 江建. 一种基于新型长周期光纤光栅的动态增益均衡器, 光子学报, 32(3), 283-285, 2003.
+[90]	冉曾令, 饶云江, 朱涛, 江建, 曾祥楷, 王义平. 基于新型长周期光纤光栅的掺铒光纤放大器. 光子学报,32(1), 72-75, 2003.
+[91]	Y. Rao, S. Yuan, X. Zeng, D. Liang, Y. Zhu, Y. Wang, S. Huang, T. Liu, G. Fernando, L. Zhang and I. Bennion, Simultaneous strain and temperature measurement of advanced 3-D braided composite materials using an improved EFPI/FBG system, Opt. and Lasers in Engineering38, 557-566 (2002).
+[92]	王义平, 饶云江, 胡爱姿,曾祥楷, 冉曾令, 朱涛. 长周期光纤光栅扭曲传感器. 光学学报, 22(9), 1096-1099, 2002.
+[93]	王义平, 饶云江, 冉曾令, 朱涛, 曾祥楷, 余般梅. 对弯曲不敏感的长周期光纤光栅传感器. 光子学报, 31(6), 725-729, 2002.
+[94]	王义平, 饶云江, 曾祥楷. 长周期光纤光栅弯曲特性的耦合模理论分析. 光子学报, 2002, 31(10): 1205-1208
+[95]	饶云江, 曾祥楷, 朱永, 王义平, 朱涛, 冉曾令. 非本征型法布里-珀罗干涉仪光纤布拉格光栅应变温度传感器及其应用. 光学学报, 22(1), 85-88, 2002. 
+[96]	Y. Rao, X. Zeng, Y. Zhu, Y.Wang, T. Zhu, Z.Ran, L.Zhang, I.Bennion, Temperature-strain discrimination sensor using a WDM chirped in-fibre Bragg grating and an extrinsic Fabry-Perot, Chin. Phys. Lett.18, 643-645, 2001.
+[97]	曾祥楷, 饶云江, 余般梅, 王义平, 朱涛, 冉曾令. “光纤应变、温度、振动同时测量新技术的研究. 光子学报, 30(10), 1254-1257, 2001.
+[98]	李志敏, 曾一, 罗军, 王义平, 吴建军. 建设工程招投标微机网络管理信息系统, 重庆大学学报(自然科学版), 24(5), 26-29, 2001.
+[99]	陈小文,肖沙里, 黄敏, 徐道连,王义平. 烟叶仓库环境控制方法的研究, 电子仪器仪表用户, 7(4), 5-9, 2000.
+[100]	黄敏, 龙辉敏, 杨曦, 王义平, 王巍. 一种典型的英文字符识别算法, 电子仪器仪表用户, 7(4), 17-21, 2000.
 
 
 ## 会议论文 
