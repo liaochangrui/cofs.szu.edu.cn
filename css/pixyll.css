@@ -70,7 +70,7 @@ img {
   display: inline;
   font-size: 14px;
   line-height: 2.3em;
-  font-style: italic;
+  text-decoration: none;
 }
 .bio-info a {
   display: inline;
