@@ -173,7 +173,7 @@ body {
 
 .site-header a {
   color: #fff;
-  font-size: 2.0em;
+  font-size: 1.6em;
   font-weight: 300;
   line-height: 3rem;
 }
@@ -190,7 +190,7 @@ body {
 }
 
 .site-header nav a {
-  font-size: 0.8em;
+  font-size: 0.6em;
   line-height: 1.5rem;
   font-weight: 400;
   color: #aaa;
