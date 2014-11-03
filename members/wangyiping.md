@@ -40,7 +40,7 @@ permalink: /members/wangyiping/
 
 + 1995,07-1998,08 **重庆华光仪器厂**、计量处，技术员。
 
-## 主持科研项目及人才基金
+## 3. 主持科研项目及人才基金
 
 已主持国家自然科学基金（4项）、欧盟玛丽局里国际引进人才基金、德国洪堡研究基金等科研项目17项。 
 
@@ -65,7 +65,7 @@ permalink: /members/wangyiping/
 |16	|香港理工大学博士后研究基金	|Tunable multi-wavelength fiber laser operated in L-band (G-YX51)|2005,06-2007,05|结题|主持|
 |17|中国博士后科学基金|快速可调谐聚合物波导布拉格光栅 (2003034258)|2003/07-2005/06		|结题		|主持	|
 
-## 获  奖
+## 4. 获  奖
 
 1. 2014年获国家杰出青年科学基金，获奖项目“光纤传感技术”。<br>
 2. 2014年入选深圳市地方级领军人才。<br>
@@ -78,7 +78,7 @@ permalink: /members/wangyiping/
 9. 2006年获 第四获奖人全国优秀博士学位论文奖，获奖论文：新型长周期光纤光栅特性研究。<br>
 10. 2004年获重庆市科学技术奖——技术发明奖，二等奖，获奖项目：新型长周期光纤光栅器件制作与应用，第四获奖人。<br>
 
-## 授权专利
+## 5. 授权专利
 
 授权专利11项，申请公布（实审）发明专利7项。
 
@@ -130,31 +130,31 @@ permalink: /members/wangyiping/
     强度调制型光纤迈克尔逊应变传感器及制作方法<br>
     中国发明专利，申请号：201410065837.4，申请日：2014.02.26<br>
 
-13. **王义平**，刘颖洁，廖常锐，深圳大学
-    光子晶体光纤紧凑型可调谐的带通滤波器及其制作方法
-    中国发明专利，申请号：201410126998.X，申请日：2014.02.26
+13. **王义平**，刘颖洁，廖常锐，深圳大学<br>
+    光子晶体光纤紧凑型可调谐的带通滤波器及其制作方法<br>
+    中国发明专利，申请号：201410126998.X，申请日：2014.02.26<br>
 
-14. **王义平**，刘申，廖常锐，深圳大学
-    可调FP腔的FP干涉仪的制作方法及制作装置
-    中国发明专利，申请号：201410127074.1，申请日：2014.03.31
+14. **王义平**，刘申，廖常锐，深圳大学<br>
+    可调FP腔的FP干涉仪的制作方法及制作装置<br>
+    中国发明专利，申请号：201410127074.1，申请日：2014.03.31<br>
 
-15. **王义平**，李正勇，廖常锐，深圳大学
-    基于迈克尔逊干涉仪的全光纤折射率计、制作方法及系统
-    中国发明专利，申请号：201410156179.X，申请日：2014.04.18
+15. **王义平**，李正勇，廖常锐，深圳大学<br>
+    基于迈克尔逊干涉仪的全光纤折射率计、制作方法及系统<br>
+    中国发明专利，申请号：201410156179.X，申请日：2014.04.18<br>
 
-16. **王义平**，钟晓勇，廖常锐，深圳大学
-    基于光子晶体光纤的膨胀型长周期光纤光栅及其制作方法
-    中国发明专利，申请号：201410173103.8，申请日:2014.04.25
+16. **王义平**，钟晓勇，廖常锐，深圳大学<br>
+    基于光子晶体光纤的膨胀型长周期光纤光栅及其制作方法<br>
+    中国发明专利，申请号：201410173103.8，申请日:2014.04.25<br>
 
-17. **王义平**，廖常锐，刘申，深圳大学
-    基于光纤FP干涉仪的压力传感器及其制作方法
-    中国发明专利，申请号：201410173102.3，申请日：2014.04.25
+17. **王义平**，廖常锐，刘申，深圳大学<br>
+    基于光纤FP干涉仪的压力传感器及其制作方法<br>
+    中国发明专利，申请号：201410173102.3，申请日：2014.04.25<br>
 
-18. **王义平**，周江涛，廖常锐，深圳大学
-    强度调制型光纤迈克尔逊应变传感器及制作方法
-    中国发明专利，申请号：201410065837.4，申请日：2014.02.26
+18. **王义平**，周江涛，廖常锐，深圳大学<br>v
+    强度调制型光纤迈克尔逊应变传感器及制作方法<br>
+    中国发明专利，申请号：201410065837.4，申请日：2014.02.26<br>
 
-## 学术兼职
+## 6. 学术兼职
 
 + IEEE高级会员 (Senior Member of IEEE)；
 
@@ -168,7 +168,7 @@ permalink: /members/wangyiping/
 
 + 德国洪堡基金会会员
 
-## 学术会议特邀报告
+## 7. 学术会议特邀报告 
 
 已主办国际会议分会1次，学术会议大会报告和特邀报告21次，分会主席(Session Chair)和会议TPC 10次，近5年部分学术会议如下：
 
@@ -192,7 +192,7 @@ permalink: /members/wangyiping/
 
 10. **Y. Wang**, Fabrication and application of CO2-laser-induced LPFGs, 5th Forum on Research and Development of Optical Fiber Sensors, Jun. 2010, Guangzhou, China. ( **特邀报告、分会主席** )
 
-## 创新研究成果
+## 8. 创新研究成果
 
 ### （1）光纤光栅系统性研究
 
@@ -244,11 +244,11 @@ permalink: /members/wangyiping/
 > A. Birks (OSA Fellow)等评价：“据我们所知，这是有关高非线性光子晶体光纤低损耗熔接技术的唯一报道，其关键技术在于空气孔完全坍陷后光仍然可以在掺锗纤芯中传输，并且任何情况下都只有约1.0dB的熔接损耗”(To our knowledge, the only reported low-loss HNL PCF splices rely on special Ge-doped cores that still guide if the holes have collapsed, and they are quite lossy(~1.0 dB)anyway.Opt. Lett. 34, 2240, 2009)
 
 
-## 学术论著
-发表论文150篇（SCI收录86篇，SCI他引1021次，H-index指数: 20），1篇特邀综述论文被选为期刊封面文章，2篇论文被Photonics Spectra作为专题报道，合著专著1部。近5年SCI引用都超过120次/年并逐年递增。
+## 9. 学术论著
+发表论文183篇（SCI收录110篇，SCI引用1428次，H-index指数: 21），1篇特邀综述论文被J. of Appl. Phys.选为封面文章，2篇论文被Photonics Spectra作为专题报道，合著专著1部。近5年SCI引用都超过150次/年。主办国际学术会议分会1次、大会报告1次、特邀报告20次。
 
 
-#### 代表性论著
+#### 10. 代表性论著
 
 1. **Y. Wang**, Review of long period fiber gratings written by CO2 laser, J. Appl. Phys., 108, 081101, 2010. (**[特邀综述论文，被选为期刊封面文章](http://jap.aip.org/resource/1/japiau/v108/i8)**)， 影响因子： 2.210， SCI引用次数： 31
 
@@ -276,24 +276,35 @@ permalink: /members/wangyiping/
 
 ### 2014年
 
-1.	Yingjie Liu, **Yiping Wang**, Bing Sun, Changrui Liao, Jun Song, Kaiming Yang, Guanjun Wang, Qiao Wang, Guolu Ying, and Jiangtao Zhou, Compact tunable bandpass filters based on liquid-filled photonic crystal fibers, Optics Letters, 39, Mar. 2014 (In press)
+[11]	Zhengyong Li, **Yiping Wang***, Changrui Liao, Shen Liu, Jiangtao Zhou, XiaoyongZhong, Yingjie Liu, Kaiming Yang, Qiao Wang, and Guolu Yin, "Temperature-insensitive refractive index sensor based on in-fiber Michelson interferometer," Sensors and Actuators B-Chemical, 199,31-35, 2014 (JCR一区，IF=3.840)
+<br>
+[12]	Shen Liu, **Yiping Wang***, Changrui Liao, Zhengyong Li, Qiao Wang, Jiangtao Zhou, Kaiming Yang, XiaoyongZhong, Jing Zhao, and Jian Tang, "High-sensitivity strain sensor based on in-fiber improved Fabry–Perot interferometer," Optics Letters, 39(7), 2121-2124, 2014（JCR二区，IF=3.179）
+<br>
+[13]	Yingjie Liu, **Yiping Wang***, Bing Sun, Changrui Liao, Jun Song, Kaiming Yang, Guanjun Wang, Qiao Wang, Guolu Ying, and Jiangtao Zhou, "Compact tunable multibandpass filters based on liquid-filled photonic crystal fibers," Optics Letters, 39(7), 2148-2151, 2014（JCR二区，IF=3.179）
+<br>
+[14]	XiaoyongZhong, **Yiping Wang***，Junle Qu*, Changrui Liao, Shen Liu, Jian Tang, Qiao Wang, Jing Zhao, Kaiming Yang, Zhengyong Li, "High-sensitivity strain sensor based on inflated long period fiber grating", Optics Letters, 39(18), 5463-5466,2014（JCR二区，IF=3.179）
+<br>
+[15]	Changrui Liao, Shen Liu, Lei Xu, Chao Wang, **Yiping Wang***, Zhengyong Li, Qiao Wang, and D. N. Wang, “Sub-micron silica diaphragm based fiber-tip Fabry-Perot interferometer for pressure measurement,” Optics Letters, 39(10), 2827-2830, 2014（JCR二区，IF=3.179）
+<br>
+[16]	Zhengyong Li, Changrui Liao, **Yiping Wang***, Xiaopeng Dong, Shen Liu, Kaiming Yang, Qiao Wang, and Jiangtao Zhou "Ultrasensitive refractive index sensor based on a Mach–Zehnder interferometer created in twin-core fiber," Optics Letters, 39(17), 4982-4985, 2014（JCR二区，IF=3.179）
+<br>
+[17]	Jiangtao Zhou, Changrui Liao, **Yiping Wang***, Guolu Yin, XiaoyongZhong, Kaiming Yang, Bing Sun, Guanjun Wang, and Zhengyong Li, “Simultaneous measurement of strain and temperature by employing fiber Mach-Zehnder interferometer,” Optics Express, 22(2), 1680-1686, 2014. (JCR二区，IF=3.528)
+<br>
+[18]	XiaoyongZhong,**Yiping Wang***, Changrui Liao, Guolu Yin, Jiangtao Zhou, GuanjunWang, Bing Sun and Jian Tang, "Long period fiber gratings inscribed with an improved two-dimensional scanning technique", IEEE Photonics Journal, 6(4), 2201508, 2014（JCR二区，IF=2.330）
+<br>
+[19]	Jiangtao Zhou, **Yiping Wang***, Changrui Liao, Guolu Yin, Xi Xu, Kaiming Yang, XiaoyongZhong, Qiao Wang, and Zhengyong Li, “Intensity-Modulated Strain Sensor Based on Fiber In-Line Mach–Zehnder Interferometer,” IEEE Photonic Technology Letter, 26(5), 508-511, 2014. (JCR二区，IF=2.176)
+<br>
+[20]	Guolu Yin, **Yiping Wang*** Changrui Liao, Jiangtao Zhou, XiaoyongZhong, Guanjun Wang, Bing Sun, and Jun He, "Long Period Fiber Gratings Inscribed by Periodically Tapering a Fiber," IEEE Photonic Technology Letters, 26(7), 698-701, 2014 (JCR二区，IF=2.176)
+<br>
+[21]	Bing Sun,**Yiping Wang***, Yingjie Liu, Shen Liu, Changrui Liao, and Ming-Yang Chen, “Compact device employed a hybrid plasmonic waveguide for polarization-selective splitting,” Optics Communications, 334, 240-246, 2015(JCR三区，IF=1.438)
+<br>
+[22]	Chao Wang, WaJin, Changrui Liao, Jun Ma, Wei Jin, Fan Yang, Hoi Lut Ho, and **Yiping Wang** “Highly birefringent suspended-core photonic microcells for refractive-index sensing,”Applied Physics Letters, 105(6), 061105-1-4, 2014（JCR二区，IF=3.515）
+<br>
+[23]	Tao Chen, Changrui Liao, D. N. Wang, **Yiping Wang**, "Polarization-locked vector solitons in a mode-locked fiber laser using polarization-sensitive few-layer graphene deposited D-shaped fiber saturable absorber," J. of Optical Society of America B 31(6), 1377-1382, 2014（JCR三区，IF=1.806）
+<br>
+[24]	Tao Chen, Liao Changrui, D. N. Wang, **Yiping Wang**, "Passively mode-locked fiber laser by using monolayer chemical vapor deposition of graphene on D-shaped fiber," Applied Optics 53(13), 2828-2832, 2014（JCR三区，IF=1.689）
+<br>
 
-2. Shen Liu, **Yiping Wang**, Changrui Liao, Zhengyong Li, Qiao Wang, Jiangtao Zhou, Kaiming Yang, Xiaoyong Zhong, Jing Zhao, and Jian Tang, High-sensitivity strain sensor based on in-fiber improved Fabry-Perot interferometer, Optics Letters, 39, Feb. 2014 (In press)
-
-3. Zhengyong Li, **Yiping Wang**, Changrui Liao, Shen Liu, Jiangtao Zhou, Xiaoyong Zhong, Yingjie Liu, Kaiming Yang, Qiao Wang, and Guolu Ying, Temperature-insensitive refractive index sensor based on in-fiber Michelson interferometer, Sensors and Actuators B: Chemical, 49, Mar. 2014 (In press)
-
-4. Guolu Yin, **Yiping Wang**, Changrui Liao, Jiangtao Zhou, Xiaoyong Zhong, Guanjun Wang, Bing Sun, and Jun He, Long period fiber gratings inscribed by periodically tapering a fiber, IEEE Photonic Technology Letters, 26(7), 698-701, 2014
-
-5. Jiangtao Zhou, **Yiping Wang**, Changrui Liao, Guolu Yin, Xi Xu, Kaiming Yang, Xiaoyong Zhong, Qiao Wang, and Zhengyong Li, Intensity-Modulated Strain Sensor Based on Fiber In-Line Mach-Zehnder Interferometer, IEEE Photonic Technology Letters,26(5), 508-511, 2014
-
-6. Jiangtao Zhou, Changrui Liao, **Yiping Wang**, Guolu Yin, Xiaoyong Zhong, Kaiming Yang, Bing Sun, Guanjun Wang, and Zhengyong Li, Simultaneous measurement of strain and temperature by employing fiber Mach-Zehnder interferometer, Optics Express, 22(2), 1680-1686, 2014
-2013年
-
-7. Changrui Liao, Lei Xu, Chao Wang, D. N. Wang, **Yiping Wang**, Qiao Wang, Kaiming Yang,  Zhengyong Li, Xiaoyong Zhong, Jiangtao Zhou, and Yingjie Liu, Tunable phase-shifted fiber Bragg grating based on femtosecond laser fabricated in-grating bubble, Optics. Letters, 38(21), 4473-4476, 2013.
-
-8. **Yiping Wang**, Changrui Liao, Xiaoyong Zhong, Jiangtao Zhou, Yingjie Liu, Zhengyong Li, Guanjun Wang; Kaiming Yang , Long period fiber gratings written in photonic crystal fibers by use of CO2 laser, Photonic Sensors, 3(3), 193-201, 2013
-
-9. **Yiping Wang**, Changrui Liao, Jiangtao Zhou, Yinjie Liu, Zhengyong Li, Xiaoyong Zhong, Fabrications and applications of fiber gratings based on microstructured optical fibers, J. Shenzhen Uninversity Science and Engineering, 30, 23-29, 2013.
 
 ### 2012年
 
