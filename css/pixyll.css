@@ -173,25 +173,25 @@ body {
 
 .site-header a {
   color: #fff;
-  font-size: 1.8em;
+  font-size: 2.0em;
   font-weight: 300;
-  line-height: 2.5rem;
+  line-height: 3rem;
 }
 .site-header a.secondary {
-  font-size: 1.15em;
+  font-size: 0.8em;
 }
 .site-header a.banner {
   float: right;
   width: 300px;
-  padding-top: 30px
+  padding-top: 10px;
 }
 .site-header a.banner img {
   padding: 1px;
 }
 
 .site-header nav a {
-  font-size: 0.6em;
-  line-height: 0.9rem;
+  font-size: 1.2em;
+  line-height: 1.5rem;
   font-weight: 400;
   color: #aaa;
 }
