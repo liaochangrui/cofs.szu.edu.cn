@@ -538,6 +538,105 @@ permalink: /members/wangyiping/
 
 2012年
 
+[135]	**Yiping Wang**, Optical fiber gratings written in Microstructured optical fibers, Photonics Global Conference 2012 (PGC2012), 13-16 Dec. 2012, Singapore. (Invited)<br>
+
+[136]	**Yiping Wang**, In-Fiber gratings written in photonic crystal fibers, International Conference on Optical Fiber Sensing Technology and Its Application on Smart Grid, 13-15 Oct. 2012, Nanjing, China. (Invited)<br>
+
+[137]	**Y. Wang**, Post-processing techniques for enhancing mode-coupling in long period fiber gratings, Proc. of SPIE Vol. 8421, 84214W, 22nd International Conference on Optical FiberSensors (OFS-22), 15-19 Oct. 2012,<bBeijing, China.<br>
+
+2011年及以前
+
+[138]	**Y. Wang**, H. Bartelt, W. Ecke, R. Willsch, and J. Kobelke，UV-laser-inscribed fiber Bragg gratings in photonic crystal fibers and sensing applications, The 2011 International Conference on Optical Instrument and Technology: Optoelectronic Measurement Technology and System (OIT11-5), Prof. of SPIE 8201-73, Beijing, China (Invited)<br>
+
+[139]	**Y. Wang**, H. Bartelt, M. Becker, S. Brueckner, J. Bergmann, J. Kobelke, and M. Rothhardt, Fabrications of Fiber Bragg gratings written in photonic crystal fibers, The 2011 Optical Fiber Sensors Conference (OFSC-2011), Harbin, China. (Invited)<br>
+
+[140]	**Y. Wang**, D. Richardson, G. Brambilla, X. Feng, M. Petrovich, M. Ding, and Z. Song, Bend sensors based on periodically-tapered soft glass fibers, 21st International Conference on Optical Fiber Sensors, Proc. of SPIE 7753, 77534J, Ottawa, Canada, 2011, <br>
+
+[141]	P. Wang, G. Brambilla, M. Ding, **Y. Wang**, Y. Semenova, Q. Wu, L. Bo, G. Farrell, An improved ratiometric wavelength measurement system incorporating fibre comb filters fabricated by CO2 laser irradiation, 21st International Conference on Optical Fiber Sensors, Proc. of SPIE 7753, 775355, Ottawa, Canada, 2011, <br>
+
+[142]	**Y. Wang**, Fabrication and Application of CO2-Laser-Induced Long Period Fiber Gratings at the Forum, 5th Forum on Research and Development of Optical Fiber Sensors, June 30 to July 2, 2010, Guangzhou, China. (Invited)<br>
+
+[143]	**Y. Wang**, W. Jin, S. Liu, and X. Tan, Selectively fluid-filled microstructured optical fibers and applications, 2nd Asia-Pacific Optical Sensors Conference, Guangzhou, China (2010)<br>
+
+[144]	**Y. Wang**, W. Jin, X. Tan, and S. Liu, Orientation-dependent bending properties of selectively-filled photonic crystal fibres, Photon10 (the largest optics conference event in the UK),  87, Southampton, U.K. Aug. 2010. <br>
+
+[145]	K.Schuster, J.Kobelke, **Y.Wang**, A.Schwuchow, J.Kirchhof, H.Bartelt, S.Pissadakis, Highly Photosensitive PCFs with Extremely Germanium Doped Core, ICO-Photonics Delphi, Greece, AIP Conference Proceedings, Volume 1288, pp. 47-51, 2010<br>
+
+[146]	**Y. Wang**, H. Bartelt, W. Ecke, K. Moerl, W. Jin, K. Schroeder, R. Willsch, J. Kobelke, M. Rothhardt, L. Shan, S. Brueckner, and X. Tan, "Optical switch based on fluid-filled photonic crystal fiber," in 14th OptoElectronics and Communications Conference, FV6, Hong Kong (2009).<br>
+
+[147]	**Y. Wang**, W. Jin, L. Jin, X. Tan, H. Bartelt, W. Ecke, K. Moerl, H. Lehmann, J. Kobelke, K. Schroeder, R. Willsch, M. Rothhard, L. Shan, S. Brueckner, and D. J. Richardson, Fluid-filled microstructured optical fibers and switching applications, 20th International Conference on Optical Fibre Sensors, Proc. of SPIE 7503, 75035W, Edinburgh, U.K. (2009).<br>
+
+[148]	J. Kobelke, K. Schuster, A. Schwuchow, **Y. Wang**, S. Bruckner, M. Becker, M. Rothhardt, J. Kirchhof, W. Ecke, R. Willsch, and H. Bartelt, "Microstrutured fibers with germanium doped core components," in Photonic Crystal Fibers III, Proc. of SPIE 7357, 735704-735706, Prague, Czech (2009).<br>
+
+[149]	E. Lindner, M. Becker, S. Brückner, **Y. Wang**, M. Rothhardt, H. Bartelt, Two Beam Interferometric Inscription of UV femtosecond Fiber Bragg Gratings, Fiber laser VI: Technology, Systems and Applications, 24-1-2009, San Jose, USA<br>
+
+[150]	**Y. Wang**, S. Brueckner, J. Kobelke, M. Rothhardt, W. Ecke, R. Willsch and H. Bartelt, Sensing and splicing applications of small core Ge-doped photonic crystal fibers, 19th International Conference on Optical Fibre Sensors, Proc. of SPIE 7004, 70041S, Perth, Australia (2008).<br>
+
+[151]	**Y. Wang**, H. Bartelt, W. Ecke, R. Willsch, J. Kobelke, M. Kautz, S. Brueckner, and M. Rothhardt, Fiber Bragg gratings in small-core Ge-doped photonic crystal fibers, The 1st Asia-Pacific Optical Fiber Sensors Conference, Chengdu, China  (2008).<br>
+
+[152]	W. Jin, **Y. Wang**, J. Ju, H. Xuan, H. L. Ho, L. Xiao, D. N. Wang, Fabrication and characterization of long period gratings in air-core photonic bandgap fibers, 19thInternational Conference on Optical Fibre Sensors, Proc. of SPIE 7004, 70042C, Perth, Australia (2008).<br>
+
+[153]	H. Xuan, W. Jin, J. Ju, **Y. Wang**, M. Zhang, Y. B. Liao, Y. H. Yang, Compact in-fiber polarizer based on the hollow-core photonic bandgap fiber, 19thInternational Conference on Optical Fibre Sensors, Proc. of SPIE 7004, 700408, Perth, Australia (2008).<br>
+
+[154]	**Y. Wang**, and H. Bartelt, Fiber Bragg gratings in small core and microstructured optical fibers for sensing applications, Alexander von Humboldt Foundation Network Meeting, Magdeburg, Germany (2007) (Invited).<br>
+
+[155]	D. N. Wang, **Y. Wang**, Y. Liu, and W. Jin, Long period fiber grating polarizer written on photonic crystal fiber, OSA Topical Meeting: Bragg Gratings, Photosensitivity and Poling in Glass Waveguides, BWC2, Quebec, Canada (2007).<br>
+
+[156]	M. Yang, J. Chen, **Y. Wang**, and X. Li, Experimental study on the spectral behavior of an asymmetric long period fiber grating via erosion, Asia Optical Fiber Communication and Optoelectronics Conference, 106-108, Shanghai, China (2007)<br>
+
+[157]	**Y. Wang**, W. Jin, D. N. Wang, and Y. Rao, Fabrication of Long Period Fiber Gratings by Carving Periodic Grooves on the Fiber Using a Focused CO2 Laser Beam, 18th International Conference on Optical Fiber Sensor, Cancun, Mexico (2006).<br>
+
+[158]	**Y. Wang**, D. N. Wang, and W. Jin, Long period fiber grating temperature sensor system based on the intensity modulation, 18th International Conference on Optical Fiber Sensor, Cancun, Mexico (2006).<br>
+
+[159]	**Y. Wang**, D. N. Wang, W. Jin, and  Y. Rao, Asymmetric long period fiber gratings fabricated by the focused CO2 laser beam carving periodic grooves on the fiber, 5th International Conference on Optical Communications and Networks/ 2nd International Symposium on Advances and Trends in Fiber Optics and Applications, Chengdu, China (2006). <br>
+
+[160]	D. N. Wang, **Y. Wang**, and W. Jin, Continuously wavelength-tunable short pulse fiber ring laser employing a high output power MQW Fabry-Perot laser diode, 5th International Conference on Optical Communications and Networks/the 2nd International Symposium on Advances and Trends in Fiber Optics and Applications, Chengdu, China (2006).<br>
+
+[161]	W. Jin, **Y. Wang**, and J. Ju, Sensing with holey optical fibers, 6th International Symposium on Instrumentation and Control Technology, Proc. of SPIE 6357, Beijing, China (2006).<br>
+
+[162]	**Y. Wang**, D. N. Wang, W. Jin, J. Chen, and X. Li, Simultaneous Measurement of Six Optical Parameters in a Planar Optical Waveguide, Advance Program Workshop on Frontiers in Nanophotonics, Hong Kong (2005).<br>
+
+[163]	H. Shen, J. Chen, X. Li, and **Y. Wang**, Group delay and dispersion analysis of compound high order microring resonator all-pass filter, Passive components and fiber-based devices II, Proc. of SPIE 6019, Shanghai, China (2005).<br>
+
+[164]	沈浩, 李新碗, **王义平**, 陈建平, 复合高阶微型环谐振腔全通滤波器的群延时和色散分析, 第四届中国国际光通信产业发展高峰论坛暨第五届中国光通信论坛, 武汉, 2005年11月.<br>
+
+[165]	**Y. Wang**, and Y. Rao, Measuring bend-curvature and determining bend-direction simultaneously using long period fiber gratings, 24th annual conference on Lasers and Electro-Optics, CWM4,San Francisco,USA, 2004.<br>
+
+[166]	**Y. Wang**, J. Chen, and Y. Rao, CO2-laser induced LPFG’s torsion characteristics depending on the length of the twisted fiber, Symposium on Optical Fiber Measurements, 199-201, Colorado, USA, (2004).<br>
+
+[167]	**Y. Wang**, J. Chen, X. Li, J. Hong, X. Zhang, J. Zhou, A. Ye,, Measuring electro-optic coefficients of poled polymers using fiber-optic Mach-Zehnder Interferometer, Symposium on Optical Fiber Measurements, 56-61, Colorado, USA (2004).<br>
+
+[168]	**Y. Wang**, J. Chen, X. Li, J. Hong, and A. Ye, Fiber-optic Mach-Zehnder interferometer measuring electro-optic coefficients of poled polymers, Conference on Asia-Pacific Optical and Wireless Communication, Proc. of SPIE 5624, 166-171, Beijing, China (2004).<br>
+
+[169]	**Y. Wang**, J. Chen, X. Li, A. Ye, X. Zhang, and J. Zhou, Fast tunable electro-optic polymer waveguide gratings, Conference on Asia-Pacific Optical and Wireless Communication, Proc. of SPIE 5623, 587-593, Beijing, China, 2004.<br>
+
+[170]	**Y. Wang**, J. Chen, X. Li, X. Zhang, J. Hong, and A. Ye, Michelson precision reflectometer measuring refractive index and thickness of polymer thin film simultaneously, 3rd International Conference on Optical Communications and Networks, 317-320, Hong Kong, China (2004).<br>
+
+[171]	**Y. Wang**, J. Chen, X. Li, J. Hong, X. Zhang, J., and A. Ye, Novel fiber-optic Mach-Zehnder interferometry measuring electro-optic coefficients of poled polymers, International Sympoium on Advances and Trends in Fiber Optics and Applications, 346-350, Chongqing, China (2004).<br>
+
+[172]	**Y. Wang**, Y. Rao, A. Hu, X. Zeng, Z. Ran, and T. Zhu, A novel fiber-optic torsion sensor based on a CO2-laser-induced long-period fiber grating. 15th International Conference of Optical Fibre Sensors, 147-150, Portland, USA (2002).<br>
+
+[173]	**Y. Wang**, Y. Rao, Z. Ran, T. Zhu, and A. Hu, A novel tunable gain equalizer based on a long-period fiber grating written by high-frequency CO2 laser pulses, Conference on Asia-Pacific Optical and Wireless Communication, Proc. of  SPIE 4906, 180-184, Shanghai, China (2002).<br>
+
+[174]	**Y. Wang**, Y. Rao, Z. Ran, T. Zhu, and X. Zeng. A novel bend-insensitive long-period fiber grating sensor. Conference on Advanced Sensor Systems and Applications, Proc. of SPIE 4920, 87-91, Shanghai, China, 2002.<br>
+
+[175]	Y. Rao, **Y. Wang**, T. Zhu, Z. Ran, and X. Zeng, Simultaneous measurement of transverse load and temperature using a single long-period fiber grating element, Conference on Advanced Sensor Systems and Applications, Proc. of SPIE 4920, 81-86, Shanghai, China (2002).<br>
+
+[176]	Y. Rao, X. Zeng, **Y. Wang**, T. Zhu, and Z. Ran. Temperature-strain discrimination using a wavelength-division-multiplexed chirped in-fibre-Bragg-gratting/extrinsic Fabry-Rerot sensor system, 15th Conference on Optical Fibre Sensors, 207-210, Portland, USA (2002).<br>
+
+[177]	X. Zeng, Y. Rao, **Y. Wang**, Z. Ran, and T. Zhu, Transverse load, static strain, temperature and vibration measurement using a cascaded FBG/EFPI/LPFG sensor system, 15th conference on Optical Fibre Sensors, 199-202, Portland, USA (2002).<br>
+
+[178]	Y. Rao, **Y.Wang**, Z. Ran, T. Zhu, and B. Yu. Characteristics of novel long–period fiber gratings written by focused high-frequency CO2 laser pulses, Conference on Asia-Pacific Optical and Wireless Communications Conference, Proc. of SPIE 4581, 327-333, Beijing, China (2001).<br>
+
+[179]	Y. Rao, T. Zhu, Z. Ran, B. Yu, and **Y. Wang**, Applications of CO2-induced long-period fibre gratings in Er-doped fibre amplifiers, Asia-Pacific Optical and Wireless Communications, Proc. of SPIE 4581, 319-326, Beijing, China (2001).<br>
+
+[180]	Y. Rao, X. Zeng, **Y.Wang**, T. Zhu, Z. Ran, L. Zhang, and I. Bennion, Temperature-strain discrimination using a wavelength-division-multiplexed chirped-FBG/EFPI sensor system, Conference on Advanced Photonic Sensors and Applications II, Proc. of SPIE 4596, 97-103, Singapore (2001).<br>
+
+[181]	Y. Rao, S. Yuan, X. Zeng, D. Lian, **Y.Wang**, and S. Huang, Application of an improved EFPI/FBG sensor system to simultaneous strain/temperature measurement of advanced 3-D braided composite materials, Conference on Advanced Photonic Sensors and Applications II, Proc. of SPIE 4596, 110-118, Singapore, 2001.<br>
+
+[182]	Y. Rao, Z. Ran, T. Zhu, X. Zeng, B. Yu, and **Y. Wang**, Low noise Er-doped fibre amplifiers using novel CO2-induced long period fibre gratings, Conference on Design, Fabrication, and Characterization of Photonic Devices II, Proc. of SPIE 4594, 78-85, Singapore (2001).<br>
+
+[183]	S. Yuan, Y. Rao, R. Huang, D. Liang, X. Zhen, and **Y.Wang**, On strain measurement of braided composites using co-braided AEFPI optic fiber sensors, Conference on Fiber Optic Components, Subsystems, and Systems for Telecommunications, Proc. of SPIE 4604, 154-158, Nanjing, China (2001).<br>
 
 
 
