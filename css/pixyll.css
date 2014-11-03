@@ -173,12 +173,12 @@ body {
 
 .site-header a {
   color: #fff;
-  font-size: 2.0em;
+  font-size: 1.8em;
   font-weight: 300;
   line-height: 3rem;
 }
 .site-header a.secondary {
-  font-size: 0.8em;
+  font-size: 0.9em;
 }
 .site-header a.banner {
   float: right;
