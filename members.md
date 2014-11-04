@@ -18,9 +18,7 @@ permalink: /members/
   王义平 教授
   </a>
   <br>
-  电话： 0755-26066281
-  <br>
-  Tel：  13510186456
+  Tel： 0755-26066281/13510186456
   <br>
   E-mail： ypwang@szu.edu.cn
   </div>
@@ -353,4 +351,4 @@ permalink: /members/
 
 </div>
 
-**注：*表示合作交流学生**
+**注：*联合培养学生**
