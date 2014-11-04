@@ -8,7 +8,7 @@ permalink: /fundings/
 <table>
   <thead>
     <tr>
-      <th style="width: 7%">编号</th>
+      <th style="width: 3%">编号</th>
       <th style="width: 30%">项目类别</th>
       <th style="width: 45%">项目名称/编号</th>
       <th style="width: 11%">起止时间 </th>
