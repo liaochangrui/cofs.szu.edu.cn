@@ -9,6 +9,8 @@ carousel:
 学术动态
 ------------------------
 
++ 2014年11月7号
+  [本实验室李正勇的OLpaper入选美国光学学会Virtual Journal for Biomedical Optics (VJBO)]({{ site.baseurl }}/notice/lizhengyong-notice.html)
 + 2014年10月23日<br>
   [王义平教授团队在研究生培养中取得突出成绩]({{ site.baseurl }}/notice/congratulations.html)
 + 2014年9月22日 - 9月25日<br> 
