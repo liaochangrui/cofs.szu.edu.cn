@@ -47,12 +47,12 @@ permalink: /members/wangyiping/
 <table>
   <thead>
     <tr>
-      <th style="width: 3%">编号</th>
+      <th style="width: 5%">编号</th>
       <th style="width: 30%">项目类别</th>
       <th style="width: 45%">项目名称/编号</th>
-      <th style="width: 11%">起止时间 </th>
+      <th style="width: 10%">起止时间 </th>
       <th style="width: 5%">状态</th>
-      <th style="width: 4%">职责</th>
+      <th style="width: 5%">职责</th>
   </thead>
   <tbody>
     <tr>
