@@ -114,7 +114,7 @@ permalink: /members/
 
 </div>
 
-## 博士研究生
+##  在读博士生
 
 <div class="sec-container">
 
@@ -180,7 +180,7 @@ permalink: /members/
 
 </div>
 
-## 硕士研究生
+## 在读硕士生
 
 <div class="sec-container">
 
