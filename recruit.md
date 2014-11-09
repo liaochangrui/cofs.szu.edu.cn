@@ -11,7 +11,7 @@ permalink: /recruit/
 <br>
 [**博士生科研成果突出者年收入可达10万元以上**]({{ site.baseurl }}/papers/scholarship-doctor.pdf)<br>
 [**硕士生科研成果突出者年收入可达8万元以上**]({{ site.baseurl }}/papers/scholarship-master.pdf)<br>
-[**王义平教授团队在研究生培养中取得的成绩**]<br>
+[**王义平教授团队在研究生培养中取得的成绩**]({{ site.baseurl }}/papers/progress-of-yipingwang.pdf)<br>
 
 #### 需求专业：光学、光学工程、物理学、材料学等相关专业
 
