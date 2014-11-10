@@ -54,6 +54,6 @@ permalink: /recruit/
 > 深圳大学光电工程学院 王义平 教授<br>
 > Email: ypwang@szu.edu.cn<br>
 > 电话： 0755-26066281<br>
-> 手机：13510186456
+> 手机： 13510186456
 
 
