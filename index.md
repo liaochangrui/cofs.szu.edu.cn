@@ -6,6 +6,11 @@ carousel:
   - image: superclean_800x500.jpg
 ---
 
+年度报告
+------------------------
+
++ [2014 年度报告]({{ site.baseurl }}/notice/annual-report-2014.pdf)
+
 学术动态
 ------------------------
 
