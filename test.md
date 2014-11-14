@@ -28,9 +28,9 @@ permalink: /facilities/
 </div>
 
 <div class="wrap oh clearfix" style="margin-left: 54%; width: 30%">
-    <img src="{{ site.baseurl }}/images/gwgsl.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
+    <img src="{{ site.baseurl }}/images/dxjbprjj.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
     <p style="text-align: center; font-size: 1.0em">
-        高温管式炉
+       大芯径保偏熔接机
     </p>
 </div>
 
@@ -42,9 +42,9 @@ permalink: /facilities/
 </div>
 
 <div class="wrap oh clearfix" style="float: left; width: 30%">
-    <img src="{{ site.baseurl }}/images/jmgsl.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
+    <img src="{{ site.baseurl }}/images/zdcsxt.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
     <p style="text-align: center; font-size: 1.0em">
-       精密管式炉
+       振动测试系统
     </p>
 </div>
 
@@ -63,16 +63,16 @@ permalink: /facilities/
 </div>
 
 <div class="wrap oh clearfix" style="float: left; width: 30%">
-    <img src="{{ site.baseurl }}/images/zdcsxt.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
+    <img src="{{ site.baseurl }}/images/jmgsl.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
     <p style="text-align: center; font-size: 1.0em">
-       振动测试系统
+       精密管式炉
     </p>
 </div>
 
 <div class="wrap oh clearfix" style="margin-left: 54%; width: 30%">
-    <img src="{{ site.baseurl }}/images/ppfxy.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
+    <img src="{{ site.baseurl }}/images/bdtjgq.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
     <p style="text-align: center; font-size: 1.0em">
-       频谱分析仪
+        980nm半导体激光器
     </p>
 </div>
 
@@ -83,17 +83,17 @@ permalink: /facilities/
     </p>
 </div>
 
-<div class="wrap oh clearfix" style="float: left; width: 30%">
-    <img src="{{ site.baseurl }}/images/gglj.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
+<div class="wrap oh clearfix" style="float: left; width: 30%" >
+    <img src="{{ site.baseurl }}/images/gpfxy1.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
     <p style="text-align: center; font-size: 1.0em">
-       光功率计
+        光谱分析仪
     </p>
 </div>
 
 <div class="wrap oh clearfix" style="margin-left: 54%; width: 30%">
-    <img src="{{ site.baseurl }}/images/zslj.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
+    <img src="{{ site.baseurl }}/images/ppfxy.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
     <p style="text-align: center; font-size: 1.0em">
-       折射率计
+       频谱分析仪
     </p>
 </div>
 
@@ -107,35 +107,35 @@ permalink: /facilities/
 <div class="wrap oh clearfix" style="float: left; width: 30%">
     <img src="{{ site.baseurl }}/images/asegy2.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
     <p style="text-align: center; font-size: 1.0em">
-       ASE光源2
+       ASE光源
     </p>
 </div>
 
 <div class="wrap oh clearfix" style="margin-left: 54%; width: 30%">
-    <img src="{{ site.baseurl }}/images/bdtjgq.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
-    <p style="text-align: center; font-size: 1.0em">
-        980nm半导体激光器
-    </p>
-</div>
-
-<div class="wrap oh clearfix" style="float: left; width: 30%" >
-    <img src="{{ site.baseurl }}/images/gpfxy1.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
-    <p style="text-align: center; font-size: 1.0em">
-        光谱分析仪
-    </p>
-</div>
-
-<div class="wrap oh clearfix" style="float: left; width: 30%">
     <img src="{{ site.baseurl }}/images/zwdq.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
     <p style="text-align: center; font-size: 1.0em">
        紫外灯枪
     </p>
 </div>
 
-<div class="wrap oh clearfix" style="margin-left: 54%; width: 30%">
-    <img src="{{ site.baseurl }}/images/dxjbprjj.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
+<div class="wrap oh clearfix" style="float: left; width: 30%">
+    <img src="{{ site.baseurl }}/images/gglj.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
     <p style="text-align: center; font-size: 1.0em">
-       大芯径保偏熔接机
+       光功率计
+    </p>
+</div>
+
+<div class="wrap oh clearfix" style="float: left; width: 30%">
+    <img src="{{ site.baseurl }}/images/zslj.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
+    <p style="text-align: center; font-size: 1.0em">
+       折射率计
+    </p>
+</div>
+
+<div class="wrap oh clearfix" style="margin-left: 54%; width: 30%">
+    <img src="{{ site.baseurl }}/images/gwgsl.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
+    <p style="text-align: center; font-size: 1.0em">
+        高温管式炉
     </p>
 </div>
 
@@ -147,12 +147,6 @@ permalink: /facilities/
 </div>
 
 <div class="wrap oh clearfix" style="float: left; width: 30%">
-    <img src="{{ site.baseurl }}/images/dwbx.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
-    <p style="text-align: center; font-size: 1.0em">
-       低温冰箱
-    </p>
-</div>
-<div class="wrap oh clearfix" style="margin-left: 54%; width: 30%">
     <img src="{{ site.baseurl }}/images/tsqyb.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
     <p style="text-align: center; font-size: 1.0em">
       台式气压泵

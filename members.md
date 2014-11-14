@@ -18,9 +18,7 @@ permalink: /members/
   王义平 教授
   </a>
   <br>
-  电话： 0755-26066281
-  <br>
-  Tel：  13510186456
+  Tel： 0755-26066281/13510186456
   <br>
   E-mail： ypwang@szu.edu.cn
   </div>
@@ -60,6 +58,8 @@ permalink: /members/
   王冠军 博士
   </a>
   <br/>
+  Tel：  13715327792
+  <br>
   E-mail:wangguanjun@163.com
   </div>
 </div>
@@ -76,6 +76,8 @@ permalink: /members/
   尹国路 博士
   </a>
   <br>
+  Tel：  13632601396
+  <br>
   E-mail: glyin@szu.edu.cn
   </div>
 </div>
@@ -90,6 +92,8 @@ permalink: /members/
   <a href="{{ site.baseurl }}/members/sunbing/">
   孙兵 博士
   </a>
+  <br>
+  Tel：  13632539324
   <br>
   E-mail: graduate_sunbing@163.com
   <br>
@@ -108,6 +112,8 @@ permalink: /members/
   何俊 博士
   </a>
   <br>
+  Tel：  13510061158
+  <br>
   E-mail： hejun07@szu.edu.cn
   <br>
   E-mail： hejun07@semi.ac.cn
@@ -116,7 +122,7 @@ permalink: /members/
 
 </div>
 
-## 博士研究生
+##  在读博士生
 
 <div class="sec-container">
 
@@ -182,7 +188,7 @@ permalink: /members/
 
 </div>
 
-## 硕士研究生
+## 在读硕士生
 
 <div class="sec-container">
 
@@ -353,4 +359,4 @@ permalink: /members/
 
 </div>
 
-**注：*表示合作交流学生**
+**注：*联合培养学生**
