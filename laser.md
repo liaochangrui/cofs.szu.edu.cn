@@ -10,9 +10,6 @@ permalink: /facilities/laser/
 </ul>
 </div>
 
-<br>
-<br>
-
 <div class="wrap oh clearfix" style="float: left; width: 33%" >
     <img src="{{ site.baseurl }}/images/CO2device.png" style="width: 100%; margin: 10px; padding: 10px;" >
     <p style="text-align: center; font-size: 1.0em">
