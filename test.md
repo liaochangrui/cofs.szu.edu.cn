@@ -10,8 +10,6 @@ permalink: /facilities/
 </ul>
 </div>
 
-<br>
-<br>
 
 <div class="wrap oh clearfix" style="float: left; width: 30%" >
     <img src="{{ site.baseurl }}/images/ccfsq.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
