@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /facilities/
+permalink: /facilities/laser
 ---
 
 <div class="navbar center half">
