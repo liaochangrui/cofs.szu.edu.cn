@@ -4,6 +4,8 @@ carousel:
   - image: group-1-800x503.jpg
   - image: labrory-s-800x500.jpg
   - image: superclean_800x500.jpg
+  - image: labrory-800x500.jpg
+  - image: communicate-8000x500.jpg
 ---
 
 年度报告
