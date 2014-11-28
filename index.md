@@ -8,7 +8,7 @@ carousel:
   - image: communicate-8000x500.jpg
 ---
 
-><h2 style="color: #4D4DFF;">年度报告<h2>
+><p style="color: #4D4DFF;">年度报告</p>
 ------------------------
 
 + [2014 年度报告]({{ site.baseurl }}/notice/annual-report-2014.pdf)
