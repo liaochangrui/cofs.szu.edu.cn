@@ -1,7 +1,7 @@
 ---
 layout: index
 carousel: 
-  - image: group-1-800x503.jpg
+  - image: sys-1.jpg
   - image: labrory-s-800x500.jpg
   - image: superclean_800x500.jpg
   - image: labrory-800x500.jpg
