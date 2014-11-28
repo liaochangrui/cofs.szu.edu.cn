@@ -1,12 +1,12 @@
 ---
 layout: page
-permalink: /facilities/
+permalink: /facilities/test
 ---
 
 <div class="navbar center half">
 <ul>
     <li><a href="{{ "/facilities" | prepend: site.baseurl }}">加工平台</a></li>
-    <li class="active"><a href="{{ "/laser" | prepend: "/facilities" | prepend: site.baseurl }}">测试设备</a></li>
+    <li class="active"><a href="{{ "/test" | prepend: "/facilities" | prepend: site.baseurl }}">测试设备</a></li>
 </ul>
 </div>
 

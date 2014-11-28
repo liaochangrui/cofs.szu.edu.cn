@@ -6,7 +6,7 @@ permalink: /facilities/
 <div class="navbar center half">
 <ul>
     <li class="active"><a href="{{ "/facilities" | prepend: site.baseurl }}">加工平台</a></li>
-    <li><a href="{{ "/laser" | prepend: "/facilities" | prepend: site.baseurl }}">测试设备</a></li>
+    <li><a href="{{ "/test" | prepend: "/facilities" | prepend: site.baseurl }}">测试设备</a></li>
 </ul>
 </div>
 
