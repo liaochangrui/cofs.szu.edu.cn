@@ -9,7 +9,7 @@ $(window).load(function() {
     smoothHeight: true, 
     initDelay: 2000,
     slideshow: true,
-    slideshowSpeed: 2000,
+    slideshowSpeed: 5000,
     animationSpeed: 600,
     easing: "swing",
     direction: "horizontal",
