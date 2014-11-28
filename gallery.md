@@ -6,7 +6,7 @@ carousel:
   - image: group-2-950x480.jpg
   - image: group-3-900x480.jpg
   - image: group-4-800x460.jpg
-  - image: group-5-800x600.jpg
+  - image: yangkaiming=800x550.jpg
   - image: group-6-900x600.jpg
 ---
 
