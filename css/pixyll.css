@@ -172,7 +172,7 @@ body {
 
 .site-header a {
   color: #fff;
-  font-size: 1.9em;
+  font-size: 1.8em;
   font-weight: 300;
   line-height: 2.4rem;
 }
@@ -183,6 +183,7 @@ body {
   float: right;
   width: 260px;
   padding-top: -5px;
+  padding-left: 40px;
 }
 .site-header a.banner img {
   padding: 1px;
