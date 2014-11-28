@@ -14,7 +14,7 @@
 */
 
 body {
-  font-family: "PT Serif", "Times New Roman", "Hiragino Sans GB", "WenQuanYi Micro Hei", serif;
+  font-family: "SimSun", "PT Serif", "Times New Roman", "Hiragino Sans GB", "WenQuanYi Micro Hei", serif;
 }
 
 html, body {
@@ -434,14 +434,14 @@ blockquote footer {
 h1,
 h2,
 h3 {
-  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: "Microsoft YaHei", 'Helvetica Neue', Helvetica, sans-serif;
   margin-top: 0rem;
 }
 
 h4,
 h5,
 h6 {
-  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: "Microsoft YaHei", 'Helvetica Neue', Helvetica, sans-serif;
   margin-top: 0rem;
 }
 
