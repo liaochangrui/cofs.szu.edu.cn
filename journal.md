@@ -16,9 +16,9 @@ permalink: /publications/
 2014
 -------------------------
 
-1. Xiaoyong Zhong, Yiping Wang*, Junle Qu*, Changrui Liao, Shen Liu, Jian Tang, Qiao Wang, Jing Zhao, Kaiming Yang, Zhengyong Li
-  "High-sensitivity strain sensor based on inflated long period fiber grating"
-  Optics Letters, 39(18), 5463-5466,2014.（JCR二区，IF=3.179）
+1. Xiaoyong Zhong, Yiping Wang*, Junle Qu*, Changrui Liao, Shen Liu, Jian Tang, Qiao Wang, Jing Zhao, Kaiming Yang, Zhengyong Li<br>
+  "High-sensitivity strain sensor based on inflated long period fiber grating"<br>
+  Optics Letters, 39(18), 5463-5466,2014.（JCR二区，IF=3.179）<br>
 
 2. Zhengyong Li, Changrui Liao, *Yiping Wang, Xiaopeng Dong, Shen Liu, Kaiming Yang, Qiao Wang, and Jiangtao Zhou<br/>
     ["Ultrasensitive refractive index sensor based on a Mach–Zehnder interferometer created in twin-core fiber"]({{ site.baseurl }}/papers/lizhengyong20140l-ultrasenstive.pdf)<br/>
