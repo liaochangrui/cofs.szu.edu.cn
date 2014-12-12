@@ -17,7 +17,7 @@ carousel:
 ------------------------
 
 + 2014年12月4日<br>
-  [<h2 style="color: #4D4DFF;">王义平教授获2015年度国家杰出青年科学基金资助]({{ site.baseurl }}/notice/yipingwang.html)
+  [<"color: #4D4DFF;">王义平教授获2015年度国家杰出青年科学基金资助]({{ site.baseurl }}/notice/yipingwang.html)
 + 2014年12月5日<br>
   [学术报告——高性能分布式布里渊光纤传感器研究]({{ site.baseurl }}/notice/lecture-4.html)+ 2014年11月28日<br>
   [学术报告——Development of Polymer Optical Waveguide]({{ site.baseurl }}/notice/lecture-5.html)
