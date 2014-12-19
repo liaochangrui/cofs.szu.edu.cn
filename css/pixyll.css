@@ -190,8 +190,6 @@ body {
 }
 
 .site-header nav a {
-  font-size: 1.12rem;
-  line-height: 1.5rem;
   font-weight: 400;
   color: #aaa;
 }
@@ -235,11 +233,13 @@ body {
 
 .site-header nav.site-nav ul li {
   display: inline-block;
-  width: 7%;
+  width: 9.2%;
   min-width: 90px;
   max-width: 120px;
   padding: 5px;
   margin-right: 5px;
+  font-size: 1.1rem;
+  line-height: 1.5rem;
 }
 
 .site-header nav.site-nav ul a {
