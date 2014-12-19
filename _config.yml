@@ -11,6 +11,8 @@ baseurl:
 url: http://cofs.szu.edu.cn
 
 navigation:
+ - title: 主页
+   url: /
  - title: 实验室简介
    url: /intro
  - title: 研究方向
