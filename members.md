@@ -299,21 +299,6 @@ permalink: /members/
 
 <div class="bio-container">
   <div class="bio-avatar" >
-  <a href="{{ site.baseurl }}/members/wangqiaoni/">
-  <img src="{{ site.baseurl }}/images/wangqiaoni-92x130.jpg" class="max-img-border"/>
-  </a>
-  </div>
-  <div class="bio-info">
-  <a href="{{ site.baseurl }}/members/wangqiaoni/">
-  王巧妮*
-  </a>
-  <br />
-  E-mail：904190982@qq.com
-  </div>
-</div>
-
-<div class="bio-container">
-  <div class="bio-avatar" >
   <a href="{{ site.baseurl }}/members/dengmi/">
   <img src="{{ site.baseurl }}/images/dengmi-92x130.jpg" class="max-img-border"/>
   </a>
