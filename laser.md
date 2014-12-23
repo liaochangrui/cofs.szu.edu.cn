@@ -10,7 +10,7 @@ permalink: /facilities/
 </ul>
 </div>
 
-<div class="wrap oh clearfix" style="margin-left: 54%; width: 33%" >
+<div class="wrap oh clearfix" style="float: left; width: 33%" >
     <img src="{{ site.baseurl }}/images/femtosecond.png" style="width: 100%; margin: 10px; padding: 10px;" >
     <p style="text-align: center; font-size: 1.0em">
         飞秒激光微加工系统
@@ -24,7 +24,7 @@ permalink: /facilities/
     </p>
 </div>
 
-<div class="wrap oh clearfix" style="float: left; width: 33%">
+<div class="wrap oh clearfix" style="margin-left: 54%; width: 33%" >
     <img src="{{ site.baseurl }}/images/ymfgszbpt.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
     <p style="text-align: center; font-size: 1.0em">
        光学光栅制备平台
