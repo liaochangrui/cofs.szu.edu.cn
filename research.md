@@ -33,7 +33,7 @@ permalink: /research/
 </div>
 
 <div class="wrap clearfix">
-    <img src="{{ site.baseurl }}/images/L-B-L-FBG-646x357.jpg" style="float: left; width: 50%; margin: 15px; padding: 15px;" >
+    <img src="{{ site.baseurl }}/images/PCF-800x415.png" style="float: left; width: 50%; margin: 15px; padding: 15px;" >
     <h2 style="color: #870A40;padding-top: 1.9rem;">光子晶体光纤传感技术</h2> 
     <ul>    
     光子晶体光纤是近年来被提出的一种新型光波导结构，其具备的独特光学性质为制作新型的光纤光子器件以及传感器件提供了新方向。单一石英材料以及周期性空气孔排布等优势允许将具有热光、磁光、电光等功能性材料注入光子晶体光纤空气孔中，研制具有热调谐、磁调谐以及电调谐等高度可调谐器件。同时，借助于飞秒激光微加工技术，实现上述功能性材料高度选择性注入其中一个、多个或区域空气孔中，并研制新型具有可调谐滤波、光开光以及偏振控制等全光器件。
