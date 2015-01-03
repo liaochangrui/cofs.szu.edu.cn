@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /facilities/
+permalink: /facilities/others
 ---
 
 <div class="navbar center third">
