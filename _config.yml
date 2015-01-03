@@ -43,7 +43,8 @@ links:
    url: http://www.szsti.gov.cn/
 
 newpapers:
- - title: "High-sensitivity strain sensor based on inflated long period fiber grating" 
+ - name:光纤
+   title: "High-sensitivity strain sensor based on inflated long period fiber grating" 
    author: "X.Y. Zhong et al.Optics Letters, 39(18). 5463-5466 (2014)"
    doc: "zhongxiaoyong-high.pdf"
    image: xiaoyong-1181x945.jpg
