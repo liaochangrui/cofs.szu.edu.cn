@@ -259,7 +259,7 @@ permalink: /members/
   </a>
   </div>
   <div class="bio-info">
-  <a href="{{ site.baseurl }}/members/xuxizhen/">
+  <a href="{{ site.baseurl }}/members/fucailing/">
   付彩玲*
   </a>
   <br>
