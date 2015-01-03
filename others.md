@@ -1,0 +1,33 @@
+---
+layout: page
+permalink: /facilities/
+---
+
+<div class="navbar center third">
+<ul>
+     <li><a href="{{ "/facilities" | prepend: site.baseurl }}">加工平台</a></li>
+    <li><a href="{{ "/laser" | prepend: "/facilities" | prepend: site.baseurl }}">测试设备</a></li>
+    <li class="active"><a href="{{ "/others" | prepend: "/facilities" | prepend: site.baseurl }}">其它设备</a></li>
+</ul>
+</div>
+
+<div class="wrap oh clearfix" style="float: left; width: 30%" >
+    <img src="{{ site.baseurl }}/images/gpfxy.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
+    <p style="text-align: center; font-size: 1.0em">
+      光谱分析仪  
+    </p>
+</div>
+
+<div class="wrap oh clearfix" style="float: left; width: 30%" >
+    <img src="{{ site.baseurl }}/images/gpfxy1.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
+    <p style="text-align: center; font-size: 1.0em">
+        光谱分析仪
+    </p>
+</div>
+
+<div class="wrap oh clearfix" style="margin-left: 54%; width: 30%">
+    <img src="{{ site.baseurl }}/images/ppfxy.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
+    <p style="text-align: center; font-size: 1.0em">
+       频谱分析仪
+    </p>
+</div>
