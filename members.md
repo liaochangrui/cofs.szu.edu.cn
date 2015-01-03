@@ -254,6 +254,21 @@ permalink: /members/
 
 <div class="bio-container">
   <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/fucailing/">
+  <img src="{{ site.baseurl }}/images/fucailing-92x130.jpg" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/xuxizhen/">
+  付彩玲*
+  </a>
+  <br>
+  E-mail：cailingfu@139.com
+  </div>
+</div>
+
+<div class="bio-container">
+  <div class="bio-avatar" >
   <a href="{{ site.baseurl }}/members/yangkaiming/">
   <img src="{{ site.baseurl }}/images/yangkaiming-92x117.jpg" class="max-img-border"/>
   </a>
