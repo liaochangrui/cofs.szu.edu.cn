@@ -48,12 +48,12 @@ newpapers:
    author: "X.Y. Zhong et al.Optics Letters, 39(18). 5463-5466 (2014)"
    doc: "zhongxiaoyong-high.pdf"
    image: xiaoyong-1181x945.jpg
- - name: "测试"
+ - name:
    title: "Ultrasensitive refractive index sensor based on a Mach–Zehnder interferometer created in twin-core fiber"
    author: "Z.Y. Li et al., Optics Letters (2014)."
    doc: "lizhengyong20140l-ultrasenstive.pdf"
    image: lizhengyong20140l-ultrasenstive.jpg
- - name: "test"
+ - name:
    title: "Sub-micron silica diaphragm based fiber-tip Fabry-Perot interferometer for pressure measurement"
    author: "C. Liao et al., Optics Letters (2014)."
    doc: "changruiliao2014opticsletters.pdf"
