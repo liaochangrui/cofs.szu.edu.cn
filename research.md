@@ -5,7 +5,7 @@ permalink: /research/
 
 
 <div class="wrap clearfix">
-    <a href="{{ site.baseurl }}/research/fiber-gratings/">
+    <a href="{{ site.baseurl }}/fiber-gratings/">
       <img src="{{ site.baseurl }}/images/fiber-grating-1.jpg" style="float: left; width: 50%; margin: 15px; padding: 15px;" >
       <h2 style="color: #870A40;padding-top: 1.9rem;">光纤光栅传感技术</h2>
       <p>
