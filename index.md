@@ -19,7 +19,8 @@ carousel:
 + 2014年12月4日<br>
   [王义平教授获2015年度国家杰出青年科学基金资助]({{ site.baseurl }}/notice/yipingwang.html)
 + 2014年12月5日<br>
-  [学术报告——高性能分布式布里渊光纤传感器研究]({{ site.baseurl }}/notice/lecture-4.html)+ 2014年11月28日<br>
+  [学术报告——高性能分布式布里渊光纤传感器研究]({{ site.baseurl }}/notice/lecture-4.html)
++ 2014年11月28日<br>
   [学术报告——Development of Polymer Optical Waveguide]({{ site.baseurl }}/notice/lecture-5.html)
 + 2014年11月7号<br>
   [硕士生李正勇发表于Optical Letters的工作入选Virtual Journal for Biomedical Optics (VJBO)]({{ site.baseurl }}/notice/lizhengyong-notice.html)
