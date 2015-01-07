@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /research/fiber-gratings
+permalink: /fiber-gratings/
 ---
 
 <div class="wrap clearfix">
