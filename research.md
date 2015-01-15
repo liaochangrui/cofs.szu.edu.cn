@@ -5,7 +5,7 @@ permalink: /research/
 
 
 <div class="wrap clearfix">
-    <a href="{{ site.baseurl }}/fiber-gratings/">
+    <a href="{{ site.baseurl }}/fiber-gratings-1/">
       <img src="{{ site.baseurl }}/images/fiber-grating.jpg" style="float: left; width: 50%; margin: 15px; padding: 15px;" >
       <h2 style="color: #870A40;padding-top: 1.9rem;">光纤光栅传感技术</h2>
       <p>
@@ -17,7 +17,7 @@ permalink: /research/
 <br>
 
 <div class="wrap clearfix">
-    <a href="{{ site.baseurl }}/fiber-biochemical/">
+    <a href="{{ site.baseurl }}/fiber-biochemical-1/">
     <img src="{{ site.baseurl }}/images/research-bio.jpg" style="float: left; width: 50%; margin: 15px; padding: 15px;" >
     <h2 style="color: #870A40;padding-top: 1.9rem;">光纤生化传感技术</h2>
     <p>
@@ -29,7 +29,7 @@ permalink: /research/
 <br>
 
 <div class="wrap clearfix">
-    <a href="{{ site.baseurl }}/fiber-interference/">
+    <a href="{{ site.baseurl }}/fiber-interference-1/">
     <img src="{{ site.baseurl }}/images/qipao-800x439.jpg" style="float: left; width: 50%; margin: 15px; padding: 15px;" >
     <h2 style="color: #870A40;padding-top: 1.9rem;">光纤干涉传感技术</h2>
     <p>
@@ -39,7 +39,7 @@ permalink: /research/
 </div>
 
 <div class="wrap clearfix">
-    <a href="{{ site.baseurl }}/fiber-PCF/">
+    <a href="{{ site.baseurl }}/fiber-PCF-1/">
     <img src="{{ site.baseurl }}/images/PCF-800x415.png" style="float: left; width: 50%; margin: 15px; padding: 15px;" >
     <h2 style="color: #870A40;padding-top: 1.9rem;">光子晶体光纤传感技术</h2>
     <p>
