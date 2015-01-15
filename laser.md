@@ -12,23 +12,23 @@ permalink: /facilities/
 </div>
 
 <div class="wrap oh clearfix" style="float: left; width: 33%" >
-    <img src="{{ site.baseurl }}/images/femtosecond.png" style="width: 100%; margin: 10px; padding: 10px;" >
+    <img src="{{ site.baseurl }}/images/femto.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
     <p style="text-align: center; font-size: 1.0em">
-        飞秒激光微加工系统
+        飞秒激光微加工平台
     </p>
 </div>
 
 <div class="wrap oh clearfix" style="float: left; width: 33%" >
-    <img src="{{ site.baseurl }}/images/CO2device.png" style="width: 100%; margin: 10px; padding: 10px;" >
+    <img src="{{ site.baseurl }}/images/CO2.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
     <p style="text-align: center; font-size: 1.0em">
-       二氧化碳激光微加工系统
+       二氧化碳激光微加工平台
     </p>
 </div>
 
 <div class="wrap oh clearfix" style="margin-left: 54%; width: 33%" >
     <img src="{{ site.baseurl }}/images/ymfgszbpt.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
     <p style="text-align: center; font-size: 1.0em">
-       光学光栅制备平台
+       相位掩膜板制备光纤光栅平台
     </p>
 </div>
 
@@ -44,10 +44,38 @@ permalink: /facilities/
 <div class="wrap oh clearfix" style="float: left; width: 33%" >
     <img src="{{ site.baseurl }}/images/mirconano.png" style="width: 100%; margin: 10px; padding: 10px;" >
     <p style="text-align: center; font-size: 1.0em">
-        微纳光纤制备系统
+        微纳光纤制备平台
     </p>
 </div>
 
+<div class="wrap oh clearfix" style="margin-left: 54%; width: 33%" >
+    <img src="{{ site.baseurl }}/images/arc.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
+    <p style="text-align: center; font-size: 1.0em">
+       电弧放电光纤光栅制备平台
+    </p>
+</div>
 
+<br>
 
+<div class="wrap oh clearfix" style="float: left; width: 33%" >
+    <img src="{{ site.baseurl }}/images/bio-chemical.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
+    <p style="text-align: center; font-size: 1.0em">
+      生化实验平台
+    </p>
+</div>
 
+<div class="wrap oh clearfix" style="float: left; width: 33%" >
+    <img src="{{ site.baseurl }}/images/dumo.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
+    <p style="text-align: center; font-size: 1.0em">
+        磁控建设镀膜系统
+    </p>
+</div>
+
+<div class="wrap oh clearfix" style="margin-left: 54%; width: 33%" >
+    <img src="{{ site.baseurl }}/images/jinchang.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
+    <p style="text-align: center; font-size: 1.0em">
+       光纤近场观察系统
+    </p>
+</div>
+
+<br>

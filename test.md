@@ -12,9 +12,9 @@ permalink: /facilities/laser/
 </div>
 
 <div class="wrap oh clearfix" style="float: left; width: 30%" >
-    <img src="{{ site.baseurl }}/images/ccfsq.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
+    <img src="{{ site.baseurl }}/images/ci.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
     <p style="text-align: center; font-size: 1.0em">
-        磁场发生器
+        磁场控制系统
     </p>
 </div>
 
@@ -49,86 +49,41 @@ permalink: /facilities/laser/
 <div class="wrap oh clearfix" style="margin-left: 54%; width: 30%">
     <img src="{{ site.baseurl }}/images/macxwj.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
     <p style="text-align: center; font-size: 1.0em">
-       明暗场显微镜
+       显微观察系统
     </p>
 </div>
 
 <div class="wrap oh clearfix" style="float: left; width: 30%" >
     <img src="{{ site.baseurl }}/images/tsyyb.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
     <p style="text-align: center; font-size: 1.0em">
-      台式液压泵  
+      液压测试系统  
     </p>
 </div>
 
 <div class="wrap oh clearfix" style="float: left; width: 30%">
     <img src="{{ site.baseurl }}/images/jmgsl.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
     <p style="text-align: center; font-size: 1.0em">
-       精密管式炉
-    </p>
-</div>
-
-<div class="wrap oh clearfix" style="margin-left: 54%; width: 30%">
-    <img src="{{ site.baseurl }}/images/bdtjgq.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
-    <p style="text-align: center; font-size: 1.0em">
-        980nm半导体激光器
-    </p>
-</div>
-
-
-
-
-<div class="wrap oh clearfix" style="float: left; width: 30%" >
-    <img src="{{ site.baseurl }}/images/asegy.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
-    <p style="text-align: center; font-size: 1.0em">
-        ASE光源
-    </p>
-</div>
-
-<div class="wrap oh clearfix" style="float: left; width: 30%">
-    <img src="{{ site.baseurl }}/images/asegy2.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
-    <p style="text-align: center; font-size: 1.0em">
-       ASE光源
-    </p>
-</div>
-
-<div class="wrap oh clearfix" style="margin-left: 54%; width: 30%">
-    <img src="{{ site.baseurl }}/images/zwdq.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
-    <p style="text-align: center; font-size: 1.0em">
-       紫外灯枪
-    </p>
-</div>
-
-<div class="wrap oh clearfix" style="float: left; width: 30%">
-    <img src="{{ site.baseurl }}/images/gglj.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
-    <p style="text-align: center; font-size: 1.0em">
-       光功率计
-    </p>
-</div>
-
-<div class="wrap oh clearfix" style="float: left; width: 30%">
-    <img src="{{ site.baseurl }}/images/zslj.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
-    <p style="text-align: center; font-size: 1.0em">
-       折射率计
+       温度测试系统
     </p>
 </div>
 
 <div class="wrap oh clearfix" style="margin-left: 54%; width: 30%">
     <img src="{{ site.baseurl }}/images/gwgsl.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
     <p style="text-align: center; font-size: 1.0em">
-        高温管式炉
+        高温测试系统
     </p>
 </div>
 
 <div class="wrap oh clearfix" style="float: left; width: 30%" >
     <img src="{{ site.baseurl }}/images/wsdsyx.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
     <p style="text-align: center; font-size: 1.0em">
-      温湿度试验箱 
+      温湿度测试系统 
     </p>
 </div>
 
 <div class="wrap oh clearfix" style="float: left; width: 30%">
     <img src="{{ site.baseurl }}/images/tsqyb.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
     <p style="text-align: center; font-size: 1.0em">
-      台式气压泵
+      气压测试系统
     </p>
 </div>
