@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /fiber-interference/
+permalink: /fiber-interference-1/
 ---
 
 <h1 style="color: #870A40; padding-top: 2.5rem; padding-bottom: 0.8rem; text-align:center;">光纤干涉传感技术</h1>

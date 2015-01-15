@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /fiber-PCF/
+permalink: /fiber-PCF-1/
 ---
 
 <h1 style="color: #870A40; padding-top: 2.5rem; padding-bottom: 0.8rem; text-align:center;">光纤光子晶体传感技术</h1>
