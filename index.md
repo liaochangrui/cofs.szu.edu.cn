@@ -1,11 +1,11 @@
 ---
 layout: index
 carousel: 
-  - image: sys-1.jpg
-  - image: labrory-s-800x500.jpg
-  - image: superclean_800x500.jpg
-  - image: labrory-800x500.jpg
-  - image: communicate-8000x500.jpg
+  - image: sys.jpg
+  - image: superclean_1.jpg
+  - image: superclean2.jpg
+  - image: pt.jpg
+  - image: sg.jpg
 ---
 
 年度报告
