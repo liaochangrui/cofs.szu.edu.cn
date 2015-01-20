@@ -31,10 +31,15 @@ E-mail: graduate_sunbin@163.com /pcf13@szu.edu.cn<br/>
 <img src="{{ site.baseurl }}/images/sb1.png" style="width: 20%; float: right; margin: 10px" />
 <br>
 + 2011年，首次提出引入微结构芯方法，增强了光场与填充样品的相互作用，成功用于低折射率材料（相比于光纤背景材料）的传感，该方法克服了以往技术对低折射率折射率传感灵敏度低等缺点，结果发表在Optics Express 19(5): 4091-4100, 2011，被引16次。通过进一步改进光纤结构，提高传感灵敏度，相关成果已申请国家发明专利，已获授权（授权号：CN 102495022A）。<br>
-<img src="{{ site.baseurl }}/images/sb2.png" style="width: 20%; float: left; margin: 10px" />
-<img src="{{ site.baseurl }}/images/sb3.png" style="width: 20%; float: left; margin: 10px" />
+<img src="{{ site.baseurl }}/images/sb2.png" style="width: 20%; float: right; margin: 10px" />
+<img src="{{ site.baseurl }}/images/sb3.png" style="width: 20%; float: right; margin: 10px" />
 <br>
 + 2013年8月，进入广东省珠江学者王义平老师光纤传感团队工作学习，研究了不同类型光纤光栅的原理、制作、传感特性及应用，并在光纤光栅、光子晶体光纤等领域做了较多的前期研究工作，目前已发表SCI论文1篇，其中2篇已投，1篇待投。
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## 研究成果
 
