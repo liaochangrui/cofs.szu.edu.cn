@@ -14,10 +14,11 @@ permalink: /publications/
 <br>
 2015
 -------------------------
-1.Shen Liu*, Kaiming Yang*, Yiping Wang, Junle Qu, Changrui Liao, Jun He, Zhengyong Li, Guolu Yin,
+
+1. Shen Liu*, Kaiming Yang*, Yiping Wang, Junle Qu, Changrui Liao, Jun He, Zhengyong Li, Guolu Yin,
 Bing Sun, Jiangtao Zhou, Guanjun Wang, Jian Tang & Jing Zhao<br> 
     ["High-sensitivity strain sensor based on in-fiber rectangular air bubble"]({{ site.baseurl }}/papers/2015-High-sensitivity strain sensor based on in-fiber rectangular air bubble.pdf)<br> 
-SCIENTIFICREPORTS| 5 : 7624 | DOI: 10.1038/srep07624-1-7
+   SCIENTIFICREPORTS| 5 : 7624 | DOI: 10.1038/srep07624-1-7
 
 2014
 -------------------------
