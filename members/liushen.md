@@ -25,9 +25,16 @@ Email：liushen.szu@gmail.com<br/>
 
 **期刊论文**
 
-１.	**S. Liu**, Y. Wang, C. Liao, G. Wang, Z. Li, Q. Wang, J. Zhou, K. Yang, X. Zhong, J. Zhao, and J. Tang, "High-sensitivity strain sensor based on in-fiber improved Fabry-Perot interferometer," Optics Letters 39, 2121-2124 (2014).
+1. **Shen Liu**, Kaiming Yang, Yiping Wang, Junle Qu, Changrui Liao, Jun He, Zhengyong Li, Guolu Yin, Bing Sun, Jiangtao Zhou, Guanjun Wang, Jian Tang & Jing Zhao<br>
+"High-sensitivity strain sensor based on in-fiber rectangular air bubble"<br>
+SCIENTIFICREPORTS| 5 : 7624 | DOI: 10.1038/srep07624-1-7<br>
 
-２.	C. Liao, **S. Liu**, L. Xu, C. Wang, Y. Wang, Z. Li, Q. Wang, and D. N. Wang, "Sub-micron silica diaphragm-based fiber-tip Fabry-Perot interferometer for pressure measurement," Optics Letters 39, 2827-2830 (2014).
+2.	**S. Liu**, Y. Wang, C. Liao, G. Wang, Z. Li, Q. Wang, J. Zhou, K. Yang, X. Zhong, J. Zhao, and J. Tang<br> "High-sensitivity strain sensor based on in-fiber improved Fabry-Perot interferometer"<br> 
+  Optics Letters 39, 2121-2124 (2014).<br>
+
+3.	C. Liao, **S. Liu**, L. Xu, C. Wang, Y. Wang, Z. Li, Q. Wang, and D. N. Wang<br>
+  "Sub-micron silica diaphragm-based fiber-tip Fabry-Perot interferometer for pressure measurement,"<br>
+  Optics Letters 39, 2827-2830 (2014).
 
 **会议论文**
  
