@@ -67,7 +67,7 @@ permalink: /facilities/
 <div class="wrap oh clearfix" style="float: left; width: 33%" >
     <img src="{{ site.baseurl }}/images/dumo.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
     <p style="text-align: center; font-size: 1.0em">
-        磁控建设镀膜系统
+        磁控溅射镀膜系统
     </p>
 </div>
 
