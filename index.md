@@ -8,7 +8,7 @@ carousel:
   - image: sg.jpg
 ---
 
-<p style="color: #870A40;">年度报告</p>
+<h2 style="color: #4D4DFF;">年度报告</h2>
 ------------------------
 
 + [2014 年度报告]({{ site.baseurl }}/notice/annual-report-2014.pdf)
