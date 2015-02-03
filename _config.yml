@@ -43,21 +43,21 @@ links:
    url: http://www.szsti.gov.cn/
 
 newpapers:
- - name: "基于膨胀型长周期光纤的高应力灵敏度传感器"
-   title: "High-sensitivity strain sensor based on inflated long period fiber grating" 
-   author: "X.Y. Zhong et al.Optics Letters, 39(18). 5463-5466 (2014)"
-   doc: "zhongxiaoyong-high.pdf"
-   image: xiaoyong-1181x945.jpg
- - name: "基于双芯光纤上的马赫增德尔干涉仪的折射率超灵敏度传感器"
-   title: "Ultrasensitive refractive index sensor based on a Mach–Zehnder interferometer created in twin-core fiber"
-   author: "Z.Y. Li et al., Optics Letters (2014)."
-   doc: "lizhengyong20140l-ultrasenstive.pdf"
-   image: lizhengyong20140l-ultrasenstive.jpg
- - name: "基于法布里-珀罗干涉仪的二氧化硅微结构应力测量"
-   title: "Sub-micron silica diaphragm based fiber-tip Fabry-Perot interferometer for pressure measurement"
-   author: "C. Liao et al., Optics Letters (2014)."
-   doc: "changruiliao2014opticsletters.pdf"
-   image: changruiliao2014opticsletters.jpg
+ - name: "基于光纤内部矩形气泡的高灵敏度的应变传感器"
+   title: "High-sensitivity strain sensor based on in-fiber rectangular air bubble" 
+   author: "Shen Liu et al , Scientific Reports , 5, 7624, 2015"
+   doc: "2015-High-sensitivity strain sensor based on.pdf"
+   image: liushen-800x568.jpg
+ - name: "基于聚合物端冒结构的法布里-珀罗干涉仪并用于气压和温度同时传感"
+   title: "Simultaneous measurement of pressure and temperature by employing Fabry-Perot interferometer based on pendant polymer droplet"
+   author: "Bing Sun et al.,Optics Express, 23(3): 1906-1911, 2015."
+   doc: "Simultaneous measurement of pressure and temperature by employing Fabry-Perot interferometer based on pendant polymer droplet.pdf"
+   image: sunbing-800x315.jpg
+ - name: "基于迈克尔逊干涉仪的折射率强度调制传感器"
+   title: "Intensity modulated refractive index sensor based on optical fiber Michelson interferometer"
+   author: "Jiangtao Zhou et al., Sensors and Actuators B 208 (2015) 315–319."
+   doc: "zjt-2015-Intensity modulated refractive index sensor based on optical fiber Michelson interferometer.pdf"
+   image: zhoujiangtao-640x800.jpg
 
 # Build settings
 markdown: redcarpet  #kramdown
