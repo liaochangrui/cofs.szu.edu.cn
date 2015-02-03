@@ -19,7 +19,7 @@ permalink: /publications/
     ["High-sensitivity strain sensor based on in-fiber rectangular air bubble"]({{ site.baseurl }}/papers/2015-High-sensitivity strain sensor based on in-fiber rectangular air bubble.pdf)<br> 
    SCIENTIFICREPORTS| 5 : 7624 | DOI: 10.1038/srep07624-1-7
 
-2. Bing Sun, Yiping Wang1, Junle Qu1, Changrui Liao, Guolu Yin, Jun He, Jiangtao Zhou, Jian Tang, Shen Liu, Zhengyong Li and Yingjie Liu<br> 
+2. Bing Sun, Yiping Wang, Junle Qu1, Changrui Liao, Guolu Yin, Jun He, Jiangtao Zhou, Jian Tang, Shen Liu, Zhengyong Li and Yingjie Liu<br> 
     ["Simultaneous measurement of pressure and temperature by employing Fabry-Perot interferometer based on pendant polymer droplet"]({{ site.baseurl }}/papers/Simultaneous measurement of pressure and temperature by employing Fabry-Perot interferometer based on pendant polymer droplet.pdf)<br> 
   Optics Express, 23(3): 1906-1911, 2015
 
