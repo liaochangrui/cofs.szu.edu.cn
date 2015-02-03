@@ -23,6 +23,10 @@ permalink: /publications/
     ["Simultaneous measurement of pressure and temperature by employing Fabry-Perot interferometer based on pendant polymer droplet"]({{ site.baseurl }}/papers/Simultaneous measurement of pressure and temperature by employing Fabry-Perot interferometer based on pendant polymer droplet.pdf)<br> 
   Optics Express, 23(3): 1906-1911, 2015
 
+3. Jiangtao Zhou, Yiping Wang∗, Changrui Liao, Bing Sun, Jun He, Guolu Yin, Shen Liu,Zhengyong Li, Guanjun Wang, Xiaoyong Zhong, Jing Zhao<br>
+    ["Intensity modulated refractive index sensor based on optical fiberMichelson interferometer"]({{ site.baseurl }}/papers/zjt-2015-Intensity modulated refractive index sensor based on optical fiber Michelson interferometer.pdf)<br>
+   Sensors and Actuators B 208 (2015) 315–319
+
 2014
 -------------------------
 
