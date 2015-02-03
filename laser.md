@@ -35,14 +35,14 @@ permalink: /facilities/
 <br>
 
 <div class="wrap oh clearfix" style="float: left; width: 33%" >
-    <img src="{{ site.baseurl }}/images/D.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
+    <img src="{{ site.baseurl }}/images/D.JPG" style="width: 100%; margin: 10px; padding: 10px;" >
     <p style="text-align: center; font-size: 1.0em">
       光纤侧面研磨装置
     </p>
 </div>
 
 <div class="wrap oh clearfix" style="float: left; width: 33%" >
-    <img src="{{ site.baseurl }}/images/nano.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
+    <img src="{{ site.baseurl }}/images/nano.JPG" style="width: 100%; margin: 10px; padding: 10px;" >
     <p style="text-align: center; font-size: 1.0em">
         微纳光纤制备平台
     </p>
