@@ -12,16 +12,30 @@ permalink: /publications/
 </div>
 
 <br>
+2015
+-------------------------
+
+1. Shen Liu*, Kaiming Yang*, Yiping Wang, Junle Qu, Changrui Liao, Jun He, Zhengyong Li, Guolu Yin, Bing Sun, Jiangtao Zhou, Guanjun Wang, Jian Tang & Jing Zhao<br> 
+    ["High-sensitivity strain sensor based on in-fiber rectangular air bubble"]({{ site.baseurl }}/papers/2015-High-sensitivity strain sensor based on in-fiber rectangular air bubble.pdf)<br> 
+   SCIENTIFICREPORTS| 5 : 7624 | DOI: 10.1038/srep07624-1-7
+
+2. Bing Sun, Yiping Wang, Junle Qu1, Changrui Liao, Guolu Yin, Jun He, Jiangtao Zhou, Jian Tang, Shen Liu, Zhengyong Li and Yingjie Liu<br> 
+    ["Simultaneous measurement of pressure and temperature by employing Fabry-Perot interferometer based on pendant polymer droplet"]({{ site.baseurl }}/papers/Simultaneous measurement of pressure and temperature by employing Fabry-Perot interferometer based on pendant polymer droplet.pdf)<br> 
+  Optics Express, 23(3): 1906-1911, 2015
+
+3. Jiangtao Zhou, Yiping Wang∗, Changrui Liao, Bing Sun, Jun He, Guolu Yin, Shen Liu,Zhengyong Li, Guanjun Wang, Xiaoyong Zhong, Jing Zhao<br>
+    ["Intensity modulated refractive index sensor based on optical fiberMichelson interferometer"]({{ site.baseurl }}/papers/zjt-2015-Intensity modulated refractive index sensor based on optical fiber Michelson interferometer.pdf)<br>
+   Sensors and Actuators B 208 (2015) 315–319
 
 2014
 -------------------------
 
 1. Xiaoyong Zhong, Yiping Wang*, Junle Qu*, Changrui Liao, Shen Liu, Jian Tang, Qiao Wang, Jing Zhao, Kaiming Yang, Zhengyong Li<br>
-  "High-sensitivity strain sensor based on inflated long period fiber grating"<br>
+    ["High-sensitivity strain sensor based on inflated long period fiber grating"]({{ site.baseurl }}/papers/zhongxiaoyong-high.pdf)<br>
   Optics Letters, 39(18), 5463-5466,2014.（JCR二区，IF=3.179）<br>
 
 2. Zhengyong Li, Changrui Liao, *Yiping Wang, Xiaopeng Dong, Shen Liu, Kaiming Yang, Qiao Wang, and Jiangtao Zhou<br/>
-    ["Ultrasensitive refractive index sensor based on a Mach–Zehnder interferometer created in twin-core fiber"]({{ site.baseurl }}/papers/lizhengyong20140l-ultrasenstive.pdf)<br/>
+    ["Ultrasensitive refractive index sensor based on a Mach–Zehnder interferometer created in twin-core fiber"]({{ site.baseurl }}/papers/lizhengyong20140l-ultrasenstive.pdf)<br>
   Optics Letters, 39(17), 4982-4985, 2014.（JCR二区，IF=3.179）
 
 3. Changrui Liao, Shen Liu, Lei Xu, Chao Wang, *Yiping Wang, Zhengyong Li, Qiao Wang, and D. N. Wang<br/>

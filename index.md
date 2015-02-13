@@ -1,23 +1,24 @@
 ---
 layout: index
 carousel: 
-  - image: sys-1.jpg
-  - image: labrory-s-800x500.jpg
-  - image: superclean_800x500.jpg
-  - image: labrory-800x500.jpg
-  - image: communicate-8000x500.jpg
+  - image: sys.jpg
+  - image: superclean_1.jpg
+  - image: superclean2.jpg
+  - image: pt.jpg
+  - image: sg.jpg
 ---
 
-年度报告
-------------------------
+<h2 style="color: #4D4DFF;">年度报告</h2>
 
-+ [2014 年度报告]({{ site.baseurl }}/notice/annual-report-2014.pdf)
++ [2014 年度报告]({{ site.baseurl }}/notice/2014-annual-report.pdf)
 
-学术动态
+<h2 style="color: #4D4DFF;">学术动态</h2>（更多）
 ------------------------
 
 + 2014年12月4日<br>
   [王义平教授获2015年度国家杰出青年科学基金资助]({{ site.baseurl }}/notice/yipingwang.html)
++ 2015年1月13日<br>
+  [刘申博士在Scientific Reports上发表学术论文]({{ site.baseurl }}/notice/liushen.html)
 + 2014年12月5日<br>
   [学术报告——高性能分布式布里渊光纤传感器研究]({{ site.baseurl }}/notice/lecture-4.html)
 + 2014年11月28日<br>
