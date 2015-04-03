@@ -19,14 +19,14 @@ permalink: /facilities/others-1/
 </div>
 
 <div class="wrap oh clearfix" style="float: left; width: 30%" >
-    <img src="{{ site.baseurl }}/images/gg-1.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
+    <img src="{{ site.baseurl }}/images/gy-1.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
     <p style="text-align: center; font-size: 1.0em">
       超长连续宽光谱光源  
     </p>
 </div>
 
 <div class="wrap oh clearfix" style="margin-left: 54%; width: 30%">
-    <img src="{{ site.baseurl }}/images/gg-2.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
+    <img src="{{ site.baseurl }}/images/gy-2.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
     <p style="text-align: center; font-size: 1.0em">
        超长连续宽光谱光源
     </p>
