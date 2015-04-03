@@ -78,4 +78,11 @@ permalink: /facilities/
     </p>
 </div>
 
+<div class="wrap oh clearfix" style="float: left; width: 33%" >
+    <img src="{{ site.baseurl }}/images/zq-2.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
+    <p style="text-align: center; font-size: 1.0em">
+        载氢平台
+    </p>
+</div>
+
 <br>
