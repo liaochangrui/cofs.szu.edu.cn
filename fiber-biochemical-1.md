@@ -3,7 +3,7 @@ layout: page
 permalink: /fiber-biochemical-1/
 ---
 
-<h1 style="color: #870A40; padding-top: 2.5rem; padding-bottom: 0.8rem; text-align:center;">光纤生传感技术</h1>
+<h1 style="color: #870A40; padding-top: 2.5rem; padding-bottom: 0.8rem; text-align:center;">光纤生化传感技术</h1>
 
 
 <div class="wrap clearfix">
