@@ -58,7 +58,7 @@ permalink: /facilities/
 <br>
 
 <div class="wrap oh clearfix" style="float: left; width: 33%" >
-    <img src="{{ site.baseurl }}/images/bio-chemical.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
+    <img src="{{ site.baseurl }}/images/shj.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
     <p style="text-align: center; font-size: 1.0em">
       生化实验平台
     </p>
