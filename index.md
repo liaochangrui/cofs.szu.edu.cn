@@ -2,10 +2,9 @@
 layout: index
 carousel: 
   - image: sys.jpg
-  - image: superclean_1.jpg
+  - image: meeting-1-745x500.jpg
   - image: superclean2.jpg
   - image: pt.jpg
-  - image: sg.jpg
   - image: sg.jpg
 ---
 
