@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /gallery/
-carousel: 
+carousel:
   - image: jsj.jpg
   - image: wsh.jpg
   - image: bh.jpg
