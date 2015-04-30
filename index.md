@@ -19,6 +19,8 @@ carousel:
 
 + 2014年12月4日<br>
   [王义平教授获2015年度国家杰出青年科学基金资助]({{ site.baseurl }}/notice/yipingwang.html)
++ 2015年4月4日<br>
+  [深圳市物联网光子器件与传感系统重点实验室第一届委员会议圆满召开]({{ site.baseurl }}/notice/meeting.html)
 + 2015年1月13日<br>
   [刘申博士在Scientific Reports上发表学术论文]({{ site.baseurl }}/notice/liushen.html)
 + 2014年12月5日<br>
