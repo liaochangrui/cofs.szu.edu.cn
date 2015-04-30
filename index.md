@@ -1,11 +1,12 @@
 ---
 layout: index
-carousel: 
+carousel:
   - image: sys.jpg
   - image: meeting-1-745x500.jpg
   - image: superclean2.jpg
   - image: pt.jpg
   - image: sg.jpg
+  - image: bh.jpg
 ---
 
 <h2 style="color: #4D4DFF;">年度报告</h2>
