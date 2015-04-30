@@ -7,7 +7,7 @@ carousel:
   - image: superclean2.jpg
   - image: pt.jpg
   - image: sg.jpg
-  - image: meeting-3.jpg
+  - image: meeting-4.jpg
 ---
 
 <h2 style="color: #4D4DFF;">年度报告</h2>
