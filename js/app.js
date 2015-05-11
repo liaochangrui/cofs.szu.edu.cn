@@ -6,13 +6,14 @@ $(window).load(function() {
     //controlNav: "thumbnails",
     //directionNav: true,
     useCSS : false,
-    smoothHeight: true, 
+    smoothHeight: true,
     initDelay: 2000,
     slideshow: true,
     slideshowSpeed: 5000,
     animationSpeed: 600,
     easing: "swing",
     direction: "horizontal",
+    controlNav: false
     touch: true
     });
 });
