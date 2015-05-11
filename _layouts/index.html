@@ -3,32 +3,32 @@ layout: default
 ---
 <div class="post">
   <article class="post-content">
-  <div>
-  <div class="index-left-photos">
-    <div class="flexslider">
-      <ul class="slides">
-        {% for slides in page.carousel %}
-        <li>
-          <img src="{{ slides.image | prepend: "/images/" | prepend: site.baseurl }}">
-        </li>
-        {% endfor %}
-      </ul>
+    <div>
+      <div class="index-left-photos">
+        <div class="flexslider">
+          <ul class="slides">
+            {% for slides in page.carousel %}
+            <li>
+              <img src="{{ slides.image | prepend: "/images/" | prepend: site.baseurl }}">
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+      <div class="index-right-moto-and-news">
+        <p>{{ site.description }}</p>
+      </div>
     </div>
-  </div>
-  <div class="index-right-moto-and-news">
-    <p>{{ site.description }}</p>
-  </div>
-  </div>
-  <div>
-  <div class="index-left-photos">
-    {% include newpapers.html %}
-  </div>
-  <div class="index-right-moto-and-news">
-    {{ content }}
-    <h2 style="color: #4D4DFF;">热点链接</h2>
-    {% include links.html %}
-  </div>
-  </div>
+    <div>
+      <div class="index-left-photos">
+        {% include newpapers.html %}
+      </div>
+      <div class="index-right-moto-and-news">
+        {{ content }}
+        <h2 style="color: #4D4DFF;">热点链接</h2>
+        {% include links.html %}
+      </div>
+    </div>
   </article>
 </div>
 
