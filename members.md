@@ -221,6 +221,21 @@ permalink: /members/
 
 <div class="bio-container">
   <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/yangkaiming/">
+  <img src="{{ site.baseurl }}/images/yangkaiming-92x117.jpg" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/yangkaiming/">
+  杨凯明
+  </a>
+  <br>
+  E-mail：yangkaiming@email.szu.edu.cn
+  </div>
+</div>
+
+<div class="bio-container">
+  <div class="bio-avatar" >
   <a href="{{ site.baseurl }}/members/lizhengyong/">
   <img src="{{ site.baseurl }}/images/lizhengyong-92x122.jpg" class="max-img-border"/>
   </a>
@@ -295,21 +310,6 @@ permalink: /members/
   </a>
   <br>
   E-mail：814423256@qq.com
-  </div>
-</div>
-
-<div class="bio-container">
-  <div class="bio-avatar" >
-  <a href="{{ site.baseurl }}/members/yangkaiming/">
-  <img src="{{ site.baseurl }}/images/yangkaiming-92x117.jpg" class="max-img-border"/>
-  </a>
-  </div>
-  <div class="bio-info">
-  <a href="{{ site.baseurl }}/members/yangkaiming/">
-  杨凯明
-  </a>
-  <br>
-  E-mail：yangkaiming@email.szu.edu.cn
   </div>
 </div>
 
