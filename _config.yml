@@ -43,7 +43,7 @@ links:
    url: http://www.szsti.gov.cn/
 
 newpapers:
- - name: "基于光纤内部矩形气泡的高灵敏度的应变传感器"
+ - name: "基于光纤内部矩形气泡的高灵敏度的应变传感器"<br>
    title: "High-sensitivity strain sensor based on in-fiber rectangular air bubble" 
    author: "Shen Liu et al , Scientific Reports , 5, 7624, 2015"
    doc: "2015-High-sensitivity strain sensor based on.pdf"
