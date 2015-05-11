@@ -43,11 +43,11 @@ links:
    url: http://www.szsti.gov.cn/
 
 newpapers:
- - name: "基于光纤内部矩形气泡的高灵敏度的应变传感器"<br>
+ - name: "基于光纤内部矩形气泡的高灵敏度的应变传感器"
    title: "High-sensitivity strain sensor based on in-fiber rectangular air bubble" 
    author: "Shen Liu et al , Scientific Reports , 5, 7624, 2015"
    doc: "2015-High-sensitivity strain sensor based on.pdf"
-   image: liushen-800x568.jpg
+   image: liushen-800x568.jpg<br>
  - name: "基于聚合物端冒结构的法布里-珀罗干涉仪并用于气压和温度同时传感"
    title: "Simultaneous measurement of pressure and temperature by employing Fabry-Perot interferometer based on pendant polymer droplet"
    author: "Bing Sun et al.,Optics Express, 23(3): 1906-1911, 2015."
