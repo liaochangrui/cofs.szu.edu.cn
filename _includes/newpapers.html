@@ -13,11 +13,11 @@
                 <a href="{{ paper.doc | prepend: "/papers/" | prepend: site.baseurl }}">
                     <img src="{{ paper.image | prepend: "/images/" | prepend: site.baseurl }}">
                     {% if paper.title and paper.author %}
-                        <p class="flex-caption"><span style="line-height: 2.0;"><br/>{{ paper.title }}<br/>{{ paper.author }}</span></p>
+                        <p class="flex-caption"><span style="line-height: 2.0;">{{ paper.title }}<br/>{{ paper.author }}</span></p>
                     {% elsif paper.author and paper.title == null %}
-                        <p class="flex-caption"><span style="line-height: 2.0;"><br/>{{ paper.author }}</span></p>
+                        <p class="flex-caption"><span style="line-height: 2.0;">{{ paper.author }}</span></p>
                     {% elsif paper.title and paper. author == null %}
-                        <p class="flex-caption"><span style="line-height: 2.0;"><br/>{{ paper.title }}</span></p>
+                        <p class="flex-caption"><span style="line-height: 2.0;">{{ paper.title }}</span></p>
                     {% else %}
                     {% endif %}
                 </a>

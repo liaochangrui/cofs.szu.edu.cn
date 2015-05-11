@@ -92,10 +92,10 @@ img {
 .index-left-photos {
   float: left;
   display: block;
-  width: 500px;  
+  width: 450px;
 }
 
-.index-left-photos p {  
+.index-left-photos p {
   text-align: center;
 }
 
