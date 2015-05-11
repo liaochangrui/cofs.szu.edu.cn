@@ -7,7 +7,7 @@ $(window).load(function() {
     //directionNav: true,
     useCSS : false,
     smoothHeight: true,
-    initDelay: 1500
+    initDelay: 2000,
     slideshow: true,
     slideshowSpeed: 5000,
     animationSpeed: 600,
