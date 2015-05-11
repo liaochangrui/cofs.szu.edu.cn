@@ -48,16 +48,16 @@ newpapers:
    author: "Shen Liu et al , Scientific Reports , 5, 7624, 2015"
    doc: "2015-High-sensitivity strain sensor based on.pdf"
    image: liushen-800x568.jpg
- - name: "基于聚合物端冒结构的法布里-珀罗干涉仪并用于气压和温度同时传感"
-   title: "Simultaneous measurement of pressure and temperature by employing Fabry-Perot interferometer based on pendant polymer droplet"
-   author: "Bing Sun et al.,Optics Express, 23(3): 1906-1911, 2015."
-   doc: "Simultaneous measurement of pressure and temperature by employing Fabry-Perot interferometer based on pendant polymer droplet.pdf"
-   image: sunbing-800x315.jpg
- - name: "基于迈克尔逊干涉仪的折射率强度调制传感器"
-   title: "Intensity modulated refractive index sensor based on optical fiber Michelson interferometer"
-   author: "Jiangtao Zhou et al., Sensors and Actuators B 208 (2015) 315–319."
-   doc: "zjt-2015-Intensity modulated refractive index sensor based on optical fiber Michelson interferometer.pdf"
-   image: zhoujiangtao-640x800.jpg
+ - name: "飞秒激光刻写高双折射相移布拉格光栅"
+   title: "Highly birefringent phase-shifted fiber Bragg gratings inscribed with femtosecond laser"
+   author: "Jun He et al,OPTICS LETTERS 40（9）2008-2011 2015."
+   doc: "hj-2015-Highly birefringent phase-shifted fiber Bragg gratings inscribed with femtosecond laser 2015 (ol-40-9-2008).pdf"
+   image: hj-2015.png
+ - name: "表面刻痕的粗磨光纤的传感应用"
+   title: "Rough side-polished fiber with surface scratches for sensing applications"
+   author: "Jing Zhao et al, IEEE Photonics Journal."
+   doc: "zj-2015-Rough side-polished fiber with surface scratches for sensing applications.pdf"
+   image: zhaojing-711x800.jpg
 
 # Build settings
 markdown: redcarpet  #kramdown
