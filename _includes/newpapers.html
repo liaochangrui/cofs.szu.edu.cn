@@ -11,7 +11,7 @@
         <ul class="slides">
             <li>
                 <a href="{{ paper.doc | prepend: "/papers/" | prepend: site.baseurl }}">
-                    <img src="{{ paper.image | prepend: "/images/" | prepend: site.baseurl }}" style="width:400px; height: auto;">
+                    <img src="{{ paper.image | prepend: "/images/" | prepend: site.baseurl }}">
                     {% if paper.title and paper.author %}
                         <p class="flex-caption">{{ paper.title }}<br/>{{ paper.author }}</p>
                     {% elsif paper.author and paper.title == null %}
