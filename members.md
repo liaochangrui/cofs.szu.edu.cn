@@ -122,20 +122,18 @@ permalink: /members/
 
 <div class="bio-container">
   <div class="bio-avatar" >
-  <a href="{{ site.baseurl }}/members/hejun/">
-  <img src="{{ site.baseurl }}/images/hejun-92x130.jpg" class="max-img-border"/>
+  <a href="{{ site.baseurl }}/members/wangchao/">
+  <img src="{{ site.baseurl }}/images/wangc-92x128.jpg" class="max-img-border"/>
   </a>
   </div>
   <div class="bio-info">
-  <a href="{{ site.baseurl }}/members/hejun/">
+  <a href="{{ site.baseurl }}/members/wangchao/">
   汪超 博士
   </a>
   <br>
-  Tel：  13510061158
+  Tel：  13420959006
   <br>
-  E-mail： hejun07@szu.edu.cn
-  <br>
-  E-mail： hejun07@semi.ac.cn
+  E-mail： oecwang@szu.edu.cn
   </div>
 </div>
 
