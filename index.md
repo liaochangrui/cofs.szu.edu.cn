@@ -14,7 +14,7 @@ carousel:
 
 + [2014 年度报告]({{ site.baseurl }}/notice/2014-annual-report.pdf)
 
-<h2 style="color: #4D4DFF;">学术动态</h2><a href="{{ site.baseurl }}/publications/"><span style="font-size: 1.0rem;">(更多)</span></a>
+<h2 style="color: #4D4DFF;">学术动态 <a href="{{ site.baseurl }}/publications/"><span style="font-size: 1.0rem;">(更多)</span></a></h2>
 
 + [王义平教授获2015年度国家杰出青年科学基金]({{ site.baseurl }}/notice/yipingwang.html)
 + 2015年4月4日
