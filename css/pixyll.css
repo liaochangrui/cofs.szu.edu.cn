@@ -92,7 +92,7 @@ img {
 .index-left-photos {
   float: left;
   display: block;
-  width: 450px;
+  width: 500px;
 }
 
 .index-left-photos p {
@@ -100,7 +100,7 @@ img {
 }
 
 .index-left-photos img{
-  width: 100%;
+  width: 80%;
 }
 
 .index-right-moto-and-news {
