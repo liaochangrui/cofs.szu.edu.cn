@@ -5,7 +5,7 @@ permalink: /members/baizhiyong/
 ---
 
 <a href="{{ site.baseurl }}/members/baizhiyong/">
-<img class="member-avatar" src="{{ site.baseurl }}/images/baizy-92x128.jpg">
+<img class="member-avatar" src="{{ site.baseurl }}/images/baizy-120x168.jpg">
 </a>
 
 ## 个人信息
