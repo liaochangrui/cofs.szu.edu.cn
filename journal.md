@@ -19,6 +19,10 @@ permalink: /publications/
     ["High-sensitivity strain sensor based on in-fiber rectangular air bubble"]({{ site.baseurl }}/papers/2015-High-sensitivity strain sensor based on in-fiber rectangular air bubble.pdf)<br> 
    SCIENTIFICREPORTS| 5 : 7624 | DOI: 10.1038/srep07624-1-7
 
+2. Jun He,Yiping Wang* Changrui Liao,Qiaoni Wang,Kaiming Yang,Bing Sun,Guolu Yin,Shen Liu,Jiangtao Zhou,and Jing Zhao<br>
+    ["Highly birefringent phase-shifted fiber Bragg gratings inscribed with femtosecond laser"]({{ site.baseurl }}/papers/hj-2015-Highly birefringent phase-shifted fiber Bragg gratings inscribed with femtosecond laser 2015 (ol-40-9-2008).pdf)<br> 
+  OPTICS LETTERS 40（9）2008-2011 2015 
+
 2. Zhengyong Li, Changrui Liao, Yiping Wang, Lei Xu, Dongning Wang, Xiaopeng Dong, Shen Liu, Qiao Wang, Kaiming Yang, and Jiangtao Zhou<br> 
     ["Highly-sensitive gas pressure sensor using twincore fiber based in-line Mach-Zehnder 
 interferometer"]({{ site.baseurl }}/papers/zhengyongli-Highly-sensitive gas pressure sensor using twincore.pdf)<br> 
@@ -31,6 +35,10 @@ interferometer"]({{ site.baseurl }}/papers/zhengyongli-Highly-sensitive gas pres
 4. Jiangtao Zhou, Yiping Wang∗, Changrui Liao, Bing Sun, Jun He, Guolu Yin, Shen Liu,Zhengyong Li, Guanjun Wang, Xiaoyong Zhong, Jing Zhao<br>
     ["Intensity modulated refractive index sensor based on optical fiberMichelson interferometer"]({{ site.baseurl }}/papers/zjt-2015-Intensity modulated refractive index sensor based on optical fiber Michelson interferometer.pdf)<br>
    Sensors and Actuators B 208 (2015) 315–319
+  
+5. Jing Zhao, Guolu Yin, Changrui Liao, Shen Liu, Jun He, Bing Sun, Guanjun Wang, Xizheng Xu, and Yiping Wang<br>
+   ["Rough side-polished fiber with surface scratches for sensing applications"]({{ site.baseurl }}/papers/zj-2015-Rough side-polished fiber with surface scratches for sensing applications.pdf)<br>
+   IEEE Photonics Journal ， 已接收.（JCR二区，IF=2.330）<br>
 
 2014
 -------------------------
