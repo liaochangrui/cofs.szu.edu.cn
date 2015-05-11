@@ -6,8 +6,8 @@ bannerlink: "http://www.szu.edu.cn"
 email: ypwang@szu.edu.cn
 author: 深圳市物联网光子器件与传感系统重点实验室
 footer: "地址: &nbsp; 广东省深圳市南山区南海大道3688号 &nbsp; 深圳大学 &nbsp; 光电工程学院 &nbsp; 518060 &nbsp; Email: &nbsp; ypwang@szu.edu.cn &nbsp; 电话: &nbsp; 0755-26066281"
-description: 2012年王义平教授入职深圳大学光电工程学院，在中国工程院院士牛憨笨教授的大力支持下，依托光学工程博士点和博士后流动站组建光纤传感技术研究团队和实验室。2014年王义平教授牵头组建的“深圳市物联网光子器件与传感系统重点实验室”获深圳市科技创新委员会批准立项建设。实验室现拥有百级超净实验室以及飞秒激光微加工系统、光纤光栅制备系统、微纳光纤拉制系统等1000余万元的仪器设备。实验室现有成员20人，其中教师2人、博士后5人、博士生3人、硕士生10人。
-baseurl: 
+description: 2012年王义平教授入职深圳大学光电工程学院，在中国工程院院士牛憨笨教授的大力支持下，依托光学工程博士点和博士后流动站组建光纤传感技术研究团队和实验室。2014年王义平教授牵头组建的“深圳市物联网光子器件与传感系统重点实验室”获深圳市科技创新委员会批准立项建设。实验室现拥有百级超净实验室以及飞秒激光微加工系统、光纤光栅制备系统、微纳光纤拉制系统等1000余万元的仪器设备。实验室现有成员20人，其中教师2人、博士后5人、博士生3人、硕士生10人。<br/><br/>报名请发邮件到ypwang@szu.edu.cn(<a href="http://cofs.szu.edu.cn/recruit/">点击查看详情<a>)
+baseurl:
 url: http://cofs.szu.edu.cn
 
 navigation:
@@ -33,18 +33,18 @@ links:
    url: http://www.szu.edu.cn
  - title: "深圳大学光电工程学院"
    url: http://opto.szu.edu.cn
- - title: "英国南安普顿大学光电研究中心"    
+ - title: "英国南安普顿大学光电研究中心"
    url: http://www.orc.soton.ac.uk/
- - title: "香港理工大学"                  
+ - title: "香港理工大学"
    url: http://www.polyu.edu.hk/
- - title: "国家自然科学基金委"    
+ - title: "国家自然科学基金委"
    url: http://www.nsfc.gov.cn/
- - title: "深圳市科技创新委员"         
+ - title: "深圳市科技创新委员"
    url: http://www.szsti.gov.cn/
 
 newpapers:
  - name: "基于光纤内部矩形气泡的高灵敏度的应变传感器"
-   title: "High-sensitivity strain sensor based on in-fiber rectangular air bubble" 
+   title: "High-sensitivity strain sensor based on in-fiber rectangular air bubble"
    author: "Shen Liu et al , Scientific Reports , 5, 7624, 2015"
    doc: "2015-High-sensitivity strain sensor based on.pdf"
    image: liushen-800x568.jpg
