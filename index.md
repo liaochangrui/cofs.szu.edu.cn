@@ -14,7 +14,7 @@ carousel:
 
 + [2014 年度报告]({{ site.baseurl }}/notice/2014-annual-report.pdf)
 
-<h2 style="color: #4D4DFF;">学术动态</h2>（更多）
+<h2 style="color: #4D4DFF;">学术动态(更多)</h2>
 ------------------------
 
 + 2014年12月4日<br>
