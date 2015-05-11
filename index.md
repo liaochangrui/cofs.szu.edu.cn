@@ -1,13 +1,13 @@
 ---
 layout: index
 carousel:
-  - image: sys.jpg
+  - image: syshy.jpg
   - image: meeting.jpg
-  - image: superclean_1.jpg
-  - image: superclean2.jpg
-  - image: pt.jpg
-  - image: sg.jpg
-  - image: meeting-2.jpg
+  - image: cjsys-1.jpg
+  - image: cjsys-2.jpg
+  - image: ptsys.jpg
+  - image: sghzjl.jpg
+  - image: xswyhy.jpg
 ---
 
 <h2 style="color: #4D4DFF;">年度报告</h2>
