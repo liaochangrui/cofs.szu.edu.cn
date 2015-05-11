@@ -4,7 +4,7 @@
 {% for paper in site.newpapers %}
     {% if paper.name %}
         <a href="{{ paper.doc | prepend: "/papers/" | prepend: site.baseurl }}">
-            <h3 style="text-align: center;"> {{ paper.name }} </h3>
+            <h3 style="text-align: center; line-height: 2.0; font-size: 2.0;"> {{ paper.name }} </h3>
         </a>
     {% endif %}
     <div class="flexslider" style="margin: 0 0 10px;">
