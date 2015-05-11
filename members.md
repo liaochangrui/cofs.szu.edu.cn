@@ -120,6 +120,39 @@ permalink: /members/
   </div>
 </div>
 
+<div class="bio-container">
+  <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/wangchao/">
+  <img src="{{ site.baseurl }}/images/wangc-92x128.jpg" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/wangchao/">
+  汪超 博士
+  </a>
+  <br>
+  Tel：  13420959006
+  <br>
+  E-mail： oecwang@szu.edu.cn
+  </div>
+</div>
+
+<div class="bio-container">
+  <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/baizhiyong/">
+  <img src="{{ site.baseurl }}/images/baizy-92x130.jpg" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/baizhiyong/">
+  白志勇 博士
+  </a>
+  <br>
+  Tel：  
+  <br>
+  E-mail： bzy041217@126.com
+  </div>
+</div>
 </div>
 
 ##  在读博士生
@@ -186,11 +219,20 @@ permalink: /members/
   </div>
 </div>
 
+<div class="bio-container">
+  <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/yangkaiming/">
+  <img src="{{ site.baseurl }}/images/yangkaiming-92x117.jpg" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/yangkaiming/">
+  杨凯明
+  </a>
+  <br>
+  E-mail：yangkaiming@email.szu.edu.cn
+  </div>
 </div>
-
-## 在读硕士生
-
-<div class="sec-container">
 
 <div class="bio-container">
   <div class="bio-avatar" >
@@ -200,13 +242,32 @@ permalink: /members/
   </div>
   <div class="bio-info">
   <a href="{{ site.baseurl }}/members/lizhengyong/">
-  李正勇
+  李正勇*
   </a>
   <br>
   E-mail：lizhengy88@126.com
   </div>
 </div>
 
+<div class="bio-container">
+  <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/fucailing/">
+  <img src="{{ site.baseurl }}/images/fucailing-92x130.jpg" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/fucailing/">
+  付彩玲*
+  </a>
+  <br>
+  E-mail：cailingfu@139.com
+  </div>
+</div>
+</div>
+
+## 在读硕士生
+
+<div class="sec-container">
 <div class="bio-container">
   <div class="bio-avatar" >
   <a href="{{ site.baseurl }}/members/zhongxiaoyong/">
@@ -249,36 +310,6 @@ permalink: /members/
   </a>
   <br>
   E-mail：814423256@qq.com
-  </div>
-</div>
-
-<div class="bio-container">
-  <div class="bio-avatar" >
-  <a href="{{ site.baseurl }}/members/fucailing/">
-  <img src="{{ site.baseurl }}/images/fucailing-92x130.jpg" class="max-img-border"/>
-  </a>
-  </div>
-  <div class="bio-info">
-  <a href="{{ site.baseurl }}/members/fucailing/">
-  付彩玲*
-  </a>
-  <br>
-  E-mail：cailingfu@139.com
-  </div>
-</div>
-
-<div class="bio-container">
-  <div class="bio-avatar" >
-  <a href="{{ site.baseurl }}/members/yangkaiming/">
-  <img src="{{ site.baseurl }}/images/yangkaiming-92x117.jpg" class="max-img-border"/>
-  </a>
-  </div>
-  <div class="bio-info">
-  <a href="{{ site.baseurl }}/members/yangkaiming/">
-  杨凯明
-  </a>
-  <br>
-  E-mail：yangkaiming@email.szu.edu.cn
   </div>
 </div>
 
