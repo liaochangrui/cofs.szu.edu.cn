@@ -20,6 +20,10 @@ permalink: /publications/
     ["High-sensitivity strain sensor based on in-fiber rectangular air bubble"]({{ site.baseurl }}/papers/2015-High-sensitivity strain sensor based on in-fiber rectangular air bubble.pdf)<br> 
    SCIENTIFICREPORTS| 5 : 7624 | DOI: 10.1038/srep07624-1-7
 
+2. Xiaoyong Zhong, Yiping Wang,* Changrui Liao, Shen Liu, Jian Tang, and Qiao Wang<br>
+   ["Temperature-insensitivity gas pressure sensor based on inflated long period fiber grating inscribed in photonic crystal fiber"]({{ site.baseurl }}/papers/zxy-2015Temperature-insensitivity gas pressure sensor based.pdf)<br> 
+   OPTICS LETTERS, 40(8),1791-1794, 2015
+
 2. Jun He,Yiping Wang* Changrui Liao,Qiaoni Wang,Kaiming Yang,Bing Sun,Guolu Yin,Shen Liu,Jiangtao Zhou,and Jing Zhao<br>
     ["Highly birefringent phase-shifted fiber Bragg gratings inscribed with femtosecond laser"]({{ site.baseurl }}/papers/hj-2015-Highly birefringent phase-shifted fiber Bragg gratings inscribed with femtosecond laser 2015 (ol-40-9-2008).pdf)<br> 
   OPTICS LETTERS 40（9）2008-2011 2015 
