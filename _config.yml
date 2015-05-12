@@ -43,11 +43,11 @@ links:
    url: http://www.szsti.gov.cn/
 
 newpapers:
- - name: "基于光纤内部矩形气泡的高灵敏度的应变传感器"
-   title: "High-sensitivity strain sensor based on in-fiber rectangular air bubble"
-   author: "Shen Liu et al , Scientific Reports , 5, 7624, 2015"
-   doc: "2015-High-sensitivity strain sensor based on.pdf"
-   image: liushen-800x568.jpg
+ - name: "基于光子晶体光纤上写制膨胀型长周期光纤光栅的温度不敏感气压传感器"
+   title: "Temperature-insensitivity gas pressure sensor based on inflated long period fiber grating inscribed in photonic crystal fiber"
+   author: "Xiaoyong Zhong et al , OPTICS LETTERS, 40(8),1791-1794, 2015"
+   doc: "zxy-2015Temperature-insensitivity gas pressure sensor based.pdf"
+   image: xiaoyong-index-664x630.png
  - name: "飞秒激光刻写高双折射相移布拉格光栅"
    title: "Highly birefringent phase-shifted fiber Bragg gratings inscribed with femtosecond laser"
    author: "Jun He et al,OPTICS LETTERS 40（9）2008-2011 2015."
