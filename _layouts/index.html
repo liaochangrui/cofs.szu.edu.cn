@@ -5,8 +5,8 @@ layout: default
   <article class="post-content">
     <div>
       <div class="index-left-photos">
-        <div class="flexslider" style="font-size: 1.0rem; line-height: 1.0rem;">
-          <ul class="slides">
+        <div class="flexslider">
+          <ul class="slides" style="font-size: 1.0rem; line-height: 1.0rem;">
             {% for slides in page.carousel %}
             <li>
               <img src="{{ slides.image | prepend: "/images/" | prepend: site.baseurl }}">
