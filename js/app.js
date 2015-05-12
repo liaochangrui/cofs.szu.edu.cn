@@ -14,7 +14,7 @@ $(window).load(function() {
     easing: "swing",
     direction: "horizontal",
     controlNav: true,
-    directionNav: false,
+    directionNav: true,
     touch: true
     });
 });
