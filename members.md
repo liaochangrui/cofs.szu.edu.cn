@@ -27,7 +27,7 @@ permalink: /members/
 <div class="bio-container">
   <div class="bio-avatar" >
   <a href="{{ site.baseurl }}/members/liaochangrui/">
-  <img src="{{ site.baseurl }}/images/liaochangrui-92x123.jpg" class="max-img-border">
+  <img src="{{ site.baseurl }}/images/liaochangrui-92x128.jpg" class="max-img-border">
   </a>
   </div>
   <div class="bio-info">
