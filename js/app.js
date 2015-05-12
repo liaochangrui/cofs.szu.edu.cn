@@ -13,7 +13,7 @@ $(window).load(function() {
     animationSpeed: 600,
     easing: "swing",
     direction: "horizontal",
-    controlNav: true,
+    controlNav: false,
     touch: true
     });
 });
