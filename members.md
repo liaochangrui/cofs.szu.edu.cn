@@ -48,7 +48,7 @@ permalink: /members/
   </a>
   </div>
   <div class="bio-info">
-  <a href="{{ site.baseurl }}/members/liaochangrui/">
+  <a href="{{ site.baseurl }}/members/wangying/">
   王英 副教授
   </a>
   <br>
@@ -65,7 +65,7 @@ permalink: /members/
   </a>
   </div>
   <div class="bio-info">
-  <a href="{{ site.baseurl }}/members/liaochangrui/">
+  <a href="{{ site.baseurl }}/members/wangning/">
   王宁 博士
   </a>
   <br>
