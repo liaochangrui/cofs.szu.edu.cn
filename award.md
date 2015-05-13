@@ -19,12 +19,14 @@ permalink: /publications/awards/
 <div class="sec-container">
 
 <div class="bio-container">
-  <div class="bio-avatar" >  
+  <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/zhoujiangtao/">
   <img src="{{ site.baseurl }}/images/zhoujiangtao-92x130.jpg" class="max-img-border">
   </a>
   </div>
   <div class="bio-info">
-  周江涛
+  <a href="{{ site.baseurl }}/members/zhoujiangtao/">
+   周江涛
   </a>
   <br>
   2012级硕士生
