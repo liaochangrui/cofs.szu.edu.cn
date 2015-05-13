@@ -74,12 +74,12 @@ permalink: /publications/awards/
 
 <div class="bio-container">
   <div class="bio-avatar" >  
-   <a href="{{ site.baseurl }}/members/liuyinjie/">
-  <img src="{{ site.baseurl }}/images/liuyinjie-92x130.jpg" class="max-img-border">
+   <a href="{{ site.baseurl }}/members/liuyingjie/">
+  <img src="{{ site.baseurl }}/images/liuyingjie-92x130.jpg" class="max-img-border">
   </a>
   </div>
   <div class="bio-info">
-  <a href="{{ site.baseurl }}/members/liuyinjie/">
+  <a href="{{ site.baseurl }}/members/liuyingjie/">
   刘颖洁
   </a>
   <br>
