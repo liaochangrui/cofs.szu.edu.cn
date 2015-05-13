@@ -89,7 +89,7 @@ permalink: /publications/awards/
 
 <div class="bio-container">
   <div class="bio-avatar" >  
-  <img src="{{ site.baseurl }}/images/liushen-93x124.jpg" class="max-img-border">
+  <img src="{{ site.baseurl }}/images/liushen93x124.jpg" class="max-img-border">
   </a>
   </div>
   <div class="bio-info">
