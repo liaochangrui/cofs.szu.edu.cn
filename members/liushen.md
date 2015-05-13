@@ -5,9 +5,8 @@ permalink: /members/liushen/
 ---
 
 <a href="{{ site.baseurl }}/members/liushen/">
-<img class="member-avatar"　src="{{ site.baseurl }}/images/liushen93x124.jpg">
+<img src="{{ site.baseurl }}/images/liushen93x124.jpg" style="width: 92px; float: right; margin: 10px" />
 </a>
-
 
 姓名：刘申<br/>
 籍贯：河南商丘<br/>
