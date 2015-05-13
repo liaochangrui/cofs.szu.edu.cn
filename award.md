@@ -38,10 +38,12 @@ permalink: /publications/awards/
 
 <div class="bio-container">
   <div class="bio-avatar" >  
+  <a href="{{ site.baseurl }}/members/lizhengyong/">
   <img src="{{ site.baseurl }}/images/lizhengyong-92x128.jpg" class="max-img-border">
   </a>
   </div>
   <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/lizhengyong/">
   李正勇
   </a>
   <br>
@@ -54,10 +56,12 @@ permalink: /publications/awards/
 
 <div class="bio-container">
   <div class="bio-avatar" >  
+   <a href="{{ site.baseurl }}/members/zhongxiaoyong/">
   <img src="{{ site.baseurl }}/images/zhongxiaoyong-92x133.jpg" class="max-img-border">
   </a>
   </div>
   <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/zhongxiaoyong/">
   钟晓勇
   </a>
   <br>
@@ -70,10 +74,12 @@ permalink: /publications/awards/
 
 <div class="bio-container">
   <div class="bio-avatar" >  
+   <a href="{{ site.baseurl }}/members/liuyinjie/">
   <img src="{{ site.baseurl }}/images/liuyinjie-92x130.jpg" class="max-img-border">
   </a>
   </div>
   <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/liuyinjie/">
   刘颖洁
   </a>
   <br>
@@ -91,10 +97,12 @@ permalink: /publications/awards/
 
 <div class="bio-container">
   <div class="bio-avatar" >  
+  <a href="{{ site.baseurl }}/members/liushen/">
   <img src="{{ site.baseurl }}/images/liushen93x124.jpg" class="max-img-border">
   </a>
   </div>
   <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/liushen/">
   刘申
   </a>
   <br>
@@ -113,12 +121,14 @@ permalink: /publications/awards/
 <div class="sec-container">
 
 <div class="bio-container">
-  <div class="bio-avatar" >  
+  <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/zhoujiangtao/">
   <img src="{{ site.baseurl }}/images/zhoujiangtao-92x130.jpg" class="max-img-border">
   </a>
   </div>
   <div class="bio-info">
-  周江涛
+  <a href="{{ site.baseurl }}/members/zhoujiangtao/">
+   周江涛
   </a>
   <br>
   2012级硕士生
