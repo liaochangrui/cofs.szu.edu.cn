@@ -98,7 +98,7 @@ permalink: /publications/awards/
   <br>
   2014级博士生
   <br>
-  第一作者Nature集团刊物（Scientific Report）1篇
+  第一作者Nature集团刊物(Scientific Report)1篇
   <br>
   JCR二区1篇、授权专利1项
   <br>
