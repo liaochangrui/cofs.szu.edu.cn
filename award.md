@@ -16,7 +16,7 @@ permalink: /publications/awards/
 
 <div class="sec-container">
 
-<h2 style="color: #870A40;">2014年深圳大学国家奖学金获得者<br>2014年深圳大学优秀研究生奖学金获得者</h2>
+##**2014年深圳大学国家奖学金获得者<br>2014年深圳大学优秀研究生奖学金获得者**
 
 <div class="bio-container">
   <div class="bio-avatar" >  
