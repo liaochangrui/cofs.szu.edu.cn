@@ -5,7 +5,7 @@ permalink: /members/lizhengyong/
 ---
 
 <a href="{{ site.baseurl }}/members/lizhengyong/">
-<img src="{{ site.baseurl }}/images/lizhengyong-92x122.jpg" style="width: 92px; float: right; margin: 10px" />
+<img src="{{ site.baseurl }}/images/lizhengyong-92x128.jpg" style="width: 92px; float: right; margin: 10px" />
 </a>
 
 ## 基本信息

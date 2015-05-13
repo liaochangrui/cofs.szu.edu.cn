@@ -41,6 +41,40 @@ permalink: /members/
   </div>
 </div>
 
+<div class="bio-container">
+  <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/wangying/">
+  <img src="{{ site.baseurl }}/images/wangying-92x128.jpg" class="max-img-border">
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/liaochangrui/">
+  王英 副教授
+  </a>
+  <br>
+  Tel：  13986036101
+  <br>
+  E-mail： wangying.hust@gmail.com
+  </div>
+</div>
+
+<div class="bio-container">
+  <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/wangning/">
+  <img src="{{ site.baseurl }}/images/wn-92x128.jpg" class="max-img-border">
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/liaochangrui/">
+  王宁 博士
+  </a>
+  <br>
+  Tel：  +852-62211728
+  <br>
+  E-mail： ryan.wangn@gmail.com
+  </div>
+</div>
+
 </div>
 
 ## 在站博士后
@@ -237,7 +271,7 @@ permalink: /members/
 <div class="bio-container">
   <div class="bio-avatar" >
   <a href="{{ site.baseurl }}/members/lizhengyong/">
-  <img src="{{ site.baseurl }}/images/lizhengyong-92x122.jpg" class="max-img-border"/>
+  <img src="{{ site.baseurl }}/images/lizhengyong-92x128.jpg" class="max-img-border"/>
   </a>
   </div>
   <div class="bio-info">
