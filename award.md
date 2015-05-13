@@ -82,6 +82,43 @@ permalink: /publications/awards/
   </div>
 </div>
 
+<h2 style="color: #870A40;">2014年深圳大学优秀博士支持计划获得者<br>2014年深圳大腾讯奖学金获得者</h2>
+-----------------------------------
+<div class="bio-container">
+  <div class="bio-avatar" >  
+  <img src="{{ site.baseurl }}/images/liushen-93x124.jpg" class="max-img-border">
+  </a>
+  </div>
+  <div class="bio-info">
+  刘申
+  </a>
+  <br>
+  2014级博士生
+  <br>
+  第一作者Nature集团刊物（Scientific Report）1篇
+  <br>
+  JCR二区1篇、授权专利1项
+  <br>
+  </div>
+</div>
+
+<h2 style="color: #870A40;">2014年深圳大学牛憨笨奖学金获得者</h2>
+-----------------------------------
+<div class="bio-container">
+  <div class="bio-avatar" >  
+  <img src="{{ site.baseurl }}/images/zhoujiangtao-92x130.jpg" class="max-img-border">
+  </a>
+  </div>
+  <div class="bio-info">
+  周江涛
+  </a>
+  <br>
+  2012级硕士生
+  <br>
+  第一作者JCR一区1篇、二区2篇、授权专利1项
+  <br>
+  </div>
+</div>
 </div>
 
 
