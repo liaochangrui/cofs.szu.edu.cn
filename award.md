@@ -68,7 +68,7 @@ permalink: /publications/awards/
 
 <div class="bio-container">
   <div class="bio-avatar" >  
-  <img src="{{ site.baseurl }}/imagesliuyinjie-92x130.jpg" class="max-img-border">
+  <img src="{{ site.baseurl }}/images/liuyinjie-92x130.jpg" class="max-img-border">
   </a>
   </div>
   <div class="bio-info">
