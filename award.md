@@ -17,7 +17,6 @@ permalink: /publications/awards/
 <div class="sec-container">
 
 <h2 style="color: #870A40;">2014年深圳大学国家奖学金获得者<br>2014年深圳大学优秀研究生奖学金获得者</h2>
-----------------------------
 
 <div class="bio-container">
   <div class="bio-avatar" >  
@@ -30,59 +29,56 @@ permalink: /publications/awards/
   <br>
   2012级硕士生
   <br>
-  第一作者JCR一区1篇、二区2篇、授权专利一项
+  第一作者JCR一区1篇、二区2篇、授权专利1项
   <br>
   </div>
 </div>
 
 <div class="bio-container">
-  <div class="bio-avatar" >
-  <a href="{{ site.baseurl }}/members/liaochangrui/">
-  <img src="{{ site.baseurl }}/images/liaochangrui-92x128.jpg" class="max-img-border">
+  <div class="bio-avatar" >  
+  <img src="{{ site.baseurl }}/images/lizhengyong-92x128.jpg" class="max-img-border">
   </a>
   </div>
   <div class="bio-info">
-  <a href="{{ site.baseurl }}/members/liaochangrui/">
-  廖常锐 博士
+  李正勇
   </a>
   <br>
-  Tel：  15012911508
+  2012级硕士生
   <br>
-  E-mail： cliao@szu.edu.cn
+  第一作者JCR一区1篇、二区1篇、授权专利1项
+  <br>
   </div>
 </div>
 
 <div class="bio-container">
-  <div class="bio-avatar" >
-  <a href="{{ site.baseurl }}/members/wangying/">
-  <img src="{{ site.baseurl }}/images/wangying-92x128.jpg" class="max-img-border">
+  <div class="bio-avatar" >  
+  <img src="{{ site.baseurl }}/images/zhongxiaoyong-92x133.jpg" class="max-img-border">
   </a>
   </div>
   <div class="bio-info">
-  <a href="{{ site.baseurl }}/members/liaochangrui/">
-  王英 副教授
+  钟晓勇
   </a>
   <br>
-  Tel：  13986036101
+  2012级硕士生
   <br>
-  E-mail： wangying.hust@gmail.com
+  第一作者JCR二区2篇、授权专利1项
+  <br>
   </div>
 </div>
 
 <div class="bio-container">
-  <div class="bio-avatar" >
-  <a href="{{ site.baseurl }}/members/wangning/">
-  <img src="{{ site.baseurl }}/images/wn-92x128.jpg" class="max-img-border">
+  <div class="bio-avatar" >  
+  <img src="{{ site.baseurl }}/imagesliuyinjie-92x130.jpg" class="max-img-border">
   </a>
   </div>
   <div class="bio-info">
-  <a href="{{ site.baseurl }}/members/liaochangrui/">
-  王宁 博士
+  刘颖洁
   </a>
   <br>
-  Tel：  +852-62211728
+  2012级硕士生
   <br>
-  E-mail： ryan.wangn@gmail.com
+  第一作者JCR二区1篇、授权专利1项
+  <br>
   </div>
 </div>
 
