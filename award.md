@@ -81,9 +81,12 @@ permalink: /publications/awards/
   <br>
   </div>
 </div>
+</div>
 
 <h2 style="color: #870A40;">2014年深圳大学优秀博士支持计划获得者<br>2014年深圳大腾讯奖学金获得者</h2>
 -----------------------------------
+<div class="sec-container">
+
 <div class="bio-container">
   <div class="bio-avatar" >  
   <img src="{{ site.baseurl }}/images/liushen-93x124.jpg" class="max-img-border">
@@ -101,9 +104,12 @@ permalink: /publications/awards/
   <br>
   </div>
 </div>
+</div>
 
 <h2 style="color: #870A40;">2014年深圳大学牛憨笨奖学金获得者</h2>
 -----------------------------------
+<div class="sec-container">
+
 <div class="bio-container">
   <div class="bio-avatar" >  
   <img src="{{ site.baseurl }}/images/zhoujiangtao-92x130.jpg" class="max-img-border">
