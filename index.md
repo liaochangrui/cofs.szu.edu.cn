@@ -16,7 +16,7 @@ carousel:
 
 <h2 style="color: #4D4DFF;">实验室新闻报道</h2>
 
-+ [王义平雕刻光纤的党代表](<a href="http://www.s1979.com/dianshi/first/201505/21144461521">)
++ [王义平雕刻光纤的党代表]("http://www.s1979.com/dianshi/first/201505/21144461521.sheml")
 
 <h2 style="color: #4D4DFF;">学术动态 <a href="{{ site.baseurl }}/publications/"><span style="font-size: 1.0rem; color: #4D4DFF;">(更多)</span></a></h2>
 
