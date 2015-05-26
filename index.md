@@ -10,7 +10,7 @@ carousel:
   - image: xswyhy.jpg
 ---
 <h2 style="color: #4D4DFF;">实验室新闻报道</h2>
-+ <a href="http://www.s1979.com/dianshi/first/201505/21144461521.shtml">王义平雕刻光纤的党代表<a>
++ <a href="http://www.s1979.com/dianshi/first/201505/21144461521.shtml">深圳都市频道第一现场专题报道<a>
 
 <h2 style="color: #4D4DFF;">年度报告</h2>
 + [2014 年度报告]({{ site.baseurl }}/notice/2014-annual-report.pdf)
