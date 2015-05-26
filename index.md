@@ -16,7 +16,7 @@ carousel:
 
 <h2 style="color: #4D4DFF;">实验室新闻报道</h2>
 
-+  <a href="http://www.s1979.com/dianshi/first/201505/21144461521.shtml">王义平雕刻光纤的党代表<a>
++    <a href="http://www.s1979.com/dianshi/first/201505/21144461521.shtml">王义平雕刻光纤的党代表<a>
 +  <a href="http://fiber.ofweek.com/2014-12/ART-210001-8120-28915722.html">在"头发丝上雕花"的教授<a>
 
 <h2 style="color: #4D4DFF;">学术动态 <a href="{{ site.baseurl }}/publications/"><span style="font-size: 1.0rem; color: #4D4DFF;">(更多)</span></a></h2>
