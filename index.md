@@ -18,6 +18,7 @@ carousel:
 
 +  <a href="http://www.s1979.com/dianshi/first/201505/21144461521.shtml">王义平雕刻光纤的党代表<a>
 
+
 <h2 style="color: #4D4DFF;">学术动态 <a href="{{ site.baseurl }}/publications/"><span style="font-size: 1.0rem; color: #4D4DFF;">(更多)</span></a></h2>
 
 + [王义平教授获2015年度国家杰出青年科学基金]({{ site.baseurl }}/notice/yipingwang.html)
