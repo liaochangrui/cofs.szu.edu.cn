@@ -53,11 +53,11 @@ newpapers:
    author: "Jun He et al,OPTICS LETTERS 40（9）2008-2011 2015."
    doc: "hj-2015-Highly birefringent phase-shifted fiber Bragg gratings inscribed with femtosecond laser 2015 (ol-40-9-2008).pdf"
    image: hj-2015.png
- - name: "表面刻痕的粗磨光纤的传感应用"
-   title: "Rough side-polished fiber with surface scratches for sensing applications"
-   author: "Jing Zhao et al, IEEE Photonics Journal."
-   doc: "zj-2015-Rough side-polished fiber with surface scratches for sensing applications.pdf"
-   image: zhaojing-711x800.jpg
+ - name: "非对称光纤马赫曾德干涉仪用于弯曲测量"
+   title: "Asymmetrical in-fiber Mach-Zehnder interferometer for curvature measurement"
+   author: "Bing Sun et al, OPTICS EXPRESS."
+   doc: "2015_OE_Asymmetrical in-fiber Mach-Zehnder interferometer for curvature measurement.pdf"
+   image: sunbing-2015.jpg
 
 # Build settings
 markdown: redcarpet  #kramdown
