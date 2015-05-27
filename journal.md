@@ -28,6 +28,10 @@ permalink: /publications/
     ["Highly birefringent phase-shifted fiber Bragg gratings inscribed with femtosecond laser"]({{ site.baseurl }}/papers/hj-2015-Highly birefringent phase-shifted fiber Bragg gratings inscribed with femtosecond laser 2015 (ol-40-9-2008).pdf)<br> 
   OPTICS LETTERS 40（9）2008-2011 2015 
 
+2. Bing Sun, Yijian Huang, Shen Liu, Chao Wang, Jun He, Changrui Liao, Guolu Yin, Jing Zhao, Yinjie Liu, Jian Tang, Jiangtao Zhou, and Yiping Wang<br>
+    ["Asymmetrical in-fiber Mach-Zehnder interferometer for curvature measurement"]({{ site.baseurl }}/papers/2015_OE_Asymmetrical in-fiber Mach-Zehnder interferometer for curvature measurement.pdf)<br> 
+   OPTICS EXPRESS，23（11）14596-14602 2015 DOI:10.1364/OE.23.014596  
+
 2. Zhengyong Li, Changrui Liao, Yiping Wang, Lei Xu, Dongning Wang, Xiaopeng Dong, Shen Liu, Qiao Wang, Kaiming Yang, and Jiangtao Zhou<br> 
     ["Highly-sensitive gas pressure sensor using twincore fiber based in-line Mach-Zehnder 
 interferometer"]({{ site.baseurl }}/papers/zhengyongli-Highly-sensitive gas pressure sensor using twincore.pdf)<br> 
