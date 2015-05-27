@@ -58,7 +58,7 @@ E-mail: graduate_sunbin@163.com /pcf13@szu.edu.cn<br/>
 
 1. **B. Sun**, et al., Microstructured-core photonic-crystal fiber for ultra-sensitive refractive index sensing, Optics Express, 19(5): 4091-4100, 2011 (JCR二区, IF: 3.525) (22 cites)<br>
 2. **B. Sun**, et al., Simultaneous measurement of pressure and temperature by employing Fabry-Perot interferometer based on pendant polymer droplet, Optics Express, 23(3): 1906-1911, 2015 (JCR二区, IF: 3.525)<br>
-3. **B. Sun**, et al., "Asymmetrical in-fiber Mach-Zehnder interferometer for curvature measurement," Opt. Express, 2015 (accepted)
+3. **B. Sun**, et al., "Asymmetrical in-fiber Mach-Zehnder interferometer for curvature measurement," Opt. Express, 2015<br>
 4. **B. Sun**, et al., Design of refractive index sensors based on the wavelength-selective resonant coupling phenomenon in dual-core photonic crystal fiber, Journal of Biomedical Optics, 17(3): 037002-(1-6), 2012 (JCR二区, IF: 2.752) (1 cites)<br>
 5. **B. Sun**, et al., Surface plasmon induced polarization splitting based on dual-core photonic crystal fiber with metal wire, Plasmonics, 8(2): 1253-1258, 2013 (JCR二区, IF: 2.425) (5 cites)<br>
 6. **B. Sun**, et al., An ultracompact hybrid plasmonic waveguide polarization beam splitter, Applied Physics B, 113(2): 179-183, 2013 (JCR三区, IF:1.634) (2 cites)<br>
