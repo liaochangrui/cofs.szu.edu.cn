@@ -48,16 +48,16 @@ newpapers:
    author: "Xiaoyong Zhong et al , OPTICS LETTERS, 40(8),1791-1794, 2015"
    doc: "zxy-2015Temperature-insensitivity gas pressure sensor based.pdf"
    image: zhongxiaoyong-2015.jpg
- - name: "飞秒激光刻写高双折射相移布拉格光栅"
-   title: "Highly birefringent phase-shifted fiber Bragg gratings inscribed with femtosecond laser"
-   author: "Jun He et al,OPTICS LETTERS 40（9）2008-2011 2015."
-   doc: "hj-2015-Highly birefringent phase-shifted fiber Bragg gratings inscribed with femtosecond laser 2015 (ol-40-9-2008).pdf"
-   image: hj-2015.png
  - name: "非对称光纤马赫曾德干涉仪用于弯曲测量"
    title: "Asymmetrical in-fiber Mach-Zehnder interferometer for curvature measurement"
    author: "Bing Sun et al, OPTICS EXPRESS."
    doc: "2015_OE_Asymmetrical in-fiber Mach-Zehnder interferometer for curvature measurement.pdf"
-   image:sb-2015.png
+   image: sb-2015.png
+- name: "飞秒激光刻写高双折射相移布拉格光栅"
+   title: "Highly birefringent phase-shifted fiber Bragg gratings inscribed with femtosecond laser"
+   author: "Jun He et al,OPTICS LETTERS 40（9）2008-2011 2015."
+   doc: "hj-2015-Highly birefringent phase-shifted fiber Bragg gratings inscribed with femtosecond laser 2015 (ol-40-9-2008).pdf"
+   image: hj-2015.png
 
 # Build settings
 markdown: redcarpet  #kramdown
