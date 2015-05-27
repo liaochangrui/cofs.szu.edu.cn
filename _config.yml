@@ -57,7 +57,7 @@ newpapers:
    title: "Asymmetrical in-fiber Mach-Zehnder interferometer for curvature measurement"
    author: "Bing Sun et al, OPTICS EXPRESS."
    doc: "2015_OE_Asymmetrical in-fiber Mach-Zehnder interferometer for curvature measurement.pdf"
-   image: sunbing-2015.jpg
+   image: hj-2015.png
 
 # Build settings
 markdown: redcarpet  #kramdown
