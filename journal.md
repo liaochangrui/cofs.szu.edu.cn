@@ -45,6 +45,10 @@ interferometer"]({{ site.baseurl }}/papers/zhengyongli-Highly-sensitive gas pres
     ["Intensity modulated refractive index sensor based on optical fiberMichelson interferometer"]({{ site.baseurl }}/papers/zjt-2015-Intensity modulated refractive index sensor based on optical fiber Michelson interferometer.pdf)<br>
    Sensors and Actuators B 208 (2015) 315–319
   
+5. Guanjun Wang, Chao Wang, Shen Liu, Jing Zhao, Changrui Liao, Xizhen Xu, Haijian Liang, Guolu Yin, and Yiping Wang<br>
+   ["Side-Opened Suspended Core Fiber-Based Surface Plasmon Resonance Sensor"]({{ site.baseurl }}/papers/wgj-Side-opened suspended core fiber-based surface Plasmon resonance sensor .pdf)<br>
+   IEEE SENSORS JOURNAL, 15(7)，2015 4096-4092<br>
+
 5. Jing Zhao, Guolu Yin, Changrui Liao, Shen Liu, Jun He, Bing Sun, Guanjun Wang, Xizheng Xu, and Yiping Wang<br>
    ["Rough side-polished fiber with surface scratches for sensing applications"]({{ site.baseurl }}/papers/zj-2015-Rough side-polished fiber with surface scratches for sensing applications.pdf)<br>
    IEEE Photonics Journal ， 已接收.（JCR二区，IF=2.330）<br>
