@@ -187,6 +187,23 @@ permalink: /members/
   E-mail： bzy041217@126.com
   </div>
 </div>
+
+<div class="bio-container">
+  <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/limingquan/">
+  <img src="{{ site.baseurl }}/images/lmq-92x128.jpg" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/limingquan/">
+  李明全 博士
+  </a>
+  <br/>
+  Tel：  13247645617
+  <br>
+  E-mail:leocharen@163.com
+  </div>
+</div>
 </div>
 
 ##  在读博士生
