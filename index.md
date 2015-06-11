@@ -18,9 +18,9 @@ carousel:
 <h2 style="color: #4D4DFF;">学术动态 <a href="{{ site.baseurl }}/publications/"><span style="font-size: 1.0rem; color: #4D4DFF;">(更多)</span></a></h2>
 
 + [王义平教授获2015年度国家杰出青年科学基金]({{ site.baseurl }}/notice/yipingwang.html)
-+ 2015年4月4日
-  [本课题组代表赴韩参加第五届亚太光传感器会议]({{ site.baseurl }}/notice/hanguo-notice.html)
 + 2015年5月19日-5月22日
+  [本课题组代表赴韩参加第五届亚太光传感器会议]({{ site.baseurl }}/notice/hanguo-notice.html)
++ 2015年4月4日
   [深圳市物联网光子器件与传感系统重点实验室第一届委员会议圆满召开]({{ site.baseurl }}/notice/meeting.html)
 + 2015年1月13日
   [刘申博士在Scientific Reports上发表学术论文]({{ site.baseurl }}/notice/liushen.html)
