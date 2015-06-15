@@ -91,7 +91,7 @@ permalink: /publications/awards/
 </div>
 </div>
 
-<span style="font-size: 1.0rem; color: #870A40;">**2014年深圳大学牛憨笨奖学金获得者**</span>
+<span style="font-size: 1.0rem; color: #870A40;">**深圳大学牛憨笨奖学金获得者**</span>
 -----------------------------------
 <div class="sec-container">
 
@@ -152,7 +152,7 @@ permalink: /publications/awards/
 </div>
 </div>
 
-<span style="font-size: 1.0rem; color: #870A40;">**2014年深圳大学优秀博士支持计划获得者**</span>
+<span style="font-size: 1.0rem; color: #870A40;">**深圳大学优秀博士支持计划获得者**</span>
 -----------------------------------
 <div class="sec-container">
 <div class="bio-container">
@@ -163,7 +163,7 @@ permalink: /publications/awards/
   </div>
   <div class="bio-info">
   <a href="{{ site.baseurl }}/members/liushen/">
-  刘申
+  刘申(2014年度获得)
   </a>
   <br>
   2014级博士生
@@ -178,7 +178,7 @@ permalink: /publications/awards/
 
 
 
-<span style="font-size: 1.0rem; color: #870A40;">**2014年深圳大学优秀研究生奖学金获得者**</span>
+<span style="font-size: 1.0rem; color: #870A40;">**深圳大学优秀研究生奖学金获得者**</span>
 ----------------------------
 <div class="sec-container">
 
