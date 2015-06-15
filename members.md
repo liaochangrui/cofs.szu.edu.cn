@@ -32,7 +32,7 @@ permalink: /members/
   </div>
   <div class="bio-info">
   <a href="{{ site.baseurl }}/members/liaochangrui/">
-  廖常锐 博士
+  廖常锐 讲师
   </a>
   <br>
   Tel：  15012911508
@@ -49,7 +49,7 @@ permalink: /members/
   </div>
   <div class="bio-info">
   <a href="{{ site.baseurl }}/members/wangying/">
-  王英 副教授
+  王英 讲师
   </a>
   <br>
   Tel：  13986036101
@@ -66,7 +66,7 @@ permalink: /members/
   </div>
   <div class="bio-info">
   <a href="{{ site.baseurl }}/members/wangning/">
-  王宁 博士
+  王宁 讲师
   </a>
   <br>
   Tel：  +852-62211728
