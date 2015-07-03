@@ -11,7 +11,7 @@ carousel:
   - image: xswyhy.jpg
 ---
 
-<a href=#><h2 style="color: #4D4DFF;">2016 中国光纤传感学术会议暨产业化论坛</h2></a>
+<h2><a style="color: #4D4DFF;" href=#>2016 中国光纤传感学术会议暨产业化论坛</a></h2>
 
 <h2 style="color: #4D4DFF;">实验室新闻报道</h2>
 + <a href="http://www.s1979.com/dianshi/first/201505/21144461521.shtml">深圳都市频道第一现场专题报道<a>
