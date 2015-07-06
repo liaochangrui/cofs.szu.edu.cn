@@ -17,7 +17,7 @@ Researcher ID:D-3664-2014<br>
 E_mail：glyin@szu.edu.cn,guoluyin@gmail.com<br/>
 Current Position:Post-Doc<br>
 <br>
-[**Detail Curriculum about Guolu Yin**]({{ site.baseurl }}/members/Curriculum Vitae_Guolu Yin.pdf)<br>
+[**Detail Curriculum vitae about Guolu Yin**]({{ site.baseurl }}/members/Curriculum Vitae_Guolu Yin.pdf)<br>
 
 ### 2. OVERVIEW
 
@@ -33,15 +33,15 @@ My current interests are focused on optical fiber sensors, optical fiber lasers,
 
 + Aug 2013 --- present<br>
 **Shenzhen University, Shenzhen, China**                        Post-doctoral<br>
-Project: Arc discharge-induced **long period fiber gratings and applications**<br>
+Project: Arc discharge-induced long period fiber gratings and applications<br>
 Supervisor: Prof. Yiping Wang, Shenzhen University
 + Dec 2010 --- Jul 2011<br>
 **University of Ottawa, Ottawa, Canada**                      Visiting student<br>
-Project: **Random Erbium doped fiber laser**<br>
+Project: Random Erbium doped fiber laser<br>
 Supervisor: Prof. Xiaoyi Bao, University of Ottawa<br>
 + Sep 2008 --- Jul 2013<br>
 **Beijing Jiaotong University, Beijing, China**                    Ph.D. Student<br>
-Project: Tunable/multi-wavelength CW fiber laser based on **twin core fiber** (TCF)<br>
+Project: Tunable/multi-wavelength CW fiber laser based on twin core fiber(TCF)<br>
 Supervisor: Prof. Shuqin Lou, Beijing Jiaontong University<br>
 
 
