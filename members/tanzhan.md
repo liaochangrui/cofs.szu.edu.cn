@@ -5,7 +5,7 @@ permalink: /members/tanzhan/
 ---
 
 <a href="{{ site.baseurl }}/members/tanzhan/">
-<img src="{{ site.baseurl }}/images/tanzhan-138x175.png" style="width: 20%; float: right; margin: 10px" />
+<img src="{{ site.baseurl }}/images/tanzhan-92x128.jpg" style="width: 20%; float: right; margin: 10px" />
 </a>
 
 姓名：谭展<br/>
