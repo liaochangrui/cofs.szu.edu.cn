@@ -16,6 +16,7 @@ DORCID:0000-0002-8004-4198<br>
 Researcher ID:D-3664-2014<br>
 E_mail：glyin@szu.edu.cn,guoluyin@gmail.com<br/>
 Current Position:Post-Doc<br>
+<br>
 [**Detail Curriculum about Guolu Yin**]({{ site.baseurl }}/members/Curriculum Vitae_Guolu Yin.pdf)<br>
 
 ### 2. OVERVIEW
