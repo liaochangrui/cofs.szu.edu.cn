@@ -8,7 +8,7 @@ permalink: /members/yinguolu/
 <img class="member-avatar" src="{{ site.baseurl }}/images/yinguolu-92x128.jpg">
 </a>
 
-## PERSONAL DATA
+### PERSONAL DATA
 
 Name：**Guolu Yin Ph.D**<br>
 Nationality：P. R. China<br>
@@ -17,19 +17,19 @@ Researcher ID:D-3664-2014<br>
 E_mail：glyin@szu.edu.cn,guoluyin@gmail.com<br/>
 Current Position:Post-Doc<br>
 <br>
-[**Detail Curriculum about Guolu Yin**]({{ site.baseurl }}/memberss/Curriculum Vitae_Guolu Yin.pdf)<br>
+[**Detail Curriculum about Guolu Yin**]({{ site.baseurl }}/members/Curriculum Vitae_Guolu Yin.pdf)<br>
 
-## OVERVIEW
+### OVERVIEW
 
 My current interests are focused on optical fiber sensors, optical fiber lasers, optical fiber gratings, and microstructured optical fibers. I have managed 5 projects, authored or coauthored 38 papers in refereed journals and conferences (first author: 13 journal papers, 3 conference papers), been granted 1 Chinese patent and 4 Chinese computer software copyright, and received 6 honors/awards.
    
-##  EDUCATION
+###  EDUCATION
 
 + Sep 2008 --- Jul 2013<br> 
 **Direct Ph. D**. in Fiber Optics, School of Electronic and Information Engineering, Beijing Jiaontong University, China. My dissertation was awarded the prestigious “**Excellent Doctorial Dissertation Prize in Beijing Jiaotong University in 2013**”.
 + Sep 2004 --- Jul 2008<br> **B. S**. in Optoelectronic Information Science and Engineering, Scholl of Science, Beijing Jiaotong University, China.
 
-##	RESEARCH EXPERIENCE
+###	RESEARCH EXPERIENCE
 
 + Aug 2013 --- present<br>
 **Shenzhen University, Shenzhen, China**                        Post-doctoral<br>
@@ -46,7 +46,7 @@ Supervisor: Prof. Shuqin Lou, Beijing Jiaontong University<br>
 
 
 
-##	ACADEMIC HONOURS
+###	ACADEMIC HONOURS
 [1]**National Natural Science Funding** by Natural Science Foundation of China in 2014<br>
 [2]**Chinese Postdoctoral Research Fellowships** by China Postdoctoral Science Foundation in 2014.<br>
 [3]**Excellent Doctoral Dissertation Prize** by Beijing Jiaotong University in 2013.<br> 
@@ -54,7 +54,7 @@ Supervisor: Prof. Shuqin Lou, Beijing Jiaontong University<br>
 [5]**Fundamental Research Funds for the Central Universities** by Beijing Jiaotong University in 2011.<br>
 [6]**Visiting Scholarship for Overseas research** by Beijing Jiaotong University in 2010.<br>
 
-## PERFORMED PROJECTS AS PI (Total Funding: 550K CNY)
+### PERFORMED PROJECTS AS PI (Total Funding: 550K CNY)
 
 <table>
   <thead>
@@ -111,9 +111,9 @@ Supervisor: Prof. Shuqin Lou, Beijing Jiaontong University<br>
 </tbody>
 </table>
 
-## PUBLISHCATIONS
+### PUBLISHCATIONS
 
-A)Journal Papers<br>
+####**A)Journal Papers**<br>
 [1] **Guolu Yin**, Y. Wang, C. Liao, B. Sun, Y. Liu, S. Liu, Q. Wang, K. Yang, J. Tang, and X. Zhong, “Simultaneous Refractive Index and Temperature Measurement with LPFG and Liquid-Filled PCF,” IEEE Photonics Technology Letters, 27(4): 375-378, 2014. <br>
 [2] **Guolu Yin**, Y. Wang, C. Liao, J. Zhou, X. Zhong, G. Wang, B. Sun, and J. He, “Long Period Fiber Gratings Inscribed by Periodically Tapering a Fiber,” IEEE Photonics Technology Letters, 26(7): 698-701, 2014.<br>
 [3] **Guolu Yin**, S. Lou, P. Hua, X. Wang, and B. Han, “Tunable Fiber Laser by Cascading Twin Core Fiber-based Directional Couplers,” IEEE Photonics Technology Letters, 26(22): 2279-2282, 2014.<br>
@@ -136,7 +136,7 @@ A)Journal Papers<br>
 [20] H. Zou, S. Lou, W. Su, and **Guolu Yin**, “A Stable and Tunable Linear-Polarization Fiber Ring Laser With a High SMSR by Using a Compounded Fiber Filter,” IEEE Photonics Journal, 5(4): 7100709, 2013.<br>
 [21] W. Peng, F. Yan, Q. Li, **Guolu Yin**, S. C. Feng, T. Feng, and S. Y. Tan, “Tunable self-seeded multiwavelength Brillouin–erbium fiber laser using an in-line two-taper Mach–Zehnder interferometer,” Optics & Laser Technology, 45(2): 348-351, 2013.<br>
 <br>
-B)Conference Papers<br>
+####**B)Conference Papers**<br>
 [1] **Guolu Yin**, Y. Wang, C. Liao, J. Zhou, X. Zhong, S. Liu, Q. Wang, Z. Li, B. Sun, J. He, G. Wang, " Improved arc discharge technique for inscribing compact long period fiber gratings," in the 23rd International Conference on Optical Fiber Sensor, Proc. SPIE, vol. 9157, pp. 91577X, 2014.<br>
 [2] **Guolu Yin**, S. Lou, and H. Zou, "Compact and high sensitivity curvature sensor based on twin core fiber coupler," in the 22nd International Conference on Optical Fiber Sensor, Proc.SPIE, vol. 8421, pp. 84212P, 2012.<br>
 [3] **Guolu Yin** and S. Lou, "Theoretical Investigation of Fiber Bragg Grating-Based Fabry-Perot sensor using Lorentzian source," in 2010 Cross-Strait Conference on Information Science and Technology, Huangdao Qin, Scientific Research, 543-545, 2010.<br>
