@@ -51,7 +51,7 @@ Supervisor: Prof. Shuqin Lou, Beijing Jiaontong University<br>
 [3] **Excellent Doctoral Dissertation Prize** by Beijing Jiaotong University in 2013.<br> 
 [4] **National Scholarship for Graduate Students** by the Ministry of Education of China in 2012.<br>
 [5] **Fundamental Research Funds for the Central Universities** by Beijing Jiaotong University in 2011.<br>
-[6]**Visiting Scholarship for Overseas research** by Beijing Jiaotong University in 2010.<br>
+[6] **Visiting Scholarship for Overseas research** by Beijing Jiaotong University in 2010.<br>
 
 ### 6. PERFORMED PROJECTS AS PI (Total Funding: 550K CNY)
 
@@ -109,7 +109,7 @@ Supervisor: Prof. Shuqin Lou, Beijing Jiaontong University<br>
      
 </tbody>
 </table>
-
+<br>
 ### 7. PUBLISHCATIONS
 
 #### **A)Journal Papers**<br>
