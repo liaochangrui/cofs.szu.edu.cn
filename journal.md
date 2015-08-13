@@ -55,7 +55,7 @@ interferometer"]({{ site.baseurl }}/papers/zhengyongli-Highly-sensitive gas pres
 
 5. Jing Zhao, Guolu Yin, Changrui Liao, Shen Liu, Jun He, Bing Sun, Guanjun Wang, Xizheng Xu, and Yiping Wang<br>
    ["Rough side-polished fiber with surface scratches for sensing applications"]({{ site.baseurl }}/papers/zj-2015-Rough side-polished fiber with surface scratches for sensing applications.pdf)<br>
-   IEEE Photonics Journal <br>
+   IEEE Photonics Journal , 7（3），2015，6801107 <br>
 
 2014
 -------------------------
