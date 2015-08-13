@@ -11,7 +11,8 @@ permalink: /more/
 </ul>
 </div>
 
-
+<br>
+<br>
 + [王义平教授获2015年度国家杰出青年科学基金]({{ site.baseurl }}/notice/yipingwang.html)
 + 2015年4月4日
   [深圳市物联网光子器件与传感系统重点实验室第一届委员会议圆满召开]({{ site.baseurl }}/notice/meeting.html)
