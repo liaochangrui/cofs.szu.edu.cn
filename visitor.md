@@ -1,0 +1,23 @@
+---
+layout: page
+permalink: /more/visitor/
+---
+
+<div class="navbar center third">
+<ul>
+    <li><a href="{{ "/more" | prepend: site.baseurl }}">科研报道</a></li>
+    <li><a href="{{ "/aca-conf" | prepend: "/more" | prepend: site.baseurl }}">学术会议</a></li>
+    <li class="active"><a href="{{ "/visitor" | prepend: "/publications" | prepend: site.baseurl }}">学术报告</a></li>
+</ul>
+</div>
+
++ 2014年12月5日
+  [学术报告——高性能分布式布里渊光纤传感器研究]({{ site.baseurl }}/notice/lecture-4.html)
++ 2014年11月28日
+  [学术报告——Development of Polymer Optical Waveguide]({{ site.baseurl }}/notice/lecture-5.html)
++ 2014年9月15日
+  [学术报告——偏振外差光纤光栅激光传感技术]({{ site.baseurl }}/notice/lecture-2.html)
++ 2014年9月4日
+  [学术报告——硅基光子信息处理器件与集成]({{ site.baseurl }}/notice/lecture-1.html)
++ 2014年9月3日
+  [学术报告——Photonic Technologies at Aston Universit]({{ site.baseurl }}/notice/lecture-3.html)
