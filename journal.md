@@ -30,12 +30,12 @@ permalink: /publications/
 
 2. Bing Sun, Yijian Huang, Shen Liu, Chao Wang, Jun He, Changrui Liao, Guolu Yin, Jing Zhao, Yinjie Liu, Jian Tang, Jiangtao Zhou, and Yiping Wang<br>
     ["Asymmetrical in-fiber Mach-Zehnder interferometer for curvature measurement"]({{ site.baseurl }}/papers/2015_OE_Asymmetrical in-fiber Mach-Zehnder interferometer for curvature measurement.pdf)<br> 
-   OPTICS EXPRESS，23（11）14596-14602 2015 DOI:10.1364/OE.23.014596  
+   OPTICS EXPRESS，23（11）14596-14602 2015   
 
 2. Zhengyong Li, Changrui Liao, Yiping Wang, Lei Xu, Dongning Wang, Xiaopeng Dong, Shen Liu, Qiao Wang, Kaiming Yang, and Jiangtao Zhou<br> 
     ["Highly-sensitive gas pressure sensor using twincore fiber based in-line Mach-Zehnder 
 interferometer"]({{ site.baseurl }}/papers/zhengyongli-Highly-sensitive gas pressure sensor using twincore.pdf)<br> 
-   OPTICS EXPRESS, 23(5)6673-6678 2015 DOI:10.1364/OE.23.006673   
+   OPTICS EXPRESS, 23(5)6673-6678 2015  
 
 3. Bing Sun, Yiping Wang, Junle Qu1, Changrui Liao, Guolu Yin, Jun He, Jiangtao Zhou, Jian Tang, Shen Liu, Zhengyong Li and Yingjie Liu<br> 
     ["Simultaneous measurement of pressure and temperature by employing Fabry-Perot interferometer based on pendant polymer droplet"]({{ site.baseurl }}/papers/Simultaneous measurement of pressure and temperature by employing Fabry-Perot interferometer based on pendant polymer droplet.pdf)<br> 
@@ -55,7 +55,7 @@ interferometer"]({{ site.baseurl }}/papers/zhengyongli-Highly-sensitive gas pres
 
 5. Jing Zhao, Guolu Yin, Changrui Liao, Shen Liu, Jun He, Bing Sun, Guanjun Wang, Xizheng Xu, and Yiping Wang<br>
    ["Rough side-polished fiber with surface scratches for sensing applications"]({{ site.baseurl }}/papers/zj-2015-Rough side-polished fiber with surface scratches for sensing applications.pdf)<br>
-   IEEE Photonics Journal ， 已接收.（JCR二区，IF=2.330）<br>
+   IEEE Photonics Journal <br>
 
 2014
 -------------------------
