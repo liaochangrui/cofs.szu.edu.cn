@@ -14,8 +14,8 @@ permalink: /more/aca-conf/
 <br>
 <br>
 
-+ 2015年6月28日-7月2日<br>
-  [本课题组代表参加OECC 2015国际会议]({{ site.baseurl }}/notice/oecc.html)
++ 2015年6月28日-7月2日
+  [本课题组代表参加OECC 2015国际会议]({{ site.baseurl }}/notice/oecc.html)<br>
 + 2015年5月19日-5月22日
   [本课题组代表赴韩参加第五届亚太光传感器会议]({{ site.baseurl }}/notice/hanguo-notice.html)<br>
 + 2014年9月22日-9月25日
