@@ -21,7 +21,7 @@ carousel:
 
 + [王义平教授获2015年度国家杰出青年科学基金]({{ site.baseurl }}/notice/yipingwang.html)
 + 2015年6月28日-7月2日
-  [本课题组代表韩参加OECC 2015国际会议]({{ site.baseurl }}/notice/oecc.html)
+  [本课题组代表参加OECC 2015国际会议]({{ site.baseurl }}/notice/oecc.html)
 + 2015年5月19日-5月22日
   [本课题组代表赴韩参加第五届亚太光传感器会议]({{ site.baseurl }}/notice/hanguo-notice.html)
 + 2015年4月4日
