@@ -14,6 +14,8 @@ permalink: /more/visitor/
 <br>
 <br>
 
++ 2015年7月18日
+  [学术报告——面向宽带应用的新型光纤研究]({{ site.baseurl }}/notice/notice-penggangding.html)<br>
 + 2014年12月5日
   [学术报告——高性能分布式布里渊光纤传感器研究]({{ site.baseurl }}/notice/lecture-4.html)<br>
 + 2014年11月28日
