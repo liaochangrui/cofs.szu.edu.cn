@@ -20,6 +20,8 @@ carousel:
 <h2 style="color: #4D4DFF;">学术动态 <a href="{{ site.baseurl }}/more/"><span style="font-size: 1.0rem; color: #4D4DFF;">(更多)</span></a></h2>
 
 + [王义平教授获2015年度国家杰出青年科学基金]({{ site.baseurl }}/notice/yipingwang.html)
++ 2015年7月18日
+  [学术报告——面向宽带应用的新型光纤研究]({{ site.baseurl }}/notice/notice-penggangding.html)
 + 2015年6月28日-7月2日
   [本课题组代表参加OECC 2015国际会议]({{ site.baseurl }}/notice/oecc.html)
 + 2015年5月19日-5月22日
