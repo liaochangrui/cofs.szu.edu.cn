@@ -58,23 +58,6 @@ permalink: /members/
   </div>
 </div>
 
-<div class="bio-container">
-  <div class="bio-avatar" >
-  <a href="{{ site.baseurl }}/members/wangning/">
-  <img src="{{ site.baseurl }}/images/wn-92x128.jpg" class="max-img-border">
-  </a>
-  </div>
-  <div class="bio-info">
-  <a href="{{ site.baseurl }}/members/wangning/">
-  王宁 讲师
-  </a>
-  <br>
-  Tel：  +852-62211728
-  <br>
-  E-mail： ryan.wangn@gmail.com
-  </div>
-</div>
-
 </div>
 
 ## 在站博士后
