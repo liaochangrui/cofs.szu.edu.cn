@@ -407,6 +407,21 @@ permalink: /members/
   </div>
 </div>
 
+<div class="bio-container">
+  <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/yangtianhang/">
+  <img src="{{ site.baseurl }}/images/yangtianhang-1.jpg" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/yangtianhang/">
+  杨天航
+  </a>
+  <br>
+  E-mail:741916443@qq.com
+  </div>
+</div>
+
 </div>
 
 **注：*合作培养学生**
