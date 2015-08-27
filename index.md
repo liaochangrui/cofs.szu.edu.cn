@@ -10,6 +10,8 @@ carousel:
   - image: sghzjl.jpg
   - image: xswyhy.jpg
 ---
+<br>
+<br>
 <h2><a href="http://cofs.szu.edu.cn/center"><span style="color: #870A40; font-size: 1.78rem;">光纤传感技术粤港联合研究中心</span></a></h2>
 
 <h2 style="color: #4D4DFF;">实验室新闻报道</h2>
