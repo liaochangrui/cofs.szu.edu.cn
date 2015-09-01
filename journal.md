@@ -20,7 +20,7 @@ permalink: /publications/
     ["High-sensitivity strain sensor based on in-fiber rectangular air bubble"]({{ site.baseurl }}/papers/2015-High-sensitivity strain sensor based on in-fiber rectangular air bubble.pdf)<br> 
    SCIENTIFICREPORTS| 5 : 7624 | DOI: 10.1038/srep07624-1-7
 
-1. Bing Sun,Yijian Huang,Dan Luo,Chao Wang,Jun He,Changrui Liao,Guolu Yin,Jiangtao Zhou,Shen Liu,Jing Zhao,and Yiping Wang, ["Broadband Thermo-Optic Switching Effect Based on Liquid Crystal Infiltrated Photonic Crystal Fibers"]({{ site.baseurl }}/papers/sb-ieee-2015-Broadband Thermo-Optic Switching Effect Based on Liquid Crystal Infiltrated Photonic Crystal Fibers.pdf)<br>, IEEE Photonics Journal, 7(4)，2015，6802207 
+1. Bing Sun,Yijian Huang,Dan Luo,Chao Wang,Jun He,Changrui Liao,Guolu Yin,Jiangtao Zhou,Shen Liu,Jing Zhao,and Yiping Wang,<br> ["Broadband Thermo-Optic Switching Effect Based on Liquid Crystal Infiltrated Photonic Crystal Fibers"]({{ site.baseurl }}/papers/sb-ieee-2015-Broadband Thermo-Optic Switching Effect Based on Liquid Crystal Infiltrated Photonic Crystal Fibers.pdf)<br>IEEE Photonics Journal, 7(4)，2015，6802207 
 
 2. Xiaoyong Zhong, Yiping Wang,* Changrui Liao, Shen Liu, Jian Tang, and Qiao Wang<br>
    ["Temperature-insensitivity gas pressure sensor based on inflated long period fiber grating inscribed in photonic crystal fiber"]({{ site.baseurl }}/papers/zxy-2015Temperature-insensitivity gas pressure sensor based.pdf)<br> 
