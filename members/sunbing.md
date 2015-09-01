@@ -56,33 +56,34 @@ E-mail: graduate_sunbin@163.com /pcf13@szu.edu.cn<br/>
 
 ### 期刊论文
 
-1. **B. Sun**, et al., Microstructured-core photonic-crystal fiber for ultra-sensitive refractive index sensing, Optics Express, 19(5): 4091-4100, 2011 (JCR二区, IF: 3.525) (22 cites)<br>
-2. **B. Sun**, et al., Simultaneous measurement of pressure and temperature by employing Fabry-Perot interferometer based on pendant polymer droplet, Optics Express, 23(3): 1906-1911, 2015 (JCR二区, IF: 3.525)<br>
-3. **B. Sun**, et al., "Asymmetrical in-fiber Mach-Zehnder interferometer for curvature measurement," Opt. Express, 2015<br>
-4. **B. Sun**, et al., Design of refractive index sensors based on the wavelength-selective resonant coupling phenomenon in dual-core photonic crystal fiber, Journal of Biomedical Optics, 17(3): 037002-(1-6), 2012 (JCR二区, IF: 2.752) (1 cites)<br>
-5. **B. Sun**, et al., Surface plasmon induced polarization splitting based on dual-core photonic crystal fiber with metal wire, Plasmonics, 8(2): 1253-1258, 2013 (JCR二区, IF: 2.425) (5 cites)<br>
-6. **B. Sun**, et al., An ultracompact hybrid plasmonic waveguide polarization beam splitter, Applied Physics B, 113(2): 179-183, 2013 (JCR三区, IF:1.634) (2 cites)<br>
-7. **B. Sun**, et al., Polarization-dependent coupling characteristics of metal-wire filled dual-core photonic crystal fiber, Optical and Quantum Electronics, 2014 (JCR三区, IF:1.078) (0 cites)<br>
-8. **B. Sun**, et al., Compact device employed a hybrid plasmonic waveguide for polarization-selective splitting, Optics Communications, 334: 240-246, 2015 (JCR三区, IF:1.542) (0 cites)<br>
-9. **B. Sun**, et al., Design of a fiber polarizer based on an asymmetric dual-core photonic crystal fiber, Optoelectronics letters, 7(4): 0253-0255, 2011 (EI) (2 cites)<br>
-10. **孙兵**，等，基于非对称三芯光子晶体光纤的宽带定向耦合器研究，光学学报, 33(7): 53-57, 2013 (EI) (2 cites)<br>
-11. **孙兵**，等，基于非对称双芯光子晶体光纤的宽带模式转换器研究，光学学报, 30(6): 1581-1585，2010 (EI) (2 cites)<br>
-12. M.-Y. Chen, **B. Sun**, et al., Design of a broadband polarization splitter based on partial coupling in a square-lattice photonic crystal fiber, Applied Optics, 49(16): 3042-3048, 2010 (JCR三区, IF:1.649) (17 cites)<br>
-13. M.-Y. Chen, **B. Sun**, et al., Broadband single-polarization operation in square-lattice photonic crystal fibers, Journal of Lightwave Technology, 28(10): 1443-1446, 2010 (JCR二区, IF:2.862) (17 cites)<br>
-14. M.-Y. Chen, **B. Sun**, et al., Design of all-solid large-mode area microstructure-core optical fibers, Optics Communications, 283(16): 3153-3157, 2010 (JCR三区, IF:1.542) (14 cites)<br>
-15. Y. Liu, Y. Wang, **B. Sun**, et al., Compact tunable multi-bandpass filters based on liquid-filled photonic crystal fibers, Optics Letters, 39(7): 2148-2151, 2014 (JCR二区, IF:3.179) (0 cites)<br>
-16. M.-Y. Chen, Y.-K. Zhang, **B. Sun**, et al., Design and analysis of single-mode polymer segment cladding optical fibers. Journal of Lightwave Technology, 28(22): 3250-3257, 2010 (JCR二区, IF:2.862) (0 cites)<br>
-17. N. F. Ren, M.-Y. Chen, **B. Sun**, et al., Design of subwavelength optical fibre for low-loss Terahertz transmission, Journal of the European Optical Society-Rapid Publications, 8, 2013(JCR三区, IF: 1.152) (0 cites)<br>
-18. M.-Y. Chen, Y.-K. Zhang, X.-X. Fu, **B. Sun**, et al., Proposal and design of sectorial cladding optical fibre for large-mode-area, single-mode operation. Journal of Optics, 283(16): 3153-3157, 2010 (JCR三区, IF:2.010) (3 cites)<br>
-19. J. Zhou, X.-q. Yu, M.-Y. Chen, **B. Sun**, et al., Design and characteristics of a novel narrow-band filter with the dual-core photonic crystal fiber, Optoelectronics letters, 6(4): 249-252, 2010 (EI)<br>
-20. J. Zhou, C. Liao, G. Yin, X. Zhong, K. Yang, **B. Sun**, et al., Simultaneous measurement of strain and temperature by employing fiber Mach-Zehnder interferometer, Optics Express, 22(2): 1680-1686, 2014 (JCR二区, IF: 3.525) (1 cites)<br>
-21. G. Yin, Y. Wang, C. Liao, J. Zhou, X. Zhong, G. Wang, **B. Sun**, et al., Long period fiber gratings inscribed by periodically tapering a fiber, IEEE Photonic Technology Letter 26(7): 698-701, 2014 (JCR二区, IF:2.176) (0 cites)<br>
-22. X. Zhong, Y. Wang, C. Liao, G. Yin, J. Zhou, G. Wang, **B. Sun**, et al., Long Period Fiber Gratings Inscribed With an Improved Two-Dimensional Scanning Technique, Photonics Journal, IEEE 6(4): 2201508, 2014 (JCR二区, IF:2.33) (0 cites)<br>
-23. Liu, K. Yang, Y. Wang, J. Qu, C. Liao, J. He, Z. Li, G. Yin, **B. Sun**, et al., High-sensitivity strain sensor based on in-fiber rectangular air bubble, Sci. Rep., 5 7624 (2015) (JCR一区, IF: 5.078)<br> 
-24. J. Zhou, Y. Wang, C. Liao, **B. Sun**, et al., Intensity modulated refractive index sensor based on optical fiber Michelson interferometer, Sensors and Actuators B, 208: 315-319, 2015 (JCR一区, IF: 4.104) <br>
-25. J. He, Y. Wang, C. Liao, Q. Wang, K. Yang, **B. Sun**, et al., Highly birefringent phase-shifted fiber Bragg gratings inscribed with femtosecond laser," Opt. Lett., 40(9): 2008-2011, 2015 (JCR二区, IF:3.179)<br>
-26. N. F. Ren, **B. Sun**, et al., Label-free optical biosensor based on a dual-core microstructured polymer optical fibre, Optik, 2015 (Submitted)<br>
-27. **B. Sun**, et al., Broadband switching effect based on liquid-crystal filled photonic crystal fibers, photonics Journal, 2015 (Submitted)<br>
+1. **B. Sun**, et al., Broadband switching effect based on liquid-crystal filled photonic crystal fibers, IEEE Photonics Journal, 7(4)，2015，6802207<br>
+2. **B. Sun**, et al., Microstructured-core photonic-crystal fiber for ultra-sensitive refractive index sensing, Optics Express, 19(5): 4091-4100, 2011 (JCR二区, IF: 3.525) (22 cites)<br>
+3. **B. Sun**, et al., Simultaneous measurement of pressure and temperature by employing Fabry-Perot interferometer based on pendant polymer droplet, Optics Express, 23(3): 1906-1911, 2015 (JCR二区, IF: 3.525)<br>
+4. **B. Sun**, et al., "Asymmetrical in-fiber Mach-Zehnder interferometer for curvature measurement," Opt. Express, 2015<br>
+5. **B. Sun**, et al., Design of refractive index sensors based on the wavelength-selective resonant coupling phenomenon in dual-core photonic crystal fiber, Journal of Biomedical Optics, 17(3): 037002-(1-6), 2012 (JCR二区, IF: 2.752) (1 cites)<br>
+6. **B. Sun**, et al., Surface plasmon induced polarization splitting based on dual-core photonic crystal fiber with metal wire, Plasmonics, 8(2): 1253-1258, 2013 (JCR二区, IF: 2.425) (5 cites)<br>
+7. **B. Sun**, et al., An ultracompact hybrid plasmonic waveguide polarization beam splitter, Applied Physics B, 113(2): 179-183, 2013 (JCR三区, IF:1.634) (2 cites)<br>
+8. **B. Sun**, et al., Polarization-dependent coupling characteristics of metal-wire filled dual-core photonic crystal fiber, Optical and Quantum Electronics, 2014 (JCR三区, IF:1.078) (0 cites)<br>
+9. **B. Sun**, et al., Compact device employed a hybrid plasmonic waveguide for polarization-selective splitting, Optics Communications, 334: 240-246, 2015 (JCR三区, IF:1.542) (0 cites)<br>
+10. **B. Sun**, et al., Design of a fiber polarizer based on an asymmetric dual-core photonic crystal fiber, Optoelectronics letters, 7(4): 0253-0255, 2011 (EI) (2 cites)<br>
+11. **孙兵**，等，基于非对称三芯光子晶体光纤的宽带定向耦合器研究，光学学报, 33(7): 53-57, 2013 (EI) (2 cites)<br>
+12. **孙兵**，等，基于非对称双芯光子晶体光纤的宽带模式转换器研究，光学学报, 30(6): 1581-1585，2010 (EI) (2 cites)<br>
+13. M.-Y. Chen, **B. Sun**, et al., Design of a broadband polarization splitter based on partial coupling in a square-lattice photonic crystal fiber, Applied Optics, 49(16): 3042-3048, 2010 (JCR三区, IF:1.649) (17 cites)<br>
+14. M.-Y. Chen, **B. Sun**, et al., Broadband single-polarization operation in square-lattice photonic crystal fibers, Journal of Lightwave Technology, 28(10): 1443-1446, 2010 (JCR二区, IF:2.862) (17 cites)<br>
+15. M.-Y. Chen, **B. Sun**, et al., Design of all-solid large-mode area microstructure-core optical fibers, Optics Communications, 283(16): 3153-3157, 2010 (JCR三区, IF:1.542) (14 cites)<br>
+16. Y. Liu, Y. Wang, **B. Sun**, et al., Compact tunable multi-bandpass filters based on liquid-filled photonic crystal fibers, Optics Letters, 39(7): 2148-2151, 2014 (JCR二区, IF:3.179) (0 cites)<br>
+17. M.-Y. Chen, Y.-K. Zhang, **B. Sun**, et al., Design and analysis of single-mode polymer segment cladding optical fibers. Journal of Lightwave Technology, 28(22): 3250-3257, 2010 (JCR二区, IF:2.862) (0 cites)<br>
+18. N. F. Ren, M.-Y. Chen, **B. Sun**, et al., Design of subwavelength optical fibre for low-loss Terahertz transmission, Journal of the European Optical Society-Rapid Publications, 8, 2013(JCR三区, IF: 1.152) (0 cites)<br>
+19. M.-Y. Chen, Y.-K. Zhang, X.-X. Fu, **B. Sun**, et al., Proposal and design of sectorial cladding optical fibre for large-mode-area, single-mode operation. Journal of Optics, 283(16): 3153-3157, 2010 (JCR三区, IF:2.010) (3 cites)<br>
+20. J. Zhou, X.-q. Yu, M.-Y. Chen, **B. Sun**, et al., Design and characteristics of a novel narrow-band filter with the dual-core photonic crystal fiber, Optoelectronics letters, 6(4): 249-252, 2010 (EI)<br>
+21. J. Zhou, C. Liao, G. Yin, X. Zhong, K. Yang, **B. Sun**, et al., Simultaneous measurement of strain and temperature by employing fiber Mach-Zehnder interferometer, Optics Express, 22(2): 1680-1686, 2014 (JCR二区, IF: 3.525) (1 cites)<br>
+22. G. Yin, Y. Wang, C. Liao, J. Zhou, X. Zhong, G. Wang, **B. Sun**, et al., Long period fiber gratings inscribed by periodically tapering a fiber, IEEE Photonic Technology Letter 26(7): 698-701, 2014 (JCR二区, IF:2.176) (0 cites)<br>
+23. X. Zhong, Y. Wang, C. Liao, G. Yin, J. Zhou, G. Wang, **B. Sun**, et al., Long Period Fiber Gratings Inscribed With an Improved Two-Dimensional Scanning Technique, Photonics Journal, IEEE 6(4): 2201508, 2014 (JCR二区, IF:2.33) (0 cites)<br>
+24. Liu, K. Yang, Y. Wang, J. Qu, C. Liao, J. He, Z. Li, G. Yin, **B. Sun**, et al., High-sensitivity strain sensor based on in-fiber rectangular air bubble, Sci. Rep., 5 7624 (2015) (JCR一区, IF: 5.078)<br> 
+25. J. Zhou, Y. Wang, C. Liao, **B. Sun**, et al., Intensity modulated refractive index sensor based on optical fiber Michelson interferometer, Sensors and Actuators B, 208: 315-319, 2015 (JCR一区, IF: 4.104) <br>
+26. J. He, Y. Wang, C. Liao, Q. Wang, K. Yang, **B. Sun**, et al., Highly birefringent phase-shifted fiber Bragg gratings inscribed with femtosecond laser," Opt. Lett., 40(9): 2008-2011, 2015 (JCR二区, IF:3.179)<br>
+27. N. F. Ren, **B. Sun**, et al., Label-free optical biosensor based on a dual-core microstructured polymer optical fibre, Optik, 2015 (Submitted)<br>
+
 
 ### 会议论文
 
