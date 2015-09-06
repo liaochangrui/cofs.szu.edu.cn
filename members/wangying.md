@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 王英 副教授
+title: 王英
 permalink: /members/wangying/
 ---
 
