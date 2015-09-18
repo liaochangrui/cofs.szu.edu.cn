@@ -13,7 +13,7 @@ permalink: /members/gra-members/
 <br>
 
 ## 出站博士后
-
+<div class="sec-container">
 <div class="bio-container">
   <div class="bio-avatar" >
   <a href="{{ site.baseurl }}/members/sunbing/">
@@ -32,6 +32,7 @@ permalink: /members/gra-members/
   E-mail: pcf13@szu.edu.cn
   </div>
 </div>
+<div>
 
 ## 毕业硕士生
 
@@ -80,5 +81,5 @@ permalink: /members/gra-members/
   E-mail：814423256@qq.com
   </div>
 </div>
-
+</div>
 **注：*合作培养学生**
