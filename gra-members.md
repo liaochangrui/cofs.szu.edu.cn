@@ -32,7 +32,7 @@ permalink: /members/gra-members/
   E-mail: pcf13@szu.edu.cn
   </div>
 </div>
-<div>
+</div>
 
 ## 毕业硕士生
 

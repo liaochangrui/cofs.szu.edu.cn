@@ -276,6 +276,8 @@ permalink: /members/
 
 ## 在读硕士生
 
+<div class="sec-container">
+
 <div class="bio-container">
   <div class="bio-avatar" >
   <a href="{{ site.baseurl }}/members/wangqiao/">
@@ -425,7 +427,6 @@ permalink: /members/
   E-mail:916615886@qq.com
   </div>
 </div>
-
 </div>
 
 **注：*合作培养学生**
