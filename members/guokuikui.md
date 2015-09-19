@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Kuikui Guo
-permalink: /members/zhufeng/
+permalink: /members/guokuikui/
 ---
 
 <a href="{{ site.baseurl }}/members/guokuikui/">
 <img src="{{ site.baseurl }}/images/guokuikui-92x128.jpg" style="width: 20%; float: right; margin: 10px" />
 </a>
 
-姓名：朱峰<br/>
+姓名：郭奎奎<br/>
 学历：本科<br/>
 职称：硕士研究生<br/>
 邮箱： 810419039@qq.com<br/>
