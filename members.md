@@ -415,6 +415,21 @@ permalink: /members/
 
 <div class="bio-container">
   <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/guokuikui/">
+  <img src="{{ site.baseurl }}/images/guokuikui-92x128.jpg" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/zhufeng/">
+  郭奎奎
+  </a>
+  <br>
+  E-mail:810419039@qq.com
+  </div>
+</div>
+
+<div class="bio-container">
+  <div class="bio-avatar" >
   <a href="{{ site.baseurl }}/members/zhufeng/">
   <img src="{{ site.baseurl }}/images/zhufeng-92x128.jpg" class="max-img-border"/>
   </a>
