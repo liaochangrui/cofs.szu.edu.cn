@@ -420,7 +420,7 @@ permalink: /members/
   </a>
   </div>
   <div class="bio-info">
-  <a href="{{ site.baseurl }}/members/zhufeng/">
+  <a href="{{ site.baseurl }}/members/guokuikui/">
   郭奎奎
   </a>
   <br>
