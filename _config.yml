@@ -43,7 +43,7 @@ links:
    url: http://www.szsti.gov.cn/
 
 newpapers:
-  - name: "基于带涂覆层单模光纤微环的高灵敏度温度传感器"
+ - name: "基于带涂覆层单模光纤微环的高灵敏度温度传感器"
    title: "High-sensitivity temperature sensor based on a coated single-mode fiber loop"
    author: "Jun He et al, J. Lightwave Technol., 33(19), 4019-4026, 2015. (IF: 2.965)"
    doc: "2015_OE_Asymmetrical in-fiber Mach-Zehnder interferometer for curvature measurement.pdf"
