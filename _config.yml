@@ -43,6 +43,11 @@ links:
    url: http://www.szsti.gov.cn/
 
 newpapers:
+  - name: "基于带涂覆层单模光纤微环的高灵敏度温度传感器"
+   title: "High-sensitivity temperature sensor based on a coated single-mode fiber loop"
+   author: "Jun He et al, J. Lightwave Technol., 33(19), 4019-4026, 2015. (IF: 2.965)"
+   doc: "2015_OE_Asymmetrical in-fiber Mach-Zehnder interferometer for curvature measurement.pdf"
+   image: 2015-hj-jlp.jpg
  - name: "基于液晶填充的光子晶体光纤的宽带热光开关效应"
    title: "Broadband Thermo-Optic Switching Effect Based on Liquid Crystal Infiltrated Photonic Crystal Fibers"
    author: "Bing Sun et al,IEEE Photonics Journal, 7(4)，2015，6802207."
@@ -53,11 +58,6 @@ newpapers:
    author: "Guolu Yin et al ,IEEE PHOTONICS TECHNOLOGY LETTERS, 27(4), 375-378, 2015"
    doc: "ygl-2015-Simultaneous Refractive Index and Temperature Measurement with LPFG and Liquid-Filled PCF1.pdf"
    image: ygl-2015.jpg
- - name: "非对称光纤马赫曾德干涉仪用于弯曲测量"
-   title: "Asymmetrical in-fiber Mach-Zehnder interferometer for curvature measurement"
-   author: "Bing Sun et al, OPTICS EXPRESS.23（11）14596-14602 DOI:10.1364/OE.23.014596"
-   doc: "2015_OE_Asymmetrical in-fiber Mach-Zehnder interferometer for curvature measurement.pdf"
-   image: sb-2015-923x400.jpg
 
 # Build settings
 markdown: redcarpet  #kramdown
