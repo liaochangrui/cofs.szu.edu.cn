@@ -1,3 +1,5 @@
+
+
 # Site settings
 title: 深圳市物联网光子器件与传感系统重点实验室
 subtitle: Shenzhen Key Lab of Photonic Devices and Sensing Systems for Internet of Things
@@ -48,7 +50,7 @@ newpapers:
    author: "Jun He et al, J. Lightwave Technol., 33(19), 4019-4026, 2015."
    doc: "2015-hj-jlt-33-19-4019.pdf"
    image: 2015-hj-jlp.jpg
--  name: "带有表面划痕的侧边抛磨光纤及其传感应用"
+ - name: "带有表面划痕的侧边抛磨光纤及其传感应用"
    title: "Rough Side-Polished Fiber With Surface Scratches for Sensing Applications"
    author: "Jing Zhao et al ,Photonics Journal, 7( 3), 6801107, 2015"
    doc: "2015-zj-pj-Rough Side-Polished Fiber With Surface.pdf"
