@@ -45,7 +45,7 @@ interferometer"]({{ site.baseurl }}/papers/zhengyongli-Highly-sensitive gas pres
 
 1. Jun He, Changrui Liao, Kaiming Yang, Shen Liu, Guolu Yin, Bing Sun, Jiangtao Zhou, Jing Zhao, and Yiping Wang*<br>
     [ "High-sensitivity temperature sensor based on a coated single-mode fiber loop"]({{ site.baseurl }}/papers/2015-hj-jlt-33-19-4019.pdf)<br> 
- J. Lightwave Technol., 33(19), 4019-4026, 2015. (IF: 2.965).
+ J. Lightwave Technol., 33(19), 4019-4026, 2015. (JCR二区，IF: 2.965).<br>
 
 1. Bing Sun,Yijian Huang,Dan Luo,Chao Wang,Jun He,Changrui Liao,Guolu Yin,Jiangtao Zhou,Shen Liu,Jing Zhao,and Yiping Wang,<br> 
      ["Broadband Thermo-Optic Switching Effect Based on Liquid Crystal Infiltrated Photonic Crystal Fibers"]({{ site.baseurl }}/papers/sb-ieee-2015-Broadband Thermo-Optic Switching Effect Based on Liquid Crystal Infiltrated Photonic Crystal Fibers.pdf)<br>
