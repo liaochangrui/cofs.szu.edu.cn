@@ -54,6 +54,21 @@ permalink: /members/gra-members/
 
 <div class="bio-container">
   <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/lizhengyong/">
+  <img src="{{ site.baseurl }}/images/lizhengyong-92x128.jpg" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/lizhengyong/">
+  李正勇
+  </a>
+  <br>
+  E-mail：lizhengy88@126.com
+  </div>
+</div>
+
+<div class="bio-container">
+  <div class="bio-avatar" >
   <a href="{{ site.baseurl }}/members/zhoujiangtao/">
   <img src="{{ site.baseurl }}/images/zhoujiangtao-92x130.jpg" class="max-img-border"/>
   </a>
