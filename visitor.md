@@ -14,6 +14,8 @@ permalink: /more/visitor/
 <br>
 <br>
 
++ 2015年9月15日
+  [学术报告——非线性管理超短脉冲光纤激光器]({{ site.baseurl }}/notice/notice-zhangzuxing.html)
 + 2015年7月18日
   [学术报告——面向宽带应用的新型光纤研究]({{ site.baseurl }}/notice/notice-penggangding.html)<br>
 + 2014年12月5日

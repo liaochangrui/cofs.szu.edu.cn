@@ -44,10 +44,12 @@ interferometer"]({{ site.baseurl }}/papers/zhengyongli-Highly-sensitive gas pres
   Optics Express, 23(3): 1906-1911, 2015
 
 1. Jun He, Changrui Liao, Kaiming Yang, Shen Liu, Guolu Yin, Bing Sun, Jiangtao Zhou, Jing Zhao, and Yiping Wang*<br>
-  "High-sensitivity temperature sensor based on a coated single-mode fiber loop"<br>
+    [ "High-sensitivity temperature sensor based on a coated single-mode fiber loop"]({{ site.baseurl }}/papers/2015-hj-jlt-33-19-4019.pdf)<br> 
  J. Lightwave Technol., 33(19), 4019-4026, 2015. (IF: 2.965).
 
-1. Bing Sun,Yijian Huang,Dan Luo,Chao Wang,Jun He,Changrui Liao,Guolu Yin,Jiangtao Zhou,Shen Liu,Jing Zhao,and Yiping Wang,<br> ["Broadband Thermo-Optic Switching Effect Based on Liquid Crystal Infiltrated Photonic Crystal Fibers"]({{ site.baseurl }}/papers/sb-ieee-2015-Broadband Thermo-Optic Switching Effect Based on Liquid Crystal Infiltrated Photonic Crystal Fibers.pdf)<br>IEEE Photonics Journal, 7(4)，2015，6802207 
+1. Bing Sun,Yijian Huang,Dan Luo,Chao Wang,Jun He,Changrui Liao,Guolu Yin,Jiangtao Zhou,Shen Liu,Jing Zhao,and Yiping Wang,<br> 
+     ["Broadband Thermo-Optic Switching Effect Based on Liquid Crystal Infiltrated Photonic Crystal Fibers"]({{ site.baseurl }}/papers/sb-ieee-2015-Broadband Thermo-Optic Switching Effect Based on Liquid Crystal Infiltrated Photonic Crystal Fibers.pdf)<br>
+   IEEE Photonics Journal, 7(4)，2015，6802207 
 
 4. Guolu Yin, Yiping Wang,Senior Member, IEEE, Changrui Liao, Bing Sun, Yingjie Liu, Shen Liu, Qiao Wang, Kaiming Yang, Jian Tang, and Xiaoyong Zhong<br>
     ["Simultaneous Refractive Index and Temperature Measurement With LPFG and Liquid-Filled PCF"]({{ site.baseurl }}/papers/ygl-2015-Simultaneous Refractive Index and Temperature Measurement with LPFG and Liquid-Filled PCF1.pdf)<br> 
@@ -62,7 +64,7 @@ interferometer"]({{ site.baseurl }}/papers/zhengyongli-Highly-sensitive gas pres
    IEEE SENSORS JOURNAL, 15(7)，2015 4096-4092<br>
 
 5. Jing Zhao, Guolu Yin, Changrui Liao, Shen Liu, Jun He, Bing Sun, Guanjun Wang, Xizheng Xu, and Yiping Wang<br>
-   ["Rough side-polished fiber with surface scratches for sensing applications"]({{ site.baseurl }}/papers/zj-2015-Rough side-polished fiber with surface scratches for sensing applications.pdf)<br>
+   ["Rough side-polished fiber with surface scratches for sensing applications"]({{ site.baseurl }}/papers/2015-zj-pj-Rough Side-Polished Fiber With Surface.pdf)<br>
    IEEE Photonics Journal , 7（3），2015，6801107 <br>
 
 2014
