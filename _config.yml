@@ -45,20 +45,20 @@ links:
 newpapers:
  - name: "基于带涂覆层单模光纤微环的高灵敏度温度传感器"
    title: "High-sensitivity temperature sensor based on a coated single-mode fiber loop"
-   author: "Jun He et al, J. Lightwave Technol., 33(19), 4019-4026, 2015. (IF: 2.965)"
-   doc: "2015_OE_Asymmetrical in-fiber Mach-Zehnder interferometer for curvature measurement.pdf"
+   author: "Jun He et al, J. Lightwave Technol., 33(19), 4019-4026, 2015."
+   doc: "2015-hj-jlt-33-19-4019.pdf"
    image: 2015-hj-jlp.jpg
+-  name: "带有表面划痕的侧边抛磨光纤及其传感应用"
+   title: "Rough Side-Polished Fiber With Surface Scratches for Sensing Applications"
+   author: "Jing Zhao et al ,Photonics Journal, 7( 3), 6801107, 2015"
+   doc: "2015-zj-pj-Rough Side-Polished Fiber With Surface.pdf"
+   image: 2015-zj-pj.gif
  - name: "基于液晶填充的光子晶体光纤的宽带热光开关效应"
    title: "Broadband Thermo-Optic Switching Effect Based on Liquid Crystal Infiltrated Photonic Crystal Fibers"
    author: "Bing Sun et al,IEEE Photonics Journal, 7(4)，2015，6802207."
    doc: "sb-ieee-2015-Broadband Thermo-Optic Switching Effect Based on Liquid Crystal Infiltrated Photonic Crystal Fibers.pdf"
    image: sb-ieee.png
- - name: "基于长周期光纤光栅和液体填充的光子晶体光纤折射率和温度同时传感"
-   title: "Simultaneous Refractive Index and Temperature Measurement With LPFG and Liquid-Filled PCF"
-   author: "Guolu Yin et al ,IEEE PHOTONICS TECHNOLOGY LETTERS, 27(4), 375-378, 2015"
-   doc: "ygl-2015-Simultaneous Refractive Index and Temperature Measurement with LPFG and Liquid-Filled PCF1.pdf"
-   image: ygl-2015.jpg
-
+ 
 # Build settings
 markdown: redcarpet  #kramdown
 redcarpet:
