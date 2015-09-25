@@ -180,6 +180,12 @@ body {
 .site-header a.secondary {
   font-size: 0.73em;
 }
+.site-header a.secondary b{
+  font-size: 0.75em;
+  color: #fff;
+  opacity: 1;
+  border-bottom: 2px solid #FFFFFF;
+}
 .site-header a.banner {
   float: right;
   width: 260px;
