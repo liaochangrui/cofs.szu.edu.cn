@@ -14,8 +14,8 @@
  * ====================================================================================================================*/
 @font-face {
   font-family: 'flexslider-icon';
-  src: url('http://cofs.szu.edu.cn/css/fonts/flexslider-icon.eot');
-  src: url('http://cofs.szu.edu.cn/css/fonts/flexslider-icon.eot?#iefix') format('embedded-opentype'), url('http://cofs.szu.edu.cn/css/fonts/flexslider-icon.woff') format('woff'), url('http://cofs.szu.edu.cn/css/fonts/flexslider-icon.ttf') format('truetype'), url('http://cofs.szu.edu.cn/css/fonts/flexslider-icon.svg#flexslider-icon') format('svg');
+  src: url('http://pdss.szu.edu.cn/css/fonts/flexslider-icon.eot');
+  src: url('http://pdss.szu.edu.cn/css/fonts/flexslider-icon.eot?#iefix') format('embedded-opentype'), url('http://pdss.szu.edu.cn/css/fonts/flexslider-icon.woff') format('woff'), url('http://pdss.szu.edu.cn/css/fonts/flexslider-icon.ttf') format('truetype'), url('http://pdss.szu.edu.cn/css/fonts/flexslider-icon.svg#flexslider-icon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
