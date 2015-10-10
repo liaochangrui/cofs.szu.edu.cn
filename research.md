@@ -21,7 +21,7 @@ permalink: /research/
 ----------------------------
 <div class="wrap clearfix">
     <a href="{{ site.baseurl }}/fiber-biochemical-1/">
-    <img src="{{ site.baseurl }}/CO2-research.png" style="float: right; width: 50%; margin: 15px; padding: 15px;" >
+    <img src="{{ site.baseurl }}/CO2-research.jpg" style="float: right; width: 50%; margin: 15px; padding: 15px;" >
     <p>
         光纤微结构传感技术是通过在光纤内引入周期性折射率调制、微结构通道、或者利用微结构光纤中天然的微流道等，研发新型光纤光子传感器，光纤微结构的引入一方面能对光信号进行灵活调制，同时能有效增强光与物质的相互作用，提升传感灵敏度。本研究方向涉及的研究内容包括：（1）光纤光栅；（2）光纤干涉传感器；（3）光纤微流传感器；（4）光子晶体光纤传感器
      </p>
@@ -34,7 +34,7 @@ permalink: /research/
 ----------------------------
 <div class="wrap clearfix">
     <a href="{{ site.baseurl }}/fiber-interference-1/">
-    <img src="{{ site.baseurl }}/images/qipao-800x439.jpg" style="float: right; width: 50%; margin: 15px; padding: 15px;" >
+    <img src="{{ site.baseurl }}/images/bio-chem-d.jpg" style="float: right; width: 50%; margin: 15px; padding: 15px;" >
     <p>
         光纤新材料传感技术是在光纤表面或内部通过热蒸镀、溅射、化学镀及分子自组装技术淀积不同的功能薄膜、或利用化学合成法生长纳米颗粒和纳米线，扩展光纤传感器在环境监测、食品安全、药物筛查、生物学及生物医学等领域的应用。本研究方向涉及的研究内容包括：（1）功能薄膜光纤SPR传感技术；（2）金属纳米结构光纤LSPR传感技术；（3）光纤ZnO纳米线传感技术；（4）功能材料填充光纤传感器。
     </p>
