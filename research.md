@@ -6,6 +6,8 @@ permalink: /research/
 <h2 style="color: #870A40;">研究方向1：光纤微加工技术</h2>
 ----------------------------
 <h2><a href="{{ site.baseurl }}/fiber-gratings-1/"><span style="color: #870A40;font-size: 1.33rem; line-height: 2.3rem;float: center">（1）飞秒激光微加工技术</span></a></h2>
+<h2><a href="{{ site.baseurl }}/fiber-gratings-1/"><span style="color: #870A40;font-size: 1.33rem; line-height: 2.3rem;float: center">（2）二氧化碳激光微加工技术</span></a></h2>
+<h2><a href="{{ site.baseurl }}/fiber-gratings-1/"><span style="color: #870A40;font-size: 1.33rem; line-height: 2.3rem;float: center">（3）电弧微加工技术</span></a></h2>
 
 <div class="wrap clearfix">
     <a href="{{ site.baseurl }}/fiber-gratings-1/">
