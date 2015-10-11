@@ -12,7 +12,7 @@
                 <a href="{{ paper.doc | prepend: "/papers/" | prepend: site.baseurl }}">
                     <img src="{{ paper.image | prepend: "/images/" | prepend: site.baseurl }}">
                     {% if paper.title and paper.author %}
-                        <p class="flex-caption"><h1 style="color: #870A40; >{{ paper.title }}<br/>{{ paper.author }}</p>
+                        <p class="flex-caption">{{ paper.title }}<br/>{{ paper.author }}</p>
                     {% elsif paper.author and paper.title == null %}
                         <p class="flex-caption">{{ paper.author }}</p>
                     {% elsif paper.title and paper. author == null %}
