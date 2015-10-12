@@ -10,11 +10,9 @@ carousel:
   - image: sghzjl.jpg
   - image: xswyhy.jpg
 ---
-<h2 style="color: #4D4DFF;">实验室新闻报道</h2>
-+ <a href="http://www.s1979.com/dianshi/first/201505/21144461521.shtml">深圳都市频道第一现场专题报道<a>
+<h2><a href="http://www.s1979.com/dianshi/first/201505/21144461521.shtml"><span style="color: #4D4DFF;font-size: 1.33rem; line-height: 2.3rem;float: center">实验室新闻报道</span></a></h2>
 
-<h2 style="color: #4D4DFF;">年度报告</h2>
-+ [2014 年度报告]({{ site.baseurl }}/notice/2014-annual-report-out.pdf)
+<a href="{{ site.baseurl }}/notice/2014-annual-report-out.pdf)"><h2 style="color: #4D4DFF;font-size: 1.33rem; line-height: 2.3rem;float: center;">光纤光栅传感技术</h2>
 
 <h2 style="color: #4D4DFF;">学术动态 <a href="{{ site.baseurl }}/more/"><span style="font-size: 1.0rem; color: #4D4DFF;">(更多)</span></a></h2>
 
