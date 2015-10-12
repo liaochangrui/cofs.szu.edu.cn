@@ -10,9 +10,9 @@ carousel:
   - image: sghzjl.jpg
   - image: xswyhy.jpg
 ---
-<h2><a href="http://www.s1979.com/dianshi/first/201505/21144461521.shtml"><span style="color: #870A40;font-size: 1.33rem; line-height: 2.3rem;float: center">>>实验室新闻报道</span></a></h2>
+<h2><a href="http://www.s1979.com/dianshi/first/201505/21144461521.shtml"><span style="color: #4D4DFF;font-size: 1.33rem; line-height: 2.3rem;float: center">>>实验室新闻报道</span></a></h2>
 
-<h2><a href="{{ site.baseurl }}/notice/2014-annual-report-out.pdf)"><span style="color: #870A40;font-size: 1.33rem; line-height: 2.3rem;float: center">>>实验室工作汇报</span></a></h2>
+<h2><a href="{{ site.baseurl }}/notice/2014-annual-report-out.pdf"><span style="color: #4D4DFF;font-size: 1.33rem; line-height: 2.3rem;float: center">>>实验室工作汇报</span></a></h2>
 
 <h2 style="color: #4D4DFF;">>>学术动态 <a href="{{ site.baseurl }}/more/"><span style="font-size: 1.0rem; color: #4D4DFF;">(更多)</span></a></h2>
 
