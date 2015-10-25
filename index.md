@@ -17,6 +17,8 @@ carousel:
 <h2 style="color: #4D4DFF;">>>学术动态 <a href="{{ site.baseurl }}/more/"><span style="font-size: 1.0rem; color: #4D4DFF;">(更多)</span></a></h2>
 
 + [王义平教授获2015年度国家杰出青年科学基金]({{ site.baseurl }}/notice/yipingwang.html)
++ 2015年10月13日
+  [广东省光纤传感技术粤港联合研究中心揭牌仪式隆重举行]({{ site.baseurl }}/notice/meeting-jiepai.html)
 + 2015年9月15日
   [学术报告——非线性管理超短脉冲光纤激光器]({{ site.baseurl }}/notice/notice-zhangzuxing.html)
 + 2015年7月18日
