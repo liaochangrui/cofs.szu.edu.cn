@@ -177,6 +177,24 @@ permalink: /members/
   E-mail:leocharen@163.com
   </div>
 </div>
+
+<div class="bio-container">
+  <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/zhangfeng/">
+  <img src="{{ site.baseurl }}/images/zhangfeng-92x128.jpg" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/zhangfeng/">
+  张峰 博士
+  </a>
+  <br>
+  Tel：  17722548257
+  <br>
+  E-mail: zhangfeng840401@gmail.com
+  </div>
+</div>
+
 </div>
 
 ##  在读博士生
