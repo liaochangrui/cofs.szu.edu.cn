@@ -44,16 +44,16 @@ links:
    url: http://www.szsti.gov.cn/
 
 newpapers:
+ - name: "基于CO2激光在空气芯光子带隙光纤中写制的长周期光纤光栅气压传感器"
+   title: "Gas pressure sensor based on CO2-laser-induced long period fiber grating in air-core photonic bandgap fiber"
+   author: "Jian Tang et al ,IEEE Photonics Journal , 7(5), 6803107, 2015."
+   doc: "2015-12-PJ-Gas Pressure Sensor Based on CO 2-Laser-Induced Long-Period Fiber Grating in Air-Core Photonic Bandgap Fiber.pdf"
+   image: tj-900x580.jpg
  - name: "基于带涂覆层单模光纤微环的高灵敏度温度传感器"
    title: "High-sensitivity temperature sensor based on a coated single-mode fiber loop"
    author: "Jun He et al, J. Lightwave Technol., 33(19), 4019-4026, 2015."
    doc: "2015-hj-jlt-33-19-4019.pdf"
    image: 2015-hj-jlp.jpg
- - name: "带有表面划痕的侧边抛磨光纤及其传感应用"
-   title: "Rough Side-Polished Fiber With Surface Scratches for Sensing Applications"
-   author: "Jing Zhao et al ,Photonics Journal, 7( 3), 6801107, 2015"
-   doc: "2015-zj-pj-Rough Side-Polished Fiber With Surface.pdf"
-   image: 2015-zj-pj-920x380.jpg
  - name: "基于液晶填充的光子晶体光纤的宽带热光开关效应"
    title: "Broadband Thermo-Optic Switching Effect Based on Liquid Crystal Infiltrated Photonic Crystal Fibers"
    author: "Bing Sun et al,IEEE Photonics Journal, 7(4)，2015，6802207."
