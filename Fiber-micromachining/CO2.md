@@ -5,17 +5,11 @@ permalink: /Fiber-micromachining/CO2
 
 <div class="navbar center fifth">
 <ul>
-    <li><a href="{{ "/Fiber-micromachining/" | prepend: site.baseurl }}">飞秒激光微加工</a></li>
-    <li class="active"><a href="{{ "/Fiber-micromachining/CO2" | prepend: "/Fiber-micromachining" | prepend: site.baseurl }}">CO2激光微加工</a></li>
-    <li><a href="{{ "/Fiber-micromachining/ARC" | prepend: "/Fiber-micromachining" | prepend: site.baseurl }}">电弧微加工</a></li>
-    <li><a href="{{ "/Fiber-micromachining/SPF" | prepend: "/Fiber-micromachining" | prepend: site.baseurl }}">光纤研磨技术</a></li>
-    <li><a href="{{ "/Fiber-micromachining/Micro-Nano" | prepend: "/Fiber-micromachining" | prepend: site.baseurl }}">微纳光纤制备技术</a></li>
+    <li><a href="{{ "/Fiber-micromachining/femto" | prepend: site.baseurl }}">飞秒激光微加工</a></li>
+    <li class="active"><a href="{{ "/Fiber-micromachining/CO2" | prepend: "/Fiber-micromachining/femto" | prepend: site.baseurl }}">CO2激光微加工</a></li>
 </ul>
 </div>
-
 <br>
-<li class="active"><a href="{{ "/gra-members" | prepend: "/members" | prepend: site.baseurl }}">优秀毕业成员</a></li>
-
 <div class="wrap clearfix">
     <img src="{{ site.baseurl }}/images/hj.png" style="float: left; width: 50%; margin: 15px; padding: 15px;" >
     <h2 style="color: #870A40;padding-top: 1.9rem;">飞秒激光相位掩模法写制光纤布拉格光栅</h2> 
