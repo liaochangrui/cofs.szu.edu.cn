@@ -4,7 +4,11 @@ permalink: /research/
 ---
 
 ###实验室主要开展光纤传感技术及应用研究，重点研究光纤微加工技术、光纤微结构传感技术、光纤新材料传感技术的机理、方法及应用，尤其是在生物化学传感领域的应用。包括三个主要研究方向：
-     <a href="{{ site.baseurl }}/Fiber-micromachining/femto/">1. 光纤微加工技术</a>
+<div class="wrap clearfix">
+    <a href="{{ site.baseurl }}/fiber-gratings-1/">
+    <h2 style="color: #870A40;padding-top: 1.9rem;">1. 光纤微加工技术</h2>
+    </a>
+</div>
 ----------------------------
 <div class="wrap clearfix">
       <img src="{{ site.baseurl }}/images/CO2.jpg" style="float: right; width: 50%; margin: 15px; padding: 0px;" >
