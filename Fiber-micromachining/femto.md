@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Fiber-micromachining/
+permalink: /Fiber-micromachining/femto/
 ---
 
 <div class="navbar center fifth">
