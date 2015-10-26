@@ -304,6 +304,9 @@ body {
 .forth ul li {
   width: 25%;
 }
+.fifth ul li {
+  width: 20%;
+}
 
 .posts {
   margin: 0;
