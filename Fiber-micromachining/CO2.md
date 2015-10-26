@@ -5,8 +5,8 @@ permalink: /Fiber-micromachining/CO2
 
 <div class="navbar center fifth">
 <ul>
-    <li><a href="{{ "/Fiber-micromachining" | prepend: site.baseurl }}">飞秒激光微加工</a></li>
-    <li class="active"><a href="{{ "/Fiber-micromachining/CO2" | prepend: site.baseurl }}">CO2激光微加工</a></li>
+    <li><a href="{{ "/Fiber-micromachining/" | prepend: site.baseurl }}">飞秒激光微加工</a></li>
+    <li class="active"><a href="{{ "/Fiber-micromachining/conf" | prepend: "/Fiber-micromachining" | prepend: site.baseurl }}">CO2激光微加工</a></li>
     <li><a href="{{ "/Fiber-micromachining/ARC" | prepend: "/Fiber-micromachining" | prepend: site.baseurl }}">电弧微加工</a></li>
     <li><a href="{{ "/Fiber-micromachining/SPF" | prepend: "/Fiber-micromachining" | prepend: site.baseurl }}">光纤研磨技术</a></li>
     <li><a href="{{ "/Fiber-micromachining/Micro-Nano" | prepend: "/Fiber-micromachining" | prepend: site.baseurl }}">微纳光纤制备技术</a></li>
