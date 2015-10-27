@@ -41,7 +41,6 @@ permalink: /research/
         <a href="{{ site.baseurl }}/Fiber-microstructure/Str-inf/">（2）光纤干涉传感器；</a><br>
         <a href="{{ site.baseurl }}/Fiber-microstructure/Str-flu/">（3）光纤微流传感器；</a><br>
         <a href="{{ site.baseurl }}/Fiber-microstructure/Str-PCF/">（4）光子晶体光纤传感器；</a><br>
-       <a href="{{ site.baseurl }}/Fiber-microstructure/">
      </p>
     </a>
 </div>
