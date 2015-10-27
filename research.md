@@ -5,7 +5,7 @@ permalink: /research/
 
 ###实验室主要开展光纤传感技术及应用研究，重点研究光纤微加工技术、光纤微结构传感技术、光纤新材料传感技术的机理、方法及应用，尤其是在生物化学传感领域的应用。包括三个主要研究方向：
 <div class="wrap clearfix">
-    <a href="{{ site.baseurl }}/femto/">
+    <a href="{{ site.baseurl }}/Fiber-micromachining/">
     <h2 style="color: #870A40;padding-top: 1.9rem;">1. 光纤微加工技术</h2>
     </a>
 </div>
@@ -15,11 +15,11 @@ permalink: /research/
       <p>
       <br>
         光纤微加工技术是借助激光加工、电弧热效应、机械加工等多种精细加工手段对光纤表面或者内部结构进行微米甚至次微米尺寸的精细加工，目的是获得新型光纤光子传感器。实验室已自主设计并搭建了飞秒激光微加工系统、CO2激光微加工系统、微纳光纤拉锥系统、电弧加工系统和光纤研磨系统。本研究方向的具体研究内容包括：<br>
-        <a href="{{ site.baseurl }}/femto/">（1）飞秒激光微加工技术;</a><br>
-        <a href="{{ site.baseurl }}/CO2/">（2）CO2激光微加工技术；</a><br>
-        <a href="{{ site.baseurl }}/ARC/">（3）电弧微加工技术；</a><br>
-        <a href="{{ site.baseurl }}/SPF/">（4）光纤研磨技术；</a><br>
-        <a href="{{ site.baseurl }}/Micro-Nano/">（5）微纳光纤制备技术。</a><br>
+        <a href="{{ site.baseurl }}/Fiber-micromachining/">（1）飞秒激光微加工技术;</a><br>
+        <a href="{{ site.baseurl }}/Fiber-micromachining/CO2/">（2）CO2激光微加工技术；</a><br>
+        <a href="{{ site.baseurl }}/Fiber-micromachining/ARC/">（3）电弧微加工技术；</a><br>
+        <a href="{{ site.baseurl }}/Fiber-micromachining/SPF/">（4）光纤研磨技术；</a><br>
+        <a href="{{ site.baseurl }}/Fiber-micromachining/Micro-Nano/">（5）微纳光纤制备技术。</a><br>
       </p>
     </a>
 </div>
