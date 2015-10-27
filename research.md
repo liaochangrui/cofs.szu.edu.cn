@@ -49,7 +49,7 @@ permalink: /research/
 <br>
 
 <div class="wrap clearfix">
-    <a href="{{ site.baseurl }}/Fiber-micromachining/">
+    <a href="{{ site.baseurl }}/Fiber-New-Materials/">
     <h2 style="color: #870A40;">(3)光纤新材料传感技术</h2>
     </a>
 </div>
@@ -59,11 +59,10 @@ permalink: /research/
     <p>
     <br>
         光纤新材料传感技术是在光纤表面或内部通过热蒸镀、溅射、化学镀及分子自组装技术淀积不同的功能薄膜、或利用化学合成法生长纳米颗粒和纳米线，扩展光纤传感器在环境监测、食品安全、药物筛查、生物学及生物医学等领域的应用。本研究方向的具体研究内容包括：<br>
-        <a href="{{ site.baseurl }}/Fiber-microstructure/">（1）功能薄膜光纤SPR传感技术；</a><br>
-        <a href="{{ site.baseurl }}/Fiber-microstructure/Str-inf/">（2）金属纳米结构光纤LSPR传感技术；</a><br>
-        <a href="{{ site.baseurl }}/Fiber-microstructure/Str-flu/">（3）光纤ZnO纳米线传感技术；</a><br>
-        <a href="{{ site.baseurl }}/Fiber-microstructure/Str-PCF/">（4）功能材料填充光纤传感器</a><br>
-       <a href="{{ site.baseurl }}/Fiber-microstructure/">
+        <a href="{{ site.baseurl }}/Fiber-New-Materials/">（1）功能薄膜光纤SPR传感技术；</a><br>
+        <a href="{{ site.baseurl }}/Fiber-New-Materials/Mat-LSPR/">（2）金属纳米结构光纤LSPR传感技术；</a><br>
+        <a href="{{ site.baseurl }}/Fiber-New-Materials/Mat-ZnO/">（3）光纤ZnO纳米线传感技术；</a><br>
+        <a href="{{ site.baseurl }}/Fiber-New-Materials/Mat-fill/">（4）功能材料填充光纤传感器</a><br>
     </p>
     </a>
 </div>
