@@ -15,11 +15,6 @@ permalink: /research/
       <p>
       <br>
         光纤微加工技术是借助激光加工、电弧热效应、机械加工等多种精细加工手段对光纤表面或者内部结构进行微米甚至次微米尺寸的精细加工，目的是获得新型光纤光子传感器。实验室已自主设计并搭建了飞秒激光微加工系统、CO2激光微加工系统、微纳光纤拉锥系统、电弧加工系统和光纤研磨系统。本研究方向的具体研究内容包括：<br>
-        <a href="{{ site.baseurl }}/femto/">（1）飞秒激光微加工技术;</a><br>
-        <a href="{{ site.baseurl }}/CO2/">（2）CO2激光微加工技术；</a><br>
-        <a href="{{ site.baseurl }}/ARC/">（3）电弧微加工技术；</a><br>
-        <a href="{{ site.baseurl }}/SPF/">（4）光纤研磨技术；</a><br>
-        <a href="{{ site.baseurl }}/Micro-Nano/">（5）微纳光纤制备技术。</a>
       </p>
     </a>
 </div>
