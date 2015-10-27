@@ -9,7 +9,6 @@ permalink: /research/
     <h2 style="color: #870A40;padding-top: 1.9rem;">1. 光纤微加工技术</h2>
     </a>
 </div>
-
 ----------------------------
 <div class="wrap clearfix">
       <img src="{{ site.baseurl }}/images/CO2.jpg" style="float: right; width: 50%; margin: 15px; padding: 0px;" >
