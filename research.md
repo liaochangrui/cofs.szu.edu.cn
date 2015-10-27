@@ -26,13 +26,22 @@ permalink: /research/
 
 <br>
 
-<h2 style="color: #870A40;">2. 光纤微结构传感技术</h2>
+<div class="wrap clearfix">
+    <a href="{{ site.baseurl }}/Fiber-micromachining/">
+    <h2 style="color: #870A40;padding-top: 1.9rem;">2. 光纤微结构传感技术</h2>
+    </a>
+</div>
 ----------------------------
 <div class="wrap clearfix">
     <img src="{{ site.baseurl }}/images/CO2-research.jpg" style="float: right; width: 50%; margin: 15px; padding: 0px;" >
     <p>
     <br>
-        光纤微结构传感技术是通过在光纤内引入周期性折射率调制、微结构通道、或者利用微结构光纤中天然的微流道等，研发新型光纤光子传感器，光纤微结构的引入一方面能对光信号进行灵活调制，同时能有效增强光与物质的相互作用，提升传感灵敏度。本研究方向的具体研究内容包括：<br>（1）光纤光栅；<br>（2）光纤干涉传感器；<br>（3）光纤微流传感器；<br>（4）光子晶体光纤传感器。
+        光纤微结构传感技术是通过在光纤内引入周期性折射率调制、微结构通道、或者利用微结构光纤中天然的微流道等，研发新型光纤光子传感器，光纤微结构的引入一方面能对光信号进行灵活调制，同时能有效增强光与物质的相互作用，提升传感灵敏度。本研究方向的具体研究内容包括：<br>
+        <a href="{{ site.baseurl }}/Fiber-microstructure/">（1）光纤光栅;</a><br>
+        <a href="{{ site.baseurl }}/Fiber-microstructure/Str-inf/">（2）光纤干涉传感器；</a><br>
+        <a href="{{ site.baseurl }}/Fiber-microstructure/Str-flu/">（3）光纤微流传感器；</a><br>
+        <a href="{{ site.baseurl }}/Fiber-microstructure/Str-PCF/">（4）光子晶体光纤传感器；</a><br>
+       <a href="{{ site.baseurl }}/Fiber-microstructure/">
      </p>
     </a>
 </div>
