@@ -192,6 +192,7 @@ permalink: /awards/
   <br>
   </div>
 </div>
+</div>
 
 <span style="font-size: 1.0rem; color: #870A40;">**深圳大学优秀博士支持计划获得者**</span>
 -----------------------------------
@@ -222,7 +223,7 @@ permalink: /awards/
   </div>
   <div class="bio-info">
   <a href="{{ site.baseurl }}/members/yangkaiming/">
-  杨凯明
+  杨凯明(2015年度获得)
   </a>
   <br>
   2015级博士生
@@ -240,7 +241,7 @@ permalink: /awards/
   </div>
   <div class="bio-info">
   <a href="{{ site.baseurl }}/members/fucailing/">
-  付彩玲*
+  付彩玲(2015年度获得)
   </a>
   <br>
   2015级博士生
@@ -284,7 +285,7 @@ permalink: /awards/
   </div>
   <div class="bio-info">
   <a href="{{ site.baseurl }}/members/zhaojing/">
-  赵静
+  赵静(2015年度获得)
   </a>
   <br>
   2013级博士生
@@ -320,7 +321,7 @@ permalink: /awards/
   </div>
   <div class="bio-info">
   <a href="{{ site.baseurl }}/members/xuxizhen/">
-  徐锡镇*
+  徐锡镇(2015年度获得)
   </a>
   <br>
   2013级硕士生
@@ -338,7 +339,7 @@ permalink: /awards/
   </div>
   <div class="bio-info">
   <a href="{{ site.baseurl }}/members/dengmi/">
-  邓蜜 
+  邓蜜(2015年度获得)
   </a>
   <br>
   2014级硕士生
@@ -354,7 +355,7 @@ permalink: /awards/
   </div>
   <div class="bio-info">
   <a href="{{ site.baseurl }}/members/zhoujiangtao/">
-   周江涛
+   周江涛(2014年度获得)
   </a>
   <br>
   2012级硕士生
@@ -372,7 +373,7 @@ permalink: /awards/
   </div>
   <div class="bio-info">
   <a href="{{ site.baseurl }}/members/lizhengyong/">
-  李正勇
+  李正勇(2014年度获得)
   </a>
   <br>
   2012级硕士生
@@ -390,7 +391,7 @@ permalink: /awards/
   </div>
   <div class="bio-info">
   <a href="{{ site.baseurl }}/members/zhongxiaoyong/">
-  钟晓勇
+  钟晓勇(2014年度获得)
   </a>
   <br>
   2012级硕士生
@@ -408,7 +409,7 @@ permalink: /awards/
   </div>
   <div class="bio-info">
   <a href="{{ site.baseurl }}/members/liuyingjie/">
-  刘颖洁
+  刘颖洁(2014年度获得)
   </a>
   <br>
   2012级硕士生
