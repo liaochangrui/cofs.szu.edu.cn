@@ -67,8 +67,11 @@ permalink: /facilities/laser-1/
     </p>
 </div>
 
-<div class="wrap oh clearfix" style="margin-left: 54%; width: 30%">
-</div>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <div class="wrap oh clearfix" style="float: left; width: 30%" >
     <img src="{{ site.baseurl }}/images/wsdsyx.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
