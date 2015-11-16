@@ -39,17 +39,17 @@ permalink: /facilities/laser-1/
     </p>
 </div>
 
-<div class="wrap oh clearfix" style="margin-left: 54%; width: 30%">
-    <img src="{{ site.baseurl }}/images/gwgsl.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
-    <p style="text-align: center; font-size: 1.0em">
-        高温测试系统
-    </p>
-</div>
-
 <div class="wrap oh clearfix" style="float: left; width: 30%" >
     <img src="{{ site.baseurl }}/images/tsyyb.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
     <p style="text-align: center; font-size: 1.0em">
       液压测试系统  
+    </p>
+</div>
+
+<div class="wrap oh clearfix" style="margin-left: 54%; width: 30%">
+    <img src="{{ site.baseurl }}/images/gwgsl.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
+    <p style="text-align: center; font-size: 1.0em">
+        高温测试系统
     </p>
 </div>
 
