@@ -12,6 +12,7 @@ permalink: /awards/
 ★2015年深圳大学优秀研究生奖学金4人(赵静、王侨、徐锡镇、邓蜜)<br>
 ★2015年深圳大学松山湖奖学金1人(唐剑)<br>
 ★2015年深圳大学牛憨笨奖学金2人(刘申、李正勇)<br>
+★2015年深圳大学优秀博士支持计划4人（李正勇、杨凯明、付彩玲、唐剑）<br>
 ★2014年深圳大学国家奖学金4人（周江涛、李正勇、钟晓勇、刘颖洁）,(第一届硕士生4人全部获国家奖学金）<br>
 ★2014年深圳大学优秀研究生奖学金4人（周江涛、李正勇、钟晓勇、刘颖洁）。<br>
 ★2014年深圳大学优秀博士支持计划1人（刘 申）<br>
@@ -198,6 +199,24 @@ permalink: /awards/
 -----------------------------------
 <div class="sec-container">
 <div class="bio-container">
+  <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/tangjian/">
+  <img src="{{ site.baseurl }}/images/tangjian-92x128.jpg" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/tangjian/">
+  唐剑(2015年度获得)
+  </a>
+  <br>
+  2013级博士生
+  <br>
+  第一作者 JCR二区2篇，EI论文1篇
+  <br>
+  </div>
+</div>
+
+<div class="bio-container">
   <div class="bio-avatar" >  
   <a href="{{ site.baseurl }}/members/lizhengyong/">
   <img src="{{ site.baseurl }}/images/lizhengyong-92x128.jpg" class="max-img-border">
@@ -271,8 +290,6 @@ permalink: /awards/
   </div>
 </div>
 </div>
-
-
 
 <span style="font-size: 1.0rem; color: #870A40;">**深圳大学优秀研究生奖学金获得者**</span>
 ----------------------------
