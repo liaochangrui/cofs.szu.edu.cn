@@ -420,7 +420,29 @@ permalink: /awards/
 </div>
 </div>
 
-<span style="font-size: 1.0rem; color: #870A40;">**深圳大腾讯奖学金获得者**</span>
+<span style="font-size: 1.0rem; color: #870A40;">**深圳大学松山湖奖学金获得者**</span>
+-----------------------------------
+<div class="sec-container">
+<div class="bio-container">
+  <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/tangjian/">
+  <img src="{{ site.baseurl }}/images/tangjian-92x128.jpg" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/tangjian/">
+  唐剑(2015年度获得)
+  </a>
+  <br>
+  2013级博士生
+  <br>
+  第一作者 JCR二区2篇，EI论文1篇
+  <br>
+  </div>
+</div>
+</div>
+
+<span style="font-size: 1.0rem; color: #870A40;">**深圳大学腾讯奖学金获得者**</span>
 -----------------------------------
 <div class="sec-container">
 
