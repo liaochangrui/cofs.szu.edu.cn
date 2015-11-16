@@ -156,7 +156,6 @@ permalink: /awards/
   <br>
   </div>
 </div>
-</div>
 
 <div class="bio-container">
   <div class="bio-avatar" >  
@@ -293,7 +292,6 @@ permalink: /awards/
   第一作者JCR二区1篇、EI论文1篇、授权专利1项
   <br>
   </div>
-</div>
 </div>
 
 <div class="bio-container">
