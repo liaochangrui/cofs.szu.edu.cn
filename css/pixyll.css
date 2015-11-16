@@ -238,10 +238,10 @@ body {
 
 .site-header nav.site-nav ul li {
   display: inline-block;
-  width: 8.7%;
+  width: 8.6%;
   min-width: 80px;
   max-width: 120px;
-  padding: 5px;
+  padding: 0px;
   margin-right: 5px;
 }
 
