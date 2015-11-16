@@ -6,7 +6,7 @@ permalink: /facilities/laser-1/
 <div class="navbar center third">
 <ul>
     <li><a href="{{ "/facilities" | prepend: site.baseurl }}">加工平台</a></li>
-    <li class="active"><a href="{{ "/laser-1" | prepend: "/facilities" | prepend: site.baseurl }}">测试设备</a></li>
+    <li class="active"><a href="{{ "/laser-1" | prepend: "/facilities" | prepend: site.baseurl }}">测试系统</a></li>
     <li><a href="{{ "/others-1" | prepend: "/facilities" | prepend: site.baseurl }}">其它设备</a></li>
 </ul>
 </div>
@@ -29,13 +29,6 @@ permalink: /facilities/laser-1/
     <img src="{{ site.baseurl }}/images/macxwj.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
     <p style="text-align: center; font-size: 1.0em">
        显微观察系统
-    </p>
-</div>
-
-<div class="wrap oh clearfix" style="float: left; width: 30%" >
-    <img src="{{ site.baseurl }}/images/gxzxqgpt.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
-    <p style="text-align: center; font-size: 1.0em">
-        光纤在线切割平台
     </p>
 </div>
 
@@ -66,16 +59,6 @@ permalink: /facilities/laser-1/
        温度测试系统
     </p>
 </div>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <div class="wrap oh clearfix" style="float: left; width: 30%" >
     <img src="{{ site.baseurl }}/images/wsdsyx.jpg" style="width: 100%; margin: 10px; padding: 10px;" >
