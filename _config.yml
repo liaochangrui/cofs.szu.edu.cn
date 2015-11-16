@@ -20,6 +20,8 @@ navigation:
    url: /members
  - title: 论文专利
    url: /publications
+ - title: 人才培养
+   url: /publications  
  - title: 基金项目
    url: /fundings
  - title: 仪器设备
