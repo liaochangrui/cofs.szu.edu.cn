@@ -90,6 +90,23 @@ permalink: /members/
   </div>
 </div>
 
+<div class="bio-container">
+  <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/wangguanjun/">
+  <img src="{{ site.baseurl }}/images/wangguanjun-92x114.jpg" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/wangguanjun/">
+  王冠军 博士
+  </a>
+  <br/>
+  Tel：  13715327792
+  <br>
+  E-mail:wangguanjun@163.com
+  </div>
+</div>
+
 
 <div class="bio-container">
   <div class="bio-avatar" >
@@ -195,6 +212,38 @@ permalink: /members/
   </div>
 </div>
 
+<div class="bio-container">
+  <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/banjianfeng/">
+  <img src="{{ site.baseurl }}/images/bjf-92x128.png" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/banjianfeng/">
+  班建峰 博士
+  </a>
+  <br>
+  E-mail:banban997@sina.com
+  </div>
+</div>
+
+<div class="bio-container">
+  <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/wutiesheng/">
+  <img src="{{ site.baseurl }}/images/wts-92x128.jpg" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/wutiesheng/">
+  伍铁生 博士
+  </a>
+  <br>
+  Tel：  18378306320
+  <br>
+  E-mail： wts1234567890@163.com
+  </div>
+</div>
+
 </div>
 
 ##  在读博士生
@@ -290,6 +339,22 @@ permalink: /members/
   E-mail：cailingfu@139.com
   </div>
 </div>
+
+<div class="bio-container">
+  <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/houmaoxiang/">
+  <img src="{{ site.baseurl }}/images/hmx-92x128.png" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/houmaoxiang/">
+  侯茂祥*
+  </a>
+  <br>
+  E-mail：d201277029@hust.edu.cn
+  </div>
+</div>
+
 </div>
 
 ## 在读硕士生
