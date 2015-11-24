@@ -5,8 +5,8 @@ permalink: /members/gra-members/
 
 <div class="navbar center forth">
 <ul>
-    <li><a href="{{ "/members" | prepend: site.baseurl }}">小组现有成员</a></li>
-    <li class="active"><a href="{{ "/gra-members" | prepend: "/members" | prepend: site.baseurl }}">优秀毕业成员</a></li>
+    <li><a href="{{ "/members" | prepend: site.baseurl }}">团队成员</a></li>
+    <li class="active"><a href="{{ "/gra-members" | prepend: "/members" | prepend: site.baseurl }}">杰出校友</a></li>
 </ul>
 </div>
 

@@ -5,8 +5,8 @@ permalink: /members/
 
 <div class="navbar center forth">
 <ul>
-    <li class="active"><a href="{{ "/members" | prepend: site.baseurl }}">小组现有成员</a></li>
-    <li><a href="{{ "/gra-members" | prepend: "/members" | prepend: site.baseurl }}">优秀毕业成员</a></li>
+    <li class="active"><a href="{{ "/members" | prepend: site.baseurl }}">团队成员</a></li>
+    <li><a href="{{ "/gra-members" | prepend: "/members" | prepend: site.baseurl }}">杰出校友</a></li>
 </ul>
 </div>
 
@@ -44,7 +44,7 @@ permalink: /members/
   廖常锐 讲师
   </a>
   <br>
-  Tel：  15012911508
+  Tel：  0755-26733319
   <br>
   E-mail： cliao@szu.edu.cn
   </div>
@@ -72,23 +72,6 @@ permalink: /members/
 ## 在站博士后
 
 <div class="sec-container">
-
-<div class="bio-container">
-  <div class="bio-avatar" >
-  <a href="{{ site.baseurl }}/members/wangguanjun/">
-  <img src="{{ site.baseurl }}/images/wangguanjun-92x114.jpg" class="max-img-border"/>
-  </a>
-  </div>
-  <div class="bio-info">
-  <a href="{{ site.baseurl }}/members/wangguanjun/">
-  王冠军 博士
-  </a>
-  <br/>
-  Tel：  13715327792
-  <br>
-  E-mail:wangguanjun@163.com
-  </div>
-</div>
 
 <div class="bio-container">
   <div class="bio-avatar" >
