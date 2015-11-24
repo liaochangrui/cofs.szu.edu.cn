@@ -11,7 +11,7 @@ permalink: /members/yangtianhang/
 姓名：杨天航<br/>
 学历：本科<br/>
 职称：硕士研究生<br/>
-邮箱：741916443@qq.com<br/> 
+邮箱：2150190120@email.szu.edu.cn<br/> 
 联系地址：广东省深圳市南山区南海大道3688深圳大学光电工程学院218室
     
 
