@@ -12,7 +12,7 @@ permalink: /members/
 
 <br>
 
-## 教师
+## 教师(3人)
 
 <div class="sec-container">
 
@@ -69,7 +69,7 @@ permalink: /members/
 
 </div>
 
-## 在站博士后
+## 在站博士后（9人）
 
 <div class="sec-container">
 
@@ -229,7 +229,7 @@ permalink: /members/
 
 </div>
 
-##  在读博士生
+##  在读博士生（7人）
 
 <div class="sec-container">
 
@@ -340,7 +340,7 @@ permalink: /members/
 
 </div>
 
-## 在读硕士生
+## 在读硕士生（11人）
 
 <div class="sec-container">
 
