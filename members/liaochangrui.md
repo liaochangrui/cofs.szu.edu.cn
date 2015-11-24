@@ -8,9 +8,6 @@ permalink: /members/liaochangrui/
 <img class="member-avatar" src="{{ site.baseurl }}/images/liaochangrui-92x128.jpg">
 </a>
 
-**廖常锐**<br/>
-*地址：深圳大学光电工程学院344室*<br/>
-*E-mail:cliao@szu.edu.cn*
 
 ## 学习经历
 
