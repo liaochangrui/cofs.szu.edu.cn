@@ -12,6 +12,7 @@ permalink: /publications/
 </div>
 
 <br>
+
 2015
 -------------------------
 
