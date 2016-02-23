@@ -12,6 +12,7 @@ permalink: /publications/patents/
 </div>
 
 <br>
+
 2015
 -------------------------
 1、 尹国路，王义平，廖常锐，深圳大学。<br>
