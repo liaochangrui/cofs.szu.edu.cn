@@ -109,7 +109,26 @@ img {
   margin-left: 540px;
   width: 400px;
 }
+.page-left-wrapper {
+  float: left;
+  display: block;
+  width: 500px;
+}
 
+.page-left-wrapper p {
+  text-align: center;
+}
+
+.page-left-wrapper img{
+  width: 100%;
+  padding-bottom: 1.0rem;
+}
+
+.page-right {
+  display: block;
+  margin-left: 540px;
+  width: 400px;
+}
 .buttom-links {
   color: #333;
   font-size: 1.2em;
