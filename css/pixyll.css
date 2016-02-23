@@ -109,10 +109,11 @@ img {
   margin-left: 540px;
   width: 400px;
 }
+
 .page-left-wrapper {
   float: left;
   display: block;
-  width: 500px;
+  width: 499px;
 }
 
 .page-left-wrapper p {
@@ -126,8 +127,8 @@ img {
 
 .page-right {
   display: block;
-  margin-left: 540px;
-  width: 400px;
+  margin-left: 539px;
+  width: 399px;
 }
 .buttom-links {
   color: #333;
