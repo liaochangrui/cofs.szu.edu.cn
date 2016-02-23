@@ -20,6 +20,10 @@ permalink: /publications/
    ["Femtosecond-laser-inscribed sampled fiber Bragg grating with ultrahigh thermal stability"]({{ site.baseurl }}/papers/2016-1-Femtosecond-laser-inscribed sampled FBG.pdf)<br> 
    OPTICS EXPRESS, 24(4), 3981-3988, 2016（JCR二区，IF=3.488）
 
+2. Changrui Liao, Qiao Wang, Lei Xu, Shen Liu, Jun He, Jing Zhao, Zhengyong Li, and Yiping Wang<br>
+   ["D-shaped fiber grating refractive index sensor induced by an ultrashort pulse laser"]({{ site.baseurl }}/papers/2016-2-D-shaped fiber grating refractive index sensor induced by an ultrashort pulse laser.pdf)<br> 
+   Applied Optics,55(7), 1525-1529, 2016（JCR三区，IF=1.784）
+
 
 2015
 -------------------------
