@@ -48,4 +48,4 @@ carousel:
 + 2014年9月3日
   [学术报告——Photonic Technologies at Aston Universit]({{ site.baseurl }}/notice/lecture-3.html)
 + 2014年8月25日-8月28日
-  [PIERS 2014 会议在广州举办]({{ site.baseurl }}/notice/tianhang.html)
+  [PIERS 2014 会议在广州举办]({{ site.baseurl }}/notice/piers-in-guangzhou.html)
