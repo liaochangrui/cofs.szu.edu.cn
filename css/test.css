@@ -4,6 +4,22 @@
  Y's test for cofs
 */
 
+body {
+  font-family: "Arial", "SimSun", "PT Serif", "Hiragino Sans GB", "WenQuanYi Micro Hei", serif
+}
+
+html, body {
+  height: 100%;
+  background-repeat: repeat;
+  margin: 0px;
+  padding: 0px;
+  z-index: 1;
+}
+
+img {
+  width: 100%;
+}
+
 .page-content {
  height: 1136px;
  display: block;
