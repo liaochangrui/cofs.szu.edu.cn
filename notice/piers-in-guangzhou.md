@@ -1,6 +1,7 @@
 ---
 layout: page
-title: 本课题组师生参加广州举办的 PIERS 2014 大型国际会议 
+title: 本课题组师生参加广州举办的 PIERS 2014 大型国际会议
+permalink: /notice/piers-in-guangzhou.html
 carousel: 
   - image: piers-in-guangzhou.jpg
 ---

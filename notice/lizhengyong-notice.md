@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 本实验室李正勇的OLpaper入选VJBO
+permalink: /notice/lizhengyong-notice.html
 ---
 
 本重点实验室培养出来的李正勇研究生，以其为第一作者的文章"Ultrasensitive refractive index sensor based on a Mach–Zehnder interferometer created in twin-core fiber"

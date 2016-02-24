@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 深圳物联网光子器件与传感系统重点实验室第一届委员会议圆满结束
+permalink: /notice/meeting.html
 carousel: 
   - image: notice-5.jpg
   - image: notice-2.jpg

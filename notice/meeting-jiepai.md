@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 广东省光纤传感技术粤港联合研究中心揭牌仪式隆重举行
-
+permalink: /notice/meeting-jiepai.html
 carousel: 
   - image: jiepai-1.jpg
   - image: jiepai-2.jpg

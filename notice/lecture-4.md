@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 学术报告——高性能分布式布里渊光纤传感器研究
+permalink: /notice/lecture-4.html
 ---
 
 题目：高性能分布式布里渊光纤传感器研究

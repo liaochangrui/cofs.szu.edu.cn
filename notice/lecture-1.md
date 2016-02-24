@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 学术报告——硅基光子信息处理器件与集成
+permalink: /notice/lecture-1.html
 ---
 
 时间：2014年9月4日（周四）上午9:30

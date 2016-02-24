@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 学术报告——非线性管理超短脉冲光纤激光器
+permalink: /notice/notice-zhangzuxing.html
 carousel: 
   - image: zzx-800x500-1.jpg
   - image: zzx-800x500-2.jpg

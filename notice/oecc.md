@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 本课题组参加OECC 2015国际会议
+permalink: /notice/oecc.html
 carousel: 
   - image: oecc-2.jpg
   - image: wyp-oecc.jpg

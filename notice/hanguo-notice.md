@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 本课题组代表赴韩参加第五届亚太光传感器会议
+permalink: /notice/hanguo-notice.html
 carousel: 
   - image: lcr-apos1.jpg
   - image: liushen-apos.jpg
