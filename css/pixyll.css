@@ -130,6 +130,15 @@ img {
   margin-left: 539px;
   width: 399px;
 }
+
+.slideshow-wrapper {
+  float: left;
+  height:522px;
+  width:400px;
+  position:relative;
+  display:block;
+}
+
 .buttom-links {
   color: #333;
   font-size: 1.2em;
