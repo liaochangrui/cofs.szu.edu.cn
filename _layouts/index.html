@@ -2,8 +2,10 @@
 layout: default
 ---
 <div class="post">
-  <article class="post-content">
-    <div>
+  <div class="post-content">
+    
+    <div class="home-page-promos">
+      
       <div class="index-left-photos" style="height: 400px;">
         <div class="flexslider">
           <ul class="slides" style="font-size: 1.0rem; line-height: 1.0rem;">
@@ -15,23 +17,26 @@ layout: default
           </ul>
         </div>
       </div>
+      
       <div class="index-right-moto-and-news" div align="center" style="height: 400px;"><a href="http://www.ofsc2016.cn/">
         <h2><span style="color: #9C2C5C;font-size: 1.9rem; line-height: 3.4rem;float: center">2016 中国光纤传感学术会议暨产业化论坛</span></h2>
         <h2><img src="/images/ofsc_logo.jpg" style="width: 66%; float: center;"></h2>
         <h2><span style="color: #9C2C5C;font-size: 1.67rem; line-height: 2.3rem;">中国·深圳 <br>2016年4月16日～19日</span></h2>
       </div>
     </div>
-    <div>
+    
+    <div class="page-content">
       <div class="page-left-wrapper">
         {% include newpapers.html %}
       </div>
+      
       <div class="page-right">
         {{ content }}
         <h2 style="color: #4D4DFF;">热点链接</h2>
         {% include links.html %}
       </div>
     </div>
-  </article>
+  </div>
 </div>
 
 <!-- 内容框架 -->
