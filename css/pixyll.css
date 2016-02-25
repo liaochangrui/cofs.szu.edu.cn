@@ -93,7 +93,8 @@ img {
 .page-left-wrapper{
   float: left;
   display: block;
-  width: 500px;
+  width: 650px;
+  position: relative;
 }
 
 .index-left-photos p {
@@ -113,8 +114,14 @@ img {
 
 .page-right {
   display: block;
-  margin-left: 540px;
-  width: 400px;
+  margin-left: 650px;
+  float: left;
+  width: 324px;
+  border-top: 1px ;
+  border-bottom: 1px ;
+  border-left: 1px ;
+  border-right: 1px ;
+  border-radius: 4px;
 }
 
 .buttom-links {
