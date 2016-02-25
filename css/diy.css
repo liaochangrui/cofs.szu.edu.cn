@@ -211,3 +211,44 @@ img {
     background-color: #ededed;
     display: block;
 }
+
+#page-left-Header {
+    width: 634px;
+    height: 16px;
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-top: 2px;
+    background-color: #d8d8d8;
+    border-top: 1px solid #e3e3e3;
+    border-bottom: 1px solid #c9c9c9;
+    border-left: 1px solid #dedede;
+    border-right: 1px solid #dedede;
+    border-radius: 4px;
+    font-size: 14px;
+    color: #585858;
+    font-family: "Myriad Pro";
+    font-weight: 600;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+#page-right-Header1 {
+    width: 318px;
+    height: 16px;
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-top: 2px;
+    background-color: #d8d8d8;
+    border-top: 1px solid #e8e8e8;
+    border-bottom: 1px solid #c4c4c4;
+    border-left: 1px solid #dbdbdb;
+    border-right: 1px solid #dbdbdb;
+    border-radius: 4px;
+    font-size: 14px;
+    color: #585858;
+    font-family: "Myriad Pro";
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
