@@ -27,6 +27,106 @@ img {
   position: relative;
 }
 
+.page-left {
+    width: 640px;
+    height: 1122px;
+    position: relative;
+    overflow: hidden;
+    border-top: 1px solid #e8e8e8;
+    border-bottom: 1px solid #c4c4c4;
+    border-left: 1px solid #dbdbdb;
+    border-right: 1px solid #dbdbdb;
+    border-radius: 4px;
+    background-color: #ededed;
+}
+
+.page-left-Header {
+    width: 634px;
+    height: 16px;
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-top: 2px;
+    background-color: #d8d8d8;
+    border-top: 1px solid #e3e3e3;
+    border-bottom: 1px solid #c9c9c9;
+    border-left: 1px solid #dedede;
+    border-right: 1px solid #dedede;
+    border-radius: 4px;
+    font-size: 14px;
+    color: #585858;
+    font-family: "Myriad Pro";
+    font-weight: 600;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.page-left-container {
+    float: left;
+    width: 306px;
+    height: 350px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 6px;
+    margin-right: 5px;
+    border-top: 1px solid #e8e8e8;
+    border-bottom: 1px solid #c9c9c9;
+    border-left: 1px solid #dedede;
+    border-right: 1px solid #dedede;
+    border-radius: 4px;
+    background-color: #f2f2f2;
+}
+
+.page-left-tittle {
+    width: 284px;
+    height: 35px;
+    padding-top: 5px;
+    margin-top: 5px;
+    margin-left: 13px;
+    margin-right: 13px;
+    font-weight: 600;
+    font-size: 13px;
+    color: #4f4f4f;
+}
+
+.page-left-pic {
+    margin-top: 5px;
+    margin-left: 13px;
+    height: 184px;
+    width: 280px;
+    border: 1px solid #d4d4d4;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.page-left-word {
+    margin-top: 5px;
+    margin-left: 13px;
+    margin-right: 13px;
+    width: 284px;
+    height: 70px;
+    font-size: 13px;
+    line-height: 1.7em;
+    color: #202020;
+    border-bottom: 1px solid #cfcfcf;
+    overflow: hidden;
+}
+
+.page-left-date {
+    margin-top: 11px;
+    margin-left: 13px;
+    margin-right: 103x;
+    width: 284px;
+    height: 30px;
+    text-align: :left;
+    font-size: 13px;
+    color: #636363;
+}
+
+.endFloat {
+    clear: both;
+}
+
 .page-right {
   font-family: "Arial", "Helvetica","WenQuanYi Micro Hei", "sans-serif" ;
   display: block;
