@@ -10,6 +10,17 @@ carousel:
   - image: sghzjl.jpg
   - image: xswyhy.jpg
 ---
+
+   <div id="page-right1">
+    	<div id="page-right-Header1"><span style="font-weight:600;">News</span></div>
+        <div class="page-right1-container">
+        <div class="page-right1-word"><a href="news/latest_news.html" target="_blank"><span style="color:#09F; font-style:normal">May, 24-28, 2015</span> &mdash; <span style="font-weight:600;font-size:13px;color:#4f4f4f; font-style:normal">Bigeng Chen</span> gave a talk "Graphene Coated Optical Microfibers and Nanowires" in International Conference on Nanophotonics (ICNP) in Changchun, China, and received a <span style="color:#ba8a31">Best Student Paper Award</span>.</a></div>
+        
+        <div class="page-right1-word"><a href="news/latest_news.html" target="_blank"><span style="color:#09F; font-style:normal">May, 20-22, 2015</span> &mdash; <span style="font-weight:600;font-size:13px;color:#4f4f4f; font-style:normal">Prof. Limin Tong</span> gave a <span style="color:#ba8a31">plenary talk</span> "Ultrasensitive Microfiber Optical Sensors: Challenges and Opportunities" in Asia Pacific Optical Sensors Conference (APOS) in Jeju, Korea. </a></div>
+        
+       <div class="page-right1-wordEnd"><a href="news/latest_news.html" target="_blank"><span style="color:#09F; font-style:normal">Dec, 4, 2014</span> &mdash; <span style="font-weight:600;font-size:13px;color:#4f4f4f; font-style:normal">Prof. Limin Tong</span> was elected as an <span style="color:#ba8a31">OSA Fellow </span> for his "seminal work in optical nanofibers and significant contributions to nanophotonics."  </a></div>
+        </div>
+
 <h2><a href="http://www.s1979.com/dianshi/first/201505/21144461521.shtml"><span style="color: #4D4DFF;font-size: 1.33rem; line-height: 2.3rem;float: center">>>实验室新闻报道</span></a></h2>
 
 <h2><a href="{{ site.baseurl }}/notice/2014-annual-report-out.pdf"><span style="color: #4D4DFF;font-size: 1.33rem; line-height: 2.3rem;float: center">>>实验室工作汇报</span></a></h2>
