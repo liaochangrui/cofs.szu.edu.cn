@@ -1,20 +1,15 @@
 @charset "UTF-8";
 /*
-
   Pixyll
-
   A simple, beautiful theme for Jekyll that emphasizes content rather than
   aesthetic fluff.
-
   Best served with BASSCSS (http://jxnblk.github.io/basscss)
-
   Crafted with <3 by John Otander (@4lpine) - ©2014 John Otander
   MIT License http://opensource.org/licenses/MIT
-
 */
 
 body {
-  font-family: "Arial", "SimSun", "PT Serif", "Hiragino Sans GB", "WenQuanYi Micro Hei", serif
+  font-family: "Arial", "SimSun", "PT Serif", "Hiragino Sans GB", "WenQuanYi Micro Hei", serif;
 }
 
 html, body {
@@ -110,35 +105,6 @@ img {
   width: 400px;
 }
 
-.page-left-wrapper {
-  float: left;
-  display: block;
-  width: 499px;
-}
-
-.page-left-wrapper p {
-  text-align: center;
-}
-
-.page-left-wrapper img{
-  width: 100%;
-  padding-bottom: 1.0rem;
-}
-
-.page-right {
-  display: block;
-  margin-left: 539px;
-  width: 399px;
-}
-
-.slideshow-wrapper {
-  float: left;
-  height: 400px;
-  width: 500px;
-  position: relative;
-  display: block;
-}
-
 .buttom-links {
   color: #333;
   font-size: 1.2em;
@@ -210,7 +176,7 @@ body {
   font-size: 0.73em;
 }
 .site-header a.secondary b{
-  color: #FFFFFF;
+  color: #4D4DFF;
   opacity: 1;
 }
 .site-header a.banner {
@@ -571,233 +537,4 @@ footer .wrap {
 footer:after {
   content: "";
   display: block;
-}
-
-
-
-.page-content {
-  height: 1136px;
-  display: block;
-}
-
-.page-left-wrapper {
-  float: left;
-  width: 650px;
-  height: 1136px;
-  position: relative;
-}
-
-.page-left {
-    width: 640px;
-    height: 1122px;
-    position: relative;
-    overflow: hidden;
-    border-top: 1px solid #e8e8e8;
-    border-bottom: 1px solid #c4c4c4;
-    border-left: 1px solid #dbdbdb;
-    border-right: 1px solid #dbdbdb;
-    border-radius: 4px;
-    background-color: #ededed;
-} 
-
-.page-left-Header {
-    width: 634px;
-    height: 16px;
-    margin-left: 2px;
-    margin-right: 2px;
-    margin-top: 2px;
-    background-color: #d8d8d8;
-    border-top: 1px solid #e3e3e3;
-    border-bottom: 1px solid #c9c9c9;
-    border-left: 1px solid #dedede;
-    border-right: 1px solid #dedede;
-    border-radius: 4px;
-    font-size: 14px;
-    color: #585858;
-    font-family: "Myriad Pro";
-    font-weight: 600;
-    text-align: center;
-    padding-bottom: 5px;
-    padding-top: 5px;
-}
-
-.page-left-container {
-    float: left;
-    width: 306px;
-    height: 350px;
-    margin-top: 5px;
-    margin-bottom: 5px;
-    margin-left: 6px;
-    margin-right: 5px;
-    border-top: 1px solid #e8e8e8;
-    border-bottom: 1px solid #c9c9c9;
-    border-left: 1px solid #dedede;
-    border-right: 1px solid #dedede;
-    border-radius: 4px;
-    background-color: #f2f2f2;
-}
-
-.endFloat {
-    clear: both;
-}
-
-.page-right1 {
-    float: left;
-    width: 324px;
-    height: 385px;
-    border-top: 1px solid #e8e8e8;
-    border-bottom: 1px solid #c4c4c4;
-    border-left: 1px solid #dbdbdb;
-    border-right: 1px solid #dbdbdb;
-    border-radius: 4px;
-    background-color: #ededed;
-}
-
-.page-right-Header1 {
-    width: 318px;
-    height: 16px;
-    margin-left: 2px;
-    margin-right: 2px;
-    margin-top: 2px;
-    background-color: #d8d8d8;
-    border-top: 1px solid #e8e8e8;
-    border-bottom: 1px solid #c4c4c4;
-    border-left: 1px solid #dbdbdb;
-    border-right: 1px solid #dbdbdb;
-    border-radius: 4px;
-    font-size: 14px;
-    color: #585858;
-    font-family: "Myriad Pro";
-    text-align: center;
-    padding-bottom: 5px;
-    padding-top: 5px;
-}
-
-.page-right1-container {
-    float: left;
-    width: 306px;
-    height: Auto;
-    margin-top: 5px;
-    margin-bottom: 5px;
-    margin-left: 8px;
-    margin-right: 8px;
-    border-top: 1px solid #e8e8e8;
-    border-bottom: 1px solid #c9c9c9;
-    border-left: 1px solid #dedede;
-    border-right: 1px solid #dedede;
-    border-radius: 4px;
-    background-color: #f2f2f2;
-}
-
-.page-right1-word {
-    margin-bottom: 8px;
-    margin-left: 9px;
-    width: 290px;
-    height: auto;
-    font-size: 13px;
-    line-height: 1.7em;
-    color: #202020;
-    border-bottom: 1px solid #cfcfcf;
-    overflow: hidden;
-    text-align: left;
-}
-
-.page-right1-wordEnd {
-    margin-bottom: 8px;
-    margin-left: 9px;
-    width: 290px;
-    height: auto;
-    font-size: 13px;
-    line-height: 1.7em;
-    color: #202020;
-    overflow: hidden;
-    text-align: left;
-}
-
-.page-right {
-    float: left;
-    width: 324px;
-    height: 359px;
-    margin-top: 15px;
-    border-top: 1px solid #e8e8e8;
-    border-bottom: 1px solid #c4c4c4;
-    border-left: 1px solid #dbdbdb;
-    border-right: 1px solid #dbdbdb;
-    border-radius: 4px;
-    background-color: #ededed;
-}
-
-.page-right-Header {
-    width: 318px;
-    height: 16px;
-    margin-left: 2px;
-    margin-right: 2px;
-    margin-top: 2px;
-    margin-bottom: 5px;
-    background-color: #d8d8d8;
-    border-top: 1px solid #e8e8e8;
-    border-bottom: 1px solid #c4c4c4;
-    border-left: 1px solid #dbdbdb;
-    border-right: 1px solid #dbdbdb;
-    border-radius: 4px;
-    font-size: 14px;
-    color: #585858;
-    font-family: "Myriad Pro";
-    text-align: center;
-    padding-bottom: 5px;
-    padding-top: 5px;
-}
-
-.page-right-container {
-    width: 318px;
-    height: 106px;
-    margin-right: 2px;
-    margin-left: 2px;
-}
-
-.page-right2 {
-    float: left;
-    width: 324px;
-    height: 344px;
-    margin-top: 15px;
-    border-top: 1px solid #e8e8e8;
-    border-bottom: 1px solid #c4c4c4;
-    border-left: 1px solid #dbdbdb;
-    border-right: 1px solid #dbdbdb;
-    border-radius: 4px;
-    background-color: #ededed;
-    overflow: hidden;
-}
-
-.page-right-Header2 {
-    width: 318px;
-    height: 16px;
-    margin-left: 2px;
-    margin-right: 2px;
-    margin-top: 2px;
-    margin-bottom: 11px;
-    background-color: #d8d8d8;
-    border-top: 1px solid #e8e8e8;
-    border-bottom: 1px solid #c4c4c4;
-    border-left: 1px solid #dbdbdb;
-    border-right: 1px solid #dbdbdb;
-    border-radius: 4px;
-    font-size: 14px;
-    color: #585858;
-    font-family: "Myriad Pro";
-    text-align: center;
-    padding-bottom: 5px;
-    padding-top: 5px;
-}
-
-.page-right2-container {
-    width: 308px;
-    height: 295px;
-    margin-right: 7px;
-    margin-left: 7px;
-    background-color: #ededed;
-}
-
-.endFloat {
-    clear: both;
 }
