@@ -32,3 +32,68 @@ img {
   margin-left: 650px;
   width: 324px;
 }
+
+.page-right-Header1 {
+    width: 318px;
+    height: 16px;
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-top: 2px;
+    background-color: #d8d8d8;
+    border-top: 1px solid #e8e8e8;
+    border-bottom: 1px solid #c4c4c4;
+    border-left: 1px solid #dbdbdb;
+    border-right: 1px solid #dbdbdb;
+    border-radius: 4px;
+    font-size: 14px;
+    color: #585858;
+    font-family: "Myriad Pro";
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+   
+}
+
+.page-right1-container {
+    float: left;
+    width: 306px;
+    height: Auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 8px;
+    margin-right: 8px;
+    border-top: 1px solid #e8e8e8;
+    border-bottom: 1px solid #c9c9c9;
+    border-left: 1px solid #dedede;
+    border-right: 1px solid #dedede;
+    border-radius: 4px;
+    background-color: #f2f2f2;
+    display: block;
+}
+
+.page-right1-word {
+    margin-bottom: 8px;
+    margin-left: 9px;
+    width: 290px;
+    height: auto;
+    font-size: 13px;
+    line-height: 1.7em;
+    color: #202020;
+    border-bottom: 1px solid #cfcfcf;
+    overflow: hidden;
+    text-align: left;
+    display: block;
+}
+
+.page-right1-wordEnd {
+    margin-bottom: 8px;
+    margin-left: 9px;
+    width: 290px;
+    height: auto;
+    font-size: 13px;
+    line-height: 1.7em;
+    color: #202020;
+    overflow: hidden;
+    text-align: left;
+    display: block;
+}
