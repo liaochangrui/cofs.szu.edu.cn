@@ -1,1 +1,34 @@
+@charset "UTF-8";
+/*
+  diy
+  for COFS
+*/
 
+body {
+  font-family: "Arial", "SimSun", "PT Serif", "Hiragino Sans GB", "WenQuanYi Micro Hei", serif;
+}
+
+html, body {
+  height: 100%;
+  background-repeat: repeat;
+  margin: 0px;
+  padding: 0px;
+  z-index: 1;
+}
+
+img {
+  width: 100%;
+}
+
+.page-left-wrapper {
+  float: left;
+  display: block;
+  width: 650px;
+  position: relative;
+}
+
+.page-right {
+  display: block;
+  margin-left: 650px;
+  width: 324px;
+}
