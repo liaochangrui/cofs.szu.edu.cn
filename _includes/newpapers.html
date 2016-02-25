@@ -1,31 +1,3 @@
-<h2 style="color: #4D4DFF;">研究进展</h2>
-
-{% for paper in site.newpapers %}
-    {% if paper.name %}
-        <a href="{{ paper.doc | prepend: "/papers/" | prepend: site.baseurl }}">
-            <h3 style="text-align: center;"> {{ paper.name }} </h3>
-        </a>
-    {% endif %}
-    <div class="flexslider" style="margin: 0 0 10px;">
-        <ul class="slides">
-            <li>
-                <a href="{{ paper.doc | prepend: "/papers/" | prepend: site.baseurl }}">
-                    <img src="{{ paper.image | prepend: "/images/" | prepend: site.baseurl }}">
-                    {% if paper.title and paper.author %}
-                        <p class="flex-caption">{{ paper.title }}<br/>{{ paper.author }}</p>
-                    {% elsif paper.author and paper.title == null %}
-                        <p class="flex-caption">{{ paper.author }}</p>
-                    {% elsif paper.title and paper. author == null %}
-                        <p class="flex-caption">{{ paper.title }}</p>
-                    {% else %}
-                    {% endif %}
-                </a>
-            </li>
-        </ul>
-    </div>
-{% endfor %}
-
-
 <div id="page-content">
 	<div id="page-left-wrapper">
     	<div id="page-left">
