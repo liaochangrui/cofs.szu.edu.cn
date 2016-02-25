@@ -28,6 +28,7 @@ img {
 }
 
 .page-right {
+  font-family: "Arial", "Helvetica","WenQuanYi Micro Hei", "sans-serif" ;
   display: block;
   margin-left: 650px;
   width: 324px;
