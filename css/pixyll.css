@@ -90,13 +90,6 @@ img {
   width: 500px;
 }
 
-.page-left-wrapper{
-  float: left;
-  display: block;
-  width: 650px;
-  position: relative;
-}
-
 .index-left-photos p {
   text-align: center;
 }
@@ -112,11 +105,6 @@ img {
   width: 400px;
 }
 
-.page-right {
-  display: block;
-  margin-left: 650px;
-  width: 324px;
-}
 
 .buttom-links {
   color: #333;
