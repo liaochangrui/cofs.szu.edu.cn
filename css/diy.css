@@ -20,7 +20,7 @@ img {
   width: 100%;
 }
 
-.page-left-wrapper {
+#page-left-wrapper {
   float: left;
   display: block;
   width: 650px;
