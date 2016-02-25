@@ -11,9 +11,9 @@ carousel:
   - image: xswyhy.jpg
 ---
 
-   <div id="page-right1">
-    	<div id="page-right-Header1"><span style="font-weight:600;">News</span></div>
-        <div class="page-right1-container">
+<div id="page-right1">
+  <div id="page-right-Header1"><span style="font-weight:600;">News</span></div>
+    <div class="page-right1-container">
         <div class="page-right1-word"><a href="news/latest_news.html" target="_blank"><span style="color:#09F; font-style:normal">May, 24-28, 2015</span> &mdash; <span style="font-weight:600;font-size:13px;color:#4f4f4f; font-style:normal">Bigeng Chen</span> gave a talk "Graphene Coated Optical Microfibers and Nanowires" in International Conference on Nanophotonics (ICNP) in Changchun, China, and received a <span style="color:#ba8a31">Best Student Paper Award</span>.</a></div>
         
         <div class="page-right1-word"><a href="news/latest_news.html" target="_blank"><span style="color:#09F; font-style:normal">May, 20-22, 2015</span> &mdash; <span style="font-weight:600;font-size:13px;color:#4f4f4f; font-style:normal">Prof. Limin Tong</span> gave a <span style="color:#ba8a31">plenary talk</span> "Ultrasensitive Microfiber Optical Sensors: Challenges and Opportunities" in Asia Pacific Optical Sensors Conference (APOS) in Jeju, Korea. </a></div>
