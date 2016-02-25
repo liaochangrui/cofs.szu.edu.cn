@@ -16,9 +16,9 @@ carousel:
     <div class="page-right1-container">
 
 <div class="page-right1-word">
-  <span style="color:#ba8a31"> 王义平教授获2015年度国家杰出青年科学基金<a href="notice/yipingwang.html>
-({{ site.baseurl }}/notice/yipingwang.html)
-  </span> 
+  <a href="notice/yipingwang.html">
+  <span style="color:#ba8a31"> 王义平教授获2015年度国家杰出青年科学基金 </span> 
+  </a>
   </div>
         
         <div class="page-right1-word"><a href="news/latest_news.html" target="_blank"><span style="color:#09F; font-style:normal">May, 20-22, 2015</span> &mdash; <span style="font-weight:600;font-size:13px;color:#4f4f4f; font-style:normal">Prof. Limin Tong</span> gave a <span style="color:#ba8a31">plenary talk</span> "Ultrasensitive Microfiber Optical Sensors: Challenges and Opportunities" in Asia Pacific Optical Sensors Conference (APOS) in Jeju, Korea. </a></div>
