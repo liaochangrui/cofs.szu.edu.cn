@@ -111,6 +111,12 @@ img {
   width: 400px;
 }
 
+.page-right{
+  display: block;
+  margin-left: 540px;
+  width: 400px;
+}
+
 .buttom-links {
   color: #333;
   font-size: 1.2em;
