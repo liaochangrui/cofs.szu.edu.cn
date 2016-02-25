@@ -15,8 +15,8 @@ carousel:
   <div id="page-right-Header1"><span style="font-weight:600;">最新动态</span></div>
     <div class="page-right1-container">
 
-<div class="page-right1-word"><a href="news/latest_news.html" target="_blank"><span style="color:#09F; font-style:normal">
-  <span style="color:#ba8a31"> 王义平教授获2015年度国家杰出青年科学基金
+<div class="page-right1-word">
+  <span style="color:#ba8a31"> 王义平教授获2015年度国家杰出青年科学基金({{ site.baseurl }}/notice/yipingwang.html)
   </span> 
   </div>
         
