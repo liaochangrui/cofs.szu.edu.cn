@@ -103,3 +103,9 @@ carousel:
     <span style="font-weight:600;font-size:16px;color:#4f4f4f; font-style:normal">学术报告</span>——高性能分布式布里渊光纤传感器研究		
   </a>		
   </div>
+
+ <div id="page-right-Header2">
+    <span style="font-weight:600;">
+      学术动态
+    </span>
+  </div>
