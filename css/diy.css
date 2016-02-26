@@ -131,7 +131,6 @@ img {
     text-align: center;
     padding-bottom: 5px;
     padding-top: 5px;
-   
 }
 
 .page-right1-container {
@@ -204,6 +203,22 @@ img {
 }
 
 #page-right-Header1 {
+    width: 320px;
+    height: 18px;
+    background-color: #FFFFFF;
+    border-top: 1px solid #962254;
+    border-bottom: 1px solid #962254;
+    border-left: 1px solid #962254;
+    border-right: 1px solid #962254;
+    font-size: 14px;
+    color: #962254;
+    font-family: "Myriad Pro";
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+#page-right-Header2 {
     width: 320px;
     height: 18px;
     background-color: #FFFFFF;
