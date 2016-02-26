@@ -12,12 +12,11 @@ carousel:
 ---
 
 <div id="page-right1">
-  <div id="page-right-Header1">
-  <span style="font-weight:600;">
-  <a href="{{ site.baseurl }}/more/"><span style="color: #ba8a31;">学术动态</a></span></div>
-    <div class="page-right1-container">
-
-  <div class="page-right1-word">
+ <div id="page-right-Header1"><span style="font-weight:600;">
+ <a href="{{ site.baseurl }}/more/">学术动态</a></span></div>
+ 
+  <div class="page-right1-container">
+    <div class="page-right1-word">
     <a href="notice/yipingwang.html">
     <span style="color:#ba8a31"> 王义平教授获2015年度国家杰出青年科学基金 
     </span> 
