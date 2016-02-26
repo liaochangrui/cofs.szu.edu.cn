@@ -23,6 +23,14 @@ carousel:
   </div>
   
     <div class="page-right1-word">
+    <a href="notice/2014-annual-report-out.pdf">
+    <span style="color:#ba8a31"> 实验室工作汇报 
+    </span> 
+    </a>
+  </div>
+  
+  
+    <div class="page-right1-word">
       <a href="notice/meeting-jiepai.html">
       <span style="color:#09F; font-style:normal">2015年10月13日</span> &mdash;
       <span style="color:#ba8a31">广东省光纤传感技术粤港联合研究中心</span> 揭牌仪式隆重举行 
@@ -52,7 +60,17 @@ carousel:
       <span style="color:#ba8a31">OECC 2015国际会议</span>
       </a>
     </div>
-    
+
+
+   <div class="page-right1-word">
+      <a href="http://www.s1979.com/dianshi/first/201505/21144461521.shtml">
+      <span style="color:#09F; font-style:normal">2015年5月21日</span>
+      <span style="font-weight:600;font-size:13px;color:#4f4f4f; font-style:normal">王义平教授团队</span>
+      被深圳都市电视台报道 
+      </a>
+      </div>
+
+
     <div class="page-right1-word">
       <a href="news/latest_news.html">
       <span style="color:#09F; font-style:normal">2015年5月19日-5月22日</span> &mdash; 
@@ -168,12 +186,8 @@ carousel:
       </span>
       </a>
     </div>
-    
-        
-      <div class="page-right1-word"><a href="http://www.s1979.com/dianshi/first/201505/21144461521.shtml"><span style="color:#09F; font-style:normal">2015年5月21日</span> &mdash; <span style="font-weight:600;font-size:13px;color:#4f4f4f; font-style:normal">王义平教授团队</span> 被深圳都市电视台报道 </a></div>
+  
 
-<h2><a href="http://www.s1979.com/dianshi/first/201505/21144461521.shtml"><span style="color: #4D4DFF;font-size: 1.33rem; line-height: 2.3rem;float: center">>>实验室新闻报道</span></a></h2>
 
-<h2><a href="{{ site.baseurl }}/notice/2014-annual-report-out.pdf"><span style="color: #4D4DFF;font-size: 1.33rem; line-height: 2.3rem;float: center">>>实验室工作汇报</span></a></h2>
 
 <h2 style="color: #4D4DFF;">>>学术动态 <a href="{{ site.baseurl }}/more/"><span style="font-size: 1.0rem; color: #4D4DFF;">(更多)</span></a></h2>
