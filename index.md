@@ -108,20 +108,49 @@ carousel:
 
  <div id="page-right-Header2">
     <span style="font-weight:600;">
-      学术动态
+      友情链接
     </span>
   </div>
 
+
 <div class="page-right1-word">		
-  <a href="news/latest_news.html">		
-    <span style="color:#09F; font-style:normal">2014年12月5日</span> 		
-    <span style="font-weight:600;font-size:16px;color:#4f4f4f; font-style:normal">学术报告</span>——高性能分布式布里渊光纤传感器研究		
+  <a href="http://www.szu.edu.cn">
+    <span style="color:#000000;font-size:16px; font-style:normal">深圳大学
+    </span> 	
   </a>		
-  </div>
+</div>
+
+<div class="page-right1-word">		
+  <a href="http://opto.szu.edu.cn">
+    <span style="color:#000000;font-size:16px; font-style:normal">深圳大学光电工程学院
+    </span> 	
+  </a>		
+</div>
   
-  <div class="page-right1-word">		
-  <a href="news/latest_news.html">		
-    <span style="color:#09F; font-style:normal">2014年12月5日</span> 		
-    <span style="font-weight:600;font-size:16px;color:#4f4f4f; font-style:normal">学术报告</span>——高性能分布式布里渊光纤传感器研究		
+<div class="page-right1-word">		
+  <a href="http://www.orc.soton.ac.uk/">
+    <span style="color:#000000;font-size:16px; font-style:normal">英国南安普顿大学光电研究中心
+    </span> 	
   </a>		
-  </div>
+</div>
+
+<div class="page-right1-word">		
+  <a href="http://www.polyu.edu.hk/">
+    <span style="color:#000000;font-size:16px; font-style:normal">香港理工大学
+    </span> 	
+  </a>		
+</div>
+
+<div class="page-right1-word">		
+  <a href="http://www.nsfc.gov.cn/">
+    <span style="color:#000000;font-size:16px; font-style:normal">国家自然科学基金委
+    </span> 	
+  </a>		
+</div>
+
+<div class="page-right1-word">		
+  <a href="http://www.szsti.gov.cn/">
+    <span style="color:#000000;font-size:16px; font-style:normal">深圳市科技创新委员
+    </span> 	
+  </a>		
+</div>
