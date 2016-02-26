@@ -27,7 +27,7 @@ img {
   position: relative;
 }
 
-.page-left {
+#page-left {
     width: 640px;
     height: 1122px;
     position: relative;
