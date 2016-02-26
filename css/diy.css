@@ -42,12 +42,12 @@ img {
 
 .page-left-container {
     float: left;
-    width: 306px;
+    width: 318px;
     height: 350px;
-    margin-top: 5px;
-    margin-bottom: 5px;
-    margin-left: 6px;
-    margin-right: 5px;
+    /* margin-top: 5px; */
+    /* margin-bottom: 5px; */
+    /* margin-left: 6px; */
+    /* margin-right: 5px; */
     border-top: 1px solid #e8e8e8;
     border-bottom: 1px solid #c9c9c9;
     border-left: 1px solid #dedede;
