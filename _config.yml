@@ -63,7 +63,13 @@ newpapers:
    image: sb-ieee.png
  
 # Build settings
-markdown: redcarpet  #kramdown
+markdown: kramdown  #kramdown
+kramdown:
+  auto_ids: true
+  input: GFM
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  use_coderay: false
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 

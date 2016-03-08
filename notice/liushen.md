@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 刘申博士在Scientific Reports上发表学术论文
+permalink: /notice/liushen.html
 ---
 
 近日，本课题组刘申博士在Nature出版集团期刊SCIENTIFIC REPORTS （影响因子：5.078）上发表了题为《High-sensitivity strain sensor based on in-fiber rectangular air bubble》的学术论文（SCIENTIFIC REPORTS | 5 : 7624 | DOI: 10.1038/srep07624）。深圳大学是独立完成单位，在读博士刘申为第一作者，硕士杨凯明为同等贡献作者，王义平教授为通讯作者。<br>

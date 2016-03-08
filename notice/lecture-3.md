@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 学术报告——Photonic Technologies at Aston Universit
+permalink: /notice/lecture-3.html
 ---
 
 时间：2014年9月3日（周三） 下午14:30

@@ -12,69 +12,95 @@ permalink: /publications/
 </div>
 
 <br>
+
+2016
+-------------------------
+
+1. Congzhe Zhang, Yuanhong Yang, Chao Wang, Changrui Liao, and Yiping Wang<br>
+   ["Femtosecond-laser-inscribed sampled fiber Bragg grating with ultrahigh thermal stability"]({{ site.baseurl }}/papers/2016-1-Femtosecond-laser-inscribed sampled FBG.pdf)<br> 
+   OPTICS EXPRESS, 24(4), 3981-3988, 2016（JCR二区，IF=3.488）
+
+2. Changrui Liao, Qiao Wang, Lei Xu, Shen Liu, Jun He, Jing Zhao, Zhengyong Li, and Yiping Wang<br>
+   ["D-shaped fiber grating refractive index sensor induced by an ultrashort pulse laser"]({{ site.baseurl }}/papers/2016-2-D-shaped fiber grating refractive index sensor induced by an ultrashort pulse laser.pdf)<br> 
+   Applied Optics,55(7), 1525-1529, 2016（JCR三区，IF=1.784）
+
+
 2015
 -------------------------
 
 1. Shen Liu*, Kaiming Yang*, Yiping Wang, Junle Qu, Changrui Liao, Jun He, Zhengyong Li, Guolu Yin, Bing Sun, Jiangtao Zhou, Guanjun Wang, Jian Tang & Jing Zhao<br> 
     ["High-sensitivity strain sensor based on in-fiber rectangular air bubble"]({{ site.baseurl }}/papers/2015-High-sensitivity strain sensor based on in-fiber rectangular air bubble.pdf)<br> 
-   SCIENTIFICREPORTS| 5 : 7624 | DOI: 10.1038/srep07624-1-7(JCR二区, IF=5.078)
+   SCIENTIFICREPORTS| 5:7624 | DOI: 10.1038/srep07624-1-7(JCR二区, IF=5.078)
 
 2. Xiaoyong Zhong, Yiping Wang,* Changrui Liao, Shen Liu, Jian Tang, and Qiao Wang<br>
    ["Temperature-insensitivity gas pressure sensor based on inflated long period fiber grating inscribed in photonic crystal fiber"]({{ site.baseurl }}/papers/zxy-2015Temperature-insensitivity gas pressure sensor based.pdf)<br> 
    OPTICS LETTERS, 40(8),1791-1794, 2015（JCR二区，IF=3.179）
 
-2. Jun He,Yiping Wang* Changrui Liao,Qiaoni Wang,Kaiming Yang,Bing Sun,Guolu Yin,Shen Liu,Jiangtao Zhou,and Jing Zhao<br>
+3. Jun He,Yiping Wang* Changrui Liao,Qiaoni Wang,Kaiming Yang,Bing Sun,Guolu Yin,Shen Liu,Jiangtao Zhou,and Jing Zhao<br>
     ["Highly birefringent phase-shifted fiber Bragg gratings inscribed with femtosecond laser"]({{ site.baseurl }}/papers/hj-2015-Highly birefringent phase-shifted fiber Bragg gratings inscribed with femtosecond laser 2015 (ol-40-9-2008).pdf)<br> 
   OPTICS LETTERS 40（9）2008-2011 2015(JCR二区，IF=3.179)
 
-2. Bing Sun, Yijian Huang, Shen Liu, Chao Wang, Jun He, Changrui Liao, Guolu Yin, Jing Zhao, Yinjie Liu, Jian Tang, Jiangtao Zhou, and Yiping Wang<br>
+4. Bing Sun, Yijian Huang, Shen Liu, Chao Wang, Jun He, Changrui Liao, Guolu Yin, Jing Zhao, Yinjie Liu, Jian Tang, Jiangtao Zhou, and Yiping Wang<br>
     ["Asymmetrical in-fiber Mach-Zehnder interferometer for curvature measurement"]({{ site.baseurl }}/papers/2015_OE_Asymmetrical in-fiber Mach-Zehnder interferometer for curvature measurement.pdf)<br> 
    OPTICS EXPRESS，23（11）14596-14602 2015 (JCR二区，IF=3.528)  
 
-3. Bing Sun, Yiping Wang, Junle Qu1, Changrui Liao, Guolu Yin, Jun He, Jiangtao Zhou, Jian Tang, Shen Liu, Zhengyong Li and Yingjie Liu<br> 
+5. Bing Sun, Yiping Wang, Junle Qu1, Changrui Liao, Guolu Yin, Jun He, Jiangtao Zhou, Jian Tang, Shen Liu, Zhengyong Li and Yingjie Liu<br> 
     ["Simultaneous measurement of pressure and temperature by employing Fabry-Perot interferometer based on pendant polymer droplet"]({{ site.baseurl }}/papers/Simultaneous measurement of pressure and temperature by employing Fabry-Perot interferometer based on pendant polymer droplet.pdf)<br> 
   Optics Express, 23(3): 1906-1911, 2015 (JCR二区，IF=3.528)
 
-2. Zhengyong Li, Changrui Liao, Yiping Wang, Lei Xu, Dongning Wang, Xiaopeng Dong, Shen Liu, Qiao Wang, Kaiming Yang, and Jiangtao Zhou<br> 
+6. Zhengyong Li, Changrui Liao, Yiping Wang, Lei Xu, Dongning Wang, Xiaopeng Dong, Shen Liu, Qiao Wang, Kaiming Yang, and Jiangtao Zhou<br> 
     ["Highly-sensitive gas pressure sensor using twincore fiber based in-line Mach-Zehnder 
 interferometer"]({{ site.baseurl }}/papers/zhengyongli-Highly-sensitive gas pressure sensor using twincore.pdf)<br> 
    OPTICS EXPRESS, 23(5)6673-6678 2015 (JCR二区，IF=3.528)
 
-4. Jiangtao Zhou, Yiping Wang∗, Changrui Liao, Bing Sun, Jun He, Guolu Yin, Shen Liu,Zhengyong Li, Guanjun Wang, Xiaoyong Zhong, Jing Zhao<br>
+7. Jiangtao Zhou, Yiping Wang∗, Changrui Liao, Bing Sun, Jun He, Guolu Yin, Shen Liu,Zhengyong Li, Guanjun Wang, Xiaoyong Zhong, Jing Zhao<br>
     ["Intensity modulated refractive index sensor based on optical fiberMichelson interferometer"]({{ site.baseurl }}/papers/zjt-2015-Intensity modulated refractive index sensor based on optical fiber Michelson interferometer.pdf)<br>
    Sensors and Actuators B 208 (2015) 315–319 [7]（JCR一区，IF=3.840)
 
-1. Jun He, Changrui Liao, Kaiming Yang, Shen Liu, Guolu Yin, Bing Sun, Jiangtao Zhou, Jing Zhao, and Yiping Wang*<br>
+8. Jun He, Changrui Liao, Kaiming Yang, Shen Liu, Guolu Yin, Bing Sun, Jiangtao Zhou, Jing Zhao, and Yiping Wang*<br>
     [ "High-sensitivity temperature sensor based on a coated single-mode fiber loop"]({{ site.baseurl }}/papers/2015-hj-jlt-33-19-4019.pdf)<br> 
  J. Lightwave Technol., 33(19), 4019-4026, 2015. (JCR二区，IF: 2.965). (JCR二区, IF: 2.965).
 
-4. Guolu Yin, Yiping Wang,Senior Member, IEEE, Changrui Liao, Bing Sun, Yingjie Liu, Shen Liu, Qiao Wang, Kaiming Yang, Jian Tang, and Xiaoyong Zhong<br>
+9. Guolu Yin, Yiping Wang,Senior Member, IEEE, Changrui Liao, Bing Sun, Yingjie Liu, Shen Liu, Qiao Wang, Kaiming Yang, Jian Tang, and Xiaoyong Zhong<br>
     ["Simultaneous Refractive Index and Temperature Measurement With LPFG and Liquid-Filled PCF"]({{ site.baseurl }}/papers/ygl-2015-Simultaneous Refractive Index and Temperature Measurement with LPFG and Liquid-Filled PCF1.pdf)<br> 
   IEEE PHOTONICS TECHNOLOGY LETTERS,27(4), 375-378, 2015 (JCR二区，IF=2.176)
 
-5. Jing Zhao, Guolu Yin, Changrui Liao, Shen Liu, Jun He, Bing Sun, Guanjun Wang, Xizheng Xu, and Yiping Wang<br>
+10. Jing Zhao, Guolu Yin, Changrui Liao, Shen Liu, Jun He, Bing Sun, Guanjun Wang, Xizheng Xu, and Yiping Wang<br>
    ["Rough side-polished fiber with surface scratches for sensing applications"]({{ site.baseurl }}/papers/2015-zj-pj-Rough Side-Polished Fiber With Surface.pdf)<br>
    IEEE Photonics Journal , 7（3），2015，6801107 (JCR二区，IF=2.330)
 
-1. Bing Sun,Yijian Huang,Dan Luo,Chao Wang,Jun He,Changrui Liao,Guolu Yin,Jiangtao Zhou,Shen Liu,Jing Zhao,and Yiping Wang<br> 
+11. Bing Sun,Yijian Huang,Dan Luo,Chao Wang,Jun He,Changrui Liao,Guolu Yin,Jiangtao Zhou,Shen Liu,Jing Zhao,and Yiping Wang<br> 
      ["Broadband Thermo-Optic Switching Effect Based on Liquid Crystal Infiltrated Photonic Crystal Fibers"]({{ site.baseurl }}/papers/sb-ieee-2015-Broadband Thermo-Optic Switching Effect Based on Liquid Crystal Infiltrated Photonic Crystal Fibers.pdf)<br>
    IEEE Photonics Journal, 7(4)，2015，6802207 [11](JCR 二区，IF=2.330)
 
-1. Jian Tang, Guolu Yin, Shen Liu, Xiaoyong Zhong, Changrui Liao, Zhengyong Li, Qiao Wang, Jing Zhao, Kaiming Yang, and Yiping Wang<br> 
+12. Jian Tang, Guolu Yin, Shen Liu, Xiaoyong Zhong, Changrui Liao, Zhengyong Li, Qiao Wang, Jing Zhao, Kaiming Yang, and Yiping Wang<br> 
      ["Gas pressure sensor based on CO2-laser-induced long-period fiber grating in air-core photonic bandgap fiber"]({{ site.baseurl }}/papers/2015-12-PJ-Gas Pressure Sensor Based on CO 2-Laser-Induced Long-Period Fiber Grating in Air-Core Photonic Bandgap Fiber.pdf)<br>
    [12]7(5), 6803107, 2015. (JCR二区, IF: 2.209).
   
-1. Jian Tang, Guolu Yin, Changrui Liao, Shen Liu, Zhengyong Li, Xiaoyong Zhong, Qiao Wang, Jing Zhao, Kaiming Yang, and Yiping Wang<br>
+13. Jian Tang, Guolu Yin, Changrui Liao, Shen Liu, Zhengyong Li, Xiaoyong Zhong, Qiao Wang, Jing Zhao, Kaiming Yang, and Yiping Wang<br>
      "High-sensitivity gas pressure sensor based on Fabry-Perot interferometer with a side opened channel in hollow-core photonic bandgap fiber"<br>
    IEEE Photonics Journal 7(6), 2015. (In Press, JCR二区, IF: 2.209).
 
-5. Guanjun Wang, Chao Wang, Shen Liu, Jing Zhao, Changrui Liao, Xizhen Xu, Haijian Liang, Guolu Yin, and Yiping Wang<br>
+14. Guanjun Wang, Chao Wang, Shen Liu, Jing Zhao, Changrui Liao, Xizhen Xu, Haijian Liang, Guolu Yin, and Yiping Wang<br>
    ["Side-Opened Suspended Core Fiber-Based Surface Plasmon Resonance Sensor"]({{ site.baseurl }}/papers/wgj-Side-opened suspended core fiber-based surface Plasmon resonance sensor .pdf)<br>
    IEEE SENSORS JOURNAL, 15(7)，2015 4096-4092<br> (JCR三区，IF=1.678)
 
-1. Bing Sun, Yiping Wang*, Yingjie Liu, Shen Liu, Changrui Liao, and Ming-Yang Chen<br>
+15. Bing Sun, Yiping Wang*, Yingjie Liu, Shen Liu, Changrui Liao, and Ming-Yang Chen<br>
    "Compact device employed a hybrid plasmonic waveguide for polarization-selective splitting"<br>
    Optics Communications, 334, 240-246, 2015(JCR三区，IF=1.438)
+
+16. Cailing Fu, Xiaoyong Zhong, Changrui Liao, Yiping Wang, Ying Wang, Jian Tang, Liu Shen, and Qiao Wang<br>
+   ["Thin-Core-Fiber-Based Long-Period Fiber Grating for High-Sensitivity Refractive Index Measurement"]({{ site.baseurl }}/papers/2015-16-Thin-Core-Fiber-Based Long-Period Fiber Grating for High-Sensitivity Refractive Index Measurement.pdf)<br> 
+   IEEE Photonics Journal, 7(6), 2015.（JCR二区，IF=2.209）
+
+17. Kaiming Yang, Jun He, Ying Wang, Shen Liu, Changrui Liao, Zhengyong Li, Guolu Yin, Bing Sun, and Yiping Wang<br>
+   ["Ultrasensitive Temperature Sensor Based on a Fiber Fabry–Pérot Interferometer Created in a Mercury-Filled Silica Tube"]({{ site.baseurl }}/papers/2015-17-Ultrasensitive Temperature Sensor Based on a Fiber Fabry–Pérot Interferometer Created in a Mercury-Filled Silica Tube.pdf)<br> 
+   IEEE Photonics Journal, 7(6), 2015.（JCR二区，IF=2.209）
+
+
+18. Xizhen Xu, Jian Tang, Jing Zhao, Kaiming Yang, Cailing Fu, Qiao Wang, Shen Liu, Changrui Liao, Jiarong Lian, and Yiping Wang<br>
+   ["Post-treatment techniques for enhancing mode-coupling in long period fiber gratings induced by CO2 laser"]({{ site.baseurl }}/papers/2015-18-Post-treatment techniques for enhancing mode-coupling in long period fiber gratings induced by CO2 laser.pdf)<br> 
+   Photonic Sensors, 5(4),339-344, 2015.
 
 2014
 -------------------------

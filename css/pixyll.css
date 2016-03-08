@@ -1,20 +1,15 @@
 @charset "UTF-8";
 /*
-
   Pixyll
-
   A simple, beautiful theme for Jekyll that emphasizes content rather than
   aesthetic fluff.
-
   Best served with BASSCSS (http://jxnblk.github.io/basscss)
-
   Crafted with <3 by John Otander (@4lpine) - ©2014 John Otander
   MIT License http://opensource.org/licenses/MIT
-
 */
 
 body {
-  font-family: "Times New Roman", "SimSun", "PT Serif", "Hiragino Sans GB", "WenQuanYi Micro Hei", serif;
+  font-family: "Arial", "SimSun", "PT Serif", "Hiragino Sans GB", "WenQuanYi Micro Hei", serif;
 }
 
 html, body {
@@ -110,6 +105,7 @@ img {
   width: 400px;
 }
 
+
 .buttom-links {
   color: #333;
   font-size: 1.2em;
@@ -181,7 +177,7 @@ body {
   font-size: 0.73em;
 }
 .site-header a.secondary b{
-  color: #4D4DFF;
+  color: #FFFFFF;
   opacity: 1;
 }
 .site-header a.banner {

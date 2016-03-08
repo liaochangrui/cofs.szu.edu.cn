@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 学术报告——Development of Polymer Optical Waveguide
+permalink: /notice/lecture-5.html
 ---
 
 题目：Development of Polymer Optical Waveguide Devices

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 学术报告——面向宽带应用的新型光纤研究
+permalink: /notice/notice-penggangding.html
 carousel: 
   - image: notice-penggangding.jpg
 ---
