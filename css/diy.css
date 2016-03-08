@@ -178,10 +178,10 @@ img {
     display: block;
 }
 
-.page-right1 {
+#page-right1 {
     float: left;
     width: 324px;
-    height: 385px;
+    height: 900px;
     border-top: 1px solid #e8e8e8;
     border-bottom: 1px solid #c4c4c4;
     border-left: 1px solid #dbdbdb;
