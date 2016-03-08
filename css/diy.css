@@ -20,6 +20,11 @@ img {
   width: 100%;
 }
 
+#page-content {
+  width:980px;
+  height: 1136px;
+}
+
 #page-left-wrapper {
   float: left;
   display: block;
