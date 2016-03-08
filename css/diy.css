@@ -234,3 +234,39 @@ img {
     padding-top: 5px;
 }
 
+#page-right2 {
+  float: left;
+  width: 324px;
+  height: 359px;
+  margin-top: 15px;
+  border-top: 1px solid #e8e8e8;
+  border-bottom: 1px solid #c4c4c4;
+  border-left: 1px solid #dbdbdb;
+  border-right: 1px solid #dbdbdb;
+  border-radius: 4px;
+  background-color: #ededed;
+}
+
+#page-right-Header2 {
+  width: 318px;
+  height: 16px;
+  margin-left: 2px;
+  margin-right: 2px;
+  margin-top: 2px;
+  margin-bottom: 11px;
+  background-color: #d8d8d8;
+  border-top: 1px solid #e8e8e8;
+  border-bottom: 1px solid #c4c4c4;
+  border-left: 1px solid #dbdbdb;
+  border-right: 1px solid #dbdbdb;
+  border-radius: 4px;
+  font-size: 14px;
+  color: #585858;
+  font-family: "Myriad Pro";
+  text-align: center;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+
+
+
