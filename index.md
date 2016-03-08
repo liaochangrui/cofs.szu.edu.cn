@@ -98,8 +98,8 @@ carousel:
     </div>
 
 
-
- <div id="page-right-Header2">
+<div id="page-right">
+<div id="page-right-Header2">
     <span style="font-weight:600;">
       友情链接
     </span>
@@ -146,4 +146,5 @@ carousel:
     <span style="color:#000000;font-size:16px; font-style:normal">深圳市科技创新委员
     </span> 	
   </a>		
+</div>
 </div>
