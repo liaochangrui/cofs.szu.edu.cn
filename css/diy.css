@@ -182,12 +182,12 @@ img {
     float: left;
     width: 324px;
     height: 780px;
-    border-top: 1px solid #e8e8e8;
-    border-bottom: 1px solid #c4c4c4;
-    border-left: 1px solid #dbdbdb;
-    border-right: 1px solid #dbdbdb;
+    border-top: 1px solid #FFFFFF;
+    border-bottom: 1px solid #FFFFFF;
+    border-left: 1px solid #FFFFFF;
+    border-right: 1px solid #FFFFFF;
     border-radius: 4px;
-    background-color: #ededed;
+    background-color: #FFFFFF;
     display: block;
 }
 
