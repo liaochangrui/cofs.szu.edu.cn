@@ -89,7 +89,7 @@ carousel:
     </div>
 
 
-    <div class="page-right1-word">
+    <div class="page-right1-wordEnd">
       <a href="news/latest_news.html">
       <span style="color:#09F; font-style:normal">2015年1月13日</span> 
       <span style="font-weight:600;font-size:16px;color:#4f4f4f; font-style:normal">刘申博士</span>在
