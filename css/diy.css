@@ -237,14 +237,14 @@ img {
 
 #page-right2 {
   float: left;
-  width: 324px;
-  height: 359px;
+  width: 322px;
+  /* height: 359px; */
   margin-top: 15px;
-  border-top: 1px solid #e8e8e8;
-  border-bottom: 1px solid #c4c4c4;
-  border-left: 1px solid #dbdbdb;
-  border-right: 1px solid #dbdbdb;
-  border-radius: 4px;
+  border-top: 1px solid #962254;
+  border-bottom: 1px solid #962254;
+  border-left: 1px solid #962254;
+  border-right: 1px solid #962254;
+  /* border-radius: 4px; */
   background-color: #ededed;
 }
 
