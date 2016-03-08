@@ -98,7 +98,6 @@ carousel:
     </div>
   </div>
 </div>
-</div>
     
 
 
