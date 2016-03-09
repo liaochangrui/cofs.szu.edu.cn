@@ -13,9 +13,9 @@ permalink: /members/liaochangrui/
 
 **地址：深圳大学光电工程学院344室**<br/>
 **电话：（0755）2673 3319**<br/>
-**E-mail: cliao@szu.edu.cn** <br/>
+<a href="cliao@szu.edu.cn">**E-mail: cliao@szu.edu.cn** </a><br/>
 
-**Researcher ID: http://www.researcherid.com/rid/D-6557-2016**<br/>
+<a href="http://www.researcherid.com/rid/D-6557-2016">**Researcher ID: http://www.researcherid.com/rid/D-6557-2016**</a><br/>
 
 
 
