@@ -5,8 +5,9 @@
 */
 
 body {
-  font-family: "Arial", "SimSun", "PT Serif", "Hiragino Sans GB", "WenQuanYi Micro Hei", serif;
+  font-family: "Tahoma","Arial","Helvetica","STHeiti","Hiragino Sans GB","Microsoft Yahei","微软雅黑","宋体",sans-serif;
 }
+
 
 html, body {
   height: 100%;
