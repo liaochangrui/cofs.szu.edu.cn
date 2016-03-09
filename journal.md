@@ -78,8 +78,9 @@ interferometer"]({{ site.baseurl }}/papers/zhengyongli-Highly-sensitive gas pres
    [12]7(5), 6803107, 2015. (JCR二区, IF: 2.209).
   
 13. Jian Tang, Guolu Yin, Changrui Liao, Shen Liu, Zhengyong Li, Xiaoyong Zhong, Qiao Wang, Jing Zhao, Kaiming Yang, and Yiping Wang<br>
-     "High-sensitivity gas pressure sensor based on Fabry-Perot interferometer with a side opened channel in hollow-core photonic bandgap fiber"<br>
-   IEEE Photonics Journal 7(6), 2015. (In Press, JCR二区, IF: 2.209).
+     ["High-sensitivity gas pressure sensor based on Fabry-Perot interferometer with a side opened channel in hollow-core photonic bandgap fiber"]({{ site.baseurl }}/papers/High-sensitivity gas pressure sensor.pdf)<br>
+
+   IEEE Photonics Journal 7(6), 2015，6803307. (JCR二区, IF:2.209).
 
 14. Guanjun Wang, Chao Wang, Shen Liu, Jing Zhao, Changrui Liao, Xizhen Xu, Haijian Liang, Guolu Yin, and Yiping Wang<br>
    ["Side-Opened Suspended Core Fiber-Based Surface Plasmon Resonance Sensor"]({{ site.baseurl }}/papers/wgj-Side-opened suspended core fiber-based surface Plasmon resonance sensor .pdf)<br>
