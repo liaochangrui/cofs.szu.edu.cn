@@ -19,13 +19,13 @@ permalink: /members/liaochangrui/
 
 
 
-###  <strong><font face="楷体">讲授课程</font></strong>
+##  <strong><font face="楷体">讲授课程</font></strong>
 
 [1] 光纤传感技术（Optical fiber sensing technology）<br/>
 [2] 光电测量学（Optical metrology）<br/>
 [3] 大学物理实验（college (level) physics experiment）<br/>
 
-###  <strong><font face="楷体">代表论文</font></strong>
+##  <strong><font face="楷体">代表论文</font></strong>
 
 [1]	**C. R. Liao**, Q. Wang, et al., “D-shaped fiber grating refractive index sensor induced by an ultrashort pulse laser,” Appl. Opt., vol. 55, no. 7, pp. 1525-1529, 2016.<br/>
 [2]	C. Z. Zhang, Y. H. Yang, C. Wang, **C. R. Liao (通信作者)**, Y. P. Wang, “Femtosecond-laser-inscribed sampled fiber Bragg grating with ultrahigh thermal stability,” Opt. Express, vol. 24, no. 4, pp. 3981-3988, 2016.<br/>
@@ -65,7 +65,7 @@ permalink: /members/liaochangrui/
 [36] M. Yang, D. N. Wang* , **C. R. Liao**, “Fiber M-Z interferometer constructed by selective infiltration of two air holes in photonic crystal fiber,” Opt. Lett., vol. 36, no. 5, pp. 636-638, 2011. <br/>
 [37] M. Yang, D. N. Wang* , **C. R. Liao**, “Long period fiber grating formed by periodically structures microholes in all-solid photonic bandgap fiber,” Optics Express, vol. 18, no. 3, pp. 2183-2188, 2010.<br/> 
 
-###  <strong><font face="楷体">专利技术</font></strong>
+##  <strong><font face="楷体">专利技术</font></strong>
 
 [1]	美国专利, “Fiber Bragg grating in micro/nanofiber and method of producing the same”，D. N. Wang, F. Xia, **C. R. Liao**, The Hong Kong Polytechnic University., Pub. No. US20110194805A1, Pub. Date: 2011.8.11<br/> 
 [2]	美国专利, “Microfiber device with enclosed inner cavity”, D. N. Wang, **C. R. Liao** , The Hong Kong Polytechnic University., Pub. No. US20140363118A1, Pub. Date: 2014.12.11<br/> 
