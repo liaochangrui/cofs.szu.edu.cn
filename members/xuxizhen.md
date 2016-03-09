@@ -18,10 +18,10 @@ permalink: /members/xuxizhen/
 徐锡镇，广东新会人。2013年本科毕业于浙江工业大学，取得学士学位；2013年9月进入深圳大学，攻读硕士学位！
 
 ##  <strong><font face="楷体">论文成果</font></strong>
-[1] **Xizhen Xu** , Jian Tang, Jing Zhao, Kaiming Yang, Cailing Fu, Qiao Wang, Shen Liu, Changrui Liao, Jiarong Lian, and Yiping Wang, Post-treatment techniques for enhancing mode-coupling in long period fiber gratings induced by CO2 laser, Photonic Sensors, 2015, 5(4), 339-344.
-[2] **Xizhen Xu** , Yingjie Liu, Bing Sun, Changrui Liao, Shen Liu, Guolu Yin, Kaiming Yang, Yijian Huang, Yiping Wang, High-sensitivity bend sensor based on Mach-Zehnder interferometer using photonic crystal fiber, Optoelectronics Global Conference, 2015
-[3] Jing Zhao, Guolu Yin, Changrui Liao, Shen Liu, Jun He, Bing Sun, Guanjun Wang, **Xizheng Xu** , and Yiping Wang, Rough side-polished fiber with surface scratches for sensing applications, IEEE Photonics Journal , 2015, 7（3），6801107 
-[4] Guanjun Wang, Chao Wang, Shen Liu, Jing Zhao, Changrui Liao, **Xizhen Xu** , Haijian Liang, Guolu Yin, and Yiping Wang, Side-Opened Suspended Core Fiber-Based Surface Plasmon Resonance Sensor, IEEE SENSORS JOURNAL, 2015, 15(7), 4096-4092
+[1] **Xizhen Xu** , Jian Tang, Jing Zhao, Kaiming Yang, Cailing Fu, Qiao Wang, Shen Liu, Changrui Liao, Jiarong Lian, and Yiping Wang, Post-treatment techniques for enhancing mode-coupling in long period fiber gratings induced by CO2 laser, Photonic Sensors, 2015, 5(4), 339-344.<br/>
+[2] **Xizhen Xu** , Yingjie Liu, Bing Sun, Changrui Liao, Shen Liu, Guolu Yin, Kaiming Yang, Yijian Huang, Yiping Wang, High-sensitivity bend sensor based on Mach-Zehnder interferometer using photonic crystal fiber, Optoelectronics Global Conference, 2015.<br/>
+[3] Jing Zhao, Guolu Yin, Changrui Liao, Shen Liu, Jun He, Bing Sun, Guanjun Wang, **Xizheng Xu** , and Yiping Wang, Rough side-polished fiber with surface scratches for sensing applications, IEEE Photonics Journal , 2015, 7（3），6801107. <br/>
+[4] Guanjun Wang, Chao Wang, Shen Liu, Jing Zhao, Changrui Liao, **Xizhen Xu** , Haijian Liang, Guolu Yin, and Yiping Wang, Side-Opened Suspended Core Fiber-Based Surface Plasmon Resonance Sensor, IEEE SENSORS JOURNAL, 2015, 15(7), 4096-4092.<br/>
 
 ##  <strong><font face="楷体">专利授权</font></strong>
 
