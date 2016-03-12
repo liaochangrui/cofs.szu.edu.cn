@@ -10,12 +10,17 @@ permalink: /publications/conf/
     <li><a href="{{ "/patents" | prepend: "/publications" | prepend: site.baseurl }}">授权专利</a></li>
 </ul>
 </div>
-
 <br>
+
+2015
+-------------------------
+1. Jing Zhao, Guolu Yin, Yiping Wang*, Changrui Liao, Shen Liu, Bin Sun, Jun He, Guanjun Wang, and Xizheng Xu, "Side-polished fibers with rough surface scratches for sensing applications",Opto-Electronics and Communications Conference (OECC), 2015.
+
+
 
 2014
 -------------------------
-1. Yiping Wang, 主办国际会议“Progress in Electromagnetics Research Symposium (PIERS)”的Optical Fiber Sensing Devices 分会，Aug. 25-28, 2014, Guangdong, China.<br>
+1. Yiping Wang, 主办国际会议"Progress in Electromagnetics Research Symposium (PIERS)"的Optical Fiber Sensing Devices 分会，Aug.25-28, 2014. Guangdong China<br>
 
 2. Yiping Wang*, Changrui Liao, Shen Liu, “High-sensitive optical sensors based on in-fiber air bubbles,” Session 2P9b, SC3: Ultrasensitive Optical Sensors, Progress In Electromagnetics Research Symposium (PIERS2014), Guangzhou, China, Sep. 2014. (特邀报告)<br>
 
