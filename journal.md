@@ -24,6 +24,9 @@ permalink: /publications/
    ["D-shaped fiber grating refractive index sensor induced by an ultrashort pulse laser"]({{ site.baseurl }}/papers/2016-2-D-shaped fiber grating refractive index sensor induced by an ultrashort pulse laser.pdf)<br> 
    Applied Optics, 55(7), 1525-1529, 2016（JCR三区，IF=1.784）
 
+3.Jing Zhao, Shaoqing Cao, Changrui Liao, Ying Wang, Guanjun Wang, Xizhen Xu, Cailing Fu, Guiwen Xu, Jiarong Lian, Yiping Wang∗ <br>
+    ["Surface plasmon resonance refractive sensor based on silver-coatedside-polished fiber"]({{ site.baseurl }}/papers/1-s2.0-S092540051630168X-main.pdf)<br> 
+
 
 2015
 -------------------------
