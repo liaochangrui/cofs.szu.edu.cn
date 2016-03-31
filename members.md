@@ -109,25 +109,6 @@ permalink: /members/
 
 <div class="bio-container">
   <div class="bio-avatar" >
-  <a href="{{ site.baseurl }}/members/yinguolu/">
-  <img src="{{ site.baseurl }}/images/yinguolu-92x128.jpg" class="max-img-border"/>
-  </a>
-  </div>
-  <div class="bio-info">
-  <a href="{{ site.baseurl }}/members/yinguolu/">
-  尹国路 博士
-  </a>
-  <br>
-  Tel：  13632601396
-  <br>
-  E-mail: glyin@szu.edu.cn
-  </div>
-</div>
-
-
-
-<div class="bio-container">
-  <div class="bio-avatar" >
   <a href="{{ site.baseurl }}/members/wangchao/">
   <img src="{{ site.baseurl }}/images/wangc-92x128.jpg" class="max-img-border"/>
   </a>
