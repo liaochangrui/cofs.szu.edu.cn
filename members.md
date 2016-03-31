@@ -79,7 +79,8 @@ permalink: /members/
   </a>
     <br>
   E-mail： hejun07@szu.edu.cn </br>
-  E-mail： hejun07@semi.ac.cn
+  <br>
+  E-mail： hejun07@semi.ac.cn </br>
   </div>
 </div>
 
