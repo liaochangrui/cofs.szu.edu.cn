@@ -27,7 +27,7 @@ permalink: /members/
   王义平 教授
   </a>
   <br>
-  Tel： 0755-26066281/13510186456
+  Tel： 0755-26066281
   <br>
   E-mail： ypwang@szu.edu.cn
   </div>
@@ -64,6 +64,23 @@ permalink: /members/
   Tel：  13986036101
   <br>
   E-mail： wangying.hust@gmail.com
+  </div>
+</div>
+
+<div class="bio-container">
+  <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/hejun/">
+  <img src="{{ site.baseurl }}/images/hejun-92x130.jpg" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/hejun/">
+  何俊 讲师
+  </a>
+
+  E-mail： hejun07@szu.edu.cn
+  <br>
+  E-mail： hejun07@semi.ac.cn
   </div>
 </div>
 
@@ -108,24 +125,7 @@ permalink: /members/
   </div>
 </div>
 
-<div class="bio-container">
-  <div class="bio-avatar" >
-  <a href="{{ site.baseurl }}/members/hejun/">
-  <img src="{{ site.baseurl }}/images/hejun-92x130.jpg" class="max-img-border"/>
-  </a>
-  </div>
-  <div class="bio-info">
-  <a href="{{ site.baseurl }}/members/hejun/">
-  何俊 博士
-  </a>
-  <br>
-  Tel：  13510061158
-  <br>
-  E-mail： hejun07@szu.edu.cn
-  <br>
-  E-mail： hejun07@semi.ac.cn
-  </div>
-</div>
+
 
 <div class="bio-container">
   <div class="bio-avatar" >
