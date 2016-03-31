@@ -12,7 +12,7 @@ permalink: /members/
 
 <br>
 
-## 教师(3人)
+## 教师(4人)
 
 <div class="sec-container">
 
@@ -77,10 +77,10 @@ permalink: /members/
   <a href="{{ site.baseurl }}/members/hejun/">
   何俊 讲师
   </a>
-
-  E-mail： hejun07@szu.edu.cn
+    <br>
+  E-mail： hejun07@szu.edu.cn </br>
   <br>
-  E-mail： hejun07@semi.ac.cn
+  E-mail： hejun07@semi.ac.cn</br>
   </div>
 </div>
 
