@@ -15,7 +15,7 @@ permalink: /publications/
 
 2016
 -------------------------
-1.
+
 
 
 1. Congzhe Zhang, Yuanhong Yang, Chao Wang, Changrui Liao, and Yiping Wang<br>
