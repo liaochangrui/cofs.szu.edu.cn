@@ -17,7 +17,7 @@ permalink: /members/wangyiping/
 *座机：0755-26066281*<br>
 *E-mail: ypwang@szu.edu.cn*
 
-# 1. 教育经历
+## 1. 教育经历
 
 + 2000,09－2003,06 **重庆大学**，光学工程专业，工学博士 (全国优秀博士学位论文)
 
@@ -26,7 +26,7 @@ permalink: /members/wangyiping/
 + 1991,09－1995,07 **西安工业学院** (现西安工业大学)，精密仪器专业，工学学士
 
 
-# 2. 工作经历
+## 2. 工作经历
 
 + 2012,01- 今  **深圳大学**光电工程学院、国家杰青、特聘教授、博导、珠江学者、深圳市地方级领军人才、孔雀计划海外高层次人才，组建了光纤传感技术研究团队和**“深圳物联网光子器件与传感系统重点实验室”**。
 
@@ -41,7 +41,7 @@ permalink: /members/wangyiping/
 + 1995,07-1998,08 **重庆华光仪器厂**、计量处，技术员。
 
 
-# 3. 主持科研项目及人才基金
+## 3. 主持科研项目及人才基金
 
 **已主持国家自然科学基金（4项）、欧盟玛丽局里国际引进人才基金、德国洪堡研究基金等科研项目17项。** 
 
@@ -393,7 +393,7 @@ permalink: /members/wangyiping/
    </tr>
 </table>
 
-# 4. 获  奖
+## 4. 获  奖
 
 1. 2014年获国家杰出青年科学基金，获奖项目“光纤传感技术”。<br>
 
@@ -415,7 +415,7 @@ permalink: /members/wangyiping/
 
 10. 2004年获重庆市科学技术奖——技术发明奖，二等奖，获奖项目：新型长周期光纤光栅器件制作与应用，第四获奖人。<br>
 
-# 5. 授权专利
+## 5. 授权专利
 
 授权专利11项，申请公布（实审）发明专利7项。
 
@@ -491,7 +491,7 @@ permalink: /members/wangyiping/
     强度调制型光纤迈克尔逊应变传感器及制作方法<br>
     中国发明专利，申请号：201410065837.4，申请日：2014.02.26<br>
 
-# 6. 学术兼职
+## 6. 学术兼职
 
 + IEEE高级会员 (Senior Member of IEEE)；
 
@@ -505,7 +505,7 @@ permalink: /members/wangyiping/
 
 + 德国洪堡基金会会员
 
-# 7. 学术会议特邀报告 
+## 7. 学术会议特邀报告 
 
 已主办国际会议分会1次，学术会议大会报告和特邀报告21次，分会主席(Session Chair)和会议TPC 10次，近5年部分学术会议如下：
 
@@ -529,7 +529,7 @@ permalink: /members/wangyiping/
 
 10. **Y. Wang**, Fabrication and application of CO2-laser-induced LPFGs, 5th Forum on Research and Development of Optical Fiber Sensors, Jun. 2010, Guangzhou, China. ( **特邀报告、分会主席** )
 
-# 8. 创新研究成果
+## 8. 创新研究成果
 
 ### （1）光纤光栅系统性研究
 
@@ -581,7 +581,7 @@ permalink: /members/wangyiping/
 > A. Birks (OSA Fellow)等评价：“据我们所知，这是有关高非线性光子晶体光纤低损耗熔接技术的唯一报道，其关键技术在于空气孔完全坍陷后光仍然可以在掺锗纤芯中传输，并且任何情况下都只有约1.0dB的熔接损耗”(To our knowledge, the only reported low-loss HNL PCF splices rely on special Ge-doped cores that still guide if the holes have collapsed, and they are quite lossy(~1.0 dB)anyway.Opt. Lett. 34, 2240, 2009)
 
 
-# 9. 学术论著
+## 9. 学术论著
 发表论文183篇（SCI收录110篇，SCI引用1428次，H-index指数: 21），1篇特邀综述论文被J. of Appl. Phys.选为封面文章，2篇论文被Photonics Spectra作为专题报道，合著专著1部。近5年SCI引用都超过150次/年。主办国际学术会议分会1次、大会报告1次、特邀报告20次。
 
 
