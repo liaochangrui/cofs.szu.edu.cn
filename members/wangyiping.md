@@ -53,8 +53,10 @@ permalink: /members/wangyiping/
       <th style="width: 10%">起止时间 </th>
       <th style="width: 5%">状态</th>
       <th style="width: 5%">职责</th>
+      </tr>
   </thead>
   <tbody>
+  
     <tr>
       <td>1</th>
       <td>国家杰出青年科学基金</th>
@@ -63,6 +65,7 @@ permalink: /members/wangyiping/
       <td>在研</th>
       <td>主持</th>
     </tr>
+    
     <tr>
       <td>2</th>
       <td>国家自然科学基金面上项目</th>
@@ -71,6 +74,7 @@ permalink: /members/wangyiping/
       <td>在研</th>
       <td>主持</th>
     </tr>
+    
     <tr>
       <td>3</th>
       <td>广东省珠江学者专项支持项目</th>
@@ -79,6 +83,7 @@ permalink: /members/wangyiping/
       <td>在研</th>
       <td>主持</th>
     </tr>
+    
     <tr>
       <td>4</th>
       <td>深圳市重点实验室组建项目</th>
@@ -87,6 +92,7 @@ permalink: /members/wangyiping/
       <td>在研</th>
       <td>主持</th>
     </tr>
+    
     <tr>
       <td>5</th>
       <td>南山区重点实验室组建项目</th>
@@ -95,6 +101,7 @@ permalink: /members/wangyiping/
       <td>在研</th>
       <td>主持</th>
     </tr>
+    
     <tr>
       <td>6</th>
       <td>深圳市海外高层次人才创新创业专项资金项目</th>
@@ -103,6 +110,7 @@ permalink: /members/wangyiping/
       <td>在研</th>
       <td>主持</th>
     </tr>
+    
     <tr>
       <td>7</th>
       <td>深圳市战略新兴产业发展专项资金项目</th>
@@ -111,6 +119,7 @@ permalink: /members/wangyiping/
       <td>在研</th>
       <td>主持</th>
     </tr>
+    
     <tr>
       <td>8</th>
       <td>深圳市引进高端人才科研启动基金</th>
@@ -127,6 +136,7 @@ permalink: /members/wangyiping/
       <td>在研</th>
       <td>主持</th>
     </tr>
+    
     <tr>
       <td>10</th>
       <td>深圳大学特聘教授实验室建设基金</th>
@@ -135,6 +145,7 @@ permalink: /members/wangyiping/
       <td>在研</th>
       <td>主持</th>
     </tr>
+    
     <tr>
       <td>11</th>
       <td>全国优秀博士学位论文作者专项基金</th>
@@ -143,6 +154,7 @@ permalink: /members/wangyiping/
       <td>结题</th>
       <td>主持</th>
     </tr>
+    
      <tr>
       <td>12</th>
       <td>欧盟玛丽居里国际引进人才基金(Marie Curie International Incoming Fellowships)</th>
@@ -151,6 +163,7 @@ permalink: /members/wangyiping/
       <td>结题</th>
       <td>主持</th>
     </tr>
+    
     <tr>
       <td>13</th>
       <td>德国洪堡研究基金 (Humboldt Research Fellowships)</th>
@@ -159,6 +172,7 @@ permalink: /members/wangyiping/
       <td>结题</th>
       <td>主持</th>
     </tr>
+    
     <tr>
       <td>14</th>
       <td>香港研资局基金(GRF)</th>
@@ -167,6 +181,7 @@ permalink: /members/wangyiping/
       <td>结题</th>
       <td>共同主持</th>
     </tr>
+    
     <tr>
       <td>15</th>
       <td>国家自然科学基金面上项目</th>
@@ -196,6 +211,7 @@ permalink: /members/wangyiping/
   
   </tbody>
 </table>
+
 
 
 ### 4. 获  奖
