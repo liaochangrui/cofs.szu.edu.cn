@@ -26,17 +26,25 @@ carousel:
   <div class="page-right1-container"> 
  <div class="page-right1-word">
     <a href="notice/2014-annual-report-out.pdf">
-    <span style="color:#ba8a31"> 实验室工作汇报 
+    <span style="color:#ba8a31"> 2016实验室工作汇报 
     </span> 
     </a>
   </div>
  
  
 
-    <div class="page-right1-word">
-    <span style="color:#ba8a31"> 2016中国光纤传感学术会议暨产业化论坛开幕在即
+  <div class="page-right1-word">
+    <span style="color:#ba8a31"> 
+    2016中国光纤传感学术会议暨产业化论坛开幕在即
     </span> 
   </div>
+  
+  
+  <div class="page-right1-word">
+      <span style="color:#09F; font-style:normal">2016年3月16日</span> 
+      <span style="font-weight:600;font-size:16px;color:#4f4f4f; font-style:normal">何俊博士</span>在
+      <span style="color:#ba8a31">Scientific Reports</span>上发表论文
+    </div>
   
   
   
@@ -91,7 +99,7 @@ carousel:
     </div>
 
 
-    <div class="page-right1-word">
+    <div class="page-right1-wordEnd">
       <a href="news/latest_news.html">
       <span style="color:#09F; font-style:normal"> 2015年4月4日</span> 
       <span style="font-weight:600;font-size:16px;color:#4f4f4f; font-style:normal">深圳市物联网光子器件与传感系统重点实验室</span>第一届委员会议圆满召开
@@ -99,13 +107,7 @@ carousel:
     </div>
 
 
-    <div class="page-right1-wordEnd">
-      <a href="news/latest_news.html">
-      <span style="color:#09F; font-style:normal">2015年1月13日</span> 
-      <span style="font-weight:600;font-size:16px;color:#4f4f4f; font-style:normal">刘申博士</span>在
-      <span style="color:#ba8a31">Scientific Reports</span>上发表论文
-      </a>
-    </div>
+
   </div>
 </div>
     
