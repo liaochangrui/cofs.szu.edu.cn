@@ -45,7 +45,7 @@ permalink: /members/wangyiping/
 
 **已主持国家自然科学基金（4项）、欧盟玛丽局里国际引进人才基金、德国洪堡研究基金等科研项目17项。** 
 
-<table>
+<table class="table table-bordered table-striped table-condensed">
 
   <thead>
     <tr>
