@@ -12,7 +12,7 @@ permalink: /members/
 
 <br>
 
-## 教师(3人)
+## 教师(4人)
 
 <div class="sec-container">
 
@@ -27,7 +27,7 @@ permalink: /members/
   王义平 教授
   </a>
   <br>
-  Tel： 0755-26066281/13510186456
+  Tel： 0755-26066281
   <br>
   E-mail： ypwang@szu.edu.cn
   </div>
@@ -67,6 +67,23 @@ permalink: /members/
   </div>
 </div>
 
+<div class="bio-container">
+  <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/hejun/">
+  <img src="{{ site.baseurl }}/images/hejun-92x130.jpg" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/hejun/">
+  何俊 讲师
+  </a>
+    <br>
+  E-mail： hejun07@szu.edu.cn </br>
+  <br>
+  E-mail： hejun07@semi.ac.cn </br>
+  </div>
+</div>
+
 </div>
 
 ## 在站博士后（9人）
@@ -90,42 +107,6 @@ permalink: /members/
   </div>
 </div>
 
-
-<div class="bio-container">
-  <div class="bio-avatar" >
-  <a href="{{ site.baseurl }}/members/yinguolu/">
-  <img src="{{ site.baseurl }}/images/yinguolu-92x128.jpg" class="max-img-border"/>
-  </a>
-  </div>
-  <div class="bio-info">
-  <a href="{{ site.baseurl }}/members/yinguolu/">
-  尹国路 博士
-  </a>
-  <br>
-  Tel：  13632601396
-  <br>
-  E-mail: glyin@szu.edu.cn
-  </div>
-</div>
-
-<div class="bio-container">
-  <div class="bio-avatar" >
-  <a href="{{ site.baseurl }}/members/hejun/">
-  <img src="{{ site.baseurl }}/images/hejun-92x130.jpg" class="max-img-border"/>
-  </a>
-  </div>
-  <div class="bio-info">
-  <a href="{{ site.baseurl }}/members/hejun/">
-  何俊 博士
-  </a>
-  <br>
-  Tel：  13510061158
-  <br>
-  E-mail： hejun07@szu.edu.cn
-  <br>
-  E-mail： hejun07@semi.ac.cn
-  </div>
-</div>
 
 <div class="bio-container">
   <div class="bio-avatar" >

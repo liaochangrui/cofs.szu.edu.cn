@@ -14,24 +14,42 @@ permalink: /members/gra-members/
 
 ## 出站博士后
 <div class="sec-container">
-<div class="bio-container">
-  <div class="bio-avatar" >
-  <a href="{{ site.baseurl }}/members/sunbing/">
-  <img src="{{ site.baseurl }}/images/sunbing-92x129.jpg" class="max-img-border"/>
-  </a>
-  </div>
-  <div class="bio-info">
-  <a href="{{ site.baseurl }}/members/sunbing/">
-  孙兵 博士
-  </a>
-  <br>
-  Tel：  13632539324
-  <br>
-  E-mail: graduate_sunbing@163.com
-  <br>
-  E-mail: pcf13@szu.edu.cn
-  </div>
-</div>
+    <div class="bio-container">
+     <div class="bio-avatar" >
+     <a href="{{ site.baseurl }}/members/sunbing/">
+     <img src="{{ site.baseurl }}/images/sunbing-92x129.jpg" class="max-img-border"/>
+     </a>
+     </div>
+     <div class="bio-info">
+     <a href="{{ site.baseurl }}/members/sunbing/">
+     孙兵 博士
+     </a>
+     <br>
+     Tel：  13632539324
+     <br>
+     E-mail: graduate_sunbing@163.com
+      <br>
+      E-mail: pcf13@szu.edu.cn
+      </div>
+    </div>
+
+    <div class="bio-container">
+      <div class="bio-avatar" >
+     <a href="{{ site.baseurl }}/members/yinguolu/">
+     <img src="{{ site.baseurl }}/images/yinguolu-92x128.jpg" class="max-img-border"/>
+     </a>
+      </div>
+     <div class="bio-info">
+      <a href="{{ site.baseurl }}/members/yinguolu/">
+     尹国路 博士
+      </a>
+      <br>
+     Tel：  13632601396
+      <br>
+      E-mail: glyin@szu.edu.cn
+      </div>
+    </div>
+
 </div>
 
 ## 毕业硕士生
