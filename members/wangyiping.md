@@ -41,7 +41,24 @@ permalink: /members/wangyiping/
 + 1995,07-1998,08 **重庆华光仪器厂**、计量处，技术员。
 
 
+### 3. 主持科研项目及人才基金
 
+**已主持国家自然科学基金（4项）、欧盟玛丽局里国际引进人才基金、德国洪堡研究基金等科研项目17项。** 
+
+<table>
+
+  <thead>
+    <tr>
+      <th style="width: 5%">编号</th>
+      <th style="width: 30%">项目类别</th>
+      <th style="width: 45%">项目名称/编号</th>
+      <th style="width: 10%">起止时间 </th>
+      <th style="width: 5%">状态</th>
+      <th style="width: 5%">职责</th>
+      </tr>
+  </thead>
+  
+</table>
 
 ### 4. 获  奖
 
