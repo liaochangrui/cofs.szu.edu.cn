@@ -11,24 +11,34 @@ carousel:
   - image: xswyhy.jpg
 ---
 
+
 <div id="page-right1">
- <div id="page-right-Header1"><span style="font-weight:600;">
- <a href="{{ site.baseurl }}/more/">学术动态</a></span></div>
+
+ <div id="page-right-Header1">
+ <span style="font-weight:600;">
+ <a href="{{ site.baseurl }}/more/">
+ 学术动态
+ </a>
+ </span>
+ </div>
  
-  <div class="page-right1-container">
-    <div class="page-right1-word">
-    <a href="notice/yipingwang.html">
-    <span style="color:#ba8a31"> 王义平教授获2015年度国家杰出青年科学基金 
-    </span> 
-    </a>
-  </div>
-  
-    <div class="page-right1-word">
+ 
+  <div class="page-right1-container"> 
+ <div class="page-right1-word">
     <a href="notice/2014-annual-report-out.pdf">
     <span style="color:#ba8a31"> 实验室工作汇报 
     </span> 
     </a>
   </div>
+ 
+ 
+
+    <div class="page-right1-word">
+    <span style="color:#ba8a31"> 2016中国光纤传感学术会议暨产业化论坛开幕在即
+    </span> 
+  </div>
+  
+  
   
   
     <div class="page-right1-word">
