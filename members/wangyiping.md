@@ -17,7 +17,7 @@ permalink: /members/wangyiping/
 *座机：0755-26066281*<br>
 *E-mail: ypwang@szu.edu.cn*
 
-### 1. 教育经历
+## 1. 教育经历
 
 + 2000,09－2003,06 **重庆大学**，光学工程专业，工学博士 (全国优秀博士学位论文)
 
@@ -26,7 +26,7 @@ permalink: /members/wangyiping/
 + 1991,09－1995,07 **西安工业学院** (现西安工业大学)，精密仪器专业，工学学士
 
 
-### 2. 工作经历
+## 2. 工作经历
 
 + 2012,01- 今  **深圳大学**光电工程学院、国家杰青、特聘教授、博导、珠江学者、深圳市地方级领军人才、孔雀计划海外高层次人才，组建了光纤传感技术研究团队和**“深圳物联网光子器件与传感系统重点实验室”**。
 
@@ -40,181 +40,360 @@ permalink: /members/wangyiping/
 
 + 1995,07-1998,08 **重庆华光仪器厂**、计量处，技术员。
 
-### 3. 主持科研项目及人才基金
+
+## 3. 主持科研项目及人才基金
 
 **已主持国家自然科学基金（4项）、欧盟玛丽局里国际引进人才基金、德国洪堡研究基金等科研项目17项。** 
 
-<table>
-  <thead>
-    <tr>
-      <th style="width: 5%">编号</th>
-      <th style="width: 30%">项目类别</th>
-      <th style="width: 45%">项目名称/编号</th>
-      <th style="width: 10%">起止时间 </th>
-      <th style="width: 5%">状态</th>
-      <th style="width: 5%">职责</th>
-      </tr>
-  </thead>
-  <tbody>
-  
-    <tr>
-      <td>1</th>
-      <td>国家杰出青年科学基金</th>
-      <td>光纤传感技术</th>
-      <td>2015-2018</th>
-      <td>在研</th>
-      <td>主持</th>
-    </tr>
-    
-    <tr>
-      <td>2</th>
-      <td>国家自然科学基金面上项目</th>
-      <td>空气芯光子带隙光纤光栅 (61377090)</th>
-      <td>2014-2017</th>
-      <td>在研</th>
-      <td>主持</th>
-    </tr>
-    
-    <tr>
-      <td>3</th>
-      <td>广东省珠江学者专项支持项目</th>
-      <td>光子晶体光纤光栅制作及传感通信应用(829-000001)</th>
-      <td>2014-2016</th>
-      <td>在研</th>
-      <td>主持</th>
-    </tr>
-    
-    <tr>
-      <td>4</th>
-      <td>深圳市重点实验室组建项目</th>
-      <td>深圳物联网光子器件与传感系统重点实验室(ZDSYS20140430164957664)</th>
-      <td>2014-2016</th>
-      <td>在研</th>
-      <td>主持</th>
-    </tr>
-    
-    <tr>
-      <td>5</th>
-      <td>南山区重点实验室组建项目</th>
-      <td>南山区物联网光子传感器件与系统重点实验室(KC2014ZDZJ0008A)</th>
-      <td>2014-2015</th>
-      <td>在研</th>
-      <td>主持</th>
-    </tr>
-    
-    <tr>
-      <td>6</th>
-      <td>深圳市海外高层次人才创新创业专项资金项目</th>
-      <td>液体填充的光子晶体光纤及传感和通信应用(KQCX20120815161444632)</th>
-      <td>2013-2015</th>
-      <td>在研</th>
-      <td>主持</th>
-    </tr>
-    
-    <tr>
-      <td>7</th>
-      <td>深圳市战略新兴产业发展专项资金项目</th>
-      <td>空气芯光子带隙光纤光栅的写入技术及应用(JCYJ20130329140017262)</th>
-      <td>2013-2015</th>
-      <td>在研</th>
-      <td>主持</th>
-    </tr>
-    
-    <tr>
-      <td>8</th>
-      <td>深圳市引进高端人才科研启动基金</th>
-      <td>光子带隙光纤光栅的制备和应用 (827-000005)</th>
-      <td>2013-2015</th>
-      <td>在研</th>
-      <td>主持</th>
-    </tr>
-    <tr>
-      <td>9</th>
-      <td>国家自然科学基金面上项目</th>
-      <td>光子晶体光纤导光机理可逆转换及应用 (11174064)</th>
-      <td>2012-2015</th>
-      <td>在研</th>
-      <td>主持</th>
-    </tr>
-    
-    <tr>
-      <td>10</th>
-      <td>深圳大学特聘教授实验室建设基金</th>
-      <td>基于光子晶体光纤和微纳光纤的新一代传感技术研究 (810-000001)</th>
-      <td>2012-2014</th>
-      <td>在研</th>
-      <td>主持</th>
-    </tr>
-    
-    <tr>
-      <td>11</th>
-      <td>全国优秀博士学位论文作者专项基金</th>
-      <td>基于空气芯光子带隙光纤的光纤光栅及传感和通信应用(200940)</th>
-      <td>2009-2011</th>
-      <td>结题</th>
-      <td>主持</th>
-    </tr>
-    
-     <tr>
-      <td>12</th>
-      <td>欧盟玛丽居里国际引进人才基金(Marie Curie International Incoming Fellowships)</th>
-      <td>Gratings in air-core photonic bandgapfibres for applications within communications, lasers and sensors (PIIF-GA-2009-235487)</th>
-      <td>2007-2008</th>
-      <td>结题</th>
-      <td>主持</th>
-    </tr>
-    
-    <tr>
-      <td>13</th>
-      <td>德国洪堡研究基金 (Humboldt Research Fellowships)</th>
-      <td>Fiber Bragg gratings in small core and microstructured optical fibers for sensing applications (1126655)</th>
-      <td>2007-2008</th>
-      <td>结题</th>
-      <td>主持</th>
-    </tr>
-    
-    <tr>
-      <td>14</th>
-      <td>香港研资局基金(GRF)</th>
-      <td>Novel sensors and devices based on long period gratings in photonic crystal fibers (PolyU 5182/07E，主持人:Wei Jin, Yiping Wang)</th>
-      <td>2008-2010</th>
-      <td>结题</th>
-      <td>共同主持</th>
-    </tr>
-    
-    <tr>
-      <td>15</th>
-      <td>国家自然科学基金面上项目</th>
-      <td>偏振无关的快速可调谐电光聚合物波导光栅研究(60507013）</th>
-      <td>2006-2008</th>
-      <td>结题</th>
-      <td>主持</th>
-    </tr>
-    
-    <tr>
-      <td>16</th>
-      <td>香港理工大学博士后研究基金</th>
-      <td>Tunable multi-wavelength fiber laser operated in L-band (G-YX51)</th>
-      <td>2005-2007</th>
-      <td>结题</th>
-      <td>主持</th>
-    </tr>
-    
-    <tr>
-      <td>17</th>
-      <td>中国博士后科学基金</th>
-      <td>快速可调谐聚合物波导布拉格光栅 (2003034258)</th>
-      <td>2003-2005</th>
-      <td>结题</th>
-      <td>主持</th>
-    </tr>
-  
-  </tbody>
+<table class="table table-bordered table-striped table-condensed">
+   <tr>
+      <td>
+         编号
+      </td>
+      <td>
+         项目类别
+      </td>
+      <td>
+         项目名称/编号
+      </td>
+      <td>
+         起止时间
+      </td>
+      <td>
+         状态
+      </td>
+      <td>
+         职责
+      </td>
+   </tr>
+   <tr>
+      <td>
+         1
+      </td>
+      <td>
+         国家杰出青年科学基金
+      </td>
+      <td>
+         光纤传感技术
+      </td>
+      <td>
+         2015-2018
+      </td>
+      <td>
+         在研
+      </td>
+      <td>
+         主持
+      </td>
+   </tr>
+   <tr>
+      <td>
+         2
+      </td>
+      <td>
+         国家自然科学基金面上项目
+      </td>
+      <td>
+         空气芯光子带隙光纤光栅 (61377090)
+      </td>
+      <td>
+         2014-2017
+      </td>
+      <td>
+         在研
+      </td>
+      <td>
+         主持
+      </td>
+   </tr>
+   <tr>
+      <td>
+         3
+      </td>
+      <td>
+         广东省珠江学者专项支持项目
+      </td>
+      <td>
+         光子晶体光纤光栅制作及传感通信应用(829-000001)
+      </td>
+      <td>
+         2014-2016
+      </td>
+      <td>
+         在研
+      </td>
+      <td>
+         主持
+      </td>
+   </tr>
+   <tr>
+      <td>
+         4
+      </td>
+      <td>
+         深圳市重点实验室组建项目
+      </td>
+      <td>
+         深圳物联网光子器件与传感系统重点实验室(ZDSYS20140430164957664)
+      </td>
+      <td>
+         2014-2016
+      </td>
+      <td>
+         在研
+      </td>
+      <td>
+         主持
+      </td>
+   </tr>
+   <tr>
+      <td>
+         5
+      </td>
+      <td>
+         南山区重点实验室组建项目
+      </td>
+      <td>
+         南山区物联网光子传感器件与系统重点实验室(KC2014ZDZJ0008A)
+      </td>
+      <td>
+         2014-2015
+      </td>
+      <td>
+         在研
+      </td>
+      <td>
+         主持
+      </td>
+   </tr>
+   <tr>
+      <td>
+         6
+      </td>
+      <td>
+         深圳市海外高层次人才创新创业专项资金项目
+      </td>
+      <td>
+         液体填充的光子晶体光纤及传感和通信应用(KQCX20120815161444632)
+      </td>
+      <td>
+         2013-2015
+      </td>
+      <td>
+         在研
+      </td>
+      <td>
+         主持
+      </td>
+   </tr>
+   <tr>
+      <td>
+         7
+      </td>
+      <td>
+         深圳市战略新兴产业发展专项资金项目
+      </td>
+      <td>
+         空气芯光子带隙光纤光栅的写入技术及应用(JCYJ20130329140017262)
+      </td>
+      <td>
+         2013-2015
+      </td>
+      <td>
+         在研
+      </td>
+      <td>
+         主持
+      </td>
+   </tr>
+   <tr>
+      <td>
+         8
+      </td>
+      <td>
+         深圳市引进高端人才科研启动基金
+      </td>
+      <td>
+         光子带隙光纤光栅的制备和应用 (827-000005)
+      </td>
+      <td>
+         2013-2015
+      </td>
+      <td>
+         在研
+      </td>
+      <td>
+         主持
+      </td>
+   </tr>
+   <tr>
+      <td>
+         9
+      </td>
+      <td>
+         国家自然科学基金面上项目
+      </td>
+      <td>
+         光子晶体光纤导光机理可逆转换及应用 (11174064)
+      </td>
+      <td>
+         2012-2015
+      </td>
+      <td>
+         在研
+      </td>
+      <td>
+         主持
+      </td>
+   </tr>
+   <tr>
+      <td>
+         10
+      </td>
+      <td>
+         深圳大学特聘教授实验室建设基金
+      </td>
+      <td>
+         基于光子晶体光纤和微纳光纤的新一代传感技术研究 (810-000001)
+      </td>
+      <td>
+         2012-2014
+      </td>
+      <td>
+         在研
+      </td>
+      <td>
+         主持
+      </td>
+   </tr>
+   <tr>
+      <td>
+         11
+      </td>
+      <td>
+         全国优秀博士学位论文作者专项基金
+      </td>
+      <td>
+         基于空气芯光子带隙光纤的光纤光栅及传感和通信应用(200940)
+      </td>
+      <td>
+         2009-2011
+      </td>
+      <td>
+         结题
+      </td>
+      <td>
+         主持
+      </td>
+   </tr>
+   <tr>
+      <td>
+         12
+      </td>
+      <td>
+         欧盟玛丽居里国际引进人才基金(Marie Curie International Incoming Fellowships)
+      </td>
+      <td>
+         Gratings in air-core photonic bandgapfibres for applications within communications, lasers and sensors (PIIF-GA-2009-235487)
+      </td>
+      <td>
+         2007-2008
+      </td>
+      <td>
+         结题
+      </td>
+      <td>
+         主持
+      </td>
+   </tr>
+   <tr>
+      <td>
+         13
+      </td>
+      <td>
+         德国洪堡研究基金 (Humboldt Research Fellowships)
+      </td>
+      <td>
+         Fiber Bragg gratings in small core and microstructured optical fibers for sensing applications (1126655)
+      </td>
+      <td>
+         2007-2008
+      </td>
+      <td>
+         结题
+      </td>
+      <td>
+         主持
+      </td>
+   </tr>
+   <tr>
+      <td>
+         14
+      </td>
+      <td>
+         香港研资局基金(GRF)
+      </td>
+      <td>
+         Novel sensors and devices based on long period gratings in photonic crystal fibers (PolyU 5182/07E，主持人:Wei Jin, Yiping Wang)
+      </td>
+      <td>
+         2008-2010
+      </td>
+      <td>
+         结题
+      </td>
+      <td>
+         共同主持
+      </td>
+   </tr>
+   <tr>
+      <td>
+         15
+      </td>
+      <td>
+         国家自然科学基金面上项目
+      </td>
+      <td>
+         偏振无关的快速可调谐电光聚合物波导光栅研究(60507013）
+      </td>
+      <td>
+         2006-2008
+      </td>
+      <td>
+         结题
+      </td>
+      <td>
+         主持
+      </td>
+   </tr>
+   <tr>
+      <td>
+         16
+      </td>
+      <td>
+         香港理工大学博士后研究基金
+      </td>
+      <td>
+         Tunable multi-wavelength fiber laser operated in L-band (G-YX51)
+      </td>
+      <td>
+         2005-2007
+      </td>
+      <td>
+         结题
+      </td>
+      <td>
+         主持
+      </td>
+   </tr>
+   <tr>
+      <td>
+         
+      </td>
+   </tr>
 </table>
 
-
-
-### 4. 获  奖
+## 4. 获  奖
 
 1. 2014年获国家杰出青年科学基金，获奖项目“光纤传感技术”。<br>
 
@@ -236,7 +415,7 @@ permalink: /members/wangyiping/
 
 10. 2004年获重庆市科学技术奖——技术发明奖，二等奖，获奖项目：新型长周期光纤光栅器件制作与应用，第四获奖人。<br>
 
-### 5. 授权专利
+## 5. 授权专利
 
 授权专利11项，申请公布（实审）发明专利7项。
 
@@ -312,7 +491,7 @@ permalink: /members/wangyiping/
     强度调制型光纤迈克尔逊应变传感器及制作方法<br>
     中国发明专利，申请号：201410065837.4，申请日：2014.02.26<br>
 
-### 6. 学术兼职
+## 6. 学术兼职
 
 + IEEE高级会员 (Senior Member of IEEE)；
 
@@ -326,7 +505,7 @@ permalink: /members/wangyiping/
 
 + 德国洪堡基金会会员
 
-### 7. 学术会议特邀报告 
+## 7. 学术会议特邀报告 
 
 已主办国际会议分会1次，学术会议大会报告和特邀报告21次，分会主席(Session Chair)和会议TPC 10次，近5年部分学术会议如下：
 
@@ -350,7 +529,7 @@ permalink: /members/wangyiping/
 
 10. **Y. Wang**, Fabrication and application of CO2-laser-induced LPFGs, 5th Forum on Research and Development of Optical Fiber Sensors, Jun. 2010, Guangzhou, China. ( **特邀报告、分会主席** )
 
-### 8. 创新研究成果
+## 8. 创新研究成果
 
 ### （1）光纤光栅系统性研究
 
@@ -402,11 +581,11 @@ permalink: /members/wangyiping/
 > A. Birks (OSA Fellow)等评价：“据我们所知，这是有关高非线性光子晶体光纤低损耗熔接技术的唯一报道，其关键技术在于空气孔完全坍陷后光仍然可以在掺锗纤芯中传输，并且任何情况下都只有约1.0dB的熔接损耗”(To our knowledge, the only reported low-loss HNL PCF splices rely on special Ge-doped cores that still guide if the holes have collapsed, and they are quite lossy(~1.0 dB)anyway.Opt. Lett. 34, 2240, 2009)
 
 
-### 9. 学术论著
+## 9. 学术论著
 发表论文183篇（SCI收录110篇，SCI引用1428次，H-index指数: 21），1篇特邀综述论文被J. of Appl. Phys.选为封面文章，2篇论文被Photonics Spectra作为专题报道，合著专著1部。近5年SCI引用都超过150次/年。主办国际学术会议分会1次、大会报告1次、特邀报告20次。
 
 
-####  代表性论著
+##  代表性论著
 
 [1]. **Y. Wang**, Review of long period fiber gratings written by CO2 laser, J. Appl. Phys., 108, 081101, 2010. (**[特邀综述论文，被选为期刊封面文章](http://jap.aip.org/resource/1/japiau/v108/i8)**)， 影响因子： 2.210， SCI引用次数： 31
 
