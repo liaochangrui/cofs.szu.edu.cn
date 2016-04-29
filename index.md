@@ -90,14 +90,6 @@ carousel:
       </div>
 
 
-    <div class="page-right1-word">
-      <a href="news/latest_news.html">
-      <span style="color:#09F; font-style:normal">2015年5月19日-5月22日</span> 
-      <span style="font-weight:600;font-size:16px;color:#4f4f4f; font-style:normal">本课题组代表</span>赴韩参加
-      <span style="color:#ba8a31">第五届亚太光传感器会议</span>
-      </a>
-    </div>
-
 
     <div class="page-right1-wordEnd">
       <a href="news/latest_news.html">
