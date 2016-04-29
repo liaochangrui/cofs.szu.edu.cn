@@ -156,6 +156,13 @@ carousel:
   </a>		
 </div>
 
+<div class="page-right1-word">		
+  <a href="http://pro.gdstc.gov.cn/egrantweb/">
+    <span style="color:#000000;font-size:16px; font-style:normal">广东省科技厅
+    </span> 	
+  </a>		
+</div>
+
 <div class="page-right1-wordEnd">		
   <a href="http://www.szsti.gov.cn/">
     <span style="color:#000000;font-size:16px; font-style:normal">深圳市科技创新委员
