@@ -255,6 +255,8 @@ img {
 }
 
 
+/*    导航栏CSS
+
 nav {
     margin: auto; 
     text-align: center;
@@ -324,3 +326,5 @@ nav ul {
     nav ul ul ul {
         position: absolute; left: 100%; top:0;
     }
+
+*/
