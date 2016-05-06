@@ -35,7 +35,7 @@ carousel:
 
   <div class="page-right1-word">
     <span style="color:#ba8a31"> 
-    2016中国光纤传感学术会议暨产业化论坛开幕在即
+    第九届中国光纤传感学术会议暨产业化论坛成功举行
     </span> 
   </div>
   
