@@ -182,7 +182,7 @@ img {
 #page-right1 {
     float: left;
     width: 324px;
-    height: 780px;
+    /*height: 780px;*/
     border-top: 1px solid #FFFFFF;
     border-bottom: 1px solid #FFFFFF;
     border-left: 1px solid #FFFFFF;
