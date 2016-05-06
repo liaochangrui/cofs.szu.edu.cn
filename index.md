@@ -34,12 +34,13 @@ carousel:
  
 
   <div class="page-right1-word">
+    <a href="notice/2016OFSC.html">
     <span style="color:#09F; font-style:normal">2016年4月20日</span> 
     <span style="color:#ba8a31"> 
     第九届中国光纤传感学术会议暨产业化论坛成功举行
     </span> 
+    </a>
   </div>
-  
   
   <div class="page-right1-word">
       <span style="color:#09F; font-style:normal">2016年3月16日</span> 
