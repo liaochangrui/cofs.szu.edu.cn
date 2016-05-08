@@ -138,20 +138,6 @@ carousel:
     </span> 	
   </a>		
 </div>
-  
-<div class="page-right1-word">		
-  <a href="http://www.orc.soton.ac.uk/">
-    <span style="color:#000000;font-size:16px; font-style:normal">英国南安普顿大学光电研究中心
-    </span> 	
-  </a>		
-</div>
-
-<div class="page-right1-word">		
-  <a href="http://www.polyu.edu.hk/">
-    <span style="color:#000000;font-size:16px; font-style:normal">香港理工大学
-    </span> 	
-  </a>		
-</div>
 
 <div class="page-right1-word">		
   <a href="http://www.nsfc.gov.cn/">
@@ -162,15 +148,25 @@ carousel:
 
 <div class="page-right1-word">		
   <a href="http://pro.gdstc.gov.cn/egrantweb/">
-    <span style="color:#000000;font-size:16px; font-style:normal">广东省科技厅
+    <span style="color:#000000;font-size:16px; font-style:normal">广东省科学技术厅
+    </span> 	
+  </a>		
+</div>
+
+<div class="page-right1-word">		
+  <a href="http://www.szsti.gov.cn/">
+    <span style="color:#000000;font-size:16px; font-style:normal">深圳市科技创新委员会
     </span> 	
   </a>		
 </div>
 
 <div class="page-right1-wordEnd">		
-  <a href="http://www.szsti.gov.cn/">
-    <span style="color:#000000;font-size:16px; font-style:normal">深圳市科技创新委员
+  <a href="http://www.szpb.gov.cn/">
+    <span style="color:#000000;font-size:16px; font-style:normal">深圳市发展和改革委员会
     </span> 	
   </a>		
 </div>
+
+
+
 </div>
