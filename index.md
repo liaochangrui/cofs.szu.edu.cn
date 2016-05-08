@@ -141,7 +141,7 @@ carousel:
 
 <div class="page-right1-word">		
   <a href="http://www.nsfc.gov.cn/">
-    <span style="color:#000000;font-size:16px; font-style:normal">国家自然科学基金委
+    <span style="color:#000000;font-size:16px; font-style:normal">国家自然科学基金委员会
     </span> 	
   </a>		
 </div>
