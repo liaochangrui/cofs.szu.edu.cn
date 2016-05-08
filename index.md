@@ -42,12 +42,22 @@ carousel:
     </a>
   </div>
   
+
   <div class="page-right1-word">
       <span style="color:#09F; font-style:normal">2016年3月16日</span> 
       <span style="font-weight:600;font-size:16px;color:#4f4f4f; font-style:normal">何俊博士</span>在
       <span style="color:#ba8a31">Scientific Reports</span>上发表论文
     </div>
   
+  
+  <div class="page-right1-word">
+    <a href="notice/visit-litieying.html">
+    <span style="color:#09F; font-style:normal">2016年3月2日</span> 
+    <span style="color:#ba8a31"> 
+    前全国人大常委会副委员长李铁映一行参观我校光电工程学院
+    </span> 
+    </a>
+  </div>
   
   
   
