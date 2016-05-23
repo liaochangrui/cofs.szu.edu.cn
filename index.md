@@ -34,18 +34,30 @@ carousel:
  
 
   <div class="page-right1-word">
+    <a href="notice/2016OFSC.html">
+    <span style="color:#09F; font-style:normal">2016年4月20日</span> 
     <span style="color:#ba8a31"> 
-    2016中国光纤传感学术会议暨产业化论坛开幕在即
+    第九届中国光纤传感学术会议暨产业化论坛成功举行
     </span> 
+    </a>
   </div>
   
-  
+
   <div class="page-right1-word">
       <span style="color:#09F; font-style:normal">2016年3月16日</span> 
       <span style="font-weight:600;font-size:16px;color:#4f4f4f; font-style:normal">何俊博士</span>在
       <span style="color:#ba8a31">Scientific Reports</span>上发表论文
     </div>
   
+  
+  <div class="page-right1-word">
+    <a href="notice/visit-litieying.html">
+    <span style="color:#09F; font-style:normal">2016年3月2日</span> 
+    <span style="color:#ba8a31"> 
+    前全国人大常委会副委员长李铁映一行参观我校光电工程学院
+    </span> 
+    </a>
+  </div>
   
   
   
@@ -90,14 +102,6 @@ carousel:
       </div>
 
 
-    <div class="page-right1-word">
-      <a href="news/latest_news.html">
-      <span style="color:#09F; font-style:normal">2015年5月19日-5月22日</span> 
-      <span style="font-weight:600;font-size:16px;color:#4f4f4f; font-style:normal">本课题组代表</span>赴韩参加
-      <span style="color:#ba8a31">第五届亚太光传感器会议</span>
-      </a>
-    </div>
-
 
     <div class="page-right1-wordEnd">
       <a href="news/latest_news.html">
@@ -134,32 +138,35 @@ carousel:
     </span> 	
   </a>		
 </div>
-  
-<div class="page-right1-word">		
-  <a href="http://www.orc.soton.ac.uk/">
-    <span style="color:#000000;font-size:16px; font-style:normal">英国南安普顿大学光电研究中心
-    </span> 	
-  </a>		
-</div>
-
-<div class="page-right1-word">		
-  <a href="http://www.polyu.edu.hk/">
-    <span style="color:#000000;font-size:16px; font-style:normal">香港理工大学
-    </span> 	
-  </a>		
-</div>
 
 <div class="page-right1-word">		
   <a href="http://www.nsfc.gov.cn/">
-    <span style="color:#000000;font-size:16px; font-style:normal">国家自然科学基金委
+    <span style="color:#000000;font-size:16px; font-style:normal">国家自然科学基金委员会
+    </span> 	
+  </a>		
+</div>
+
+<div class="page-right1-word">		
+  <a href="http://pro.gdstc.gov.cn/egrantweb/">
+    <span style="color:#000000;font-size:16px; font-style:normal">广东省科学技术厅
+    </span> 	
+  </a>		
+</div>
+
+<div class="page-right1-word">		
+  <a href="http://www.szsti.gov.cn/">
+    <span style="color:#000000;font-size:16px; font-style:normal">深圳市科技创新委员会
     </span> 	
   </a>		
 </div>
 
 <div class="page-right1-wordEnd">		
-  <a href="http://www.szsti.gov.cn/">
-    <span style="color:#000000;font-size:16px; font-style:normal">深圳市科技创新委员
+  <a href="http://www.szpb.gov.cn/">
+    <span style="color:#000000;font-size:16px; font-style:normal">深圳市发展和改革委员会
     </span> 	
   </a>		
 </div>
+
+
+
 </div>
