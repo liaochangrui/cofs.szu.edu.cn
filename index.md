@@ -12,6 +12,7 @@ carousel:
 ---
 
 
+
 <div id="page-right1">
 
  <div id="page-right-Header1">
@@ -22,8 +23,15 @@ carousel:
  </span>
  </div>
  
- 
-  <div class="page-right1-container"> 
+<div class="page-right1-container"> 
+  
+    <div class="page-right1-word">
+      <a href="http://www.s1979.com/dianshi/first/201505/21144461521.shtml">
+      <span style="font-weight:600;font-size:16px;color:#4f4f4f; font-style:normal">王义平教授团队</span>
+      被深圳都市电视台报道 
+      </a>
+    </div>
+      
  <div class="page-right1-word">
     <a href="notice/2014-annual-report-out.pdf">
     <span style="color:#ba8a31"> 2016实验室工作汇报 
@@ -93,13 +101,7 @@ carousel:
     </div>
 
 
-   <div class="page-right1-word">
-      <a href="http://www.s1979.com/dianshi/first/201505/21144461521.shtml">
-      <span style="color:#09F; font-style:normal">2015年5月21日</span> 
-      <span style="font-weight:600;font-size:16px;color:#4f4f4f; font-style:normal">王义平教授团队</span>
-      被深圳都市电视台报道 
-      </a>
-      </div>
+
 
 
 
