@@ -35,11 +35,11 @@ permalink: /publications/
 
 5. Bing Sun, Zuxing Zhang, Wei Wei, Chao Wang, Changrui Liao, Lin Zhang, and Yiping Wang*<br>
     ["Unique Temperature Dependence of Selectively Liquid-Crystal-Filled Photonic Crystal Fibers"]({{ site.baseurl }}/papers/2016-05-PTL-Unique Temperature Dependence of Selectively Liquid-Crystal-Filled Photonic Crystal Fibers)<br> 
-    IEEE PHOTONICS TECHNOLOGY LETTERS, VOL.28, NO.12, JUNE 15, 2016(IF=2.110)
+    IEEE Photonics Technology Letters, 28(12), 2016 (JCR三区, IF=2.110)
 
 5.  Guolu Yin, Jian Tang, Changrui Liao, and Yiping Wang*<br>
     ["Automatic arc discharge technology for inscribing long period fiber gratings"]({{ site.baseurl }}/papers/2016-06-AO-Automatic arc discharge technology for inscribing long period fiber gratings)<br> 
-    Applied Optics, 55(14), 3873-3878, 2016（JCR三区，IF=1.784）
+    Applied Optics, 55(14), 3873-3878, 2016 （JCR三区, IF=1.784）
 
 
 
