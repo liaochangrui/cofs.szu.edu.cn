@@ -12,9 +12,36 @@ permalink: /publications/conf/
 </div>
 <br>
 
+共55篇会议论文（其中大会报告1篇、特邀报告34篇）
+
 2015
 -------------------------
-1. Jing Zhao, Guolu Yin, Yiping Wang*, Changrui Liao, Shen Liu, Bin Sun, Jun He, Guanjun Wang, and Xizheng Xu, "Side-polished fibers with rough surface scratches for sensing applications",Opto-Electronics and Communications Conference (OECC), 2015.
+
+2. Yiping Wang, “High-sensitive gas pressure sensors based on optical fiber devices,” 2016 Asia Communications and Photonics Conference(ACP2016), Nov. 19-23, Hong Kong. (特邀报告)
+
+3. Yiping Wang*, Changrui Liao, Shen Liu, Bing Sun, Zhengyong Li, Xiaoyong Zhong, and Guolu Yin, "Gas pressure sensors based on in-fiber devices," The 20th Optoelectronics and Communications Conference (OECC-20), Shanghai, JTuD.31, 2015. (EI, Invited).
+
+4. Changrui Liao, Jun He, Qiao Wang, Congzhe Zhang, Zhengyong Li, Chao Wang, and Yiping Wang, "Fiber Bragg gratings fabricated by femtosecond laser micromachining methods," The 20th Optoelectronics and Communications Conference (OECC-20), Shanghai, JTuC.41, 2015. (EI, Invited).
+
+5. Jun He, Qiaoni Wang, Changrui Liao, Kaiming Yang, and Yiping Wang, "Femtosecond laser inscribed phase-shifted fiber Bragg gratings," 20th Optoelectronics and Communications Conference (OECC-20), Shanghai, JTuC.42, 2015. (EI, Oral).
+
+6. Jing Zhao, Changrui Liao, Yiping Wang, Guolu Yin, Shen Liu, Bing Sun, Jun He, Guanjun Wang, and Xizhen Xu, "Side-polished fibers with rough surface scratches for sensing applications," 20th Optoelectronics and Communications Conference (OECC-20), Shanghai, PWe.50, 2015. (EI, Poster).
+
+7. Yiping Wang*, Changrui Liao, Shen Liu, Bing Sun, Zhengyong Li, Xiaoyong Zhong, Guolu Yin, “High-sensitivity gas pressure sensors base on in-fiber devices,” Proc. SPIE 9655, 5th Asia-Pacific Optical Sensor Conference (APOS 2015), Jeju Island, Korea, 2015.(EI, Oral)
+
+8. Bing Sun, Yijian Huang, Chao Wang, Jun He, Changrui Liao, Guolu Yin, Jiangtao Zhou, Shen Liu, Jing Zhao, Yiping Wang*, “Ultra-sensitive temperature sensor base on liquid crystal infiltrated photonic crystal fibers,” Proc. SPIE 9655, 5th Asia-Pacific Optical Sensor Conference (APOS 2015), Jeju Island, Korea, 2015. (EI, Poster)
+
+9. Shen Liu, Yiping Wang*, Changrui Liao, Zhenyong Li, Kaiming Yang, “High-sensitivity strain sensors based on in-fiber reshaped air bubbles,” Proc. SPIE 9655, 5th Asia-Pacific Optical Sensor Conference (APOS 2015), Jeju Island, Korea, 2015. (EI, Poster)
+
+10. Yiping Wang, Jian Tang, Changrui Liao, Shen Liu, Bing Sun, Zhengyong Li, and Xiaoyong Zhong, "High-sensitivity gas pressure sensing applications based on microstructured optical fiber devices," The Optoelectronics Global Conference 2015 (OGC-2015), Shenzhen, PS-30_S6-b.04, 2015. (EI, Invited)
+
+11. Changrui Liao, Yiping Wang, "Optical fiber devices fabricated by femtosecond laser microching," The Optoelectronics Global Conference 2015 (OGC-2015), Shenzhen, PS-30_S6-b.03, 2015. (EI, Invited)
+
+12. Xizhen Xu, Yingjie Liu ,Bing Sun, Changrui Liao, Shen Liu, Guolu Yin, Kaiming Yang, Yijian Huang, and Yiping Wang, "High-sensitivity bend sensor based on Mach-Zender interference using photonic crystal fiber," The Optoelectronics Global Conference 2015 (OGC-2015), Shenzhen, PS-30_S6-b.01, 2015. (EI, Invited)
+
+13. Jian Tang, Guolu Yin, Shen Liu, Xiaoyong Zhong, Changrui Liao, and Yiping Wang, "CO2 laser writing of long period fiber grating in air-core photonic bandgap fiber as gas pressure sensor," The Optoelectronics Global Conference 2015 (OGC-2015), Shenzhen, BPA-1.03, 2015. (EI, Oral)
+
+14. Qiao Wang, Changrui Liao, Shen Liu, Kaiming Yang and Yiping Wang, "Refractive index sensor based on side-polished fiber bragg grating," The Optoelectronics Global Conference 2015 (OGC-2015), Shenzhen, PS-31_S8-f.04, 2015. (EI, Oral)
 
 
 
