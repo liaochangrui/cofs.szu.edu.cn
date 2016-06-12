@@ -78,9 +78,10 @@ permalink: /members/
   何俊 讲师
   </a>
     <br>
-  E-mail： hejun07@szu.edu.cn </br>
+  Tel： 0755-26538561-807 </br>
   <br>
-  E-mail： hejun07@semi.ac.cn </br>
+  E-mail： hejun07@szu.edu.cn</br>
+  <br>      hejun07@semi.ac.cn </br>
   </div>
 </div>
 
