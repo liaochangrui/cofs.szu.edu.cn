@@ -33,7 +33,7 @@ permalink: /members/gra-members/
       </div>
     </div>
 
-    <div class="bio-container">
+<div class="bio-container">
       <div class="bio-avatar" >
      <a href="{{ site.baseurl }}/members/yinguolu/">
      <img src="{{ site.baseurl }}/images/yinguolu-92x128.jpg" class="max-img-border"/>
@@ -47,6 +47,25 @@ permalink: /members/gra-members/
      Tel：  13632601396
       <br>
       E-mail: glyin@szu.edu.cn
+      </div>
+    </div>
+    
+<div class="bio-container">
+      <div class="bio-avatar" >
+     <a href="{{ site.baseurl }}/members/hejun/">
+     <img src="{{ site.baseurl }}/images/hejun-92x130.jpg" class="max-img-border"/>
+     </a>
+      </div>
+     <div class="bio-info">
+      <a href="{{ site.baseurl }}/members/hejun/">
+     何俊 博士
+      </a>
+      <br>
+      Tel：0755-26538561-807 
+      <br>
+      E-mail：hejun07@szu.edu.cn 
+      <br>
+      E-mail：hejun07@semi.ac.cn
       </div>
     </div>
 
