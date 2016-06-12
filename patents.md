@@ -10,11 +10,9 @@ permalink: /publications/patents/
     <li class="active"><a href="{{ "/patents" | prepend: "/publications" | prepend: site.baseurl }}">授权专利</a></li>
 </ul>
 </div>
-
 <br>
-授权发明专利1项，授权实用新型专利9项，公布实审发明专利8项。
-</br>
 
+授权发明专利1项，授权实用新型专利9项，公布实审发明专利8项。
 
 ★	授权专利
 -------------------------
