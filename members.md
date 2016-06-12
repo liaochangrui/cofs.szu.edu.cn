@@ -61,9 +61,9 @@ permalink: /members/
   王英 讲师
   </a>
   <br>
-  Tel：  13986036101
+  Tel：  0755-26538561-807
   <br>
-  E-mail： wangying.hust@gmail.com
+  E-mail： yingwang@szu.edu.cn
   </div>
 </div>
 
@@ -78,9 +78,11 @@ permalink: /members/
   何俊 讲师
   </a>
     <br>
-  E-mail： hejun07@szu.edu.cn </br>
+  Tel：0755-26538561-807 </br>
   <br>
-  E-mail： hejun07@semi.ac.cn </br>
+  E-mail：hejun07@szu.edu.cn</br>
+  <br>      
+  E-mail：hejun07@semi.ac.cn </br>
   </div>
 </div>
 

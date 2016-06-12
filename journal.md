@@ -18,7 +18,7 @@ permalink: /publications/
 
 1. Jun He, Yiping Wang*, Changrui Liao, Chao Wang, Shen Liu, Kaiming Yang, Ying Wang, Xiaocong Yuan, Guo Ping Wang and Wenjing Zhang<br>
    ["Negative-index gratings formed by femtosecond laser overexposure and thermal regeneration"]({{ site.baseurl }}/papers/2016-04-SR-Negative-index gratings formed by femtosecond laser overexposure and thermal regeneration.pdf)<br> 
-   Scientific Reports,  6(23379), 2016（JCR二区，IF=5.078）
+   Scientific Reports,  6(23379), 2016（JCR二区，IF=5.578）
 
 
 2. Congzhe Zhang, Yuanhong Yang, Chao Wang, Changrui Liao, and Yiping Wang<br>
@@ -31,9 +31,19 @@ permalink: /publications/
 
 4. Jing Zhao, Shaoqing Cao, Changrui Liao, Ying Wang, Guanjun Wang, Xizhen Xu, Cailing Fu, Guiwen Xu, Jiarong Lian, Yiping Wang∗ <br>
     ["Surface plasmon resonance refractive sensor based on silver-coatedside-polished fiber"]({{ site.baseurl }}/papers/1-s2.0-S092540051630168X-main.pdf)<br> 
+    Sensors and Actuators B: Chemical, 230, 2016, 206–211(JCR一区, IF=4.097)
 
 5. Bing Sun, Zuxing Zhang, Wei Wei, Chao Wang, Changrui Liao, Lin Zhang, and Yiping Wang*<br>
     ["Unique Temperature Dependence of Selectively Liquid-Crystal-Filled Photonic Crystal Fibers"]({{ site.baseurl }}/papers/2016-05-PTL-Unique Temperature Dependence of Selectively Liquid-Crystal-Filled Photonic Crystal Fibers)<br> 
+    IEEE Photonics Technology Letters, 28(12), 2016 (JCR三区, IF=2.110)
+
+5.  Guolu Yin, Jian Tang, Changrui Liao, and Yiping Wang*<br>
+    ["Automatic arc discharge technology for inscribing long period fiber gratings"]({{ site.baseurl }}/papers/2016-06-AO-Automatic arc discharge technology for inscribing long period fiber gratings)<br> 
+    Applied Optics, 55(14), 3873-3878, 2016 （JCR三区, IF=1.784）
+
+
+
+
 
 
 2015
