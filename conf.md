@@ -119,6 +119,8 @@ measurement,” 2014 年中国光纤传感学术会议暨产业化论坛,  大�
 -------------------------
 1.  Y. Wang<br>Microstructuredoptical fiber devices and sensing applications, China International Optoelectronic Expo (CIOE 2014), Sep. 2013, Shenzhen, China (特邀报告)<br>
 
+2.  王义平， 微结构光纤器件的制备技术和应用， 2013年中国光学学会学术大会， 2013年8月15~18日， 国防科技大学， 长沙市。(特邀报告)
+
 2.  Y. Wang, et al.<br> Selective-fluid-filled photonic crystal fibres and applications,<br>Proc. of SPIE Vol. 8914, UNSP 89140J, 2013, 5th International Symposium on Photoelectronic Detection and Imaging Technology andApplications (ISPDI 2013), June 2013, Beijing, China.(特邀报告)<br>
 
 3.	Yiping Wang*, Hartmut Bartelt, Jens Kobelke, Wolfgang Ecke, Reinhardt Willsch, Changrui Liao, Xiaoyong Zhong, Zhengyong Li, Jiangtao Zhou and Yingjie Liu. <br>"Optical attenuators based on fluid-filled microstructured optical fibers"<br> 2013 Optical Fiber Sensor Conference in China, May 2013, Hefei, China. (特邀报告)<br>
@@ -135,11 +137,15 @@ measurement,” 2014 年中国光纤传感学术会议暨产业化论坛,  大�
 
 9.	Yiping Wang*, Hartmut Bartelt, Jens Kobelke, Wolfgang Ecke, Reinhardt Willsch, Changrui Liao, Xiaoyong Zhong, Zhengyong Li, Jiangtao Zhou, and Yingjie Liu. <br>"Optical attenuators based on fluid-filled photonic crystal fibers"<br>Asia Communications and Photonics Conference (ACP2013), ATh4C.2, 12-15 Nov. 2013, Beijing, China.<br>
 
-10.	Yiping Wang*, Changrui Liao, Xiaoyong Zhong, Zhengyong Li, Yingjie Liu, Jiangtao Zhou, and Kaiming Yang. <br>"Selective-fluid-filled photonic crystal fibres and applications"<br> Proc. of SPIE Vol. 8914, Article number: UNSP 89140J, 2013, 5th International Symposium on Photoelectronic Detection and Imaging Technology and Applications (ISPDI 2013), June 2013, Beijing, China.<br>
-
 11.	周江涛, 王义平*, 廖常锐.<br> “Temperature-insensitive Strain Sensor based on Fiber in-line Mach-Zehnder Interferometer,” <br> 2013年中国光学年会, OJ1307010469, 口头报告, 2013年8月<br>
 
 12.	钟晓勇, 王义平*, 廖常锐. <br>"基于光子晶体光纤的Bragg 光栅写入技术"<br> 2013年中国光学年会, 口头报告, 2013年8月
+
+13. Yiping Wang*, Ming Wang, and Xiaoqin Huang, "PDL characterization of twister FBG and its application in sensing", 中国光纤传感学术会议暨产业化论坛， 安徽合肥， 2013.
+
+14. Changrui Liao*, T. Y. Hu, D. N. Wang, Yiping Wang, "Optical fiber in-line Fabry-Perot interferometer for refractive index sensing", 中国光纤传感学术会议暨产业化论坛， 安徽合肥， 2013. (口头报告)
+
+15. 王冠军，王义平，廖常锐，任晓敏，周江涛，“高效率微结构光纤光栅写入技术研究”，中国光纤传感学术会议暨产业化论坛，安徽合肥，2013.（口头报告） 
 
 2012
 -------------------------
