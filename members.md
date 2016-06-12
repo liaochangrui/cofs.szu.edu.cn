@@ -88,7 +88,7 @@ permalink: /members/
 
 </div>
 
-## 在站博士后（9人）
+## 在站博士后（7人）
 
 <div class="sec-container">
 
