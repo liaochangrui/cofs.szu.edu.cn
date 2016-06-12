@@ -88,7 +88,7 @@ permalink: /members/
 
 </div>
 
-## 在站博士后（9人）
+## 在站博士后（7人）
 
 <div class="sec-container">
 
@@ -413,7 +413,7 @@ permalink: /members/
   杨天航
   </a>
   <br>
-  E-mail:741916443@qq.com
+  E-mail:2150190120@email.szu.edu.cn
   </div>
 </div>
 

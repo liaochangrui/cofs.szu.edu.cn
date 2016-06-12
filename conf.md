@@ -12,9 +12,36 @@ permalink: /publications/conf/
 </div>
 <br>
 
+共55篇会议论文（其中大会报告1篇、特邀报告34篇）
+
 2015
 -------------------------
-1. Jing Zhao, Guolu Yin, Yiping Wang*, Changrui Liao, Shen Liu, Bin Sun, Jun He, Guanjun Wang, and Xizheng Xu, "Side-polished fibers with rough surface scratches for sensing applications",Opto-Electronics and Communications Conference (OECC), 2015.
+
+2. Yiping Wang, “High-sensitive gas pressure sensors based on optical fiber devices,” 2016 Asia Communications and Photonics Conference(ACP2016), Nov. 19-23, Hong Kong. (特邀报告)
+
+3. Yiping Wang*, Changrui Liao, Shen Liu, Bing Sun, Zhengyong Li, Xiaoyong Zhong, and Guolu Yin, "Gas pressure sensors based on in-fiber devices," The 20th Optoelectronics and Communications Conference (OECC-20), Shanghai, JTuD.31, 2015. (EI, Invited).
+
+4. Changrui Liao, Jun He, Qiao Wang, Congzhe Zhang, Zhengyong Li, Chao Wang, and Yiping Wang, "Fiber Bragg gratings fabricated by femtosecond laser micromachining methods," The 20th Optoelectronics and Communications Conference (OECC-20), Shanghai, JTuC.41, 2015. (EI, Invited).
+
+5. Jun He, Qiaoni Wang, Changrui Liao, Kaiming Yang, and Yiping Wang, "Femtosecond laser inscribed phase-shifted fiber Bragg gratings," 20th Optoelectronics and Communications Conference (OECC-20), Shanghai, JTuC.42, 2015. (EI, Oral).
+
+6. Jing Zhao, Changrui Liao, Yiping Wang, Guolu Yin, Shen Liu, Bing Sun, Jun He, Guanjun Wang, and Xizhen Xu, "Side-polished fibers with rough surface scratches for sensing applications," 20th Optoelectronics and Communications Conference (OECC-20), Shanghai, PWe.50, 2015. (EI, Poster).
+
+7. Yiping Wang*, Changrui Liao, Shen Liu, Bing Sun, Zhengyong Li, Xiaoyong Zhong, Guolu Yin, “High-sensitivity gas pressure sensors base on in-fiber devices,” Proc. SPIE 9655, 5th Asia-Pacific Optical Sensor Conference (APOS 2015), Jeju Island, Korea, 2015.(EI, Oral)
+
+8. Bing Sun, Yijian Huang, Chao Wang, Jun He, Changrui Liao, Guolu Yin, Jiangtao Zhou, Shen Liu, Jing Zhao, Yiping Wang*, “Ultra-sensitive temperature sensor base on liquid crystal infiltrated photonic crystal fibers,” Proc. SPIE 9655, 5th Asia-Pacific Optical Sensor Conference (APOS 2015), Jeju Island, Korea, 2015. (EI, Poster)
+
+9. Shen Liu, Yiping Wang*, Changrui Liao, Zhenyong Li, Kaiming Yang, “High-sensitivity strain sensors based on in-fiber reshaped air bubbles,” Proc. SPIE 9655, 5th Asia-Pacific Optical Sensor Conference (APOS 2015), Jeju Island, Korea, 2015. (EI, Poster)
+
+10. Yiping Wang, Jian Tang, Changrui Liao, Shen Liu, Bing Sun, Zhengyong Li, and Xiaoyong Zhong, "High-sensitivity gas pressure sensing applications based on microstructured optical fiber devices," The Optoelectronics Global Conference 2015 (OGC-2015), Shenzhen, PS-30_S6-b.04, 2015. (EI, Invited)
+
+11. Changrui Liao, Yiping Wang, "Optical fiber devices fabricated by femtosecond laser microching," The Optoelectronics Global Conference 2015 (OGC-2015), Shenzhen, PS-30_S6-b.03, 2015. (EI, Invited)
+
+12. Xizhen Xu, Yingjie Liu ,Bing Sun, Changrui Liao, Shen Liu, Guolu Yin, Kaiming Yang, Yijian Huang, and Yiping Wang, "High-sensitivity bend sensor based on Mach-Zender interference using photonic crystal fiber," The Optoelectronics Global Conference 2015 (OGC-2015), Shenzhen, PS-30_S6-b.01, 2015. (EI, Invited)
+
+13. Jian Tang, Guolu Yin, Shen Liu, Xiaoyong Zhong, Changrui Liao, and Yiping Wang, "CO2 laser writing of long period fiber grating in air-core photonic bandgap fiber as gas pressure sensor," The Optoelectronics Global Conference 2015 (OGC-2015), Shenzhen, BPA-1.03, 2015. (EI, Oral)
+
+14. Qiao Wang, Changrui Liao, Shen Liu, Kaiming Yang and Yiping Wang, "Refractive index sensor based on side-polished fiber bragg grating," The Optoelectronics Global Conference 2015 (OGC-2015), Shenzhen, PS-31_S8-f.04, 2015. (EI, Oral)
 
 
 
@@ -40,14 +67,13 @@ permalink: /publications/conf/
 
 9. 王义平，光纤传感技术，2014 年全国高校机械工程测试技术研究会学术年会，2014 年8 月22-24日，深圳大学，深圳. (特邀报告)<br>
 
-10. 王义平, 光纤干涉传感器件及应用， 第九届全国光子学学术会议暨中国光学学会纤维光学与集成光学专委会成立30 周年大会，2014 年11 月7-9 日, 电子科技大学，成都. (特邀报告)<br>
+10. 王义平, 光纤干涉传感器件及应用， 第九届全国光子学学术会议暨中国光学学会纤维光学与集成光学专委会成立30 周年大会，2014年11月7-9日, 电子科技大学，成都. (特邀报告)<br>
 
-11. Changrui Liao, Lei Xu, Yiping Wang*, D.N. Wang, Shen Liu, Zhengyong Li, Xiaoyong Zhong, Jiangtao
-Zhou, Qiao Wang, Kaiming Yang, “Femtosecond laser micromachined Optical Fiber In-line
-Interferometers,” Session 2A9, SC: Optical Fiber Sensing Devices, Progress In Electromagnetics
-Research Symposium (PIERS2014), Guangzhou, China, 2014. (特邀报告)<br>
+11. Changrui Liao, Lei Xu, Yiping Wang*, D.N. Wang, Shen Liu, Zhengyong Li, Xiaoyong Zhong, Jiangtao Zhou, Qiao Wang, Kaiming Yang, “Femtosecond laser micromachined Optical Fiber In-line Interferometers,” Session 2A9, SC: Optical Fiber Sensing Devices, Progress In Electromagnetics Research Symposium (PIERS2014), Guangzhou, China, 2014. (特邀报告)<br>
 
 12. Yiping Wang* , Shen Liu, Changrui Liao, Zhengyong Li, Qiao Wang, Guolu Yin, Jun He, Bing Sun, JingZhao, Jian Tang, "Temperature-insensitive strain sensor based on in-line Fabry-Perot interferometer,"Proc. SPIE 9157, 23rd International Conference on Optical Fibre Sensors, 915725, Santander, Spain. Jun2-6, 2014.（口头报告）<br>
+
+13. Jun He, Yiping Wang*, Changrui Liao, Guolu Yin, Shen Liu, Jiangtao Zhou, Kaiming Yang, Bing Sun, Jing Zhao, Guanjun Wang, "Ultrasensitive temperature sensor based on whishpering gallery mode resonance in bent coated optical fiber tip", Asia Communications and Photonics Conference, November 2014.
 
 13. Yingjie Liu, Yiping Wang*, Bing Sun, Changrui Liao, “Compact tunable multibandpass filters based on
 liquid-filled photonic crystal fibers,” Session 2A9, SC: Optical Fiber Sensing Devices, Progress In
@@ -66,31 +92,23 @@ Electromagnetics Research Symposium (PIERS2014), Guangzhou, China, 2014.（口�
 
 18. Zhengyong Li, Changrui Liao, Yiping Wang*, Xiaopeng Dong, Shen Liu, Kaiming Yang, Qiao Wang,and Jiangtao Zhou, “Mach-Zehnder interferometer based on twin-core fiber for refractive index sensing,”2014 年中国光纤传感学术会议暨产业化论坛,  大连, 2014 年9 月.（张贴报告）（Poster-36）<br>
 
-19. Shen Liu, Yiping Wang*, Changrui Liao, Jun He, Zhengyong Li, and Kaiming Yang, “Rectangle air
-bubble created in a fiber for strain sensing application,” 2014 年中国光纤传感学术会议暨产业化论坛,
- 大连, 2014 年9 月.（张贴报告）（Poster-37）<br>
+19. Shen Liu, Yiping Wang*, Changrui Liao, Jun He, Zhengyong Li, and Kaiming Yang, “Rectangle air bubble created in a fiber for strain sensing application,” 2014 年中国光纤传感学术会议暨产业化论坛, 大连, 2014 年9 月.（张贴报告）（Poster-37）<br>
 
-20. Bing Sun, Yiping Wang*, Changrui Liao, Guolu Yin, Jiangtao Zhou, Jian Tang, and Shen Liu,
-“Miniature fiber-tip Fabry-Perot sensor for simultaneous measurement of pressure and temperature,”
-2014 年中国光纤传感学术会议暨产业化论坛 , 大连, 2014 年9 月.（张贴报告）（Poster-38）<br>
+20. Bing Sun, Yiping Wang*, Changrui Liao, Guolu Yin, Jiangtao Zhou, Jian Tang, and Shen Liu, “Miniature fiber-tip Fabry-Perot sensor for simultaneous measurement of pressure and temperature,” 2014 年中国光纤传感学术会议暨产业化论坛 , 大连, 2014 年9 月.（张贴报告）（Poster-38）<br>
 
-21. Goulu Yin, Yiping Wang*, Changrui Liao, Xiaoyong Zhong, and Jian Tang, “Improved arc discharge
-technique for inscribing long period fiber gratings in SMF, PCF and PBF,” 2014 年中国光纤传感学术会
-议暨产业化论坛, 大连, 2014 年9 月.（张贴报告）（Poster-39）<br>
+21. Goulu Yin, Yiping Wang*, Changrui Liao, Xiaoyong Zhong, and Jian Tang, “Improved arc discharge technique for inscribing long period fiber gratings in SMF, PCF and PBF,” 2014 年中国光纤传感学术会议暨产业化论坛, 大连, 2014 年9 月.（张贴报告）（Poster-39）<br>
 
-22. Jing Zhao, Guolu Yin, Yiping Wang*, Junle Qu, Changrui Liao, Shen Liu, Jun He, Guanjun Wang,
-Xizheng Xu, Jiangtao Zhou, Xiaoyong Zhong, and Zhengyong Li, “Simultaneous measurement of strain
-and temperature based on side-polished fiber with surface scratches,” 2014 年中国光纤传感学术会议暨
-产业化论坛, 大连, 2014 年9 月.(张贴报告)（Poster-40）<br>
+22. Jing Zhao, Guolu Yin, Yiping Wang*, Junle Qu, Changrui Liao, Shen Liu, Jun He, Guanjun Wang, Xizheng Xu, Jiangtao Zhou, Xiaoyong Zhong, and Zhengyong Li, “Simultaneous measurement of strain and temperature based on side-polished fiber with surface scratches,” 2014 年中国光纤传感学术会议暨产业化论坛, 大连, 2014 年9 月.(张贴报告)（Poster-40）<br>
 
-23. Xiaoyong Zhong, Yiping Wang*, Changrui Liao, Shen Liu, Jian Tang, Qiao Wang, Jing Zhao, and
-Kaiming Yang, “Inflated long period fiber grating inscribed in photonic crystal fiber for strain
-measurement,” 2014 年中国光纤传感学术会议暨产业化论坛,  大连, 2014 年9 月.(张贴报告)（Poster-41）<br>
+23. Xiaoyong Zhong, Yiping Wang*, Changrui Liao, Shen Liu, Jian Tang, Qiao Wang, Jing Zhao, and Kaiming Yang, “Inflated long period fiber grating inscribed in photonic crystal fiber for strain measurement,” 2014 年中国光纤传感学术会议暨产业化论坛,  大连, 2014 年9 月.(张贴报告)（Poster-41）<br>
+
 
 
 2013
 -------------------------
 1.  Y. Wang<br>Microstructuredoptical fiber devices and sensing applications, China International Optoelectronic Expo (CIOE 2014), Sep. 2013, Shenzhen, China (特邀报告)<br>
+
+2.  王义平， 微结构光纤器件的制备技术和应用， 2013年中国光学学会学术大会， 2013年8月15~18日， 国防科技大学， 长沙市。(特邀报告)
 
 2.  Y. Wang, et al.<br> Selective-fluid-filled photonic crystal fibres and applications,<br>Proc. of SPIE Vol. 8914, UNSP 89140J, 2013, 5th International Symposium on Photoelectronic Detection and Imaging Technology andApplications (ISPDI 2013), June 2013, Beijing, China.(特邀报告)<br>
 
@@ -108,11 +126,15 @@ measurement,” 2014 年中国光纤传感学术会议暨产业化论坛,  大�
 
 9.	Yiping Wang*, Hartmut Bartelt, Jens Kobelke, Wolfgang Ecke, Reinhardt Willsch, Changrui Liao, Xiaoyong Zhong, Zhengyong Li, Jiangtao Zhou, and Yingjie Liu. <br>"Optical attenuators based on fluid-filled photonic crystal fibers"<br>Asia Communications and Photonics Conference (ACP2013), ATh4C.2, 12-15 Nov. 2013, Beijing, China.<br>
 
-10.	Yiping Wang*, Changrui Liao, Xiaoyong Zhong, Zhengyong Li, Yingjie Liu, Jiangtao Zhou, and Kaiming Yang. <br>"Selective-fluid-filled photonic crystal fibres and applications"<br> Proc. of SPIE Vol. 8914, Article number: UNSP 89140J, 2013, 5th International Symposium on Photoelectronic Detection and Imaging Technology and Applications (ISPDI 2013), June 2013, Beijing, China.<br>
-
 11.	周江涛, 王义平*, 廖常锐.<br> “Temperature-insensitive Strain Sensor based on Fiber in-line Mach-Zehnder Interferometer,” <br> 2013年中国光学年会, OJ1307010469, 口头报告, 2013年8月<br>
 
 12.	钟晓勇, 王义平*, 廖常锐. <br>"基于光子晶体光纤的Bragg 光栅写入技术"<br> 2013年中国光学年会, 口头报告, 2013年8月
+
+13. Yiping Wang*, Ming Wang, and Xiaoqin Huang, "PDL characterization of twister FBG and its application in sensing", 中国光纤传感学术会议暨产业化论坛， 安徽合肥， 2013.
+
+14. Changrui Liao*, T. Y. Hu, D. N. Wang, Yiping Wang, "Optical fiber in-line Fabry-Perot interferometer for refractive index sensing", 中国光纤传感学术会议暨产业化论坛， 安徽合肥， 2013. (口头报告)
+
+15. 王冠军，王义平，廖常锐，任晓敏，周江涛，“高效率微结构光纤光栅写入技术研究”，中国光纤传感学术会议暨产业化论坛，安徽合肥，2013.（口头报告） 
 
 2012
 -------------------------
