@@ -26,5 +26,6 @@ permalink: /members/huangyijian/
 [3] Yijian Huang, Bing SUN, Ying WANG, Mi DENG, Jian TANG, Shen LIU, Changrui LIAO and Yiping WANG*, Compact fiber-optic sensor based on hollow-core silica tube,OFSC-2016, shenzhen,C-067 . (Poster) <br>
 
 [4] Bing Sun, Yijian Huang, Chao Wang, Jun He, Changrui Liao, Guolu Yin, Jiangtao Zhou, Shen Liu, Jing Zhao, Yiping Wang*, “Ultra-sensitive temperature sensor base on liquid crystal infiltrated photonic crystal fibers,” Proc. SPIE 9655,5th Asia-Pacific Optical Sensor Conference(APOS 2015),Jeju Island, Korea, 2015. (EI, Poster)<br>
+
 [5] Xizhen Xu, Yingjie Liu ,Bing Sun, Changrui Liao, Shen Liu, Guolu Yin, Kaiming Yang, Yijian Huang, and Yiping Wang*, "High-sensitivity bend sensor based on Mach-Zender interference using photonic crystal fiber," The Optoelectronics Global Conference 2015 (OGC-2015), Shenzhen, PS-30_S6-b.01, 2015. (EI, Invited) <br>
 
