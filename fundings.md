@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 本实验室已立项校外科研项目34项，其中国家级项目10项、省部级项目8项、市级项目9项、中国博士后基金7项。
-permalink: /fundings.html
+permalink: /fundings/
 ---
 
 <table>
@@ -12,7 +12,6 @@ permalink: /fundings.html
       <th style="width: 45%">项目名称/编号</th>
       <th style="width: 11%">起止时间 </th>
       <th style="width: 7%">负责人</th>
-    </tr>
   </thead>
   
   <tbody>
