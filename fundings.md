@@ -12,6 +12,7 @@ permalink: /fundings/
       <th style="width: 45%">项目名称/编号</th>
       <th style="width: 11%">起止时间 </th>
       <th style="width: 7%">负责人</th>
+    </tr>
   </thead>
   
   <tbody>
