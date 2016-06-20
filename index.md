@@ -32,6 +32,13 @@ carousel:
       </a>
     </div>
       
+  <div class="page-right1-word">
+    <a href="notice/annual report.pdf">
+    <span style="color:#ba8a31"> 2016实验室工作汇报 
+    </span> 
+    </a>
+  </div>
+      
       
   <div class="page-right1-word">
     <a href="notice/liao-OL’15 Most Cited Articles.html">
@@ -42,16 +49,6 @@ carousel:
     </a>
   </div>
       
-      
- <div class="page-right1-word">
-    <a href="notice/annual report.pdf">
-    <span style="color:#ba8a31"> 2016实验室工作汇报 
-    </span> 
-    </a>
-  </div>
- 
- 
-
   <div class="page-right1-word">
     <a href="notice/2016OFSC.html">
     <span style="color:#09F; font-style:normal">2016年4月20日</span> 
@@ -60,9 +57,6 @@ carousel:
     </span> 
     </a>
   </div>
-  
-
-
 
   <div class="page-right1-word">
     <a href="notice/Negative-index gratings.html">
