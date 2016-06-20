@@ -32,6 +32,17 @@ carousel:
       </a>
     </div>
       
+      
+  <div class="page-right1-word">
+    <a href="notice/liao-OL’15 Most Cited Articles.html">
+    <span style="color:#09F; font-style:normal">2016年5月19日</span> 
+    <span style="color:#ba8a31"> 
+    廖常锐老师论文入选 Optics Letters’15 Most Cited Articles！
+    </span> 
+    </a>
+  </div>
+      
+      
  <div class="page-right1-word">
     <a href="notice/annual report.pdf">
     <span style="color:#ba8a31"> 2016实验室工作汇报 
@@ -50,6 +61,8 @@ carousel:
     </a>
   </div>
   
+
+
 
   <div class="page-right1-word">
     <a href="notice/Negative-index gratings.html">
@@ -94,26 +107,13 @@ carousel:
     </div>
 
 
-    <div class="page-right1-word">
+  <div class="page-right1-wordEnd">
       <a href="news/latest_news.html">
       <span style="color:#09F; font-style:normal">2015年6月28日-7月2日</span> 
       <span style="font-weight:600;font-size:16px;color:#4f4f4f; font-style:normal">本课题组代表</span>参加
       <span style="color:#ba8a31">OECC 2015国际会议</span>
       </a>
     </div>
-
-
-
-
-
-
-    <div class="page-right1-wordEnd">
-      <a href="news/latest_news.html">
-      <span style="color:#09F; font-style:normal"> 2015年4月4日</span> 
-      <span style="font-weight:600;font-size:16px;color:#4f4f4f; font-style:normal">深圳市物联网光子器件与传感系统重点实验室</span>第一届委员会议圆满召开
-      </a>
-    </div>
-
 
 
   </div>
