@@ -491,6 +491,21 @@ permalink: /members/
   E-mail:916615886@qq.com
   </div>
 </div>
+
+<div class="bio-container">
+  <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/zhufeng/">
+  <img src="{{ site.baseurl }}/images/zhufeng-92x128.jpg" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/zhufeng/">
+  XXX
+  </a>
+  <br>
+  E-mail:916615886@qq.com
+  </div>
+</div>
 </div>
 
 **注：*合作培养学生**
