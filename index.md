@@ -116,7 +116,7 @@ carousel:
 
 
 <div id="page-right2">
-<div id="page-right-Header2">
+  <div id="page-right-Header2">
     <span style="font-weight:600;">
       友情链接
     </span>
