@@ -127,11 +127,12 @@ permalink: /members/gra-members/
   </div>
   <div class="bio-info">
   <a href="{{ site.baseurl }}/members/liuyingjie/">
-  刘颖洁
+  刘颖洁*
   </a>
   <br>
   E-mail：814423256@qq.com
   </div>
 </div>
+
 </div>
 **注：*合作培养学生**
