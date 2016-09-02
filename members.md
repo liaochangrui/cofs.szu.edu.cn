@@ -522,6 +522,36 @@ permalink: /members/
   </div>
 </div>
 
+<div class="bio-container">
+  <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/wangjia/">
+  <img src="{{ site.baseurl }}/images/wangjia-92x128.jpg" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/wangjia/">
+  王佳
+  </a>
+  <br>
+  E-mail:525667716@qq.com
+  </div>
+</div>
+
+<div class="bio-container">
+  <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/linchupao/">
+  <img src="{{ site.baseurl }}/images/linchupao-92x128.jpg" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/linchupao/">
+  林初跑
+  </a>
+  <br>
+  E-mail:525667716@qq.com
+  </div>
+</div>
+
 
 </div>
 
