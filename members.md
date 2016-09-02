@@ -492,6 +492,36 @@ permalink: /members/
   </div>
 </div>
 
+<div class="bio-container">
+  <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/liziliang/">
+  <img src="{{ site.baseurl }}/images/liziliang-92x128.jpg" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/liziliang/">
+  李自亮
+  </a>
+  <br>
+  E-mail:825702928@qq.com
+  </div>
+</div>
+
+<div class="bio-container">
+  <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/zhanglongfei/">
+  <img src="{{ site.baseurl }}/images/zhanglongfei-92x128.jpg" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/zhanglongfei/">
+  张龙飞
+  </a>
+  <br>
+  E-mail:zhangloffy@163.com
+  </div>
+</div>
+
 
 </div>
 
