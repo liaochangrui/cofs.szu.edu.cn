@@ -443,7 +443,7 @@ permalink: /members/
   张哲
   </a>
   <br>
-  E-mail:1179131274@qq.com
+  E-mail:2150190115@email.szu.edu.cn
   </div>
 </div>
 
