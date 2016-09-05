@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Ziliang Li
-permalink: /members/guokuikui/
+title: ZiLiang Li
+permalink: /members/liziliang/
 ---
 
 <a href="{{ site.baseurl }}/members/liziliang/">
