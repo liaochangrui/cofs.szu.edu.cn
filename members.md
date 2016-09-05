@@ -552,6 +552,21 @@ permalink: /members/
   </div>
 </div>
 
+<div class="bio-container">
+  <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/zhangyan/">
+  <img src="{{ site.baseurl }}/images/zhangyan-92x128.jpg" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/zhangyan/">
+  张岩
+  </a>
+  <br>
+  E-mail:960706417@qq.com
+  </div>
+</div>
+
 
 </div>
 
