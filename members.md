@@ -575,7 +575,7 @@ permalink: /members/
   </div>
   <div class="bio-info">
   <a href="{{ site.baseurl }}/members/shaoyu/">
-  张岩
+  邵宇
   </a>
   <br>
   E-mail:799219467@qq.com
