@@ -104,20 +104,7 @@ permalink: /members/gra-members/
   </div>
 </div>
 
-<div class="bio-container">
-  <div class="bio-avatar" >
-  <a href="{{ site.baseurl }}/members/zhoujiangtao/">
-  <img src="{{ site.baseurl }}/images/zhoujiangtao-92x130.jpg" class="max-img-border"/>
-  </a>
-  </div>
-  <div class="bio-info">
-  <a href="{{ site.baseurl }}/members/zhoujiangtao/">
-  周江涛
-  </a>
-  <br>
-  E-mail：2121190102@email.szu.edu.cn
-  </div>
-</div>
+
 
 <div class="bio-container">
   <div class="bio-avatar" >
@@ -131,6 +118,21 @@ permalink: /members/gra-members/
   </a>
   <br>
   E-mail：894817530@qq.com
+  </div>
+</div>
+
+<div class="bio-container">
+  <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/zhoujiangtao/">
+  <img src="{{ site.baseurl }}/images/zhoujiangtao-92x130.jpg" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/zhoujiangtao/">
+  周江涛
+  </a>
+  <br>
+  E-mail：2121190102@email.szu.edu.cn
   </div>
 </div>
 
