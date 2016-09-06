@@ -327,20 +327,6 @@ permalink: /members/
 
 <div class="sec-container">
 
-<div class="bio-container">
-  <div class="bio-avatar" >
-  <a href="{{ site.baseurl }}/members/wangqiao/">
-  <img src="{{ site.baseurl }}/images/wangqiao-92x130.jpg" class="max-img-border"/>
-  </a>
-  </div>
-  <div class="bio-info">
-  <a href="{{ site.baseurl }}/members/wangqiao/">
-  王侨
-  </a>
-  <br />
-  E-mail：894817530@qq.com
-  </div>
-</div>
 
 <div class="bio-container">
   <div class="bio-avatar" >
@@ -503,7 +489,7 @@ permalink: /members/
   李自亮
   </a>
   <br>
-  E-mail:825702928@qq.com
+  E-mail:18565682580@163.com
   </div>
 </div>
 
@@ -564,6 +550,21 @@ permalink: /members/
   </a>
   <br>
   E-mail:960706417@qq.com
+  </div>
+</div>
+
+<div class="bio-container">
+  <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/shaoyu/">
+  <img src="{{ site.baseurl }}/images/shaoyu-92x128.jpg" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/shaoyu/">
+  邵宇
+  </a>
+  <br>
+  E-mail:799219467@qq.com
   </div>
 </div>
 
