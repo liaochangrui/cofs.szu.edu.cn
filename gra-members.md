@@ -134,5 +134,22 @@ permalink: /members/gra-members/
   </div>
 </div>
 
+<div class="bio-container">
+  <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/wangqiao/">
+  <img src="{{ site.baseurl }}/images/wangqiao-92x130.jpg" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/wangqiao/">
+  王乔
+  </a>
+  <br>
+  E-mail：814423256@qq.com
+  </div>
+</div>
+
+
+
 </div>
 **注：*合作培养学生**
