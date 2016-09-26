@@ -37,11 +37,11 @@ permalink: /publications/
     ["Unique Temperature Dependence of Selectively Liquid-Crystal-Filled Photonic Crystal Fibers"]({{ site.baseurl }}/papers/2016-05-PTL-Unique Temperature Dependence of Selectively Liquid-Crystal-Filled Photonic Crystal Fibers.pdf)<br> 
     IEEE Photonics Technology Letters, 28(12), 2016 (JCR三区, IF=2.110)
 
-5.  Guolu Yin, Jian Tang, Changrui Liao, and Yiping Wang*<br>
+6.  Guolu Yin, Jian Tang, Changrui Liao, and Yiping Wang*<br>
     ["Automatic arc discharge technology for inscribing long period fiber gratings"]({{ site.baseurl }}/papers/2016-06-AO-Automatic arc discharge technology for inscribing long period fiber gratings.pdf)<br> 
     Applied Optics, 55(14), 3873-3878, 2016 （JCR三区, IF=1.784）
-6.  Zhengyong Li,1 Changrui Liao,1,3 Jun Song,1 Ying Wang,1 Feng Zhu,1 Yiping Wang,1,* and Xiaopeng Dong<br>
-    ["Automatic arc discharge technology for inscribing long period fiber gratings"]({{ site.baseurl }}/papers/2016-lzy-Ultrasensitive magnetic field sensor based on an in-fiber Mach–Zehnder interferometer.pdf)<br> 
+7.  Zhengyong Li,1 Changrui Liao,1,3 Jun Song,1 Ying Wang,1 Feng Zhu,1 Yiping Wang,1,* and Xiaopeng Dong<br>
+    ["Ultrasensitive magnetic field sensor based on an in-fiber Mach–Zehnder interferometer"]({{ site.baseurl }}/papers/2016-lzy-Ultrasensitive magnetic field sensor based on an in-fiber Mach–Zehnder interferometer.pdf)<br> 
     Photonics Research, 4(5), 197-201, 2016 （JCR二区, IF=3.179）
 
 
