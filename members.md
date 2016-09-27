@@ -221,7 +221,7 @@ permalink: /members/
   侯茂祥*
   </a>
   <br>
-  E-mail：d201277029@hust.edu.cn
+  E-mail：maoxiangh@szu.edu.cn
   </div>
 </div>
 
@@ -236,7 +236,7 @@ permalink: /members/
   赵静
   </a>
   <br/>
-  E-mail:zhaojing090824@163.com
+  E-mail:zhaojing5@email.szu.edu.cn
   </div>
 </div>
 
@@ -386,7 +386,7 @@ permalink: /members/
   谭展
   </a>
   <br>
-  E-mail:862374606@qq.com
+  E-mail:tanzhan@email.szu.edu.cn
   </div>
 </div>
 
@@ -491,7 +491,7 @@ permalink: /members/
   李自亮
   </a>
   <br>
-  E-mail:18565682580@163.com
+  E-mail:liziliang2016@email.szu.edu.cn
   </div>
 </div>
 
@@ -506,7 +506,7 @@ permalink: /members/
   张龙飞
   </a>
   <br>
-  E-mail:zhangloffy@163.com
+  E-mail:zhanglongfei2016@email.szu.edu.cn
   </div>
 </div>
 
@@ -521,7 +521,7 @@ permalink: /members/
   王佳
   </a>
   <br>
-  E-mail:525667716@qq.com
+  E-mail:wangjia2016@email.szu.edu.cn
   </div>
 </div>
 
@@ -536,7 +536,7 @@ permalink: /members/
   林初跑
   </a>
   <br>
-  E-mail:525667716@qq.com
+  E-mail:linchupao2016@email.szu.edu.cn
   </div>
 </div>
 
@@ -551,7 +551,7 @@ permalink: /members/
   张岩
   </a>
   <br>
-  E-mail:960706417@qq.com
+  E-mail:zhangyan2016@email.szu.edu.cn
   </div>
 </div>
 
@@ -566,7 +566,7 @@ permalink: /members/
   邵宇
   </a>
   <br>
-  E-mail:799219467@qq.com
+  E-mail:shaoyu2016@email.szu.edu.cn
   </div>
 </div>
 
