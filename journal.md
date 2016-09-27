@@ -40,15 +40,6 @@ permalink: /publications/
 6.  Guolu Yin, Jian Tang, Changrui Liao, and Yiping Wang*<br>
     ["Automatic arc discharge technology for inscribing long period fiber gratings"]({{ site.baseurl }}/papers/2016-06-AO-Automatic arc discharge technology for inscribing long period fiber gratings.pdf)<br> 
     Applied Optics, 55(14), 3873-3878, 2016 （JCR三区, IF=1.784）
-7.  Zhengyong Li, Changrui Liao, Jun Song,Ying Wang, Feng Zhu, Yiping Wang1* and Xiaopeng Dong<br>
-    ["Ultrasensitive magnetic field sensor based on an in-fiber Mach–Zehnder interferometer"]({{ site.baseurl }}/papers/2016-lzy-Ultrasensitive magnetic field sensor based on an in-fiber Mach–Zehnder interferometer.pdf)<br> 
-    Photonics Research, 4(5), 197-201, 2016 （JCR二区, IF=3.179）
-
-
-
-
-
-
 
 2015
 -------------------------
