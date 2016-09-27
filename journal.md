@@ -42,8 +42,8 @@ permalink: /publications/
     Applied Optics, 55(14), 3873-3878, 2016 （JCR三区, IF=1.784）
     
 7. Zhengyong Li,Changrui Liao,Jun Song,Ying Wang,Feng Zhu,Yiping Wang,and Xiaopeng Dong<br>
-    ["Ultrasensitive magnetic field sensor based on an in-fiber Mach–Zehnder interferometer with a magnetic fluid component"]({{ site.baseurl }}/papers/2016-lzy-Ultrasensitive magnetic field sensor based on an in-fiber Mach–Zehnder interferometer with a magnetic fluid component.pdf)<br>  
-   Photonics Research,  4(5), 197-201  2016（JCR二区，IF=3.179）
+    ["Ultrasensitive magnetic field sensor based on an in-fiber Mach–Zehnder interferometer with a magnetic fluid component"]({{ site.baseurl }}/papers/2016-lzy-Ultrasensitive magnetic field sensor based on an in-fiber Mach–Zehnder interferometer with a magnetic fluid component.pdf)<br>Photonics Research,  4(5), 197-201  2016（JCR二区，IF=3.179）  
+   
 
 2015
 -------------------------
