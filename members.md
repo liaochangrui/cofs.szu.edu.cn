@@ -210,6 +210,36 @@ permalink: /members/
   </div>
 </div>
 
+<div class="bio-container">
+  <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/houmaoxiang/">
+  <img src="{{ site.baseurl }}/images/hmx-92x128.png" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/houmaoxiang/">
+  侯茂祥*
+  </a>
+  <br>
+  E-mail：d201277029@hust.edu.cn
+  </div>
+</div>
+
+<div class="bio-container">
+  <div class="bio-avatar" >
+  <a href="{{ site.baseurl }}/members/zhaojing/">
+  <img src="{{ site.baseurl }}/images/zhaojing-92x113.jpg" class="max-img-border"/>
+  </a>
+  </div>
+  <div class="bio-info">
+  <a href="{{ site.baseurl }}/members/zhaojing/">
+  赵静
+  </a>
+  <br/>
+  E-mail:zhaojing090824@163.com
+  </div>
+</div>
+
 </div>
 
 ##  在读博士生（7人）
@@ -231,20 +261,6 @@ permalink: /members/
   </div>
 </div>
 
-<div class="bio-container">
-  <div class="bio-avatar" >
-  <a href="{{ site.baseurl }}/members/zhaojing/">
-  <img src="{{ site.baseurl }}/images/zhaojing-92x113.jpg" class="max-img-border"/>
-  </a>
-  </div>
-  <div class="bio-info">
-  <a href="{{ site.baseurl }}/members/zhaojing/">
-  赵静
-  </a>
-  <br/>
-  E-mail:zhaojing090824@163.com
-  </div>
-</div>
 
 <div class="bio-container">
   <div class="bio-avatar" >
@@ -306,20 +322,6 @@ permalink: /members/
   </div>
 </div>
 
-<div class="bio-container">
-  <div class="bio-avatar" >
-  <a href="{{ site.baseurl }}/members/houmaoxiang/">
-  <img src="{{ site.baseurl }}/images/hmx-92x128.png" class="max-img-border"/>
-  </a>
-  </div>
-  <div class="bio-info">
-  <a href="{{ site.baseurl }}/members/houmaoxiang/">
-  侯茂祥*
-  </a>
-  <br>
-  E-mail：d201277029@hust.edu.cn
-  </div>
-</div>
 
 </div>
 
