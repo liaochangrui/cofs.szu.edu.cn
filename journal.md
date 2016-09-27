@@ -40,6 +40,10 @@ permalink: /publications/
 6.  Guolu Yin, Jian Tang, Changrui Liao, and Yiping Wang*<br>
     ["Automatic arc discharge technology for inscribing long period fiber gratings"]({{ site.baseurl }}/papers/2016-06-AO-Automatic arc discharge technology for inscribing long period fiber gratings.pdf)<br> 
     Applied Optics, 55(14), 3873-3878, 2016 （JCR三区, IF=1.784）
+    
+7. Jun He, Yiping Wang*, Changrui Liao, Chao Wang, Shen Liu, Kaiming Yang, Ying Wang, Xiaocong Yuan, Guo Ping Wang and Wenjing Zhang<br>
+   ["Negative-index gratings formed by femtosecond laser overexposure and thermal regeneration"]({{ site.baseurl }}/papers/2016-04-SR-Negative-index gratings formed by femtosecond laser overexposure and thermal regeneration.pdf)<br> 
+   Scientific Reports,  6(23379), 2016（JCR二区，IF=5.578）
 
 2015
 -------------------------
