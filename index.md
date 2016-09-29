@@ -5,7 +5,7 @@ carousel:
   - image: biye-2.jpg
   - image: meeting.jpg
   - image: cjsys-1.jpg
-  - image: cjsys-2.jpg
+  - image: show-ofs.jpg
   - image: ptsys.jpg
   - image: sghzjl.jpg
   - image: xswyhy.jpg
